@@ -1,0 +1,4000 @@
+﻿1
+00:00:00,000 --> 00:00:13,000
+[Music]
+
+2
+00:00:13,000 --> 00:00:15,000
+Endeavour Actual
+
+3
+00:00:15,000 --> 00:00:17,000
+Rama Party, what is it Jerry?
+
+4
+00:00:17,000 --> 00:00:19,000
+Sir, we'd like you to leave Rama now.
+
+5
+00:00:19,000 --> 00:00:22,000
+We're doing fine, not feeling any ill effects.
+
+6
+00:00:22,000 --> 00:00:27,000
+You may have a problem, sir. We want you to start back now. Leave everything in place.
+
+7
+00:00:27,000 --> 00:00:30,000
+Okay Jerry, if you think so.
+
+8
+00:00:30,000 --> 00:00:32,000
+[Radio chatter]
+
+9
+00:00:32,000 --> 00:00:36,000
+We'll get back to you Endeavour. If we can, something's happening here.
+
+10
+00:00:36,000 --> 00:00:37,000
+Oh my God!
+
+11
+00:00:37,000 --> 00:00:40,000
+Captain, shut your eyes! Shut your eyes!
+
+12
+00:00:40,000 --> 00:00:45,000
+[Music]
+
+13
+00:00:45,000 --> 00:00:48,000
+Light. Let there be light.
+
+14
+00:00:48,000 --> 00:00:53,000
+It was simply incredible. It was a concussion of light.
+
+15
+00:00:53,000 --> 00:00:58,000
+It was dawn on Rama. It was magic.
+
+16
+00:00:58,000 --> 00:01:07,000
+Oh, Mr. Kwok, it seems to me axiomatic that the science of any highly advanced civilization will seem like magic to us.
+
+17
+00:01:07,000 --> 00:01:09,000
+It isn't. It's science.
+
+18
+00:01:09,000 --> 00:01:13,000
+But at that time, the people didn't need science, Captain Norton.
+
+19
+00:01:13,000 --> 00:01:15,000
+What about the Rama Committee?
+
+20
+00:01:15,000 --> 00:01:18,000
+The seventh sitting of the Rama Committee is now in session.
+
+21
+00:01:18,000 --> 00:01:22,000
+And before going on to new developments, I have some procedural matters that I need to draw your attention to.
+
+22
+00:01:22,000 --> 00:01:26,000
+Something has happened on Rama. Surely that is more important.
+
+23
+00:01:26,000 --> 00:01:32,000
+The representative from Mercury is correct. Though I'm not sure where your information originates.
+
+24
+00:01:32,000 --> 00:01:35,000
+We detected a pulse signal from Endeavour, encrypted at the highest level.
+
+25
+00:01:35,000 --> 00:01:37,000
+So you were unable to crack it, then, eh?
+
+26
+00:01:37,000 --> 00:01:44,000
+I do not, I am sure. Need to remind this committee that Rama and S.V. Endeavour are about to enter Mercury space.
+
+27
+00:01:44,000 --> 00:01:49,000
+And when that happens, they will be within the area of our territorial jurisdiction.
+
+28
+00:01:49,000 --> 00:01:50,000
+In your backyard?
+
+29
+00:01:50,000 --> 00:01:54,000
+Not a yard. You could effectively police, Representative. The distances...
+
+30
+00:01:54,000 --> 00:01:58,000
+This is all talk. Will the Chair inform us as to what has happened on Rama?
+
+31
+00:01:58,000 --> 00:02:01,000
+The other moons too regard this as the most important business.
+
+32
+00:02:01,000 --> 00:02:04,000
+Very well. We received this report from Captain Norton.
+
+33
+00:02:04,000 --> 00:02:05,000
+When?
+
+34
+00:02:05,000 --> 00:02:07,000
+I'm not sure that I can be exact.
+
+35
+00:02:07,000 --> 00:02:10,000
+Well, that you care to be exact. Has the report been doctored in any way?
+
+36
+00:02:10,000 --> 00:02:18,000
+We'll open it to your experts, Henning. The quality is not of the best. Sunspot activity is particularly high at the moment.
+
+37
+00:02:18,000 --> 00:02:27,000
+As of 1313 Earth Standard, three suns, if that's what I can call them, more like immense strip lights, as you can see from our imaging,
+
+38
+00:02:27,000 --> 00:02:31,000
+came online or were ignited within Rama.
+
+39
+00:02:31,000 --> 00:02:36,000
+We suspect the sun temperature creeping inwards from Rama's hull has something to do with this effect.
+
+40
+00:02:36,000 --> 00:02:41,000
+We do now have light, and this will immeasurably aid our attempts at exploration.
+
+41
+00:02:41,000 --> 00:02:43,000
+That's incredible. Quite. Literally.
+
+42
+00:02:43,000 --> 00:02:48,000
+Oh, it makes perfect sense. A self-initiating, self-sustaining system.
+
+43
+00:02:48,000 --> 00:02:52,000
+What you're seeing is a view along the central axis of Rama.
+
+44
+00:02:52,000 --> 00:02:59,000
+56 Ks from the airlock, which we call North Pole, to the South Pole at the far end.
+
+45
+00:02:59,000 --> 00:03:10,000
+You can make out a spike or a tower, maybe 10 Ks long, surrounded by a ring of smaller spikes projecting from the South Pole towards our POV.
+
+46
+00:03:10,000 --> 00:03:12,000
+What they are, we don't know.
+
+47
+00:03:12,000 --> 00:03:14,000
+Some propulsion system, perhaps.
+
+48
+00:03:14,000 --> 00:03:16,000
+Internal climate monitor?
+
+49
+00:03:16,000 --> 00:03:22,000
+The 50 K long section between the curving poles, we've named the central plane.
+
+50
+00:03:22,000 --> 00:03:28,000
+I know it's strange to call something cylindrical a plane, but it makes perfect sense to us when we look at it.
+
+51
+00:03:28,000 --> 00:03:31,000
+The plane is divided into two.
+
+52
+00:03:31,000 --> 00:03:39,000
+The dark band, you can see running around the centre, 10 Ks wide, is, as far as we can ascertain, ice.
+
+53
+00:03:39,000 --> 00:03:46,000
+We call it the central sea. Now, whether the heat will cause it to liquefy and into what, again, we do not know.
+
+54
+00:03:46,000 --> 00:03:48,000
+This is fascinating.
+
+55
+00:03:48,000 --> 00:03:49,000
+What's that?
+
+56
+00:03:49,000 --> 00:03:56,000
+Scattered over the northern plane and also positioned on an island in the central sea, but absent from the southern plane.
+
+57
+00:03:56,000 --> 00:03:57,000
+Skyscrapers?
+
+58
+00:03:57,000 --> 00:04:02,000
+You can see what look like skyscrapers collected into medium-sized cities.
+
+59
+00:04:02,000 --> 00:04:07,000
+Using magnification, we can see that these are not buildings or, we assume, habitations.
+
+60
+00:04:07,000 --> 00:04:12,000
+There are no doors or windows, no external features of any kind.
+
+61
+00:04:12,000 --> 00:04:23,000
+We estimate these cities, if they were for humans, would have a population of around 50 to 60,000, so you can gauge their size from that.
+
+62
+00:04:23,000 --> 00:04:28,000
+There must be enough material here for centuries of research. We have just over two weeks.
+
+63
+00:04:28,000 --> 00:04:32,000
+This is William Norton, Commander Endeavour, ending transmission.
+
+64
+00:04:32,000 --> 00:04:34,000
+We can't release this yet.
+
+65
+00:04:34,000 --> 00:04:35,000
+We must.
+
+66
+00:04:35,000 --> 00:04:41,000
+We can edit the image, replace the voice track if necessary. I agree with Representative Ruiz.
+
+67
+00:04:41,000 --> 00:04:43,000
+The system has a right to see this.
+
+68
+00:04:43,000 --> 00:04:49,000
+Agreed, but let's not frustrate people. Things are at a delicate stage, system-wide.
+
+69
+00:04:49,000 --> 00:04:50,000
+People want answers.
+
+70
+00:04:50,000 --> 00:04:57,000
+Not answers. The religious right is gaining power every day. Reason is everywhere in retreat.
+
+71
+00:04:57,000 --> 00:05:04,000
+The mood is dangerous. If we show them mysteries, they will want a revelation we may not be able to deliver.
+
+72
+00:05:04,000 --> 00:05:07,000
+Observations will not be good enough.
+
+73
+00:05:07,000 --> 00:05:12,000
+Nobody goes to the cross for a reasonable explanation of events.
+
+74
+00:05:12,000 --> 00:05:18,000
+We have to control this news and see what else comes from Norton and Endeavour.
+
+75
+00:05:18,000 --> 00:05:25,000
+We now have a huge advantage with the light, and I intend to press on with exploration using all personnel we can spare.
+
+76
+00:05:25,000 --> 00:05:31,000
+Jerry, I'm afraid you'll have to stay with the ship. We must have at least one person aboard at all times, and you're most qualified.
+
+77
+00:05:31,000 --> 00:05:33,000
+As long as I get a tour before we leave, sir.
+
+78
+00:05:33,000 --> 00:05:36,000
+Guaranteed. You'll operate hub control.
+
+79
+00:05:36,000 --> 00:05:38,000
+I'm going to divide the rest of us into groups of two.
+
+80
+00:05:38,000 --> 00:05:43,000
+Surgeon Commander Ernst and Lieutenant Calvert will push towards the central sea.
+
+81
+00:05:43,000 --> 00:05:44,000
+Sir?
+
+82
+00:05:44,000 --> 00:05:45,000
+Russo and I will attempt to examine the cities.
+
+83
+00:05:45,000 --> 00:05:46,000
+Captain?
+
+84
+00:05:46,000 --> 00:05:50,000
+Sergeant Barnes and Sub-Lieutenant Pack will provide technical and logistic support where needed.
+
+85
+00:05:50,000 --> 00:05:51,000
+Yes, sir.
+
+86
+00:05:51,000 --> 00:05:53,000
+We'll operate from base camp at the foot of the ladders.
+
+87
+00:05:53,000 --> 00:05:57,000
+I want everything recorded, and keep in touch with the relay station at hub control.
+
+88
+00:05:57,000 --> 00:06:00,000
+I don't want anyone out of contact at any time.
+
+89
+00:06:00,000 --> 00:06:09,000
+Rama City Party, you are loud and clear. Go ahead, please.
+
+90
+00:06:09,000 --> 00:06:12,000
+City Party, report one.
+
+91
+00:06:12,000 --> 00:06:17,000
+We're approaching what you might call the outskirts of the city we're naming London.
+
+92
+00:06:17,000 --> 00:06:21,000
+It differs in no way from any of the others.
+
+93
+00:06:21,000 --> 00:06:25,000
+We appear to be walking on a gravelly composite, which is giving way to...
+
+94
+00:06:25,000 --> 00:06:30,000
+Something harder here, sir. I'd say city streets if I didn't know better.
+
+95
+00:06:30,000 --> 00:06:32,000
+You want to take a sample, Russ?
+
+96
+00:06:32,000 --> 00:06:34,000
+Ahead of you, sir.
+
+97
+00:06:34,000 --> 00:06:38,000
+Granite-like in composition.
+
+98
+00:06:38,000 --> 00:06:43,000
+Flecks of some mineral. We'll have to wait for analysis later.
+
+99
+00:06:43,000 --> 00:06:45,000
+It's all later, Russ.
+
+100
+00:06:45,000 --> 00:06:51,000
+And we have what look like rails set in the ground connecting the buildings.
+
+101
+00:06:51,000 --> 00:06:52,000
+If they are buildings.
+
+102
+00:06:52,000 --> 00:07:00,000
+The rails go up to the outer surface. Do they go inside? They appear to connect the buildings.
+
+103
+00:07:00,000 --> 00:07:01,000
+Some kind of transit system?
+
+104
+00:07:01,000 --> 00:07:05,000
+Transit for what? What does it do? Any of it?
+
+105
+00:07:05,000 --> 00:07:07,000
+No instructions.
+
+106
+00:07:08,000 --> 00:07:10,000
+It frustrates me, sir.
+
+107
+00:07:10,000 --> 00:07:14,000
+You should be full of noise. It's a city, that's what you feel.
+
+108
+00:07:14,000 --> 00:07:19,000
+But it's not the whole place. It's silent.
+
+109
+00:07:19,000 --> 00:07:23,000
+It feels new, like Eden.
+
+110
+00:07:23,000 --> 00:07:26,000
+Somewhere that we might start again.
+
+111
+00:07:26,000 --> 00:07:30,000
+All I can say, Russ, is that like Eden, it's going to be out of humanity's reach soon enough.
+
+112
+00:07:30,000 --> 00:07:33,000
+Maybe we should go with it, sir. Maybe some of the...
+
+113
+00:07:33,000 --> 00:07:36,000
+Can you get a sample from the face of any of these structures?
+
+114
+00:07:36,000 --> 00:07:38,000
+Sir.
+
+115
+00:07:38,000 --> 00:07:45,000
+Nothing, sir. Not a scratch.
+
+116
+00:07:45,000 --> 00:07:47,000
+Hub Control, can you bump me through to Barnes?
+
+117
+00:07:47,000 --> 00:07:49,000
+Bumping you.
+
+118
+00:07:49,000 --> 00:07:50,000
+Barnes, Captain.
+
+119
+00:07:50,000 --> 00:07:55,000
+I'd like you to take a look at the material composing these structures, see if there's any way we might gain entry.
+
+120
+00:07:55,000 --> 00:07:57,000
+Cart our way in.
+
+121
+00:07:57,000 --> 00:07:58,000
+Is that wise, sir?
+
+122
+00:07:58,000 --> 00:08:00,000
+I don't know, but I'd like the potential.
+
+123
+00:08:00,000 --> 00:08:02,000
+Will do, sir.
+
+124
+00:08:02,000 --> 00:08:06,000
+We're pretty much set up at base camp now. Do you want us to install a defensive perimeter?
+
+125
+00:08:06,000 --> 00:08:11,000
+Lay down motion sensors, but nothing aggressive or that might be interpreted that way.
+
+126
+00:08:11,000 --> 00:08:23,000
+Uh, sir, I'm not really sure what a space-faring race who are capable of pushing a billion-ton rock for who knows how many million keys across the universe might interpret as aggressive.
+
+127
+00:08:23,000 --> 00:08:26,000
+Well, you got me there, Barnes, but I'll leave it to your initiatives.
+
+128
+00:08:26,000 --> 00:08:31,000
+Rama Party 2, I have you now. Go ahead, Doctor.
+
+129
+00:08:31,000 --> 00:08:36,000
+Report planes, Party. Calvert and Ernst approaching central frozen sea.
+
+130
+00:08:36,000 --> 00:08:39,000
+The surappears to be...
+
+131
+00:08:39,000 --> 00:08:44,000
+Uniform. A clay-like substance with what might almost be peat deposits.
+
+132
+00:08:44,000 --> 00:08:46,000
+Peat-like at any rate.
+
+133
+00:08:46,000 --> 00:08:49,000
+They've taken samples and we'll see later.
+
+134
+00:08:49,000 --> 00:08:54,000
+We are going to bump up a laser off the frozen surface to check the height of the cliffs here.
+
+135
+00:08:54,000 --> 00:08:59,000
+Fifty meters, give or take. Nothing, really.
+
+136
+00:08:59,000 --> 00:09:02,000
+These things built precisely.
+
+137
+00:09:02,000 --> 00:09:04,000
+Can you sight on the far shore?
+
+138
+00:09:04,000 --> 00:09:06,000
+Yes, sure. Hold on, huh?
+
+139
+00:09:06,000 --> 00:09:10,000
+Exactly how much higher are those cliffs?
+
+140
+00:09:10,000 --> 00:09:13,000
+Five hundred meters.
+
+141
+00:09:13,000 --> 00:09:14,000
+Why so much higher?
+
+142
+00:09:14,000 --> 00:09:16,000
+Foul for discussion.
+
+143
+00:09:16,000 --> 00:09:18,000
+Is there any way down to the shore if...
+
+144
+00:09:18,000 --> 00:09:20,000
+Oh, you have to stop saying that.
+
+145
+00:09:20,000 --> 00:09:22,000
+If it is, what it is.
+
+146
+00:09:22,000 --> 00:09:26,000
+I picked up an indent in the cliff edge, if that's what it is.
+
+147
+00:09:26,000 --> 00:09:29,000
+We'll take a look, shall we?
+
+148
+00:09:29,000 --> 00:09:34,000
+Laura, do you think there's anyone here?
+
+149
+00:09:34,000 --> 00:09:39,000
+I think it's unlikely anything organic could survive the time this thing has been travelling.
+
+150
+00:09:39,000 --> 00:09:44,000
+Do you want to find whatever it is? Or am I sounding like Russo?
+
+151
+00:09:44,000 --> 00:09:47,000
+What if...
+
+152
+00:09:47,000 --> 00:09:49,000
+If they're so different...
+
+153
+00:09:49,000 --> 00:09:52,000
+That we simply can't comprehend them?
+
+154
+00:09:52,000 --> 00:09:53,000
+How do you mean?
+
+155
+00:09:53,000 --> 00:09:55,000
+What if they're here already?
+
+156
+00:09:55,000 --> 00:09:58,000
+Have you noticed clouds are beginning to form?
+
+157
+00:09:58,000 --> 00:10:01,000
+A cloud layer as things warm up.
+
+158
+00:10:01,000 --> 00:10:04,000
+What if they're clouds?
+
+159
+00:10:04,000 --> 00:10:08,000
+Or so different that everything in us revolts from them?
+
+160
+00:10:08,000 --> 00:10:09,000
+Maybe it's better if...
+
+161
+00:10:09,000 --> 00:10:10,000
+Oh!
+
+162
+00:10:10,000 --> 00:10:11,000
+The clouds!
+
+163
+00:10:11,000 --> 00:10:12,000
+Hub control.
+
+164
+00:10:12,000 --> 00:10:14,000
+Hub control, Ernst, what's happening?
+
+165
+00:10:14,000 --> 00:10:15,000
+Albert, what's happening?
+
+166
+00:10:15,000 --> 00:10:19,000
+This is hub control. Everyone else off air.
+
+167
+00:10:19,000 --> 00:10:22,000
+Ernst, what is your situation?
+
+168
+00:10:22,000 --> 00:10:25,000
+Ernst, come in. This is hub control.
+
+169
+00:10:25,000 --> 00:10:29,000
+Ernst, plane party.
+
+170
+00:10:29,000 --> 00:10:33,000
+Situation OK. I repeat, situation OK, but interesting.
+
+171
+00:10:33,000 --> 00:10:35,000
+Very interesting.
+
+172
+00:10:35,000 --> 00:10:37,000
+Explain, please, Doctor.
+
+173
+00:10:37,000 --> 00:10:40,000
+The ice is breaking.
+
+174
+00:10:40,000 --> 00:10:43,000
+The surface is becoming liquid.
+
+175
+00:10:43,000 --> 00:10:51,000
+We thought we were going to get a billion tons of this stuff raining on us out of the sky, but...
+
+176
+00:10:51,000 --> 00:10:53,000
+It's still there.
+
+177
+00:10:53,000 --> 00:10:58,000
+It goes right round over our heads and back again. It's...
+
+178
+00:10:58,000 --> 00:11:03,000
+Logical, with the spin and gravity of Rama, but it sure as hell creeps me out.
+
+179
+00:11:03,000 --> 00:11:05,000
+Huge blocks of ice.
+
+180
+00:11:05,000 --> 00:11:09,000
+They're being forced up from beneath the surface.
+
+181
+00:11:09,000 --> 00:11:11,000
+Bill, are you hearing this?
+
+182
+00:11:11,000 --> 00:11:12,000
+I'm hearing you, Laura.
+
+183
+00:11:12,000 --> 00:11:17,000
+It's like the spring thaw on Titan, but it's far, far quicker.
+
+184
+00:11:17,000 --> 00:11:19,000
+You should see this. It's...
+
+185
+00:11:19,000 --> 00:11:21,000
+It's wonderful.
+
+186
+00:11:21,000 --> 00:11:24,000
+I want to do more than see it, Laura.
+
+187
+00:11:24,000 --> 00:11:27,000
+I want to sail on it.
+
+188
+00:11:27,000 --> 00:11:33,000
+We could do that. We could put together a vessel, something that would work.
+
+189
+00:11:33,000 --> 00:11:35,000
+We could drive it. We could do that.
+
+190
+00:11:35,000 --> 00:11:37,000
+Do we have anyone who can handle the boat?
+
+191
+00:11:37,000 --> 00:11:38,000
+Captain?
+
+192
+00:11:38,000 --> 00:11:40,000
+I've sailed in my time.
+
+193
+00:11:40,000 --> 00:11:45,000
+Not that we can have any idea of what the currents are going to be like in a spinning, circular sea.
+
+194
+00:11:45,000 --> 00:11:50,000
+Or the winds, sir. I've been observing the climate changes as Rama heats up.
+
+195
+00:11:50,000 --> 00:11:54,000
+The cloud layer is increasing around the central axis, and the variable wind speed is climbing.
+
+196
+00:11:54,000 --> 00:11:58,000
+We can handle that, I think.
+
+197
+00:11:58,000 --> 00:12:01,000
+I'd like something large enough for a party of four.
+
+198
+00:12:01,000 --> 00:12:04,000
+As long as I can have Jimmy, then you can have something in 24 hours.
+
+199
+00:12:04,000 --> 00:12:07,000
+Good. Calvert, will you cover logistics for now?
+
+200
+00:12:07,000 --> 00:12:08,000
+Yes, sir.
+
+201
+00:12:08,000 --> 00:12:11,000
+Captain, I'm getting a priority one your ears only coming through.
+
+202
+00:12:11,000 --> 00:12:16,000
+But to my cabin, Riz, I'll get it there. Any questions? Anything else we need to talk about?
+
+203
+00:12:16,000 --> 00:12:22,000
+The ambassador for Mercury?
+
+204
+00:12:22,000 --> 00:12:28,000
+The committee is beginning to get an idea of the geography of Rama, but as yet we have no idea as to its capabilities.
+
+205
+00:12:28,000 --> 00:12:31,000
+Are you coming back to the same old question, Henning? Is it dangerous?
+
+206
+00:12:31,000 --> 00:12:35,000
+I would like... my government would like to know what it can do.
+
+207
+00:12:35,000 --> 00:12:40,000
+For instance, does it have any kind of propulsion device? Can it change direction?
+
+208
+00:12:40,000 --> 00:12:44,000
+I think the committee would be interested to hear Dr. Earl King's views.
+
+209
+00:12:44,000 --> 00:12:51,000
+Rama must have been given its original impetus by a launching device, but that could have been an external booster.
+
+210
+00:12:51,000 --> 00:12:56,000
+If it does have on-board propulsion, Norton seems to have found no trace of it.
+
+211
+00:12:56,000 --> 00:13:00,000
+And his survey drones have revealed no exhaust ports on the outer hull.
+
+212
+00:13:00,000 --> 00:13:01,000
+It could be hidden.
+
+213
+00:13:01,000 --> 00:13:03,000
+Possibly. But what would be the point?
+
+214
+00:13:03,000 --> 00:13:09,000
+What about the southern end? Those pylons, whatever they are, whatever they do, they could be some kind of power source.
+
+215
+00:13:09,000 --> 00:13:13,000
+Well, we'd better find out, because if it is hostile, we could all be dead.
+
+216
+00:13:13,000 --> 00:13:18,000
+Priority One message for Captain William Norton. Survey Vessel Endeavour.
+
+217
+00:13:18,000 --> 00:13:22,000
+Captain, this is Deputy General Secretary Indira Gopal.
+
+218
+00:13:22,000 --> 00:13:26,000
+I have to inform you of new mission priorities at this time.
+
+219
+00:13:26,000 --> 00:13:34,000
+The Rama committee consider it vital you investigate the structures that project into Rama from what you are calling the South Pole.
+
+220
+00:13:34,000 --> 00:13:40,000
+You are to ascertain to your best ability what they are and what their purpose might be.
+
+221
+00:13:40,000 --> 00:13:43,000
+The committee is aware that time is short.
+
+222
+00:13:43,000 --> 00:13:49,000
+However, the committee wishes to make it clear that this mission is of overriding priority.
+
+223
+00:13:49,000 --> 00:13:55,000
+Captain, I apologize for the nature of this message, but things down here are getting very difficult.
+
+224
+00:13:55,000 --> 00:14:01,000
+The political climate is being seriously unbalanced by the questions posed by Rama.
+
+225
+00:14:02,000 --> 00:14:04,000
+We need some answers.
+
+226
+00:14:04,000 --> 00:14:06,000
+Message ends.
+
+227
+00:14:06,000 --> 00:14:10,000
+That's new.
+
+228
+00:14:10,000 --> 00:14:14,000
+I never heard that before.
+
+229
+00:14:14,000 --> 00:14:16,000
+It makes sense.
+
+230
+00:14:16,000 --> 00:14:18,000
+Of course it does.
+
+231
+00:14:18,000 --> 00:14:21,000
+Surf's getting up.
+
+232
+00:14:21,000 --> 00:14:24,000
+Wind too. Maybe they're giving us a storm.
+
+233
+00:14:24,000 --> 00:14:28,000
+But you should see it when the swells come in here.
+
+234
+00:14:28,000 --> 00:14:32,000
+We were explorers. We needed to explore, but there were...
+
+235
+00:14:32,000 --> 00:14:36,000
+Other priorities. Of course. That's what you said.
+
+236
+00:14:36,000 --> 00:14:39,000
+Not that we didn't want to know what they were ourselves.
+
+237
+00:14:39,000 --> 00:14:43,000
+So many questions, so few answers, so many problems.
+
+238
+00:14:43,000 --> 00:14:46,000
+That's what being a commander is, I suppose.
+
+239
+00:14:46,000 --> 00:14:49,000
+You got your boat.
+
+240
+00:14:49,000 --> 00:14:52,000
+We all remember the images you sent back.
+
+241
+00:14:52,000 --> 00:14:55,000
+Sailing the circular sea.
+
+242
+00:14:56,000 --> 00:14:58,000
+Sailing the circular sea.
+
+243
+00:14:58,000 --> 00:15:00,000
+Look out there.
+
+244
+00:15:00,000 --> 00:15:07,000
+Look at the horizon and imagine what it would be like if that sea reared up and up,
+
+245
+00:15:07,000 --> 00:15:13,000
+right over your head and there it is, hanging there.
+
+246
+00:15:13,000 --> 00:15:19,000
+Strange waters, Mr Kwok. Very strange indeed.
+
+247
+00:15:19,000 --> 00:15:24,000
+Hold her steady, if you can.
+
+248
+00:15:24,000 --> 00:15:27,000
+I guess currents are tricky. Not like anything I've ever known.
+
+249
+00:15:27,000 --> 00:15:31,000
+Preliminary analysis indicates that the sea is alive.
+
+250
+00:15:31,000 --> 00:15:32,000
+What?
+
+251
+00:15:32,000 --> 00:15:33,000
+Alive?
+
+252
+00:15:33,000 --> 00:15:36,000
+Single-celled microorganisms, like prehistoric plankton on the Motherworld,
+
+253
+00:15:36,000 --> 00:15:38,000
+they're releasing chemicals into the water.
+
+254
+00:15:38,000 --> 00:15:40,000
+Life!
+
+255
+00:15:40,000 --> 00:15:42,000
+If you fall in, keep your mouth shut.
+
+256
+00:15:42,000 --> 00:15:45,000
+It shouldn't harm you, but I'd rather not take any chances.
+
+257
+00:15:45,000 --> 00:15:47,000
+Hub control.
+
+258
+00:15:47,000 --> 00:15:51,000
+Receiving your images, sir. Our breakup is greater than the Federal Eagle.
+
+259
+00:15:51,000 --> 00:15:53,000
+We're approaching the southern coastline, Gerry.
+
+260
+00:15:53,000 --> 00:15:56,000
+We're going to attempt a landing, as if there's any means of ascent.
+
+261
+00:15:56,000 --> 00:15:58,000
+Look out, coming about.
+
+262
+00:15:58,000 --> 00:16:00,000
+I'm fancy climbing those cliffs.
+
+263
+00:16:00,000 --> 00:16:04,000
+Scanning, but I can't see any deviation. 500 metres all the way around.
+
+264
+00:16:04,000 --> 00:16:06,000
+Why so much taller on this shore? Why not the same?
+
+265
+00:16:06,000 --> 00:16:11,000
+Barnes Base Camp, sir. We're picking up your image. Probably clearer here than hub control.
+
+266
+00:16:11,000 --> 00:16:16,000
+It looks like Karuna, Lieutenant Calvert is right. They're a uniform height.
+
+267
+00:16:16,000 --> 00:16:17,000
+That's what it looks like, Barnes.
+
+268
+00:16:17,000 --> 00:16:22,000
+So I was thinking about Rama moving. I mean, however it moves, when it moves.
+
+269
+00:16:22,000 --> 00:16:27,000
+If it picks up speed, no matter how slowly, if the sea was still liquid,
+
+270
+00:16:27,000 --> 00:16:30,000
+then you'd need something to stop it slopping over as Rama moved forward.
+
+271
+00:16:30,000 --> 00:16:31,000
+Outstanding, Rupert.
+
+272
+00:16:31,000 --> 00:16:35,000
+Sounds good to me, Sergeant. Though it would tend to mean there are no breaks in the cliff.
+
+273
+00:16:35,000 --> 00:16:37,000
+No point if there were, sir.
+
+274
+00:16:37,000 --> 00:16:40,000
+That's going to make any investigation of the South Pole difficult.
+
+275
+00:16:40,000 --> 00:16:42,000
+Not necessarily.
+
+276
+00:16:43,000 --> 00:16:47,000
+Sub-Lieutenant Pack wondered if he might have a word with the Captain when he gets back to base camp.
+
+277
+00:16:47,000 --> 00:16:51,000
+What is it, Lieutenant?
+
+278
+00:16:51,000 --> 00:16:54,000
+I know how to reach the Southern Plain. Maybe even the South Pole.
+
+279
+00:16:54,000 --> 00:16:56,000
+How?
+
+280
+00:16:56,000 --> 00:16:57,000
+By flying, sir.
+
+281
+00:16:57,000 --> 00:17:00,000
+We've looked into that. We don't have an EVA vessel for gravity work. It couldn't leave the axis.
+
+282
+00:17:00,000 --> 00:17:02,000
+I know that, sir, but I...
+
+283
+00:17:02,000 --> 00:17:04,000
+Well, go on.
+
+284
+00:17:04,000 --> 00:17:06,000
+You know I competed in the Lunar Olympics last year?
+
+285
+00:17:06,000 --> 00:17:09,000
+I think I heard, yes. You were a sky bike jockey.
+
+286
+00:17:09,000 --> 00:17:13,000
+I didn't place, but I have hopes for Mars. The gravity there is...
+
+287
+00:17:13,000 --> 00:17:15,000
+I don't see what this has to do with anything, Lieutenant.
+
+288
+00:17:15,000 --> 00:17:17,000
+We don't carry sky bikes and we can't put one together.
+
+289
+00:17:17,000 --> 00:17:20,000
+Or can we, Jimmy?
+
+290
+00:17:20,000 --> 00:17:23,000
+Actually, sir, I...
+
+291
+00:17:23,000 --> 00:17:27,000
+You smuggled a bike aboard,
+
+292
+00:17:27,000 --> 00:17:32,000
+knowing it's a court martial offence to load unlisted weight of any kind.
+
+293
+00:17:32,000 --> 00:17:36,000
+It weighs far less, actually, sir, than your expresso machine.
+
+294
+00:17:36,000 --> 00:17:41,000
+I happen to be the captain, Mr. Pack. You are the most junior person aboard this ship.
+
+295
+00:17:41,000 --> 00:17:43,000
+But I can fly, sir.
+
+296
+00:17:43,000 --> 00:17:48,000
+All the way, under my own power, I can pedal Dragonfly to the South Pole and back.
+
+297
+00:17:48,000 --> 00:17:54,000
+This is the 17th session of the Rama Committee.
+
+298
+00:17:54,000 --> 00:17:56,000
+I have received a message from Rama.
+
+299
+00:17:56,000 --> 00:17:59,000
+They are going to investigate the South Polar regions.
+
+300
+00:17:59,000 --> 00:18:01,000
+Commander Norton has found a way over the cliffs.
+
+301
+00:18:01,000 --> 00:18:03,000
+We have all seen their communique.
+
+302
+00:18:03,000 --> 00:18:09,000
+I imagine we've also all seen Norton's conclusion that the higher cliffs predicate some kind of movement on the part of Rama.
+
+303
+00:18:09,000 --> 00:18:11,000
+It is moving now.
+
+304
+00:18:11,000 --> 00:18:14,000
+It has achieved an equilibrium. If it speeds up or changes course...
+
+305
+00:18:14,000 --> 00:18:17,000
+The ambassador from Mercury is for once right, I believe.
+
+306
+00:18:17,000 --> 00:18:21,000
+It seems quite likely that Rama can navigate, whether it will or not, eventually.
+
+307
+00:18:21,000 --> 00:18:23,000
+My government will be watching developments closely.
+
+308
+00:18:23,000 --> 00:18:25,000
+Everyone is watching.
+
+309
+00:18:25,000 --> 00:18:27,000
+The Pope has broadcast a new bull,
+
+310
+00:18:27,000 --> 00:18:30,000
+stating that Rama is a herald of a coming good
+
+311
+00:18:30,000 --> 00:18:34,000
+and that humanity is about to face a great decision as to its spirituality.
+
+312
+00:18:34,000 --> 00:18:37,000
+The same message is coming from religious groups throughout the system.
+
+313
+00:18:37,000 --> 00:18:42,000
+May I remind the committee that on Mercury we have no truck at all with sentiment.
+
+314
+00:18:42,000 --> 00:18:43,000
+We are realists.
+
+315
+00:18:43,000 --> 00:18:46,000
+Except that you think the sun is your personal property.
+
+316
+00:18:46,000 --> 00:18:47,000
+No, Miss Ruiz.
+
+317
+00:18:47,000 --> 00:18:53,000
+Because we mine the materials that are giving you air on Mars and allow the rest of you to indulge your fancies.
+
+318
+00:18:53,000 --> 00:18:55,000
+And get paid a good price for them, Henning.
+
+319
+00:18:55,000 --> 00:18:57,000
+But not any price.
+
+320
+00:18:57,000 --> 00:18:59,000
+Not the price of our own territorial integrity.
+
+321
+00:18:59,000 --> 00:19:01,000
+May I remind the committee...
+
+322
+00:19:01,000 --> 00:19:04,000
+May I suggest the committee wait upon events.
+
+323
+00:19:04,000 --> 00:19:09,000
+At least until Commander Norton and his crew can inform us further on the south pole of Rama.
+
+324
+00:19:09,000 --> 00:19:19,000
+Help Control, you getting me?
+
+325
+00:19:19,000 --> 00:19:21,000
+We're getting you, Jimmy.
+
+326
+00:19:21,000 --> 00:19:24,000
+I'm over the southern plain.
+
+327
+00:19:24,000 --> 00:19:26,000
+Stretching away.
+
+328
+00:19:26,000 --> 00:19:27,000
+You can see.
+
+329
+00:19:27,000 --> 00:19:29,000
+Is the camera getting this?
+
+330
+00:19:29,000 --> 00:19:30,000
+You getting this, Help Control?
+
+331
+00:19:30,000 --> 00:19:33,000
+Copy that, Dragonfly. We are receiving visuals and comms.
+
+332
+00:19:33,000 --> 00:19:35,000
+Quality is variable.
+
+333
+00:19:35,000 --> 00:19:36,000
+How are you feeling?
+
+334
+00:19:36,000 --> 00:19:37,000
+I'm fine.
+
+335
+00:19:37,000 --> 00:19:39,000
+Slowing a bit, but no problems.
+
+336
+00:19:39,000 --> 00:19:42,000
+I'm gonna rotate around the axes and give you a 360.
+
+337
+00:19:42,000 --> 00:19:44,000
+Sounds good.
+
+338
+00:19:44,000 --> 00:19:46,000
+Don't fall out here, Jimmy.
+
+339
+00:19:46,000 --> 00:19:47,000
+Orange, Base Camp.
+
+340
+00:19:47,000 --> 00:19:48,000
+Take it slow.
+
+341
+00:19:48,000 --> 00:19:52,000
+Don't raise your heartbeat and remember to hyperventilate if necessary.
+
+342
+00:19:52,000 --> 00:19:54,000
+Here goes.
+
+343
+00:19:56,000 --> 00:19:58,000
+I'm going around. I'm rotating.
+
+344
+00:19:58,000 --> 00:20:02,000
+There's definite weightlessness.
+
+345
+00:20:02,000 --> 00:20:04,000
+I can see...
+
+346
+00:20:04,000 --> 00:20:07,000
+I see the whole thing.
+
+347
+00:20:07,000 --> 00:20:13,000
+It's not being at the center of a huge carousel, but the whole world's spinning past.
+
+348
+00:20:13,000 --> 00:20:17,000
+The patterns, those fields.
+
+349
+00:20:17,000 --> 00:20:20,000
+Oh, and the colors.
+
+350
+00:20:20,000 --> 00:20:22,000
+It's like seeing solid geometry.
+
+351
+00:20:22,000 --> 00:20:24,000
+You're breaking up, Dragonfly.
+
+352
+00:20:24,000 --> 00:20:27,000
+I have turbulence, which I didn't expect.
+
+353
+00:20:27,000 --> 00:20:28,000
+Hold on.
+
+354
+00:20:28,000 --> 00:20:30,000
+Hold on. Are you getting this?
+
+355
+00:20:30,000 --> 00:20:32,000
+Are you getting this, Help Control?
+
+356
+00:20:32,000 --> 00:20:34,000
+Copy that, Dragonfly. You're coming through clear.
+
+357
+00:20:34,000 --> 00:20:38,000
+That's good.
+
+358
+00:20:38,000 --> 00:20:40,000
+That's very good.
+
+359
+00:20:40,000 --> 00:20:44,000
+Jimmy, I wish I could be there with you.
+
+360
+00:20:44,000 --> 00:20:46,000
+Barnes, Base Camp.
+
+361
+00:20:46,000 --> 00:20:48,000
+Jimmy, we're seeing what look like patterns of fields.
+
+362
+00:20:48,000 --> 00:20:50,000
+You're doing great. Keep it coming.
+
+363
+00:20:50,000 --> 00:20:52,000
+Beautiful, Jimmy. It's beautiful.
+
+364
+00:20:53,000 --> 00:20:55,000
+And we're all glad you're overlanding.
+
+365
+00:20:55,000 --> 00:20:57,000
+It's land.
+
+366
+00:20:57,000 --> 00:20:58,000
+Hey, me too.
+
+367
+00:20:58,000 --> 00:21:02,000
+Norton, Base Camp. What's your exact position, Jimmy?
+
+368
+00:21:02,000 --> 00:21:04,000
+I'm approaching the South Pole, sir.
+
+369
+00:21:04,000 --> 00:21:07,000
+I can see the central spike clearly.
+
+370
+00:21:07,000 --> 00:21:09,000
+It's so big.
+
+371
+00:21:09,000 --> 00:21:10,000
+Hub Control.
+
+372
+00:21:10,000 --> 00:21:14,000
+Can you try and give us a steady platform for the images, Jimmy?
+
+373
+00:21:14,000 --> 00:21:15,000
+You're breaking up.
+
+374
+00:21:15,000 --> 00:21:16,000
+I'm doing what I can, Hub.
+
+375
+00:21:16,000 --> 00:21:19,000
+Ernst, Base Camp. How are you feeling?
+
+376
+00:21:19,000 --> 00:21:21,000
+I'm tired. A bit tired.
+
+377
+00:21:22,000 --> 00:21:24,000
+This is all so incredible here.
+
+378
+00:21:24,000 --> 00:21:26,000
+Can you see this?
+
+379
+00:21:26,000 --> 00:21:28,000
+We can see it, Jimmy.
+
+380
+00:21:28,000 --> 00:21:29,000
+We're getting that, too.
+
+381
+00:21:29,000 --> 00:21:31,000
+It's good work, Jimmy.
+
+382
+00:21:31,000 --> 00:21:33,000
+Is that the central structure?
+
+383
+00:21:33,000 --> 00:21:35,000
+I'm coming in on it now.
+
+384
+00:21:35,000 --> 00:21:37,000
+It's incredible.
+
+385
+00:21:37,000 --> 00:21:40,000
+Must be 10 k's long, easily.
+
+386
+00:21:40,000 --> 00:21:42,000
+It's vast. And the end here.
+
+387
+00:21:42,000 --> 00:21:45,000
+I'm drifting in towards the end.
+
+388
+00:21:45,000 --> 00:21:46,000
+Getting this clear.
+
+389
+00:21:46,000 --> 00:21:49,000
+Try and touch down, Dragonfly.
+
+390
+00:21:49,000 --> 00:21:51,000
+Secure an anchor and see if you can get a sample.
+
+391
+00:21:51,000 --> 00:21:52,000
+Hub Control.
+
+392
+00:21:52,000 --> 00:21:56,000
+Jimmy, I want you to make a complete scan every half k.
+
+393
+00:21:56,000 --> 00:21:58,000
+Copy that, Hub.
+
+394
+00:21:58,000 --> 00:22:00,000
+Coming to a stop.
+
+395
+00:22:00,000 --> 00:22:02,000
+Anchoring now.
+
+396
+00:22:02,000 --> 00:22:07,000
+I'm floating now.
+
+397
+00:22:07,000 --> 00:22:09,000
+I'm anchored and I'm pulling in.
+
+398
+00:22:09,000 --> 00:22:12,000
+Getting close to the structure.
+
+399
+00:22:12,000 --> 00:22:14,000
+Gravity low.
+
+400
+00:22:14,000 --> 00:22:18,000
+It looks from your image that the smaller spikes are pretty much like the large ones.
+
+401
+00:22:18,000 --> 00:22:20,000
+Pretty much I'd say, sir.
+
+402
+00:22:20,000 --> 00:22:24,000
+Then stay up. Don't waste time. Stay with the main structure.
+
+403
+00:22:24,000 --> 00:22:27,000
+I'm testing for sound.
+
+404
+00:22:27,000 --> 00:22:29,000
+Are you getting anything?
+
+405
+00:22:29,000 --> 00:22:31,000
+We saw a base camp, Jimmy.
+
+406
+00:22:31,000 --> 00:22:34,000
+Nothing except the normal thermal noise.
+
+407
+00:22:34,000 --> 00:22:35,000
+Can you tap it?
+
+408
+00:22:35,000 --> 00:22:37,000
+I'll try.
+
+409
+00:22:37,000 --> 00:22:39,000
+Barnes, base camp.
+
+410
+00:22:39,000 --> 00:22:41,000
+Scrape a sample for us.
+
+411
+00:22:41,000 --> 00:22:43,000
+I'm trying, but I can't seem to...
+
+412
+00:22:43,000 --> 00:22:45,000
+It's just impervious.
+
+413
+00:22:45,000 --> 00:22:48,000
+No sound, either.
+
+414
+00:22:48,000 --> 00:22:50,000
+I'm moving on now.
+
+415
+00:22:50,000 --> 00:22:53,000
+We're beginning to brink or break up, Jimmy.
+
+416
+00:22:53,000 --> 00:22:56,000
+Is there anything you can do there to increase signal strength?
+
+417
+00:22:56,000 --> 00:22:59,000
+Hub Control, Dragonfly, activate your beacon, please.
+
+418
+00:22:59,000 --> 00:23:01,000
+Switching on the beacon, Hub.
+
+419
+00:23:01,000 --> 00:23:05,000
+Proceeding in what seems to be an upward direction now.
+
+420
+00:23:05,000 --> 00:23:10,000
+It's like flying up into the top of one of those old cathedrals.
+
+421
+00:23:10,000 --> 00:23:12,000
+All the arches joining.
+
+422
+00:23:12,000 --> 00:23:17,000
+Understand only partially. Repeat, please, Dragonfly.
+
+423
+00:23:18,000 --> 00:23:21,000
+Approaching base, or top of main structure.
+
+424
+00:23:21,000 --> 00:23:26,000
+Can you... Is there some... Can you hear that?
+
+425
+00:23:26,000 --> 00:23:30,000
+Losing you. Count, please. Will you count numbers?
+
+426
+00:23:30,000 --> 00:23:35,000
+One, two, three, four, five, six...
+
+427
+00:23:35,000 --> 00:23:38,000
+Can you hear that noise, Hub?
+
+428
+00:23:38,000 --> 00:23:42,000
+We'll keep it going. Somehow we can hit it.
+
+429
+00:23:42,000 --> 00:23:45,000
+I think we're breaking up.
+
+430
+00:23:46,000 --> 00:23:50,000
+It's got some kind of very intense feel. Probably magnetic.
+
+431
+00:23:50,000 --> 00:23:52,000
+It's about time, Psycho. Jimmy.
+
+432
+00:23:52,000 --> 00:23:55,000
+You should get out of bed. You're enough to be dangerous.
+
+433
+00:23:55,000 --> 00:23:57,000
+Pull out now, Jimmy.
+
+434
+00:23:57,000 --> 00:24:02,000
+Copy that. Turning now. I'm heading out from the pole.
+
+435
+00:24:02,000 --> 00:24:06,000
+Keep a steady pace, Jimmy. Do not overexert.
+
+436
+00:24:06,000 --> 00:24:11,000
+Don't worry, Skip. I'm used to this. It's easier.
+
+437
+00:24:11,000 --> 00:24:14,000
+What is it, Dragonfly?
+
+438
+00:24:14,000 --> 00:24:17,000
+There's... I think there's a static charge building up around me.
+
+439
+00:24:17,000 --> 00:24:20,000
+I... I think... I can feel that.
+
+440
+00:24:20,000 --> 00:24:23,000
+Are you picking up anything you're in?
+
+441
+00:24:23,000 --> 00:24:27,000
+Barnes, are you there? Are you getting anything?
+
+442
+00:24:27,000 --> 00:24:31,000
+Jimmy, we're reading a major build-up of static. What's your progress?
+
+443
+00:24:31,000 --> 00:24:37,000
+I'm picking up right now. Heading back up the southern plain towards the southern sea.
+
+444
+00:24:37,000 --> 00:24:39,000
+Repeat, the point is behind me.
+
+445
+00:24:39,000 --> 00:24:41,000
+Hub control, can you clock the wind speed?
+
+446
+00:24:41,000 --> 00:24:43,000
+Higher than I'd like, Hub.
+
+447
+00:24:44,000 --> 00:24:46,000
+This isn't built for storms.
+
+448
+00:24:46,000 --> 00:24:47,000
+Keep on coming, Jimmy.
+
+449
+00:24:47,000 --> 00:24:49,000
+Not sure I can.
+
+450
+00:24:49,000 --> 00:24:51,000
+I'm losing control.
+
+451
+00:24:51,000 --> 00:24:52,000
+What the hell was that?
+
+452
+00:24:52,000 --> 00:24:54,000
+Hold on! Hold on! Hold on!
+
+453
+00:24:54,000 --> 00:24:57,000
+What's that discharge off the map in the south pole? Something big. Something big.
+
+454
+00:24:57,000 --> 00:24:59,000
+It's off the scale here. I can't quantify this.
+
+455
+00:24:59,000 --> 00:25:02,000
+Hub control, what is your situation, Dragonfly?
+
+456
+00:25:02,000 --> 00:25:06,000
+Come in, Jimmy. What is your situation?
+
+457
+00:25:08,000 --> 00:25:11,000
+Going down! I'm trying to get control!
+
+458
+00:25:11,000 --> 00:25:13,000
+I'm... I'm... I'm going down!
+
+459
+00:25:13,000 --> 00:25:14,000
+Oh, yeah!
+
+460
+00:25:14,000 --> 00:25:19,000
+Hub control, this is hub control. Come in, Dragonfly.
+
+461
+00:25:19,000 --> 00:25:22,000
+Can you answer, Dragonfly?
+
+462
+00:25:22,000 --> 00:25:25,000
+We still have your beacon. Can you hear me, Dragonfly?
+
+463
+00:25:25,000 --> 00:25:26,000
+What just happened?
+
+464
+00:25:26,000 --> 00:25:27,000
+Jimmy, can you hear me?
+
+465
+00:25:27,000 --> 00:25:31,000
+I think something pressed the starter on a motor and the motor started.
+
+466
+00:25:31,000 --> 00:25:33,000
+Dragonfly to hub control.
+
+467
+00:25:33,000 --> 00:25:34,000
+Oh, he's still there.
+
+468
+00:25:34,000 --> 00:25:35,000
+Dragonfly here.
+
+469
+00:25:35,000 --> 00:25:38,000
+Hub control, sitrep, please, Jimmy.
+
+470
+00:25:38,000 --> 00:25:41,000
+I'm down. I'm in one piece.
+
+471
+00:25:41,000 --> 00:25:44,000
+Oh, Dragonfly is pretty much a wreck.
+
+472
+00:25:44,000 --> 00:25:47,000
+The comms still work.
+
+473
+00:25:47,000 --> 00:25:51,000
+I'm sort of sitting in a pile of carbon fiber.
+
+474
+00:25:51,000 --> 00:25:57,000
+Jimmy?
+
+475
+00:25:57,000 --> 00:26:01,000
+There's something moving.
+
+476
+00:26:01,000 --> 00:26:03,000
+There's something out there.
+
+477
+00:26:03,000 --> 00:26:04,000
+Oh, my God.
+
+478
+00:26:04,000 --> 00:26:07,000
+It's like a huge crab.
+
+479
+00:26:07,000 --> 00:26:10,000
+See me?
+
+480
+00:26:10,000 --> 00:26:12,000
+It's moving my direction.
+
+481
+00:26:12,000 --> 00:26:19,000
+Something attacked one of Commander Norton's crew.
+
+482
+00:26:19,000 --> 00:26:20,000
+That fact is inescapable.
+
+483
+00:26:20,000 --> 00:26:21,000
+I am not certain.
+
+484
+00:26:21,000 --> 00:26:24,000
+Inescapable? Norton's message is quite unambiguous.
+
+485
+00:26:24,000 --> 00:26:28,000
+The message states only that Sub-Lieutenant Pack is missing and might have seen something.
+
+486
+00:26:28,000 --> 00:26:33,000
+Something attacking his craft. Attacking him? Certainly silencing his comms.
+
+487
+00:26:33,000 --> 00:26:36,000
+I take it there's been no further communication with the Sub-Lieutenant.
+
+488
+00:26:36,000 --> 00:26:37,000
+No, there hasn't.
+
+489
+00:26:37,000 --> 00:26:42,000
+And since the Southern Cliffs are unclimbable, there won't be any word in a few days Norton has left on Rama.
+
+490
+00:26:42,000 --> 00:26:48,000
+Has left? The expedition must leave now. Rama is dangerous. Who knows what we might have provoked.
+
+491
+00:26:48,000 --> 00:26:54,000
+It does seem possible the towers are initiating some kind of power-up, though for what purpose we cannot be sure.
+
+492
+00:26:54,000 --> 00:27:00,000
+Professor, if I lean across this table and punch you on the nose, then I stand up, roll up my sleeves,
+
+493
+00:27:00,000 --> 00:27:03,000
+I think you might be reasonably sure of my intentions.
+
+494
+00:27:03,000 --> 00:27:05,000
+Don't you?
+
+495
+00:27:05,000 --> 00:27:07,000
+It could be a misunderstanding.
+
+496
+00:27:07,000 --> 00:27:12,000
+We don't know what Lieutenant Pack actually saw. Maybe he was hallucinating as a result of the crash.
+
+497
+00:27:12,000 --> 00:27:15,000
+What does Commander Norton say? He's the closest to this problem.
+
+498
+00:27:15,000 --> 00:27:17,000
+He's too close. He's lost a man.
+
+499
+00:27:17,000 --> 00:27:21,000
+I say, and I speak on behalf of my government, that we must quarantine Rama.
+
+500
+00:27:21,000 --> 00:27:25,000
+At the very least, we must leave at once before we provoke any further aggression.
+
+501
+00:27:25,000 --> 00:27:31,000
+I can call a vote on that. If you wish Commander Norton to abandon his mission, please indicate for...
+
+502
+00:27:31,000 --> 00:27:33,000
+...against...
+
+503
+00:27:33,000 --> 00:27:34,000
+...he stays.
+
+504
+00:27:34,000 --> 00:27:38,000
+Then I do not. You will excuse me.
+
+505
+00:27:38,000 --> 00:27:43,000
+It's been 15 hours, Bill. I think if he was going to make it...
+
+506
+00:27:43,000 --> 00:27:45,000
+No, no, no. Shall I take her further along the coast?
+
+507
+00:27:45,000 --> 00:27:49,000
+We have a few to sail over our heads and back again, but only one.
+
+508
+00:27:49,000 --> 00:27:50,000
+Bill!
+
+509
+00:27:50,000 --> 00:27:52,000
+We keep searching.
+
+510
+00:27:52,000 --> 00:27:54,000
+Hub, any contact?
+
+511
+00:27:54,000 --> 00:27:57,000
+Nothing, sir. I'll keep trying.
+
+512
+00:27:57,000 --> 00:28:00,000
+You hear that? Is that what Jimmy heard?
+
+513
+00:28:00,000 --> 00:28:05,000
+We have to go back. If the tower's discharged again, it may be more powerful. This place is changing.
+
+514
+00:28:05,000 --> 00:28:10,000
+All right. Hub Control, Norton, boat party. We're coming back.
+
+515
+00:28:10,000 --> 00:28:12,000
+I'm losing you. I think there's...
+
+516
+00:28:12,000 --> 00:28:15,000
+No, we're not! No, we're not! We have a contact! We have a contact!
+
+517
+00:28:15,000 --> 00:28:21,000
+Cancel, Hub. Cancel. We've got him. I repeat, we've found him. Barnes, take us in.
+
+518
+00:28:21,000 --> 00:28:22,000
+How are we going to reach him?
+
+519
+00:28:22,000 --> 00:28:24,000
+Help!
+
+520
+00:28:24,000 --> 00:28:26,000
+Help!
+
+521
+00:28:26,000 --> 00:28:32,000
+Jimmy! Are you injured?
+
+522
+00:28:32,000 --> 00:28:34,000
+No, sir!
+
+523
+00:28:34,000 --> 00:28:38,000
+Okay, we're going to get you down.
+
+524
+00:28:38,000 --> 00:28:40,000
+How, sir?
+
+525
+00:28:40,000 --> 00:28:43,000
+You're going to jump!
+
+526
+00:28:43,000 --> 00:28:48,000
+What? It's 500 meters!
+
+527
+00:28:48,000 --> 00:28:50,000
+Are you crazy, sir?
+
+528
+00:28:50,000 --> 00:28:53,000
+Sir, I don't get it!
+
+529
+00:28:53,000 --> 00:29:02,000
+Low gravity, Jimmy! In this atmosphere, you'll have low terminal velocity!
+
+530
+00:29:02,000 --> 00:29:11,000
+Open your jacket, spread your arms and legs, and straighten up before you hit the sea!
+
+531
+00:29:11,000 --> 00:29:15,000
+I don't know if I can do that, sir!
+
+532
+00:29:15,000 --> 00:29:17,000
+You can do it!
+
+533
+00:29:17,000 --> 00:29:20,000
+No, I really don't think I can.
+
+534
+00:29:20,000 --> 00:29:23,000
+You can do it!
+
+535
+00:29:23,000 --> 00:29:27,000
+Goddamn it, back! Okay, here I come!
+
+536
+00:29:27,000 --> 00:29:32,000
+No!
+
+537
+00:29:32,000 --> 00:29:46,000
+You're okay, Jimmy. We got you now.
+
+538
+00:29:46,000 --> 00:29:48,000
+Drink more.
+
+539
+00:29:48,000 --> 00:29:52,000
+Well done, Lieutenant.
+
+540
+00:29:52,000 --> 00:29:53,000
+That's good.
+
+541
+00:29:53,000 --> 00:29:55,000
+That was most impressive.
+
+542
+00:29:55,000 --> 00:29:56,000
+Thanks.
+
+543
+00:29:56,000 --> 00:29:59,000
+I was talking about the scream of pure fear as you jumped.
+
+544
+00:29:59,000 --> 00:30:00,000
+Thanks.
+
+545
+00:30:00,000 --> 00:30:03,000
+So, can you tell us what that thing is up there?
+
+546
+00:30:03,000 --> 00:30:06,000
+I think it's pretty much like one of those.
+
+547
+00:30:06,000 --> 00:30:08,000
+It doesn't swim.
+
+548
+00:30:08,000 --> 00:30:12,000
+What is that? Is it a shark? Is it alive?
+
+549
+00:30:12,000 --> 00:30:15,000
+I don't know. I don't think so.
+
+550
+00:30:15,000 --> 00:30:20,000
+I think they're machines. After I crashed, this sort of crab thing appeared.
+
+551
+00:30:20,000 --> 00:30:23,000
+I picked up the bits of the sky by it and sort of ate them.
+
+552
+00:30:23,000 --> 00:30:25,000
+Ate them? All of them?
+
+553
+00:30:25,000 --> 00:30:27,000
+I couldn't even get to the cams.
+
+554
+00:30:27,000 --> 00:30:31,000
+I'm sorry, sir. I tried, but I didn't want to get too close in case...
+
+555
+00:30:31,000 --> 00:30:32,000
+In case it ate you.
+
+556
+00:30:32,000 --> 00:30:33,000
+You did fine.
+
+557
+00:30:33,000 --> 00:30:36,000
+More to the point, that one out there, is that going to clean up this boat?
+
+558
+00:30:36,000 --> 00:30:37,000
+Not if I can help it.
+
+559
+00:30:37,000 --> 00:30:39,000
+It doesn't seem to be approaching.
+
+560
+00:30:39,000 --> 00:30:43,000
+I mean, this is so weird. First contact with a garbage truck.
+
+561
+00:30:43,000 --> 00:30:45,000
+They'll never believe it.
+
+562
+00:30:45,000 --> 00:30:48,000
+Rama travelled a million miles to clean up the garbage.
+
+563
+00:30:48,000 --> 00:30:50,000
+Paul Patsy, come in. This is Hub Control.
+
+564
+00:30:50,000 --> 00:30:52,000
+Paul Patsy, are you hearing me?
+
+565
+00:30:52,000 --> 00:30:56,000
+Hub Control, this is Ernst. We're okay, repeat. We're heading back now.
+
+566
+00:30:56,000 --> 00:31:03,000
+They started appearing at about the time Jimmy jumped off the cliff.
+
+567
+00:31:03,000 --> 00:31:05,000
+Suddenly, they were there.
+
+568
+00:31:05,000 --> 00:31:10,000
+Oh, they weren't. We call them spiders. Three-legged spiders, anyhow.
+
+569
+00:31:10,000 --> 00:31:11,000
+I think it's the closest we've...
+
+570
+00:31:11,000 --> 00:31:12,000
+Hey!
+
+571
+00:31:12,000 --> 00:31:14,000
+You put anything down and it's gone.
+
+572
+00:31:14,000 --> 00:31:16,000
+Jimmy thinks they clear things up.
+
+573
+00:31:16,000 --> 00:31:18,000
+These ones pick things up, then put them down.
+
+574
+00:31:18,000 --> 00:31:21,000
+They inspect things. They haven't harmed anyone yet.
+
+575
+00:31:21,000 --> 00:31:24,000
+According to Jimmy, there are things growing in the south.
+
+576
+00:31:24,000 --> 00:31:25,000
+Plants?
+
+577
+00:31:25,000 --> 00:31:29,000
+Plant-like. He took a couple of samples, but they got lost during his jump.
+
+578
+00:31:29,000 --> 00:31:31,000
+We'll know more when Dr. Ernst lets him out of sickbay.
+
+579
+00:31:31,000 --> 00:31:33,000
+She's not taking any chances.
+
+580
+00:31:33,000 --> 00:31:36,000
+Absolutely not. And she'd dearly like one of your spiders, if you can get her one.
+
+581
+00:31:36,000 --> 00:31:38,000
+We could trap one.
+
+582
+00:31:38,000 --> 00:31:41,000
+With respect, sir, we're guests here. We should behave as such.
+
+583
+00:31:41,000 --> 00:31:43,000
+Oh, come on, Ruse. They're machines.
+
+584
+00:31:43,000 --> 00:31:45,000
+We don't know that.
+
+585
+00:31:45,000 --> 00:31:48,000
+I seem to recall Captain Cook and his crew killed what they called
+
+586
+00:31:48,000 --> 00:31:50,000
+"nondescript species" to examine them.
+
+587
+00:31:50,000 --> 00:31:53,000
+I'm sorry, sir, but you can't pick and choose which life you respect.
+
+588
+00:31:53,000 --> 00:31:55,000
+It's all or nothing.
+
+589
+00:31:55,000 --> 00:31:59,000
+That could sound like refusing to obey an order, Lieutenant.
+
+590
+00:31:59,000 --> 00:32:03,000
+Only if you gave the order, sir. And I don't believe you will.
+
+591
+00:32:03,000 --> 00:32:07,000
+Carry on, Lieutenant.
+
+592
+00:32:07,000 --> 00:32:12,000
+Ruse, you're a fool.
+
+593
+00:32:12,000 --> 00:32:14,000
+You knew he'd give the order, so why raise the thing?
+
+594
+00:32:14,000 --> 00:32:16,000
+Because it was right.
+
+595
+00:32:16,000 --> 00:32:18,000
+There are no moral facts, Ruse.
+
+596
+00:32:18,000 --> 00:32:22,000
+And besides, the Captain knows me well enough to realize that if I didn't speak out,
+
+597
+00:32:22,000 --> 00:32:26,000
+it would be because of hypocrisy or ambition, neither of which he'd respect.
+
+598
+00:32:26,000 --> 00:32:30,000
+If I didn't know better, I'd be calling you a gestuator.
+
+599
+00:32:30,000 --> 00:32:32,000
+They're all particle physicists now.
+
+600
+00:32:32,000 --> 00:32:37,000
+Let's go and see if we can find an injured spider.
+
+601
+00:32:37,000 --> 00:32:44,000
+Hey, wake up, sunshine.
+
+602
+00:32:44,000 --> 00:32:47,000
+Huh? I wasn't asleep.
+
+603
+00:32:48,000 --> 00:32:51,000
+Just lying there with your mouth open, making odd noises.
+
+604
+00:32:51,000 --> 00:32:53,000
+I brought you an espresso.
+
+605
+00:32:53,000 --> 00:32:57,000
+Anything the Doc hasn't killed off will be settled by the Captain's coffee.
+
+606
+00:32:57,000 --> 00:32:59,000
+I'm feeling fine, really.
+
+607
+00:32:59,000 --> 00:33:03,000
+So am I, but the Doc still got me doing tests, and I didn't drink the city.
+
+608
+00:33:03,000 --> 00:33:07,000
+She would have had the Captain up here too if you hadn't threatened her with the break.
+
+609
+00:33:07,000 --> 00:33:09,000
+She never doesn't have a break.
+
+610
+00:33:09,000 --> 00:33:11,000
+The Captain would find something.
+
+611
+00:33:11,000 --> 00:33:13,000
+At least you can move around.
+
+612
+00:33:13,000 --> 00:33:15,000
+Me, I'm stuck in here.
+
+613
+00:33:16,000 --> 00:33:18,000
+So what's going on?
+
+614
+00:33:18,000 --> 00:33:20,000
+Everybody's watching the biots.
+
+615
+00:33:20,000 --> 00:33:24,000
+That's what they call in your things, the crabs and spiders and sharks.
+
+616
+00:33:24,000 --> 00:33:26,000
+They're appearing all over now, hundreds of them.
+
+617
+00:33:26,000 --> 00:33:28,000
+Not that we're learning much.
+
+618
+00:33:28,000 --> 00:33:33,000
+Though I did hear that Calvert and Russo are looking for a pet to bring home to the Doc.
+
+619
+00:33:33,000 --> 00:33:35,000
+Good luck on that.
+
+620
+00:33:35,000 --> 00:33:38,000
+I'll settle for staying inside.
+
+621
+00:33:38,000 --> 00:33:42,000
+Hey, Ruby thanks for coming to get me.
+
+622
+00:33:42,000 --> 00:33:46,000
+It's okay, Jimmy. Wouldn't be the same around here without you.
+
+623
+00:33:46,000 --> 00:33:48,000
+Get well soon, mister.
+
+624
+00:33:48,000 --> 00:33:57,000
+Is that all they do? Look at things?
+
+625
+00:33:57,000 --> 00:33:59,000
+Seems to me...
+
+626
+00:33:59,000 --> 00:34:00,000
+Uh-oh.
+
+627
+00:34:00,000 --> 00:34:02,000
+What is that?
+
+628
+00:34:02,000 --> 00:34:04,000
+I don't know. An elephant digger?
+
+629
+00:34:04,000 --> 00:34:05,000
+What's an elephant?
+
+630
+00:34:05,000 --> 00:34:08,000
+Something big that could squash you. Well, I think it was.
+
+631
+00:34:08,000 --> 00:34:10,000
+Is that recycling the ground?
+
+632
+00:34:10,000 --> 00:34:13,000
+It's... it's yeah. Look, it's eating the...
+
+633
+00:34:13,000 --> 00:34:14,000
+Hey!
+
+634
+00:34:14,000 --> 00:34:18,000
+I think we just got our broken spider.
+
+635
+00:34:18,000 --> 00:34:23,000
+So let's get it back to the ship before some damn garbage crab eats it up.
+
+636
+00:34:23,000 --> 00:34:27,000
+So what is it, Laura?
+
+637
+00:34:27,000 --> 00:34:30,000
+Baffling, which is what you'd expect in the circumstance.
+
+638
+00:34:30,000 --> 00:34:33,000
+Machine or creature of some kind?
+
+639
+00:34:33,000 --> 00:34:37,000
+It's organic, though the chemistry differs from ours.
+
+640
+00:34:37,000 --> 00:34:42,000
+It contains considerable quantities of light metals, but I wouldn't call it an animal.
+
+641
+00:34:42,000 --> 00:34:43,000
+Because?
+
+642
+00:34:43,000 --> 00:34:46,000
+No mouth, no stomach, no gut, no blood system,
+
+643
+00:34:46,000 --> 00:34:51,000
+no way of ingesting food, no reproductive system and no heart.
+
+644
+00:34:51,000 --> 00:34:53,000
+Sounds like a lawyer to me.
+
+645
+00:34:53,000 --> 00:34:55,000
+Doesn't have a full bank account.
+
+646
+00:34:55,000 --> 00:34:56,000
+So what has it got?
+
+647
+00:34:56,000 --> 00:35:01,000
+Well, there's simple musculature controlling the three legs and the collecting limbs.
+
+648
+00:35:01,000 --> 00:35:06,000
+There's some sort of control or brain linked to the thing's triocular vision,
+
+649
+00:35:06,000 --> 00:35:08,000
+but mostly it's a battery.
+
+650
+00:35:08,000 --> 00:35:13,000
+Pretty much like you might see in a stingray on Earth, but not for defence, for power.
+
+651
+00:35:13,000 --> 00:35:15,000
+A scout of some kind?
+
+652
+00:35:15,000 --> 00:35:17,000
+Highly specialised, yes, that's what I'd say.
+
+653
+00:35:17,000 --> 00:35:21,000
+Not that it'd stop this one from crashing into something larger.
+
+654
+00:35:21,000 --> 00:35:24,000
+They're not perfect, just very specialised...
+
+655
+00:35:24,000 --> 00:35:25,000
+Tools?
+
+656
+00:35:25,000 --> 00:35:26,000
+No, you could say so.
+
+657
+00:35:26,000 --> 00:35:27,000
+And the toolmaker?
+
+658
+00:35:27,000 --> 00:35:28,000
+Captain?
+
+659
+00:35:28,000 --> 00:35:29,000
+Yes, Jerry.
+
+660
+00:35:29,000 --> 00:35:30,000
+Incoming message.
+
+661
+00:35:30,000 --> 00:35:31,000
+Bump it, will you?
+
+662
+00:35:31,000 --> 00:35:34,000
+Nor can do, sir. Priority red.
+
+663
+00:35:35,000 --> 00:35:38,000
+Norton, William. Captain UPSV Endeavour.
+
+664
+00:35:38,000 --> 00:35:41,000
+Clearance 3-3-2-5-7-005. Play.
+
+665
+00:35:41,000 --> 00:35:49,000
+Captain Norton, the Rama committee received the following communique from the government of Mercury 30 Earth minutes ago.
+
+666
+00:35:49,000 --> 00:35:56,000
+It is quite clear by now that some sort of biological or mechanical activity has been activated on the object known as Rama.
+
+667
+00:35:56,000 --> 00:36:00,000
+We must accept that Rama is in full operating condition.
+
+668
+00:36:00,000 --> 00:36:04,000
+In a very few hours it will be approaching perihelion.
+
+669
+00:36:04,000 --> 00:36:10,000
+The logical point to make course changes and initiate any plan it or its inhabitants have.
+
+670
+00:36:10,000 --> 00:36:16,000
+It is clear that Captain Norton and his crew have been unable to achieve any form of mutual contact at all.
+
+671
+00:36:16,000 --> 00:36:21,000
+We can only conclude that such contact is not part of Rama's plan.
+
+672
+00:36:21,000 --> 00:36:26,000
+So far the system has taken no steps to counter any such plan.
+
+673
+00:36:26,000 --> 00:36:31,000
+Rama is now in Mercury space and we do not intend to stay inactive.
+
+674
+00:36:31,000 --> 00:36:35,000
+We have warned, you have not listened. Now we shall act.
+
+675
+00:36:35,000 --> 00:36:42,000
+Captain, our latest information indicates that a missile has been launched that is approaching your position.
+
+676
+00:36:42,000 --> 00:36:47,000
+Carrying a fusion device of around 15,000 megatons.
+
+677
+00:36:47,000 --> 00:36:49,000
+That will destroy Rama.
+
+678
+00:36:49,000 --> 00:36:51,000
+Is that possible?
+
+679
+00:36:51,000 --> 00:36:57,000
+They routinely use devices in the 150-300 megaton range for mining operations. They could do it.
+
+680
+00:36:57,000 --> 00:37:01,000
+Would they do it, Aruna? Would they have the nerve to destroy Rama?
+
+681
+00:37:01,000 --> 00:37:07,000
+No problem at all, sir. If you know anything about conditions on Mercury, how hard the life is,
+
+682
+00:37:07,000 --> 00:37:10,000
+they are fueling the solar system and being ignored by it.
+
+683
+00:37:10,000 --> 00:37:13,000
+Well, that's not quite true. But they think it is and that's all that matters.
+
+684
+00:37:13,000 --> 00:37:19,000
+They can't do it. It's... it's blasphemy. Captain, you can't let it happen.
+
+685
+00:37:19,000 --> 00:37:24,000
+If they blow Rama, we'll be destroyed too. Unless we leave now.
+
+686
+00:37:24,000 --> 00:37:27,000
+Can't the UP exert some kind of pressure?
+
+687
+00:37:27,000 --> 00:37:35,000
+The UP don't know. No one knows except the Secretary General, the Rama Committee, whoever sent it, and us.
+
+688
+00:37:35,000 --> 00:37:39,000
+And I want to make it very clear, if we get out of this, no one must ever know.
+
+689
+00:37:39,000 --> 00:37:41,000
+But this is a crime of vast dimension.
+
+690
+00:37:41,000 --> 00:37:43,000
+It's not the first time that's happened in history, Riz.
+
+691
+00:37:43,000 --> 00:37:45,000
+Or the first time someone's got away with it.
+
+692
+00:37:45,000 --> 00:37:49,000
+There's a faction on Mercury who want a seed from the UP. Go it alone.
+
+693
+00:37:49,000 --> 00:37:50,000
+What?
+
+694
+00:37:50,000 --> 00:37:53,000
+They could do that, but the rest of the system couldn't do without their heavy metals.
+
+695
+00:37:53,000 --> 00:38:00,000
+If this news gets released, all those millions out there who want some kind of answer from Rama will insist Mercury is punished.
+
+696
+00:38:00,000 --> 00:38:02,000
+One cheer for democracy, then?
+
+697
+00:38:02,000 --> 00:38:05,000
+No, because that would mean war.
+
+698
+00:38:05,000 --> 00:38:08,000
+Our orders are clear. We stop the missile if we can, get out if we can't.
+
+699
+00:38:08,000 --> 00:38:11,000
+The system will be told Rama auto-destructed.
+
+700
+00:38:11,000 --> 00:38:14,000
+We have no idea what we're doing if we allow this, sir.
+
+701
+00:38:14,000 --> 00:38:19,000
+It's not just because I believe in Rama. You must see that.
+
+702
+00:38:19,000 --> 00:38:21,000
+What does it say about us as human beings?
+
+703
+00:38:21,000 --> 00:38:24,000
+Maybe that we're still around and the tiger and the whale and the rest of them aren't, Riz.
+
+704
+00:38:24,000 --> 00:38:26,000
+We have a duty...
+
+705
+00:38:26,000 --> 00:38:29,000
+To knowledge, if to nothing else.
+
+706
+00:38:29,000 --> 00:38:32,000
+If anyone has any practical suggestions, I'll be glad to hear them.
+
+707
+00:38:32,000 --> 00:38:35,000
+Otherwise, I expect you to carry out your orders.
+
+708
+00:38:35,000 --> 00:38:37,000
+Thank you, that is all.
+
+709
+00:38:37,000 --> 00:38:48,000
+Well, you wake up in the morning
+
+710
+00:38:48,000 --> 00:38:54,000
+You hear the work bell ring
+
+711
+00:38:54,000 --> 00:39:00,000
+And I march you to the table
+
+712
+00:39:00,000 --> 00:39:06,000
+You see the same old thing
+
+713
+00:39:06,000 --> 00:39:09,000
+Ain't no food upon the table
+
+714
+00:39:09,000 --> 00:39:11,000
+What is it?
+
+715
+00:39:11,000 --> 00:39:14,000
+We've been thinking about the missile, sir.
+
+716
+00:39:14,000 --> 00:39:15,000
+And?
+
+717
+00:39:15,000 --> 00:39:19,000
+There's no way to disarm the bomb without setting off what we assume would be a counter-trigger.
+
+718
+00:39:19,000 --> 00:39:21,000
+They've probably got at least three rigged.
+
+719
+00:39:21,000 --> 00:39:23,000
+I'd come to that conclusion myself.
+
+720
+00:39:23,000 --> 00:39:28,000
+But we doubt they'll have rigged the guidance and navigation systems either to self-destruct or counter-interfere.
+
+721
+00:39:28,000 --> 00:39:31,000
+There'll be programs in place, Ruz. Anti-antivirus, you name it.
+
+722
+00:39:31,000 --> 00:39:35,000
+They can stop anything we try to download, no doubt about it.
+
+723
+00:39:35,000 --> 00:39:38,000
+But not a bloody great wrench and pair of pliers.
+
+724
+00:39:38,000 --> 00:39:40,000
+What?
+
+725
+00:39:40,000 --> 00:39:41,000
+If Barnes can get me to the missile...
+
+726
+00:39:41,000 --> 00:39:43,000
+Match trajectories as it slows...
+
+727
+00:39:43,000 --> 00:39:45,000
+I can get in.
+
+728
+00:39:45,000 --> 00:39:49,000
+I can alter the navigation manually and send it off into the sun or wherever it's safe.
+
+729
+00:39:49,000 --> 00:39:53,000
+They'll have images, Ruz. They'll see what you're trying and they're not just going to sit and watch.
+
+730
+00:39:53,000 --> 00:39:59,000
+But by the time the signal reaches them, the job will be done and Ruz will be back on board.
+
+731
+00:39:59,000 --> 00:40:01,000
+And since nobody knows about it...
+
+732
+00:40:01,000 --> 00:40:03,000
+Nobody will miss it.
+
+733
+00:40:03,000 --> 00:40:06,000
+I can rig an EVA sled to get him there.
+
+734
+00:40:06,000 --> 00:40:10,000
+We can do this, sir.
+
+735
+00:40:10,000 --> 00:40:17,000
+If you do, and if you succeed, then beyond a very few people, nobody can know.
+
+736
+00:40:17,000 --> 00:40:23,000
+You realize that? No medals, no parades.
+
+737
+00:40:23,000 --> 00:40:29,000
+I believe Rama is important to all of us, sir. Even if we don't know why yet.
+
+738
+00:40:29,000 --> 00:40:31,000
+Barnes?
+
+739
+00:40:31,000 --> 00:40:35,000
+It's the job. It's what we do.
+
+740
+00:40:35,000 --> 00:40:39,000
+Very well. I'll let you know.
+
+741
+00:40:39,000 --> 00:40:42,000
+Thank you.
+
+742
+00:40:42,000 --> 00:40:45,000
+You said what? I haven't made my mind up yet.
+
+743
+00:40:45,000 --> 00:40:48,000
+Don't hang around, Bill, one way or the other.
+
+744
+00:40:48,000 --> 00:40:53,000
+What if they're right on Mercury? What if Rama's intentions are hostile?
+
+745
+00:40:53,000 --> 00:40:58,000
+I told Riso a couple of weeks ago that we don't base decisions on belief, but on what we know.
+
+746
+00:40:58,000 --> 00:41:00,000
+Is that why he's going out there?
+
+747
+00:41:00,000 --> 00:41:05,000
+If he's going, it's because I'll send him. The decision is mine.
+
+748
+00:41:05,000 --> 00:41:09,000
+And?
+
+749
+00:41:09,000 --> 00:41:18,000
+Approaching now.
+
+750
+00:41:18,000 --> 00:41:23,000
+The missile is moving into a geosynchronous orbit relative to Rama.
+
+751
+00:41:23,000 --> 00:41:26,000
+You should be able to lock on, Rus.
+
+752
+00:41:26,000 --> 00:41:32,000
+I can do that. I can do that.
+
+753
+00:41:32,000 --> 00:41:35,000
+Locked on now.
+
+754
+00:41:35,000 --> 00:41:42,000
+Can you dock about halfway along? There should be access panels.
+
+755
+00:41:42,000 --> 00:41:45,000
+Docking.
+
+756
+00:41:45,000 --> 00:41:48,000
+That's good, Rus.
+
+757
+00:41:48,000 --> 00:41:57,000
+I can see four, five, six access panels.
+
+758
+00:41:57,000 --> 00:42:07,000
+You're going to need to open the third from the prowl. It will be marked with one of those Ts they use on Mercury. Do you have that?
+
+759
+00:42:07,000 --> 00:42:14,000
+I have that. And we were right. It's a Spanner job.
+
+760
+00:42:14,000 --> 00:42:23,000
+There should be four locking bolts recessed on the panels.
+
+761
+00:42:23,000 --> 00:42:32,000
+I've got them. I'm starting on them now.
+
+762
+00:42:32,000 --> 00:42:37,000
+The panel is free. It's on a tether, but it's free now.
+
+763
+00:42:37,000 --> 00:42:42,000
+I can see my way inside. Not a lot of space.
+
+764
+00:42:42,000 --> 00:42:44,000
+It should be enough.
+
+765
+00:42:44,000 --> 00:42:47,000
+How's he doing, Barnes?
+
+766
+00:42:47,000 --> 00:42:49,000
+Going in now.
+
+767
+00:42:49,000 --> 00:42:54,000
+Can you reach the upper left panel?
+
+768
+00:42:54,000 --> 00:43:03,000
+Trying. It's a tight fit. It's... OK, I have it. The core is exposed.
+
+769
+00:43:03,000 --> 00:43:11,000
+Copy that. Now you're going to have to dump the files and manually take over the guidance system.
+
+770
+00:43:11,000 --> 00:43:17,000
+Yes. I can see that.
+
+771
+00:43:17,000 --> 00:43:22,000
+I'm dumping the files. Starting to dump the files.
+
+772
+00:43:22,000 --> 00:43:26,000
+OK. You have declension and right ascension.
+
+773
+00:43:26,000 --> 00:43:29,000
+Let's send this thing into a star, Barnes.
+
+774
+00:43:29,000 --> 00:43:31,000
+Fine by me. Captain?
+
+775
+00:43:31,000 --> 00:43:34,000
+Go ahead, Ruse.
+
+776
+00:43:34,000 --> 00:43:40,000
+It's done. I have override on the ignition control.
+
+777
+00:43:40,000 --> 00:43:45,000
+I've got enough fuel left here for one good kick. That'll send us on our way.
+
+778
+00:43:45,000 --> 00:43:47,000
+Time to get out now.
+
+779
+00:43:47,000 --> 00:43:50,000
+That's good, Ruse. Now you need to get clear.
+
+780
+00:43:50,000 --> 00:43:55,000
+Ah... that's not going to be possible, Barnes.
+
+781
+00:43:55,000 --> 00:43:59,000
+The drive will ignite, but the nav system is strictly manual.
+
+782
+00:43:59,000 --> 00:44:05,000
+I had to cut out too many connections. It won't work without someone at the wheel.
+
+783
+00:44:05,000 --> 00:44:11,000
+I'm going to have to fly this mother home. Be like Jimmy and the dragonfly, yeah?
+
+784
+00:44:11,000 --> 00:44:13,000
+We can rig something.
+
+785
+00:44:13,000 --> 00:44:15,000
+I'll call before they get the news back on Mercury.
+
+786
+00:44:15,000 --> 00:44:18,000
+Ruse, this is the Captain. I want you to return.
+
+787
+00:44:18,000 --> 00:44:23,000
+Sir, you know once they see what we're doing, they're going to blow the bomb.
+
+788
+00:44:23,000 --> 00:44:27,000
+Either I take it clear now, or Rama and Endeavour are dust.
+
+789
+00:44:27,000 --> 00:44:33,000
+That isn't going to happen.
+
+790
+00:44:33,000 --> 00:44:38,000
+You know that's the case, Captain.
+
+791
+00:44:38,000 --> 00:44:42,000
+Adieu, Lieutenant.
+
+792
+00:44:42,000 --> 00:44:47,000
+Permission to proceed, sir.
+
+793
+00:44:47,000 --> 00:44:48,000
+You may proceed, Mr. Russell.
+
+794
+00:44:48,000 --> 00:44:51,000
+Bruce, we can think of something else.
+
+795
+00:44:51,000 --> 00:44:59,000
+No, you can't, Ruby. Sometimes there's just no choice.
+
+796
+00:44:59,000 --> 00:45:06,000
+Rousseau, out.
+
+797
+00:45:06,000 --> 00:45:11,000
+Oh my God, he did that.
+
+798
+00:45:11,000 --> 00:45:13,000
+How did they ever keep his secret?
+
+799
+00:45:13,000 --> 00:45:18,000
+They kept a lot secret. They always do, Mr. Quok. It's sometimes necessary.
+
+800
+00:45:18,000 --> 00:45:20,000
+But now you know.
+
+801
+00:45:20,000 --> 00:45:22,000
+Not sure that I wanted to.
+
+802
+00:45:22,000 --> 00:45:25,000
+I need someone else to know about Peter Rousseau.
+
+803
+00:45:25,000 --> 00:45:31,000
+What he did should be kept alive somewhere, someplace. Someone should always know about it.
+
+804
+00:45:31,000 --> 00:45:34,000
+Did they blow the missile when they found out?
+
+805
+00:45:34,000 --> 00:45:45,000
+In the end, no. From what Aruna Kalva told me later, when they realised Rousseau was aboard and taking it into the sun, the independence faction lost ground, lost votes.
+
+806
+00:45:45,000 --> 00:45:49,000
+Some of them, I believe, lost their lives.
+
+807
+00:45:49,000 --> 00:45:52,000
+That election on Mercury was really a coup?
+
+808
+00:45:52,000 --> 00:45:58,000
+Perhaps. A very democratic one. But things changed.
+
+809
+00:45:58,000 --> 00:46:03,000
+And Rama, you went back one last time before you left, didn't you?
+
+810
+00:46:03,000 --> 00:46:05,000
+Yes.
+
+811
+00:46:05,000 --> 00:46:12,000
+And you saw something. Something neither you nor anyone else has ever talked about.
+
+812
+00:46:12,000 --> 00:46:15,000
+What did you see, Captain?
+
+813
+00:46:15,000 --> 00:46:19,000
+We went back to the area we called London.
+
+814
+00:46:19,000 --> 00:46:25,000
+Barnes had rigged a laser torch he thought might get us through the walls of one of the buildings.
+
+815
+00:46:25,000 --> 00:46:27,000
+You think the Biotts might try and stop us?
+
+816
+00:46:27,000 --> 00:46:29,000
+We're about to find out.
+
+817
+00:46:29,000 --> 00:46:34,000
+I reckon they think we're Romans. Like they're working for us, not against us.
+
+818
+00:46:34,000 --> 00:46:37,000
+I don't think they can tell the difference between one gas breather and another.
+
+819
+00:46:37,000 --> 00:46:38,000
+That would make sense.
+
+820
+00:46:38,000 --> 00:46:41,000
+I hope it makes sense. Because they still make me feel weird.
+
+821
+00:46:41,000 --> 00:46:49,000
+They're just things, Jimmy. At least, I think they're things. Are they things? Do they think they're things? Do they think?
+
+822
+00:46:49,000 --> 00:46:56,000
+You know I hate philosophy. Give me a laser torch any time.
+
+823
+00:46:56,000 --> 00:46:57,000
+Done.
+
+824
+00:46:57,000 --> 00:46:58,000
+Nice work, Ruby.
+
+825
+00:46:58,000 --> 00:47:00,000
+There's your doorway, sir.
+
+826
+00:47:00,000 --> 00:47:10,000
+Jerry, Laura, you're with me. Barnes and Jimmy run out the lines. If we call, follow us in fast.
+
+827
+00:47:10,000 --> 00:47:17,000
+Looks like a glass forest, sir. But there's nothing alive in here, I'm sure of it.
+
+828
+00:47:17,000 --> 00:47:22,000
+If we can be sure of anything in this place.
+
+829
+00:47:22,000 --> 00:47:30,000
+It's like music. Touch one of the crystal columns.
+
+830
+00:47:30,000 --> 00:47:34,000
+And if you rub...
+
+831
+00:47:34,000 --> 00:47:37,000
+What's that?
+
+832
+00:47:37,000 --> 00:47:38,000
+There's something in there.
+
+833
+00:47:38,000 --> 00:47:44,000
+And all of them. Indistinct. Are these holograms?
+
+834
+00:47:44,000 --> 00:47:46,000
+What is this stuff?
+
+835
+00:47:46,000 --> 00:47:53,000
+I think they're tools, Jerry. Like the Bionts, tools they used. Or maybe we'll use one day.
+
+836
+00:47:53,000 --> 00:47:55,000
+Like a museum?
+
+837
+00:47:55,000 --> 00:48:00,000
+No. Like a catalogue.
+
+838
+00:48:00,000 --> 00:48:04,000
+This is definitely some kind of instrument.
+
+839
+00:48:04,000 --> 00:48:06,000
+For a very strange kind of hand.
+
+840
+00:48:06,000 --> 00:48:08,000
+A beggar. With three digits.
+
+841
+00:48:08,000 --> 00:48:11,000
+Waiting to be picked up and used when necessary.
+
+842
+00:48:11,000 --> 00:48:13,000
+Makes you shiver, doesn't it?
+
+843
+00:48:13,000 --> 00:48:16,000
+Like maybe a ramen might wander in at any moment.
+
+844
+00:48:16,000 --> 00:48:18,000
+Barnes here. Progress report.
+
+845
+00:48:18,000 --> 00:48:20,000
+We're fine, Barnes.
+
+846
+00:48:20,000 --> 00:48:24,000
+Moving through the columns now, they seem to go on.
+
+847
+00:48:24,000 --> 00:48:30,000
+No, wait. There's a central space. Difficult to make out.
+
+848
+00:48:30,000 --> 00:48:36,000
+We're going to investigate it.
+
+849
+00:48:36,000 --> 00:48:38,000
+What is that?
+
+850
+00:48:38,000 --> 00:48:42,000
+Can you see into there? Is that refraction?
+
+851
+00:48:42,000 --> 00:48:46,000
+It's from the columns. They're amassing light.
+
+852
+00:48:46,000 --> 00:48:48,000
+I don't know how else to put it.
+
+853
+00:48:48,000 --> 00:48:53,000
+They're directing it towards that area.
+
+854
+00:48:53,000 --> 00:48:57,000
+All right, I'm going in.
+
+855
+00:48:57,000 --> 00:48:58,000
+Stay clear, both of you.
+
+856
+00:48:58,000 --> 00:49:03,000
+Is that safe, sir?
+
+857
+00:49:03,000 --> 00:49:07,000
+Sir?
+
+858
+00:49:07,000 --> 00:49:12,000
+This is Barnes. Something's happening. You need to get out of there. We need to leave.
+
+859
+00:49:12,000 --> 00:49:16,000
+Calvert calls from Endeavour. It looks like Rama is realigning itself.
+
+860
+00:49:16,000 --> 00:49:18,000
+Increased power line activity at the south pole.
+
+861
+00:49:18,000 --> 00:49:20,000
+Storm coming up.
+
+862
+00:49:20,000 --> 00:49:26,000
+Endeavour Actual, watching the red gyro. A micro-radiant per second. She's definitely turning.
+
+863
+00:49:26,000 --> 00:49:31,000
+We're pulling out now. Barnes, when we reach the slides, can your sled take us all?
+
+864
+00:49:31,000 --> 00:49:33,000
+With no extras. Just about.
+
+865
+00:49:33,000 --> 00:49:37,000
+Endeavour Actual, five micro-rads. You have to move faster, people.
+
+866
+00:49:37,000 --> 00:49:40,000
+This shouldn't be happening now. Too far away from perihelion.
+
+867
+00:49:40,000 --> 00:49:43,000
+Maybe Rama has different ideas. Maybe we should have let the bomb through.
+
+868
+00:49:43,000 --> 00:49:45,000
+Sounds like a warning. If ever I heard one.
+
+869
+00:49:45,000 --> 00:49:50,000
+Endeavour Actual, hub control cams are showing me the biot's heading back towards the water.
+
+870
+00:49:50,000 --> 00:49:54,000
+They're toppling over, falling in. It's incredible.
+
+871
+00:49:54,000 --> 00:49:55,000
+Keep up, Jimmy.
+
+872
+00:49:55,000 --> 00:50:01,000
+There goes a digger. A whole pack of spiders. This is crazy. I'm losing the signal.
+
+873
+00:50:01,000 --> 00:50:06,000
+Endeavour, we're heading back, Aruna. We're on our way. Make sure the ship's fully prepped.
+
+874
+00:50:06,000 --> 00:50:11,000
+Endeavour Actual, copy that. Ready to fly. Ten micro-rads.
+
+875
+00:50:11,000 --> 00:50:21,000
+She's turned 15 degrees.
+
+876
+00:50:21,000 --> 00:50:22,000
+Steady now.
+
+877
+00:50:22,000 --> 00:50:27,000
+Calvert, keep us in Rama's shadow. I don't want to be in direct sunlight until we have no choice.
+
+878
+00:50:27,000 --> 00:50:33,000
+Very good, sir. Rotating. Hold on. Hold on, we're rolling. I'm not doing that.
+
+879
+00:50:33,000 --> 00:50:35,000
+That's not us. Something else has control of the ship.
+
+880
+00:50:35,000 --> 00:50:37,000
+I'm getting no instrument readings.
+
+881
+00:50:37,000 --> 00:50:39,000
+Look at the stars. We're definitely spinning.
+
+882
+00:50:39,000 --> 00:50:40,000
+Jerry, are the right gyros operating?
+
+883
+00:50:40,000 --> 00:50:42,000
+Zero jitter, but Calvert's right. We are rolling.
+
+884
+00:50:42,000 --> 00:50:44,000
+Barnes Engineering, we're rolling.
+
+885
+00:50:44,000 --> 00:50:45,000
+Impossible.
+
+886
+00:50:45,000 --> 00:50:47,000
+There goes Sirius across the port screen.
+
+887
+00:50:47,000 --> 00:50:50,000
+Since the stars can't be moving, we must be.
+
+888
+00:50:50,000 --> 00:50:52,000
+Nothing shows any degree of turn.
+
+889
+00:50:52,000 --> 00:50:54,000
+I'm not feeling anything. I always feel it when we turn.
+
+890
+00:50:54,000 --> 00:50:59,000
+It has to be an incredibly powerful gravitational field. Nothing less could do it.
+
+891
+00:50:59,000 --> 00:51:01,000
+Here comes the sun. Shields down, please.
+
+892
+00:51:01,000 --> 00:51:02,000
+Rama's moving.
+
+893
+00:51:02,000 --> 00:51:08,000
+She's generating the field. It's Rama. We're locked in relative to her. As she realigns, so do we.
+
+894
+00:51:08,000 --> 00:51:09,000
+Shields are down.
+
+895
+00:51:09,000 --> 00:51:10,000
+What's the Doppler?
+
+896
+00:51:10,000 --> 00:51:14,000
+Definitely accelerating. 0.015 and increasing.
+
+897
+00:51:14,000 --> 00:51:19,000
+Endeavour's slowing. We're steady. Steady now. Rama, let us go.
+
+898
+00:51:19,000 --> 00:51:21,000
+We have zero roll.
+
+899
+00:51:21,000 --> 00:51:23,000
+We need to get out of here or we're going to burn up.
+
+900
+00:51:23,000 --> 00:51:26,000
+Course laid in, Sir. Jimmy, are you all right?
+
+901
+00:51:26,000 --> 00:51:28,000
+I'm okay. I'm fine. I can do this.
+
+902
+00:51:28,000 --> 00:51:30,000
+Very well. Let's go home.
+
+903
+00:51:30,000 --> 00:51:32,000
+I checked out Rama's change of course.
+
+904
+00:51:32,000 --> 00:51:33,000
+Go ahead.
+
+905
+00:51:33,000 --> 00:51:36,000
+It's going to take her straight into the sun.
+
+906
+00:51:36,000 --> 00:51:39,000
+This is the final meeting of the Rama Committee.
+
+907
+00:51:39,000 --> 00:51:44,000
+The new ambassador for Mercury has not yet arrived on Luna and sends her apologies.
+
+908
+00:51:44,000 --> 00:51:46,000
+And what happened to Henning?
+
+909
+00:51:46,000 --> 00:51:49,000
+I'm afraid I have no information on the ex-ambassador's whereabouts.
+
+910
+00:51:49,000 --> 00:51:53,000
+Probably somewhere in a molten river on Mercury.
+
+911
+00:51:53,000 --> 00:51:54,000
+Do you know that for a fact?
+
+912
+00:51:54,000 --> 00:51:58,000
+I know nothing for a fact, since nothing in fact actually happened.
+
+913
+00:51:58,000 --> 00:52:03,000
+I take it we are all agreed, as is the UP, that there can be no mention of the missile threat?
+
+914
+00:52:03,000 --> 00:52:04,000
+Yes.
+
+915
+00:52:04,000 --> 00:52:05,000
+Agreed.
+
+916
+00:52:05,000 --> 00:52:08,000
+Which brings us to Commander Norton's final report.
+
+917
+00:52:08,000 --> 00:52:12,000
+His observations are verified by our instruments.
+
+918
+00:52:12,000 --> 00:52:17,000
+Parts of the report still due to sunspot activities are less than perfectly clear.
+
+919
+00:52:17,000 --> 00:52:21,000
+Survey vessel Endeavour standing off to observe Rama's final moments.
+
+920
+00:52:21,000 --> 00:52:25,000
+And as you can see once again, she is surprising us.
+
+921
+00:52:25,000 --> 00:52:28,000
+The object is spinning some manner of cocoon,
+
+922
+00:52:28,000 --> 00:52:33,000
+enclosing itself within a shield of what resembles threads of light.
+
+923
+00:52:33,000 --> 00:52:34,000
+Its speed is increasing.
+
+924
+00:52:34,000 --> 00:52:37,000
+We wonder if it's in some way using the mass or energy of the sun.
+
+925
+00:52:37,000 --> 00:52:38,000
+We simply don't know.
+
+926
+00:52:38,000 --> 00:52:40,000
+We're tracking the course.
+
+927
+00:52:40,000 --> 00:52:41,000
+It's gone.
+
+928
+00:52:41,000 --> 00:52:42,000
+It's gone. It's gone.
+
+929
+00:52:42,000 --> 00:52:44,000
+Rama has gone.
+
+930
+00:52:44,000 --> 00:52:50,000
+What we can see is a perfectly spherical ball reflecting the sunlight,
+
+931
+00:52:50,000 --> 00:52:52,000
+still keeping the same course.
+
+932
+00:52:52,000 --> 00:52:55,000
+The sphere's beginning to elongate.
+
+933
+00:52:55,000 --> 00:52:59,000
+The pressure that close to the sun must be tremendous.
+
+934
+00:52:59,000 --> 00:53:01,000
+The elongation is continuing.
+
+935
+00:53:01,000 --> 00:53:05,000
+If I didn't know better, I'd say it looks like a tunnel of light
+
+936
+00:53:05,000 --> 00:53:08,000
+passing close around the sun, picking up speed all the time.
+
+937
+00:53:08,000 --> 00:53:11,000
+Ten thousand k's a second and climbing.
+
+938
+00:53:11,000 --> 00:53:14,000
+The direction of motion is changing.
+
+939
+00:53:14,000 --> 00:53:17,000
+It must be tapping fast energies.
+
+940
+00:53:17,000 --> 00:53:19,000
+It's dropping out of the ecliptic.
+
+941
+00:53:19,000 --> 00:53:20,000
+It's heading out.
+
+942
+00:53:20,000 --> 00:53:21,000
+It's heading out.
+
+943
+00:53:21,000 --> 00:53:25,000
+Rama is heading out into deep space.
+
+944
+00:53:25,000 --> 00:53:31,000
+I think that answers any questions about propulsion.
+
+945
+00:53:31,000 --> 00:53:33,000
+And harm.
+
+946
+00:53:33,000 --> 00:53:35,000
+Rama was a visitor, no more or less.
+
+947
+00:53:35,000 --> 00:53:37,000
+And an enigma.
+
+948
+00:53:37,000 --> 00:53:41,000
+That does bring us to a rather important question.
+
+949
+00:53:41,000 --> 00:53:46,000
+The system, much of it at least, is waiting for a revelation.
+
+950
+00:53:46,000 --> 00:53:48,000
+What do we say to them?
+
+951
+00:53:48,000 --> 00:53:55,000
+And the secret at the heart of Rama.
+
+952
+00:53:55,000 --> 00:53:56,000
+You were there.
+
+953
+00:53:56,000 --> 00:54:00,000
+You alone know what happened.
+
+954
+00:54:00,000 --> 00:54:03,000
+You went into the light.
+
+955
+00:54:03,000 --> 00:54:06,000
+What did you find there?
+
+956
+00:54:06,000 --> 00:54:09,000
+I found nothing.
+
+957
+00:54:09,000 --> 00:54:11,000
+A bright space, that's all.
+
+958
+00:54:11,000 --> 00:54:13,000
+Could have been a kitchen.
+
+959
+00:54:13,000 --> 00:54:14,000
+A waiting room.
+
+960
+00:54:14,000 --> 00:54:16,000
+No aliens, no discoveries.
+
+961
+00:54:16,000 --> 00:54:17,000
+No answers.
+
+962
+00:54:17,000 --> 00:54:20,000
+Because there are no answers to find, Mr. Kwok.
+
+963
+00:54:20,000 --> 00:54:23,000
+That's the secret they've been keeping.
+
+964
+00:54:23,000 --> 00:54:29,000
+Rama was an incredibly sophisticated machine, that's all.
+
+965
+00:54:29,000 --> 00:54:31,000
+No miracles, no revelations.
+
+966
+00:54:31,000 --> 00:54:35,000
+No one's coming to save us or teach us eternal truths.
+
+967
+00:54:37,000 --> 00:54:41,000
+Humanity's going to have to grow up and accept that there's nothing magical out there.
+
+968
+00:54:41,000 --> 00:54:46,000
+Just creatures, more or less, like us, who build ships that we can't conceive of yet.
+
+969
+00:54:46,000 --> 00:54:48,000
+But we will.
+
+970
+00:54:48,000 --> 00:54:53,000
+One day, maybe millions of years in the future, we'll be Ramans too.
+
+971
+00:54:53,000 --> 00:54:57,000
+And then the galaxies will be open to us.
+
+972
+00:54:57,000 --> 00:55:02,000
+Do you really think the system is ready to hear that message?
+
+973
+00:55:02,000 --> 00:55:07,000
+No, Mr. Kwok. I think they'd rather believe in the conspiracy.
+
+974
+00:55:07,000 --> 00:55:11,000
+Hell, they'd rather believe in anything at all than themselves.
+
+975
+00:55:11,000 --> 00:55:18,000
+It's starting to rain. The storm's here.
+
+976
+00:55:18,000 --> 00:55:21,000
+Thank you for listening, Mr. Kwok.
+
+977
+00:55:21,000 --> 00:55:26,000
+I'm almost sorry I won't be around to see what you do with what you know.
+
+978
+00:55:26,000 --> 00:55:29,000
+Thank you for your time, Captain.
+
+979
+00:55:31,000 --> 00:55:34,000
+One thing did occur to me.
+
+980
+00:55:34,000 --> 00:55:36,000
+What's that?
+
+981
+00:55:36,000 --> 00:55:40,000
+Ramans do everything in threes.
+
+982
+00:55:40,000 --> 00:55:43,000
+Watch the skies.
+
+983
+00:55:59,000 --> 00:56:03,000
+In Part 2 of Rendezvous with Rama by Arthur C. Clarke,
+
+984
+00:56:03,000 --> 00:56:07,000
+the crew were Captain Norton, played by Richard DeLay,
+
+985
+00:56:07,000 --> 00:56:10,000
+Rousseau by Jimmy Akinbola,
+
+986
+00:56:10,000 --> 00:56:13,000
+Jerry in Amirza,
+
+987
+00:56:13,000 --> 00:56:15,000
+Barnes, Janice Acqua,
+
+988
+00:56:15,000 --> 00:56:18,000
+Jimmy Pack, Robert Lonsdale,
+
+989
+00:56:18,000 --> 00:56:21,000
+Dr. Ernst, Anja Sawinski,
+
+990
+00:56:21,000 --> 00:56:24,000
+and Calvert, Aunty Punjabi.
+
+991
+00:56:24,000 --> 00:56:28,000
+The Rama committee were Gopal, played by Shelley King,
+
+992
+00:56:28,000 --> 00:56:31,000
+Henning, Paul Ryder,
+
+993
+00:56:31,000 --> 00:56:33,000
+Ruiz, Jill Cardo,
+
+994
+00:56:33,000 --> 00:56:35,000
+Earl King, Peter Marinka,
+
+995
+00:56:35,000 --> 00:56:38,000
+and Tan Sood was Jonathan Tafler.
+
+996
+00:56:38,000 --> 00:56:43,000
+Lee Kwok was played by Paul Courtney-Hugh.
+
+997
+00:56:43,000 --> 00:56:47,000
+Rendezvous with Rama was dramatized for radio by Mike Walker,
+
+998
+00:56:47,000 --> 00:56:50,000
+and the director was Mark Beebe.
+
+999
+00:56:51,000 --> 00:56:54,000
+[music]
+
+1000
+00:56:55,000 --> 00:56:58,000
+[music fades]
+
