@@ -1,0 +1,40 @@
+Your info - disny9#1616
+Subscription:               None (Trial)
+Job Mode:                   Fast
+Visibility Mode:            Public
+Fast Time Remaining:        25.00 minutes
+Lifetime Usage:             0 images (0.00 hours)
+Relaxed Usage:              0 images (0.00 hours)
+
+Queued Jobs (fast):         0
+Queued Jobs (relax):        0
+Running Jobs:               None
+
+Large and round eyes on a girl's face, close-up, with relections in black pupils.
+
+Midjourney Bot
+BOT
+ — 
+Today at 3:56 PM
+Heya @disny9, we're excited to have you as part of the Midjourney Beta!
+
+To expand our community sustainably, we give everyone ~25 free queries and then several options for a paid memberships.
+- Paid memberships include unlimited generations (or limited w/ a cheap tier), full community access and generous commercial terms.
+- At any time you're welcome to join our central community server at https://discord.gg/midjourney
+
+DIRECTIONS (PLEASE READ)
+To create images 
+- Go to a channel with the bot (or #newbies channels on our central server)
+- Type /imagine and then whatever you want
+- The bot will send you 4 images in 60 seconds
+- Click numbered buttons underneath to get upscales (U) and variations (V)
+
+Other important tips
+- For visual guides and docs  https://docs.midjourney.com/docs/quick-start
+- When your trial ends type /subscribe or go to https://midjourney.com/account
+- To see your creations and top rated examples sign into our main site https://midjourney.com/
+- Need help? Ask your friends! Or go to our central server and click #trial-support
+- Other useful commands /info for account details /settings for settings and /help for an overview
+
+By using our service you agree to our terms of service and community standards
+https://docs.midjourney.com/docs/terms-of-service
