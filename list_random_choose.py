@@ -1,12 +1,12 @@
 import pandas as pd
 import re
 
-source = r"C:\Users\mike.shen\OneDrive - Loscam\Temp\Transcr\list_new.xlsx"
+source = "list_new.xlsx"
 n = 5
 
 # 要过滤的内容
 patt_list = ["~", "未完", "disk", "disc", "mp3", "缺", "补", "iplayer", "audio book", "audio drama", "webrip", "volume", "pdf", "BBC Drama"]
-patt_list_re = [r"CD\d", r"0\d", r"\d\.", r"\d --"]
+patt_list_re = [r"CD\d", r"0\d", r"\d\.", r"\d --", r"\(\d{2,3}K [^)]+\)"]
 
 # 把要过滤的内容用"|"符号合并，以便在pandas中用正则表达式替换。re.escape用于自动处理特殊字符的转义
 patt = "|".join(map(re.escape, patt_list)) + "|" + "|".join(patt_list_re)
