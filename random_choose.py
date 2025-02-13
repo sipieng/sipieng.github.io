@@ -18,11 +18,9 @@ df = (
     .drop_duplicates()
     .assign(路径=df['路径'].str.rsplit("\\", n=1).str[-1])  # 提取反斜杠后的内容
 )
-df = df[~df['路径'].str.contains(patt, case=False, regex=True)] # 过滤不需要的内容
+df = df[~df['路径'].str.contains(patt, case=False, regex=True)] # 过滤不需要的内容，`~`表示取反，即不包含
 print(f"\n总数：{len(df)}条，随机抽取{n}条\n=========================")
 
 selection = df['路径'].sample(n).tolist()
 for i in selection:
     print(i)
-
-# df.to_excel(r"C:\Users\mike.shen\Desktop\sss.xlsx", index=False)
