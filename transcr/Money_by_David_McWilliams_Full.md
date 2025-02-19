@@ -1,4 +1,11 @@
-## Episode 1
+- [Episode 1: A Plutophyte Species](#episode-1-a-plutophyte-species)
+- [Episode 2: The Secret Saracen Tool](#episode-2-the-secret-saracen-tool)
+- [Episode 3: Friends in High Places](#episode-3-friends-in-high-places)
+- [Episode 4: Until the Pips Squeak](#episode-4-until-the-pips-squeak)
+- [Episode 5: Cheap British Beer](#episode-5-cheap-british-beer)
+
+
+## Episode 1: A Plutophyte Species
 
 The Ishango Bone dates from around 18,000 years BCE. Discovered on the banks of the Congo in 1950, it is a baboon's **femur** with a series of tiny little cut-out notches. Archaeologists are divided over the artefact's purpose, but it is speculated that each notch indicates an amount owed by someone to somebody else. If the Ishango Bone was indeed a commercial tally stick, its notches also represent the first known example of value, a highly sophisticated concept.
 
@@ -89,7 +96,7 @@ Just as the expansion of the empire took time, the disintegration happened gradu
 
 ---
 
-## Episode 2
+## Episode 2: The Secret Saracen Tool
 
 In the summer of 1185, a young man stood on the **quay** where the Black Death would, years later, slip silently into Europe. The Sicilian port of Messina was a hub of international trade. North African merchants hawked Eastern spices and **saffron** heading west. The local wheat, bound for Europe to the north, shared the same quay with leathers and **ceramics** on their way south.
 
@@ -140,7 +147,7 @@ This alliance would lead to a questioning of everything that had gone before, an
 
 ---
 
-## Episode 3
+## Episode 3: Friends in High Places
 
 In April 1694, things weren't looking great for a hell-raising Scot, John Law. He'd blown his inheritance on gambling and possibly other delights of the night. His disappointed mother had to bail him out, and now he was going to break the news to her that he had just killed a man. Only 23, John Law was doomed, or was he?
 
@@ -186,45 +193,71 @@ In the years immediately after the collapse of the Mississippi Company scheme, F
 
 ---
 
-## Episode 4
+## Episode 4: Until the Pips Squeak
 
 In September 1922, a young journalist crossed the Rhine from the French city of Strasbourg to Kiel, the neighbouring German town. Based in Paris, he was writing for the Toronto Star. In his soon-to-be-famous matter-of-fact style, Ernest Hemingway explained to his readers the reality of a society where money is destroyed.
 
 When he arrived in Strasbourg, he noticed that nobody was selling German marks. On the German side, he changed 10 francs, less than one Canadian dollar, for 670 marks which, and I quote, lasted me and Mrs Hemingway for a day of heavy spending and we still had marks left at the end. The writer tells of witnessing an elderly German gentleman who couldn't afford to buy an apple for only 12 marks.
 
-Hemingway summed up the dilemma of the majority of Germans in 1922 who were dependent on wages or pensions and who had put their savings into government bonds. Their livelihood was being destroyed by hyperinflation. If on the other hand, you could get your hands on foreign currency, even a German could live like a king. Hemingway observed, the miracle of exchange makes a swinish spectacle where the youth of the town of Strasbourg crowd into a German pastry shop to eat themselves sick.
+Hemingway summed up the dilemma of the majority of Germans in 1922 who were dependent on wages or pensions and who had put their savings into government bonds. Their livelihood was being destroyed by hyperinflation.
 
-Hemingway was witnessing a society destroying its money and breaking one of the fundamental bonds between the state and its citizens. You save your money and we will protect it. That civic responsibility was forced to be abandoned in the opening years of the Weimar Republic as Germany descended into one of the most destructive episodes of monetary self-harm in history. In the most successful economy in Europe, how was it possible that an elderly gentleman couldn't afford the price of an apple?
+If on the other hand, you could get your hands on foreign currency, even a German could live like a king. Hemingway observed, the miracle of exchange makes a swinish spectacle where the youth of the town of Strasbourg crowd into a German pastry shop to eat themselves sick.
 
-In 1914, Imperial Germany decided to pay for the First World War by borrowing from its citizens. Confident in victory, Germany exchanged people's savings for IOUs *("I Owe You"的缩写，是一种非正式的欠条，通常写明欠款金额和偿还条件。在这里，IOU指的是德国政府发行的战争债券。)*, which offered generous interest rates. And right up to the end, the German people thought they were winning the war and that they would all be paid back.
+Hemingway was witnessing a society destroying its money and breaking one of the fundamental bonds between the state and its citizens. You save your money and we will protect it. That civic responsibility was forced to be abandoned in the opening years of the Weimar Republic as Germany descended into one of the most destructive episodes of monetary self-harm in history.
+
+In the most successful economy in Europe, how was it possible that an elderly gentleman couldn't afford the price of an apple?
+
+In 1914, Imperial Germany decided to pay for the First World War by borrowing from its citizens. Confident in victory, Germany exchanged people's savings for **IOUs**, which offered generous interest rates. And right up to the end, the German people thought they were winning the war and that they would all be paid back.
+
+*[IOUs]: "I Owe You"的缩写，是一种非正式的欠条，通常写明欠款金额和偿还条件。在这里，IOU指的是德国政府发行的战争债券。
 
 After the war, the new Weimar Republic was born saddled with enormous war debts. At Versailles, there was little appetite for forgiveness. Britain and France wanted the new Germany to be punished for the crimes of the old Germany. Meanwhile, America wanted Germany to pay so that it could recoup the loans that it had extended to the other Allies. In 1914, Britain was the world's banker, but the US emerged after the war as the world's undisputed creditor. This global shift in the power of money, from London to New York, would define the world's monetary relations for the next century.
 
 During the general election campaign of 1918, Prime Minister Lloyd George promised to squeeze defeated Germany like a lemon until the pips squeak. It was inconceivable that the German economy, home of pre-war probity, discipline and order, wouldn't recover. But Germany's situation had changed profoundly, politically, socially and monetarily.
 
-In 1920, Germany faced enormous **reparation** *(（战败国的）赔款)* bills. The Versailles Settlement required that Germany transfer 5% of its GDP to foreign powers every single year. So this means, in practical terms, that the country must transfer real goods out of the economy. Empty shelves always put pressure on prices, but when **produce** *(/ˈprɒdjuːs/（尤指）农产品)* is taken out of the economy, there is also a loss of indirect tax, such as VAT. The German state was obliged to pay reparations in gold, and the consequent sale of marks put ongoing downward pressure on the currency. The government, hemmed in on all sides, was too fragile to raise taxes. So instead, Berlin borrowed from its own central bank to pay its own producers for goods that would never be sold in Germany.
+In 1920, Germany faced enormous **reparation** bills. The Versailles Settlement required that Germany transfer 5% of its GDP to foreign powers every single year. So this means, in practical terms, that the country must transfer real goods out of the economy. Empty shelves always put pressure on prices, but when **produce** is taken out of the economy, there is also a loss of indirect tax, such as VAT. The German state was obliged to pay reparations in gold, and the consequent sale of marks put ongoing downward pressure on the currency. The government, hemmed in on all sides, was too fragile to raise taxes. So instead, Berlin borrowed from its own central bank to pay its own producers for goods that would never be sold in Germany.
 
-As a result, Germany faced a shortage of goods in its shops. And, as the government was subsidising German manufacturers for goods that the French would never pay for, it also suffered from a massive build-up of government debt, which added enormously to the economic jitters. Foreign politics made things even worse, since the liberal Weimar government also committed itself to social reform, expanding spending on health and public housing. The government couldn't **renege** *(/rɪˈniːɡ/ 违背（诺言）)* on its international obligations, nor could it revoke its domestic political promises. To cover these national commitments, it began to print more and more money.
+*[reparation]: （战败国的）赔款
+*[produce]: /ˈprɒdjuːs/（尤指）农产品
 
-The more the currency jumped around, the more people became nervous. Money flowed in and out of Germany, depending on rumour and counter-rumour. In January 1923, using Germany's unwillingness to pay reparations in kind as an excuse, French and Belgian troops occupied the Ruhr, Germany's industrial heartland. In the Ruhr, German workers went on general strike in response, while some large German companies called for a mass campaign of civil disobedience.
+As a result, Germany faced a shortage of goods in its shops. And, as the government was subsidising German manufacturers for goods that the French would never pay for, it also suffered from a massive build-up of government debt, which added enormously to the economic jitters. Internal politics made things even worse, since the liberal Weimar government also committed itself to social reform, expanding spending on health and public housing. The government couldn't **renege** on its international obligations, nor could it revoke its domestic political promises. To cover these national commitments, it began to print more and more money. The more the currency jumped around, the more people became nervous. Money flowed in and out of Germany, depending on rumour and counter-rumour.
+
+*[renege]: /rɪˈneɪɡ/ 违背（诺言）
+
+In January 1923, using Germany's unwillingness to pay reparations **in kind** as an excuse, French and Belgian troops occupied the Ruhr, Germany's industrial heartland. In the Ruhr, German workers went on general strike in response, while some large German companies called for a mass campaign of civil disobedience.
+
+*[in kind]: 以实物(偿付)
 
 The French reacted. On the 13th of February, a young German woman called Josephine Malakert was gang-raped by French sailors, and throughout the spring, incidences of rape of German women increased. Germany united against the occupation, citing the abuse of its people in the hope that it might pressurise the international community to persuade the French to end the occupation. For the Weimar Republic, financing passive resistance was a price worth paying.
 
 But the cause of this showdown was German hyperinflation and the destruction of money. Millions of hard-working, middle-class, tax-paying, government-trusting Germans saw their savings wiped out. Teachers, civil servants, policemen, doctors, clerks, people who had bought the supposedly cast-iron war bonds were now hung out to dry. In contrast, people who owned physical assets, such as landlords, farmers and industrialists, didn't suffer so much as the value of their property adjusted upwards with inflation. And at the very bottom, hyperinflation didn't change your position very drastically either, because you had no savings to lose in the first place. Plus, the fear of communism meant that workers' wages more or less kept up with inflation. It was those in the middle, the political ballast of society, who suffered most.
 
-After the hyperinflation, people would want somebody to blame. One man was positioning himself and his party to benefit from this social catastrophe. In November 1923, just as hyperinflation peaked, Adolf Hitler led a failed Munich beer-keller Putsch. Although spectacularly ineffective, the public stand against Weimar would allow Hitler to paint himself as the heroic father-figure, an inspired leader who was ready to serve time in prison for his convictions. Hitler, witness to the 1923 chaos, understood the opportunity presented when money dies. It was a lesson he would not forget, teaching him that money is a weapon like no other.
+After the hyperinflation, people would want somebody to blame. One man was positioning himself and his party to benefit from this social catastrophe.
 
-Years later, at the height of the Second World War, Hitler planned for the Luftwaffe to drop millions of fake pounds over Britain. While some honest citizens might go directly to the authorities, he worked on the assumption that most folk would stuff a few notes under the mattress. By bringing this counterfeit money into circulation, inflation would rip through the system. The cascade of new money would drive British prices skyward, triggering panic. Hitler hoped that the previously obedient British would experience a fire-in-the-theatre moment. They'd freak out, and the ensuing chaos would upend their blitz spirit, compromising the war effort.
+In November 1923, just as hyperinflation peaked, Adolf Hitler led a failed **Munich Bierkeller Putsch**. Although spectacularly ineffective, the public stand against Weimar would allow Hitler to paint himself as the heroic father-figure, an inspired leader who was ready to serve time in prison for his convictions. Hitler, witness to the 1923 chaos, understood the opportunity presented when money dies. It was a lesson he would not forget, teaching him that money is a weapon like no other.
 
-In August 1943, Salomon Smolianoff, once a fine portrait painter as well as a Weimar Berlin nightclub operator, found himself in the hell of Sachsenhausen concentration camp. Under 93594, Smolianoff had a reputation that preceded him. In a bizarre quirk of fate, one that saved his life, an SS officer called Hans Kruger, who had previously arrested Smolianoff as part of a criminal crackdown in Berlin, was put in charge of Hitler's top-secret mass forgery scheme. Kruger the Nazi knew he needed Smolianoff the Jew, the expert forger.
+*[Munich Bierkeller Putsch]: [德]慕尼黑啤酒馆政变
 
-Smolianoff now found himself the de facto leader of a motley crew of 142 Jewish specialists extracted from concentration camps around the Third Reich. These men had once been civilian printers, dyers, fine artists, engineers, engravers, metal workers, mathematicians and photographers. They became the crack counterfeiting team tasked with breaking the Bank of England.
+Years later, at the height of the Second World War, Hitler planned for the **Luftwaffe** to drop millions of fake pounds over Britain. While some honest citizens might go directly to the authorities, he worked on the assumption that most folk would stuff a few notes under the mattress. By bringing this counterfeit money into circulation, inflation would rip through the system. The cascade of new money would drive British prices skyward, triggering panic. Hitler hoped that the previously obedient British would experience a fire-in-the-theatre moment. They'd freak out, and the ensuing chaos would upend their blitz spirit, compromising the war effort.
 
-Smolianoff's life and those of the rest of the team depended on figuring out what material the English were using for their banknotes. After relentless testing and tearing up of real English notes, the counterfeiters twigged that the English were using rags from old clothing that had been pulped. With this knowledge, their operation could begin. Initially, the secret workshop made limited amounts of five-pound notes. These prototypes needed to be tested, and where better to test the forgeries than the Bank of England itself?
+*[Luftwaffe]: [德]空军
+
+In August 1943, Salomon "Sally" Smolianoff, once a fine portrait painter as well as a Weimar Berlin nightclub operator, found himself in the hell of Sachsenhausen concentration camp. Prisoner 93594, Smolianoff had a reputation that preceded him. In a bizarre quirk of fate, one that saved his life, an SS officer called Hans Kruger, who had previously arrested Smolianoff as part of a criminal crackdown in Berlin, was put in charge of Hitler's top-secret mass forgery scheme. Kruger the Nazi knew he needed Smolianoff the Jew, the expert forger.
+
+Smolianoff now found himself the **de facto** leader of a motley crew of 142 Jewish specialists extracted from concentration camps around the Third Reich. These men had once been civilian printers, dyers, fine artists, engineers, engravers, metal workers, mathematicians and photographers. They became the **crack** counterfeiting team tasked with breaking the Bank of England.
+
+*[de facto]: [拉丁语]事实上的
+*[crack]: adj. 顶尖的
+
+Smolianoff's life and those of the rest of the team depended on figuring out what material the English were using for their banknotes. After relentless testing and tearing up of real English notes, the counterfeiters twigged that the English were using rags from old clothing that had been pulped. With this knowledge, their operation could begin.
+
+Initially, the secret workshop made limited amounts of five-pound notes. These prototypes needed to be tested, and where better to test the forgeries than the Bank of England itself?
 
 A German industrialist presented himself at a Swiss bank in Zurich, claiming he had received some English notes on the black market and asked the bank to vouch for their legitimacy. The Swiss officials went to work with magnifying glasses and high-powered lamps and declared the notes were legitimate. Kruger was elated, as too was his boss Heinrich Himmler, the head of the SS.
 
-The counterfeiters' printing presses went into overdrive. The realisation of Hitler's plan to flood Britain with fake banknotes, forgeries so brilliant not even the Bank of England could detect them, was mere months away. The concentration camp forgers printed a total of £134,611,000 which amounted to four out of every ten pounds then in circulation.
+The counterfeiters' printing presses went into overdrive. The realisation of Hitler's plan to flood Britain with fake banknotes, forgeries so brilliant not even the Bank of England could detect them, was mere months away.
+
+The concentration camp forgers printed a total of £134,611,000 which amounted to four out of every ten pounds then in circulation.
 
 The original plan had been for German bombers to drop the notes over Britain, but by late 1943 the war situation had deteriorated for Germany and the Luftwaffe could no longer provide the planes. Undeterred, the SS had other plans. Germany at this stage was running out of hard currency. The Reichmark wasn't accepted for settling trades on the international market. Sterling was another story. As it was the global reserve currency, the SS could use the forged sterling to buy much-needed war materials and, in the process, line their own pockets.
 
@@ -234,11 +267,15 @@ At the end of the war, the Bank of England oversaw the destruction of these note
 
 ---
 
-## Episode 5
+## Episode 5: Cheap British Beer
 
-In December 1992, a tailback of second-hand Toyota Corollas, Ford Escorts and Fiat Mirafioris, the cars of a middle-income country, snaked its way from a supermarket car park in Northern Ireland to the border of the Irish Republic. On the northern side, bemused British soldiers patrolling their watchtowers weren't sure what was going on. The Irish police, the Gardaí, on the southern side, knew fine well what the story was. Some of their colleagues were in the queue.
+In December 1992, a **tailback** of second-hand Toyota Corollas, Ford Escorts and Fiat Mirafioris, the cars of a middle-income country, snaked its way from a supermarket car park in Northern Ireland to the border of the Irish Republic. On the northern side, bemused British soldiers patrolling their watchtowers weren't sure what was going on. The Irish police, the Gardaí, on the southern side, knew fine well what the story was. Some of their colleagues were in the queue.
 
-It was Christmas, booze was cheaper in Northern Ireland than in the Republic of Ireland, Irish people like to drink and December is party time. The queues this year were longer than usual. Traditionally, the booze arbitrage was exploited by people close to the border. But in 1992, thousands more were desperate to spend their Irish punts. We were witnessing a run on a currency triggered by rumours of an imminent devaluation. Spooked, people wanted to spend and buying beer was a way for ordinary people to hedge exchange rate risk. Buy cheap British beer today, with the expense of Irish money, before it too becomes cheap.
+*[tailback]: （车辆因受阻而排成的）长队
+
+It was Christmas, booze was cheaper in Northern Ireland than in the Republic of Ireland, Irish people like to drink and December is party time. The queues this year were longer than usual. Traditionally, the booze **arbitrage** was exploited by people close to the border. But in 1992, thousands more were desperate to spend their Irish punts. We were witnessing a run on a currency triggered by rumours of an imminent devaluation. Spooked, people wanted to spend and buying beer was a way for ordinary people to hedge exchange rate risk. Buy cheap British beer today, with the expense of Irish money, before it too becomes cheap.
+
+*[arbitrage]: 套利,低买高卖
 
 There is no more damning vote of no confidence in a currency than your own people rushing for the exit. A currency collapse proceeds in stages. Initially, it's bankers, financiers and speculators who become fidgety. By the time teachers, nurses, police officers and plumbers are trying to stock up on cheap booze, it's all over.
 
