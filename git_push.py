@@ -164,7 +164,7 @@ def run_git_commands(commit_message="Auto commit"):
 
     finally:
         # 延迟删除文件，确保文件在操作完成后可以删除
-        time.sleep(2)  # 延迟2秒
+        # time.sleep(2)  # 延迟2秒
         if os.path.exists(askpass_path):
             os.remove(askpass_path)
 
