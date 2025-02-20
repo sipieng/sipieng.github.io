@@ -136,8 +136,8 @@ def create_askpass_script(passphrase):
     temp.write(script_content)
     temp.close()
 
-    if platform.system() != 'Windows':
-        os.chmod(temp.name, 0o700)
+    # if platform.system() != 'Windows':
+    #     os.chmod(temp.name, 0o700)
     
     return temp.name
 
