@@ -137,13 +137,14 @@ def run_git_commands(commit_message="Auto commit"):
         return False
 
     # 创建临时askpass.bat文件
-    with open('askpass.bat', 'w') as f:
+    askpass_path = 'askpass.bat'
+    with open(askpass_path, 'w') as f:
         f.write(f'@echo off\necho {ssh_passphrase}')
 
     # 设置环境变量
     env = os.environ.copy()
-    env['SSH_ASKPASS'] = 'askpass.bat'
-    env['GIT_ASKPASS'] = 'askpass.bat'
+    env['SSH_ASKPASS'] = os.path.abspath(askpass_path)  # 使用绝对路径
+    env['GIT_ASKPASS'] = os.path.abspath(askpass_path)  # 使用绝对路径
     env['SSH_ASKPASS_REQUIRE'] = 'force'
 
     # 执行git命令
@@ -155,7 +156,7 @@ def run_git_commands(commit_message="Auto commit"):
         print(f"成功: {result.stdout}")
 
     # 清理临时askpass.bat文件
-    os.remove('askpass.bat')
+    os.remove(askpass_path)
 
     return True
 
