@@ -135,9 +135,6 @@ def create_askpass_script(passphrase):
     temp = tempfile.NamedTemporaryFile(delete=False, mode='w', suffix='.sh' if platform.system() != 'Windows' else '.bat')
     temp.write(script_content)
     temp.close()
-
-    # if platform.system() != 'Windows':
-    #     os.chmod(temp.name, 0o700)
     
     return temp.name
 
