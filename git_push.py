@@ -141,10 +141,13 @@ def run_git_commands(commit_message="Auto commit"):
     with open(askpass_path, 'w') as f:
         f.write(f'@echo off\necho {ssh_passphrase}')
 
+    # 使用引号确保路径中包含空格时可以正确处理
+    askpass_full_path = f'"{os.path.abspath(askpass_path)}"'
+
     # 设置环境变量
     env = os.environ.copy()
-    env['SSH_ASKPASS'] = os.path.abspath(askpass_path)  # 使用绝对路径
-    env['GIT_ASKPASS'] = os.path.abspath(askpass_path)  # 使用绝对路径
+    env['SSH_ASKPASS'] = askpass_full_path  # 使用加引号的绝对路径
+    env['GIT_ASKPASS'] = askpass_full_path  # 使用加引号的绝对路径
     env['SSH_ASKPASS_REQUIRE'] = 'force'
 
     # 执行git命令
