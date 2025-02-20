@@ -126,17 +126,6 @@
 import subprocess
 import os
 from dotenv import load_dotenv
-import platform
-import tempfile
-
-def create_askpass_script(passphrase):
-    """创建临时的SSH askpass脚本"""
-    script_content = f'#!/bin/sh\necho "{passphrase}"' if platform.system() != 'Windows' else f'@echo off\necho {passphrase}'
-    temp = tempfile.NamedTemporaryFile(delete=False, mode='w', suffix='.sh' if platform.system() != 'Windows' else '.bat')
-    temp.write(script_content)
-    temp.close()
-    
-    return temp.name
 
 def run_git_commands(commit_message="Auto commit"):
     """执行git add、commit、push，读取密码从.env文件"""
@@ -147,23 +136,19 @@ def run_git_commands(commit_message="Auto commit"):
         print("未在.env文件中找到SSH_PASSPHRASE")
         return False
 
-    askpass_script = create_askpass_script(ssh_passphrase)
+    # 创建临时askpass脚本
+    script_content = f'@echo off\necho {ssh_passphrase}'
+    with open('askpass.bat', 'w') as f:
+        f.write(script_content)
 
     # 设置环境变量以供git使用
     env = os.environ.copy()
-    env['SSH_ASKPASS'] = askpass_script
-    env['GIT_ASKPASS'] = askpass_script
-    if platform.system() == 'Windows':
-        env['SSH_ASKPASS_REQUIRE'] = 'force'
-        env['DISPLAY'] = 'dummy:0'
-    
-    commands = [
-        ["git", "add", "-A"],
-        ["git", "commit", "-m", commit_message],
-        ["git", "push"]
-    ]
-    
-    for command in commands:
+    env['SSH_ASKPASS'] = 'askpass.bat'
+    env['GIT_ASKPASS'] = 'askpass.bat'
+    env['SSH_ASKPASS_REQUIRE'] = 'force'
+
+    # 执行git命令
+    for command in [["git", "add", "-A"], ["git", "commit", "-m", commit_message], ["git", "push"]]:
         result = subprocess.run(command, capture_output=True, text=True, env=env)
         if result.returncode != 0:
             print(f"错误: {result.stderr}")
@@ -171,7 +156,7 @@ def run_git_commands(commit_message="Auto commit"):
         print(f"成功: {result.stdout}")
 
     # 清理临时askpass脚本
-    os.remove(askpass_script)
+    os.remove('askpass.bat')
 
     return True
 
