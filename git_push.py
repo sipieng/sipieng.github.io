@@ -136,12 +136,11 @@ def run_git_commands(commit_message="Auto commit"):
         print("未在.env文件中找到SSH_PASSPHRASE")
         return False
 
-    # 创建临时askpass脚本
-    script_content = f'@echo off\necho {ssh_passphrase}'
+    # 创建临时askpass.bat文件
     with open('askpass.bat', 'w') as f:
-        f.write(script_content)
+        f.write(f'@echo off\necho {ssh_passphrase}')
 
-    # 设置环境变量以供git使用
+    # 设置环境变量
     env = os.environ.copy()
     env['SSH_ASKPASS'] = 'askpass.bat'
     env['GIT_ASKPASS'] = 'askpass.bat'
@@ -155,7 +154,7 @@ def run_git_commands(commit_message="Auto commit"):
             return False
         print(f"成功: {result.stdout}")
 
-    # 清理临时askpass脚本
+    # 清理临时askpass.bat文件
     os.remove('askpass.bat')
 
     return True
