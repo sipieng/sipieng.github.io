@@ -126,6 +126,7 @@
 import subprocess
 import os
 from dotenv import load_dotenv
+import time
 
 def run_git_commands(commit_message="Auto commit"):
     """执行git add、commit、push，读取密码从.env文件"""
@@ -160,8 +161,10 @@ def run_git_commands(commit_message="Auto commit"):
                 print(f"错误: {result.stderr}")
                 return False
             print(f"成功: {result.stdout}")
+
     finally:
-        # 清理临时askpass.bat文件，确保无论成功或失败都删除
+        # 延迟删除文件，确保文件在操作完成后可以删除
+        time.sleep(2)  # 延迟2秒
         if os.path.exists(askpass_path):
             os.remove(askpass_path)
 
@@ -169,4 +172,5 @@ def run_git_commands(commit_message="Auto commit"):
 
 if __name__ == "__main__":
     run_git_commands()
+
 
