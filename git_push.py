@@ -1,8 +1,45 @@
 import subprocess
 import os
 from datetime import datetime
-import platform
 from dotenv import load_dotenv
+
+def check_git_config():
+    """检查git配置"""
+    try:
+        # 检查git用户名
+        name = subprocess.run(["git", "config", "user.name"], 
+                            capture_output=True, 
+                            text=True)
+        email = subprocess.run(["git", "config", "user.email"], 
+                             capture_output=True, 
+                             text=True)
+        
+        if not name.stdout.strip() or not email.stdout.strip():
+            print("Git用户信息未配置。正在配置...")
+            # 提示用户输入信息
+            user_name = input("请输入你的git用户名: ")
+            user_email = input("请输入你的git邮箱: ")
+            
+            # 配置git用户信息
+            subprocess.run(["git", "config", "user.name", user_name])
+            subprocess.run(["git", "config", "user.email", user_email])
+            print("Git用户信息配置完成！")
+            
+    except Exception as e:
+        print(f"检查git配置时出错: {str(e)}")
+        return False
+    return True
+
+def check_git_status():
+    """检查git状态"""
+    try:
+        status = subprocess.run(["git", "status", "--porcelain"], 
+                              capture_output=True, 
+                              text=True)
+        return bool(status.stdout.strip())
+    except Exception as e:
+        print(f"检查git状态时出错: {str(e)}")
+        return False
 
 def run_git_commands(commit_message=None):
     """
@@ -12,6 +49,15 @@ def run_git_commands(commit_message=None):
         commit_message (str): 提交信息，如果为None则使用默认时间戳信息
     """
     try:
+        # 检查git配置
+        if not check_git_config():
+            return False
+
+        # 检查是否有文件需要提交
+        if not check_git_status():
+            print("没有文件需要提交！")
+            return False
+
         # 加载.env文件
         load_dotenv()
         
@@ -28,69 +74,43 @@ def run_git_commands(commit_message=None):
         if commit_message is None:
             commit_message = f"Auto commit at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 
+        # 确保commit信息被引号包围
+        if not commit_message.startswith('"'):
+            commit_message = f'"{commit_message}"'
+
+        # Git 命令列表
+        commands = [
+            ["git", "add", "-A"],
+            ["git", "commit", "-m", commit_message],
+            ["git", "push"]
+        ]
+
         # 设置环境变量
         env = os.environ.copy()
+        env['SSH_PASS'] = ssh_passphrase
         
-        # 创建临时SSH脚本来处理密码
-        if platform.system() == 'Windows':
-            # Windows版本的SSH askpass脚本
-            ssh_script = '''@echo off
-            echo %SSH_PASS%
-            '''
-            script_ext = '.bat'
-        else:
-            # Unix版本的SSH askpass脚本
-            ssh_script = '''#!/bin/bash
-            echo "$SSH_PASS"
-            '''
-            script_ext = '.sh'
-
-        script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), f'ssh_askpass{script_ext}')
-        
-        try:
-            # 创建并写入脚本
-            with open(script_path, 'w') as f:
-                f.write(ssh_script)
+        # 执行每个命令
+        for command in commands:
+            print(f"执行命令: {' '.join(command)}")
+            result = subprocess.run(command, 
+                                 capture_output=True, 
+                                 text=True,
+                                 env=env)
             
-            # 设置脚本权限
-            if platform.system() != 'Windows':
-                os.chmod(script_path, 0o700)
-
-            # 设置SSH环境变量
-            env['SSH_ASKPASS'] = script_path
-            env['SSH_PASS'] = ssh_passphrase
-            env['GIT_ASKPASS'] = script_path
-            if platform.system() == 'Windows':
-                env['SSH_ASKPASS_REQUIRE'] = 'force'
-                ssh_path = os.path.expanduser('~/.ssh/id_rsa')
-                env['GIT_SSH_COMMAND'] = f'ssh -i "{ssh_path}"'
-
-            # Git 命令列表
-            commands = [
-                ["git", "add", "-A"],
-                ["git", "commit", "-m", commit_message],
-                ["git", "push"]
-            ]
-
-            # 执行每个命令
-            for command in commands:
-                print(f"执行命令: {' '.join(command)}")
-                result = subprocess.run(command, 
-                                     capture_output=True, 
-                                     text=True,
-                                     env=env)
-                
-                # 检查命令是否成功执行
-                if result.returncode == 0:
-                    print(f"成功: {result.stdout}")
-                else:
-                    print(f"错误: {result.stderr}")
+            # 检查命令是否成功执行
+            if result.returncode == 0:
+                print(f"成功: {result.stdout}")
+            else:
+                print(f"错误: {result.stderr}")
+                if "nothing to commit" in result.stderr:
+                    print("没有文件需要提交！")
+                    return True
+                elif "please tell me who you are" in result.stderr.lower():
+                    print("Git用户信息未配置，请运行:")
+                    print("git config --global user.email '你的邮箱'")
+                    print("git config --global user.name '你的用户名'")
                     return False
-
-        finally:
-            # 清理临时脚本文件
-            if os.path.exists(script_path):
-                os.remove(script_path)
+                return False
 
         return True
 
