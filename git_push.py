@@ -30,7 +30,7 @@ def run_git_commands(commit_message=None):
         # Git 命令列表
         commands = [
             ["git", "add", "-A"],
-            ["git", "commit", "-m", f'"{commit_message}"'],
+            ["git", "commit", "-m", commit_message],
             # 使用环境变量中的密码进行push
             ["git", "push"]
         ]
@@ -69,5 +69,5 @@ def run_git_commands(commit_message=None):
 
 if __name__ == "__main__":
     # 你可以在这里自定义commit信息
-    custom_message = "auto git"
+    custom_message = "auto_git"
     run_git_commands(custom_message)
