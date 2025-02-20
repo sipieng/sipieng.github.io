@@ -152,18 +152,21 @@ def run_git_commands(commit_message="Auto commit"):
     env['GIT_ASKPASS'] = askpass_full_path  # 使用绝对路径
     env['SSH_ASKPASS_REQUIRE'] = 'force'
 
-    # 执行git命令
-    for command in [["git", "add", "-A"], ["git", "commit", "-m", commit_message], ["git", "push"]]:
-        result = subprocess.run(command, capture_output=True, text=True, env=env)
-        if result.returncode != 0:
-            print(f"错误: {result.stderr}")
-            return False
-        print(f"成功: {result.stdout}")
-
-    # 清理临时askpass.bat文件
-    os.remove(askpass_path)
+    try:
+        # 执行git命令
+        for command in [["git", "add", "-A"], ["git", "commit", "-m", commit_message], ["git", "push"]]:
+            result = subprocess.run(command, capture_output=True, text=True, env=env)
+            if result.returncode != 0:
+                print(f"错误: {result.stderr}")
+                return False
+            print(f"成功: {result.stdout}")
+    finally:
+        # 清理临时askpass.bat文件，确保无论成功或失败都删除
+        if os.path.exists(askpass_path):
+            os.remove(askpass_path)
 
     return True
 
 if __name__ == "__main__":
     run_git_commands()
+
