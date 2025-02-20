@@ -126,8 +126,6 @@
 import subprocess
 import os
 from dotenv import load_dotenv
-import tempfile
-import shlex
 
 def run_git_commands(commit_message="Auto commit"):
     """执行git add、commit、push，读取密码从.env文件"""
@@ -138,20 +136,20 @@ def run_git_commands(commit_message="Auto commit"):
         print("未在.env文件中找到SSH_PASSPHRASE")
         return False
 
-    # 创建临时目录存放askpass.bat文件
-    temp_dir = tempfile.mkdtemp()
-    askpass_path = os.path.join(temp_dir, 'askpass.bat')
+    # 在用户主目录下创建askpass.bat文件，避免临时目录中的路径问题
+    user_dir = os.path.expanduser("~")  # 获取用户主目录路径
+    askpass_path = os.path.join(user_dir, 'askpass.bat')
 
     with open(askpass_path, 'w') as f:
         f.write(f'@echo off\necho {ssh_passphrase}')
 
-    # 使用shlex.quote确保路径中的空格被正确处理
-    askpass_full_path = shlex.quote(askpass_path)
+    # 使用绝对路径
+    askpass_full_path = askpass_path
 
     # 设置环境变量
     env = os.environ.copy()
-    env['SSH_ASKPASS'] = askpass_full_path  # 使用加引号的绝对路径
-    env['GIT_ASKPASS'] = askpass_full_path  # 使用加引号的绝对路径
+    env['SSH_ASKPASS'] = askpass_full_path  # 使用绝对路径
+    env['GIT_ASKPASS'] = askpass_full_path  # 使用绝对路径
     env['SSH_ASKPASS_REQUIRE'] = 'force'
 
     # 执行git命令
@@ -162,9 +160,8 @@ def run_git_commands(commit_message="Auto commit"):
             return False
         print(f"成功: {result.stdout}")
 
-    # 清理临时askpass.bat文件和临时目录
+    # 清理临时askpass.bat文件
     os.remove(askpass_path)
-    os.rmdir(temp_dir)
 
     return True
 
