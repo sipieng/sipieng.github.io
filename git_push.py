@@ -171,6 +171,6 @@ def run_git_commands(commit_message="Auto commit"):
     return True
 
 if __name__ == "__main__":
-    run_git_commands()
+    run_git_commands("delete a.txt")
 
 
