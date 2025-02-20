@@ -2,16 +2,24 @@ import subprocess
 import os
 from datetime import datetime
 import platform
-from getpass import getpass
+from dotenv import load_dotenv
 
 def run_git_commands(commit_message=None):
     """
-    运行git命令的函数，支持需要密码的SSH认证
+    运行git命令的函数，从.env文件读取SSH密钥密码
     
     Args:
         commit_message (str): 提交信息，如果为None则使用默认时间戳信息
     """
     try:
+        # 加载.env文件
+        load_dotenv()
+        
+        # 获取SSH密钥密码
+        ssh_passphrase = os.getenv('SSH_PASSPHRASE')
+        if not ssh_passphrase:
+            raise ValueError("未在.env文件中找到SSH_PASSPHRASE")
+
         # 确保在正确的目录下
         current_dir = os.getcwd()
         print(f"当前工作目录: {current_dir}")
@@ -19,9 +27,6 @@ def run_git_commands(commit_message=None):
         # 如果没有提供commit信息，使用时间戳作为默认信息
         if commit_message is None:
             commit_message = f"Auto commit at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-
-        # 获取SSH密钥密码
-        ssh_passphrase = getpass("请输入SSH密钥密码: ")
 
         # 设置环境变量
         env = os.environ.copy()
