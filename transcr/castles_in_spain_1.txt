@@ -260,11 +260,11 @@ Sins of omission.
 
 66
 00:05:00,399 --> 00:05:02,399
-Your Mayor.
+Your Mayer.
 
 67
 00:05:02,399 --> 00:05:03,720
-Mr Mayor.
+Mr Mayer.
 
 68
 00:05:03,720 --> 00:05:05,839
@@ -740,7 +740,7 @@ When he spoke, you recognised the accent they only sell in Oxford or maybe Cambr
 
 186
 00:10:28,200 --> 00:10:31,200
-It was very good of you to come along, Mr Mayor.
+It was very good of you to come along, Mr Mayer.
 
 187
 00:10:31,200 --> 00:10:34,200
@@ -788,7 +788,7 @@ My grandfather asked him to come.
 
 198
 00:11:03,200 --> 00:11:07,200
-Really, Theresa? Did you have to disappear and leave Mr Mayor like this?
+Really, Theresa? Did you have to disappear and leave Mr Mayer like this?
 
 199
 00:11:07,200 --> 00:11:10,200
@@ -796,7 +796,7 @@ I disappeared, as you put it, for two reasons.
 
 200
 00:11:10,200 --> 00:11:13,200
-Grandfather asked me to let him know at once when Mr Mayor arrived.
+Grandfather asked me to let him know at once when Mr Mayer arrived.
 
 201
 00:11:13,200 --> 00:11:16,200
@@ -808,7 +808,7 @@ Why not? The second reason...
 
 203
 00:11:18,200 --> 00:11:21,200
-The second reason, Mr Mayor, is that for some strange reason
+The second reason, Mr Mayer, is that for some strange reason
 
 204
 00:11:21,200 --> 00:11:25,200
@@ -816,7 +816,7 @@ Theresa can't bear to be in the same room as me.
 
 205
 00:11:26,200 --> 00:11:29,200
-Grandfather will see you now, Mr Mayor.
+Grandfather will see you now, Mr Mayer.
 
 206
 00:11:29,200 --> 00:11:31,200
@@ -992,7 +992,7 @@ that kept time in abeyance.
 
 249
 00:13:13,200 --> 00:13:15,200
-You look flustered, Mayor.
+You look flustered, Mayer.
 
 250
 00:13:15,200 --> 00:13:17,200
@@ -1032,7 +1032,7 @@ Ah, you'll be the death of me, Teresa.
 
 259
 00:13:40,200 --> 00:13:42,200
-You must excuse us, Mayor.
+You must excuse us, Mayer.
 
 260
 00:13:42,200 --> 00:13:44,200
@@ -1092,7 +1092,7 @@ to look at one of the gaudy posters on the wall.
 
 274
 00:14:13,200 --> 00:14:16,200
-You bring back a lot of memories, Mayor.
+You bring back a lot of memories, Mayer.
 
 275
 00:14:16,200 --> 00:14:18,200
@@ -1320,7 +1320,7 @@ Then why don't you come right out with it?
 
 331
 00:16:31,200 --> 00:16:33,200
-Tell me, Mayor.
+Tell me, Mayer.
 
 332
 00:16:33,200 --> 00:16:36,200
@@ -1420,7 +1420,7 @@ At the risk of appearing rude, Mr. Forrest...
 
 356
 00:17:23,199 --> 00:17:27,199
-You must let me do this my own way, Mayor.
+You must let me do this my own way, Mayer.
 
 357
 00:17:27,199 --> 00:17:30,199
@@ -1724,7 +1724,7 @@ And what makes you think I haven't tried them?
 
 432
 00:20:54,199 --> 00:20:57,199
-Anyway, aren't you too a professional, Mayor?
+Anyway, aren't you too a professional, Mayer?
 
 433
 00:20:57,199 --> 00:21:02,199
@@ -1740,7 +1740,7 @@ I don't think so.
 
 436
 00:21:08,199 --> 00:21:11,199
-Let me tell you something about professionals, Mayor.
+Let me tell you something about professionals, Mayer.
 
 437
 00:21:12,199 --> 00:21:13,199
@@ -1796,7 +1796,7 @@ But not about people.
 
 450
 00:21:53,199 --> 00:21:56,199
-It's time you started having opinions of your own, Mayor.
+It's time you started having opinions of your own, Mayer.
 
 451
 00:21:57,199 --> 00:21:59,199
@@ -1812,7 +1812,7 @@ Am I supposed to read your mind, sir?
 
 454
 00:22:04,199 --> 00:22:07,199
-There is nothing to be gained by falling out with me, Mayor.
+There is nothing to be gained by falling out with me, Mayer.
 
 455
 00:22:07,199 --> 00:22:11,199
@@ -1948,7 +1948,7 @@ Just irrelevant.
 
 488
 00:23:45,199 --> 00:23:48,199
-Well, Mayor, I've told you what I want.
+Well, Mayer, I've told you what I want.
 
 489
 00:23:49,199 --> 00:23:51,199
@@ -2004,7 +2004,7 @@ where the blind man stood as though he'd not moved since I'd last seen him.
 
 502
 00:24:25,199 --> 00:24:27,199
-Is that you, Mayor?
+Is that you, Mayer?
 
 503
 00:24:27,199 --> 00:24:29,199
@@ -2044,7 +2044,7 @@ and wherever he was, death was not far away.
 
 512
 00:24:49,199 --> 00:24:53,199
-I think, Mayor, that it would be better for everyone concerned
+I think, Mayer, that it would be better for everyone concerned
 
 513
 00:24:53,199 --> 00:24:56,199
