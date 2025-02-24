@@ -404,11 +404,11 @@ and hostile stares.
 
 102
 00:04:39,140 --> 00:04:40,140
->> His name's Mayor.
+>> His name's Mayer.
 
 103
 00:04:40,620 --> 00:04:43,360
->> Mayor, I think it's time you met Newt Winter.
+>> Mayer, I think it's time you met Newt Winter.
 
 104
 00:04:43,360 --> 00:04:45,280
@@ -432,7 +432,7 @@ and hostile stares.
 
 109
 00:04:52,400 --> 00:04:54,040
->> It's up to you, Mayor.
+>> It's up to you, Mayer.
 
 110
 00:04:54,040 --> 00:04:56,900
@@ -592,7 +592,7 @@ But I don't have to sit and listen to it.
 
 149
 00:06:00,980 --> 00:06:04,640
->> If you still want to talk to me, Mayor, I'll see you in the morning.
+>> If you still want to talk to me, Mayer, I'll see you in the morning.
 
 150
 00:06:04,640 --> 00:06:05,420
@@ -696,7 +696,7 @@ by a maddened music lover.
 
 175
 00:06:57,340 --> 00:06:59,140
-like my friend, Mr. Mayor, here.
+like my friend, Mr. Mayer, here.
 
 176
 00:06:59,140 --> 00:07:01,740
@@ -1148,7 +1148,7 @@ I'm going to bed.
 
 288
 00:11:06,900 --> 00:11:09,880
-Good night, Mr. Mayor.
+Good night, Mr. Mayer.
 
 289
 00:11:09,880 --> 00:11:18,460

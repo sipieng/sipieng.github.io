@@ -244,7 +244,7 @@ This train of thought carried me back to my hotel room.
 
 62
 00:03:06,960 --> 00:03:09,040
->> Is that Mr. Mayor?
+>> Is that Mr. Mayer?
 
 63
 00:03:09,040 --> 00:03:10,960
@@ -252,7 +252,7 @@ This train of thought carried me back to my hotel room.
 
 64
 00:03:10,960 --> 00:03:12,160
->> Hello, Mr. Mayor.
+>> Hello, Mr. Mayer.
 
 65
 00:03:12,160 --> 00:03:15,100
@@ -268,7 +268,7 @@ I'm a friend of Agnes McLaughlin.
 
 68
 00:03:19,180 --> 00:03:23,040
->> Mr. Mayor, are you still interested in Jock Cameron?
+>> Mr. Mayer, are you still interested in Jock Cameron?
 
 69
 00:03:23,040 --> 00:03:24,940
@@ -276,7 +276,7 @@ I'm a friend of Agnes McLaughlin.
 
 70
 00:03:24,940 --> 00:03:28,220
->> Well, that's a pretty dusty answer, Mayor.
+>> Well, that's a pretty dusty answer, Mayer.
 
 71
 00:03:28,220 --> 00:03:30,160
@@ -364,7 +364,7 @@ Who built Thebes of the seven gates?
 
 92
 00:04:48,100 --> 00:04:50,860
->> Your name Mayor?
+>> Your name Mayer?
 
 93
 00:04:50,860 --> 00:04:52,780
@@ -824,7 +824,7 @@ I envied him as I followed him into the house.
 
 207
 00:09:32,600 --> 00:09:40,880
-Well, Mayor, so you finally found Jock Cameron.
+Well, Mayer, so you finally found Jock Cameron.
 
 208
 00:09:40,880 --> 00:09:42,760
@@ -1112,7 +1112,7 @@ to it has been passing on information.
 
 279
 00:12:27,060 --> 00:12:29,280
->> You may not have noticed it, Mayor,
+>> You may not have noticed it, Mayer,
 
 280
 00:12:29,280 --> 00:12:32,300
@@ -1408,7 +1408,7 @@ a blind man whose name was Jocelyn Coleman.
 
 353
 00:16:08,580 --> 00:16:11,580
->> Glad to be back in London, Mayor.
+>> Glad to be back in London, Mayer.
 
 354
 00:16:11,580 --> 00:16:13,240
