@@ -28,6 +28,7 @@
 *Episode 1*
 
 **Monologue by Mayer:**
+
 > The last time I'd been there, the accountant's office had had a comforting air of permanence. It had Dickensian resonances, Victorian vibrations, Bob Cratchit, Scrooge, even Mr. Tolkienhorn from Bleak House. And once there'd been an old man behind a heavy oak desk, who would have recognised these names, and who had had great respect for books and everything and everyone who had to do with them, including me, Mayer, the bookseller.
 > 
 > But that was yesterday, or the day before, or the day before the day before.
@@ -330,7 +331,7 @@ Cameron: Cameron. Jock Cameron.
 **Monologue by Mayer:**
 
 > Forrest was staring at me across the room, and across half a century. And for a moment his face gleamed with a kind of lost innocence. And the familiar quotation, when he uttered it, had a sudden new poignancy that I'd not previously recognised.
-> 
+
 Forrest: Bliss was it in that dawn to be alive, but to be young was very heaven. That always sounds to me like an epitaph.
 Mayer: At least we had one.
 Forrest: Will your generation be able to say the same?

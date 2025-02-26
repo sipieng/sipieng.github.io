@@ -27,312 +27,237 @@
 *Graham Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest. Forrest was once an officer with the International Brigade during the Spanish Civil War. Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.*
 *But as Mayer leaves Forrest's house to think about this unusual request, he's met in the hall by an elderly blind man.*
 
-Is that you, Mayer?
-Yes, Mr. Colman.
-Have you come to any arrangement?
-Well, not exactly.
-May I ask why not?
-Perhaps I have reservations about the whole thing.
-I am delighted to hear you say that.
-Why?
-Jock Cameron was a man of violence, and wherever he was, death was not far away.
-I think, Mayer, that it would be better for everyone concerned if Cameron were never found.
-I came out of the quiet, prosperous house into the quiet, prosperous street and walked quickly away, not feeling prosperous, not feeling quiet, but in some undefined way disturbed, and yes, resentful.
-Two old men and a teenage girl had, in their various ways, called into question everything I had not realised I was.
-Not being very well up in car recognition or the subtleties of ABC registrations and stuff like that, I took no notice of the car that pulled in just ahead of me, until I saw the driver.
-You walk very fast.
-I always do when I'm afraid.
-What are you afraid of?
-I'm afraid of the law to be seen actually walking in this neighbourhood.
-Jump in before the lynching party arrives.
-Where to?
-Back to the shop.
-You live there as well? Or are you a workaholic?
-I'm not a workaholic. I do live above the shop.
-Sounds very old-fashioned to me.
-It's a crown property.
-What does that mean?
-When I get a burst pipe or block drain or something like that, I put a call through to Buck House and they send somebody along.
-A prince of the blood, of course.
-If there's one available.
-Cool. Very cool.
-The evening had settled in, wrapping the city in leisure like a duvet.
-Musicians were coalescing into orchestras, while in half a hundred dressing rooms, actors and actresses smeared reality with grease paint.
-Cars slid past, bearing passengers, transformed for the night into penguins or perfumed peons.
-Critics rattled epigrams in their pockets like loose change, hoping that the magic of a clever phrase would change banality into something handed down from Mount Sinai.
-A new playwright wondered if she was about to become the genius of the week.
-It was the hour of the theatre.
-How did you get on with Grandfather?
-You were right when you said he was devious.
-So what else is new?
-Yes.
-Did you agree to do what he asked?
-I told him I would tell him my answer, yes or no, tomorrow.
-You'll say yes, of course.
-Why of course?
-Because I recommended you as the right man for the job.
-What made you do that?
-Intuition.
-How very old-fashioned of you.
-What a devious crowd you are.
-Not all of us.
-Yes, all of you. Every last one of you.
-Sorry?
-Your grandfather spent his time trying to destroy the credibility of my grandmother.
-Successfully?
-What the hell does that matter?
-Don't be cross.
-I have every right to be cross. Your grandfather wants me to do something. Fine.
-But he wraps up that simple fact in all kinds of pseudo-psychological claptrap.
-I told him you were more intelligent than you looked.
-Oh, great. That makes everything all right, then.
-I could have said you were a load of rubbish. Would you have preferred that?
-My preference doesn't appear to matter.
-Oh, dear.
-Your vanity's been hurt.
-Wrong. My intelligence has been insulted.
-You can't even get your act together, you lot.
-You reckon?
-Why don't you take a vote on it?
-A vote on what?
-Do you want Jock Cameron found,
-or would he be better off left wherever he is?
-We want him found, of course.
-Coleman doesn't.
-How do you know that?
-He told me.
-Ironical, isn't it?
-What is?
-Your grandfather wasting all the sweetness and light on me.
-Was it wasted?
-I'm afraid it was.
-So I've got to go back and report failure?
-Not failure. Success.
-You like playing bloody silly games, don't you?
-No, no.
-I neither like playing them or having them played on me,
-which is why I intend to find
-Jock Cameron.
-What exactly does that mean?
-It means that I'm not impressed by your grandfather's reasons
-for wanting to find Cameron,
-but I'm fascinated by the possibility
-of discovering why Coleman
-doesn't want him found.
-We finished the journey in silence,
-but it was not a hostile silence.
-I felt that momentarily I had ceased to exist,
-but that what I had said to her
-still buzzed in her brain,
-the words unwelcome as picnic insects.
-She dropped me off at the shop
-and acknowledged my thanks with the bright, automatic smile
-that a well-brought-up lady confers
-on someone who has just opened a door for her.
-And I found myself wondering
-if in some unknown way
-I had done just that.
-I collected a bundle of books
-about the Spanish Civil War
-and took them up to bed with me.
-I thought and thought about Cameron.
-I fell asleep,
-still thinking of him.
-Then the dream came.
-And in the dream,
-a tough little man strutted through
-a landscape of harsh brown bitterness.
-He had no face,
-yet somehow
-he was whistling.
-Cameron? Jock Cameron?
-Who goes there?
-Friend.
-Advance, friend, and be recognized.
-I do not recognize you, friend.
-Then do not claim the name.
-You claimed it first.
-Would you know my skin on a bush in Palestine?
-Yes.
-That is a privilege dearly bought.
-The price was paid.
-Where?
-Arama.
-Was the final payment made there?
-Permission to speak?
-Granted.
-I've changed my mind.
-You cannot do that.
-Who says so?
-King's regulations.
-I'm a Republican.
-You are welcome to this land, Republican.
-This land whose sun has burned green
-from the spectrum.
-This land of tasteless bread
-and bitter oranges.
-Cameron?
-Here we have everything a bad humanity requires.
-Cameron!
-I want to talk to you.
-I awoke from my dream's confusion
-to sunlight
-and the kind of morning
-that summer had been aiming at for months
-and had finally achieved too late.
-I lay for a while
-savoring the rest
-of the autumn to come.
-Shock-headed chrysanthemums,
-the acrid smell of burning leaves,
-old men in the park,
-bonfires.
-And at that moment I heard the telephone ring.
-I do hope I've got the right number.
-I'm sure we can work something out between us.
-Let me explain.
-Put me out of my misery first.
-Yes?
-Who should I be?
-It would be very reassuring if you were a Mr Mayer.
-Be reassured.
-I do believe it's working.
-Six out of six is good, isn't it?
-Anything better would be suspicious.
-I'll be round in about ten minutes, Mr Mayer.
-Hello?
-Hello?
-He was as good as his word
-and ten minutes later
-he walked into the shop.
-A tall young man whose excessive good looks
-were cancelled out by the vulnerability.
-His dazzling smile
-had paid for some dentist's holiday
-in sunny Tenerife.
-His voice was standard RP
-and every now and then
-you felt it belonged elsewhere
-and to someone else.
-I said ten minutes, Mr Mayer
-and here I am, bang on time.
-Punctuality is the politeness of princes.
-Couldn't agree more.
-You have a nice line in telephone calls.
-Thank you.
-Six out of six what?
-Oh, that, it's too embarrassing.
-It'll go no further than this room.
-Well, you see, Mr Mayer,
-I can't remember lines.
-Maybe you should stick to mime.
-It's not funny, Mr Mayer, I can tell you.
-What has this got to do with telephone calls?
-Memory training.
-Memory training? Right.
-I'm sure there's a connection there somewhere
-if I could only make it.
-It works like this.
-At one time if anyone gave me their telephone number
-I used to write it down.
+Colman: Is that you, Mayer?
+Mayer: Yes, Mr. Colman.
+Colman: Have you come to any arrangement?
+Mayer: Well, not exactly.
+Colman: May I ask why not?
+Mayer: Perhaps I have reservations about the whole thing.
+Colman: I am delighted to hear you say that.
+Mayer: Why?
+Colman: Jock Cameron was a man of violence, and wherever he was, death was not far away. I think, Mayer, that it would be better for everyone concerned if Cameron were never found.
+
+**Monologue by Mayer:**
+
+> I came out of the quiet, prosperous house into the quiet, prosperous street and walked quickly away, not feeling prosperous, not feeling quiet, but in some undefined way disturbed, and yes, resentful. Two old men and a teenage girl had, in their various ways, called into question everything I had not realised I was.
+> 
+> Not being very well up in car recognition or the subtleties of ABC registrations and stuff like that, I took no notice of the car that pulled in just ahead of me, until I saw the driver.
+
+Teresa: You walk very fast.
+Mayer: I always do when I'm afraid.
+Teresa: What are you afraid of?
+Mayer: I'm afraid of the law to be seen actually walking in this neighbourhood.
+Teresa: Jump in before the lynching party arrives. Where to?
+Mayer: Back to the shop.
+Teresa: You live there as well? Or are you a workaholic?
+Mayer: I'm not a workaholic. I do live above the shop.
+Teresa: Sounds very old-fashioned to me.
+Mayer: It's a crown property.
+Teresa: What does that mean?
+Mayer: When I get a burst pipe or block drain or something like that, I put a call through to Buck House and they send somebody along.
+Teresa: A prince of the blood, of course.
+Mayer: If there's one available.
+Teresa: Cool. Very cool.
+
+**Monologue by Mayer:**
+
+> The evening had settled in, wrapping the city in leisure like a duvet. Musicians were coalescing into orchestras, while in half a hundred dressing rooms, actors and actresses smeared reality with grease paint. Cars slid past, bearing passengers, transformed for the night into penguins or perfumed peons. Critics rattled epigrams in their pockets like loose change, hoping that the magic of a clever phrase would change banality into something handed down from Mount Sinai. A new playwright wondered if she was about to become the genius of the week.
+> 
+> It was the hour of the theatre.
+
+Teresa: How did you get on with Grandfather?
+Mayer: You were right when you said he was devious.
+Teresa: So what else is new?
+Mayer: Yes.
+Teresa: Did you agree to do what he asked?
+Mayer: I told him I would tell him my answer, yes or no, tomorrow.
+Teresa: You'll say yes, of course.
+Mayer: Why of course?
+Teresa: Because I recommended you as the right man for the job.
+Mayer: What made you do that?
+Teresa: Intuition.
+Mayer: How very old-fashioned of you. What a devious crowd you are.
+Teresa: Not all of us.
+Mayer: Yes, all of you. Every last one of you.
+Teresa: Sorry?
+Mayer: Your grandfather spent his time trying to destroy the credibility of my grandmother.
+Teresa: Successfully?
+Mayer: What the hell does that matter?
+Teresa: Don't be cross.
+Mayer: I have every right to be cross. Your grandfather wants me to do something. Fine. But he wraps up that simple fact in all kinds of pseudo-psychological claptrap.
+Teresa: I told him you were more intelligent than you looked.
+Mayer: Oh, great. That makes everything all right, then.
+Teresa: I could have said you were a load of rubbish. Would you have preferred that?
+Mayer: My preference doesn't appear to matter.
+Teresa: Oh, dear. Your vanity's been hurt.
+Mayer: Wrong. My intelligence has been insulted.
+Teresa: You can't even get your act together, you lot. You reckon?
+Mayer: Why don't you take a vote on it?
+Teresa: A vote on what?
+Mayer: Do you want Jock Cameron found, or would he be better off left wherever he is?
+Teresa: We want him found, of course.
+Mayer: Coleman doesn't.
+Teresa: How do you know that?
+Mayer: He told me. Ironical, isn't it?
+Teresa: What is?
+Mayer: Your grandfather wasting all the sweetness and light on me.
+Teresa: Was it wasted?
+Mayer: I'm afraid it was.
+Teresa: So I've got to go back and report failure?
+Mayer: Not failure. Success.
+Teresa: You like playing bloody silly games, don't you?
+Mayer: No, no. I neither like playing them or having them played on me, which is why I intend to find Jock Cameron.
+Teresa: What exactly does that mean?
+Mayer: It means that I'm not impressed by your grandfather's reasons for wanting to find Cameron, but I'm fascinated by the possibility of discovering why Coleman doesn't want him found.
+
+**Monologue by Mayer:**
+
+> We finished the journey in silence, but it was not a hostile silence. I felt that momentarily I had ceased to exist, but that what I had said to her still buzzed in her brain, the words unwelcome as picnic insects.
+> 
+> She dropped me off at the shop and acknowledged my thanks with the bright, automatic smile that a well-brought-up lady confers on someone who has just opened a door for her. And I found myself wondering if in some unknown way I had done just that.
+> 
+> I collected a bundle of books about the Spanish Civil War and took them up to bed with me. I thought and thought about Cameron. I fell asleep, still thinking of him. 
+> 
+> Then the dream came. And in the dream, a tough little man strutted through a landscape of harsh brown bitterness. He had no face, yet somehow he was whistling.
+
+*(In the dream)*
+Mayer: Cameron? Jock Cameron?
+Cameron: Who goes there?
+Mayer: Friend.
+Cameron: Advance, friend, and be recognized.
+Mayer: I do not recognize you, friend.
+Cameron: Then do not claim the name.
+Mayer: You claimed it first.
+Cameron: Would you know my skin on a bush in Palestine?
+Mayer: Yes.
+Cameron: That is a privilege dearly bought.
+Mayer: The price was paid.
+Cameron: Where?
+Mayer: Arama.
+Cameron: Was the final payment made there?
+Mayer: Permission to speak?
+Cameron: Granted.
+Mayer: I've changed my mind.
+Cameron: You cannot do that.
+Mayer: Who says so?
+Cameron: King's regulations.
+Mayer: I'm a Republican.
+Cameron: You are welcome to this land, Republican. This land whose sun has burned green from the spectrum. This land of tasteless bread and bitter oranges.
+Mayer: Cameron?
+Cameron: Here we have everything a bad humanity requires.
+Mayer: Cameron! I want to talk to you!
+
+**Monologue by Mayer:**
+
+> I awoke from my dream's confusion to sunlight and the kind of morning that summer had been aiming at for months and had finally achieved too late. I lay for a while savoring the rest of the autumn to come. Shock-headed chrysanthemums, the acrid smell of burning leaves, old men in the park, bonfires.
+> 
+> And at that moment I heard the telephone ring.
+
+Arnold: I do hope I've got the right number.
+Mayer: I'm sure we can work something out between us.
+Arnold: Let me explain.
+Mayer: Put me out of my misery first.
+Arnold: Yes?
+Mayer: Who should I be?
+Arnold: It would be very reassuring if you were a Mr Mayer.
+Mayer: Be reassured.
+Arnold: I do believe it's working. Six out of six is good, isn't it?
+Mayer: Anything better would be suspicious.
+Arnold: I'll be round in about ten minutes, Mr Mayer.
+Mayer: Hello? Hello?
+
+**Monologue by Mayer:**
+
+> He was as good as his word and ten minutes later he walked into the shop. A tall young man whose excessive good looks were cancelled out by the vulnerability. His dazzling smile had paid for some dentist's holiday in sunny Tenerife. His voice was standard RP and every now and then you felt it belonged elsewhere and to someone else.
+
+Arnold: I said ten minutes, Mr Mayer. And here I am, bang on time.
+Mayer: Punctuality is the politeness of princes.
+Arnold: Couldn't agree more.
+Mayer: You have a nice line in telephone calls.
+Arnold: Thank you.
+Mayer: Six out of six what?
+Arnold: Oh, that, it's too embarrassing.
+Mayer: It'll go no further than this room.
+Arnold: Well, you see, Mr Mayer, I can't remember lines.
+Mayer: Maybe you should stick to mime.
+Arnold: It's not funny, Mr Mayer, I can tell you.
+Mayer: What has this got to do with telephone calls?
+Arnold: Memory training.
+Mayer: Memory training?
+Arnold: Right.
+Mayer: I'm sure there's a connection there somewhere if I could only make it.
+Arnold: It works like this.
+At one time if anyone gave me their telephone number I used to write it down.
+Arnold: I used to write it down.
 Now I make an effort to remember it.
-And you find that improves your memory?
-Six out of six.
-You haven't told me your name.
-Arnold.
-Hathaway Arnold.
-Oh, splendid name for an actor.
-You really think so?
-Yes, fine Shakespearean ring to it.
-That's why I chose it.
-My real name is Murgatroyd.
-Well, now that's out of the way, what brings you here?
-I've come to take over.
-Would you mind saying that again?
-I've come to take over.
-Are you talking about this bookshop?
-Yes.
-I don't usually make that kind of mistake.
-Ah, Theresa.
-How would you like to indulge in some more memory training?
-What do you want me to do?
-I want you to call Theresa
-and pass on this simple, brutal message.
-Tell her I'm fed up with her
-and our whole family, past and present.
-And that goes for any future members of the family still to come.
-Suppose she wants to know why?
-She won't.
-I don't think I can do this, Mr. Mayer.
-Nonsense. You're an actor, aren't you?
-Yes.
-And went round the corner to a little cafe
-that was an interesting survival
-in that the proprietor stubbornly believed
-that fast food was no food at all
-but merely a noun
-contradicted by an adjective.
-He had weird ideas about music, too,
-believing, as he did,
-that the best accompaniment to meals
-was silence.
-I sat there for about an hour
-and read one of the heavy newspapers
-that told me what the intellectual yuppies
-were wearing, thinking,
-peddling that particular day.
-Thus refreshed,
-physically and mentally,
-I returned to the shop
-and Hathaway Arnold,
-whose real name was Murgatroyd.
-You have to meet her at the airport.
-There has to be more than that, Arnold.
-Honestly, Mr. Mayer...
-You passed on my message. Word for word.
-And she made no comment? None.
-All she said was that you were booked
-on a four o'clock flight
-and that she'd meet you at the airport.
-Well, I thought you would know that.
-Why?
-I don't know. Just took it for granted, I suppose.
-Is it me, Arnold?
-Tell me, is it me?
-Is what you, Mr. Mayer?
-Am I walking around with an aura
-that everybody can see clearly except myself?
-A big, blazing, multicoloured aura
-that proclaims to the world, sucker?
-Can I answer that in my own way?
-Please do.
-She's sending a car to take you to the airport.
-Not far from the checking-in desk,
-she was standing, remote and cool,
-and for what the word is worth nowadays,
-virginal.
-She looked at me
-as though I reminded her
-of someone she'd once met
-at a rather boring party.
-Better check in.
-Would it be too much to ask you where I'm going?
-You're going to Glasgow.
-Why?
-According to the PR men, Glasgow is miles better.
-Better than what?
-You know what Robert Louis Stevenson said?
-I'll give him two minutes.
-He said the wise man travels only in imagination.
-So?
-I have the feeling of being forced to travel in someone else's.
-You're a fantasy merchant.
-Maybe it takes one to know one.
-Look, are you going or are you not?
-Then get going.
-I've brought you a briefcase.
-In it, you'll find everything you need.
-Have a nice day.
+Mayer: And you find that improves your memory?
+Arnold: Six out of six.
+Mayer: You haven't told me your name.
+Arnold: Arnold. Hathaway Arnold.
+Mayer: Oh, splendid name for an actor.
+Arnold: You really think so?
+Mayer: Yes, fine Shakespearean ring to it.
+Arnold: That's why I chose it. My real name is Murgatroyd.
+Mayer: Well, now that's out of the way, what brings you here?
+Arnold: I've come to take over.
+Mayer: Would you mind saying that again?
+Arnold: I've come to take over.
+Mayer: Are you talking about this bookshop?
+Arnold: Yes. Theresa don't usually make that kind of mistake.
+Mayer: Ah, Theresa. How would you like to indulge in some more memory training?
+Arnold: What do you want me to do?
+Mayer: I want you to call Theresa and pass on this simple, brutal message. Tell her I'm fed up with her and our whole family, past and present. And that goes for any future members of the family still to come.
+Arnold: Suppose she wants to know why?
+Mayer: She won't.
+Arnold: I don't think I can do this, Mr. Mayer.
+Mayer: Nonsense. You're an actor, aren't you?
+Arnold: Yes.
+
+**Monologue by Mayer:**
+
+> I went round the corner to a little cafe that was an interesting survival in that the proprietor stubbornly believed that fast food was no food at all but merely a noun contradicted by an adjective. He had weird ideas about music, too, believing, as he did, that the best accompaniment to meals was silence.
+> 
+> I sat there for about an hour and read one of the heavy newspapers that told me what the intellectual yuppies were wearing, thinking, peddling that particular day.
+> 
+> Thus refreshed, physically and mentally, I returned to the shop and Hathaway Arnold, whose real name was Murgatroyd.
+
+Arnold: You have to meet her at the airport.
+Mayer: There has to be more than that, Arnold.
+Arnold: Honestly, Mr. Mayer...
+Mayer: You passed on my message, word for word? And she made no comment?
+Arnold: None. All she said was that you were booked on a four o'clock flight and that she'd meet you at the airport. Well, I thought you would know that.
+Mayer: Why?
+Arnold: I don't know. Just took it for granted, I suppose.
+Mayer: Is it me, Arnold? Tell me, is it me?
+Arnold: Is what you, Mr. Mayer?
+Mayer: Am I walking around with an aura that everybody can see clearly except myself? A big, blazing, multicoloured aura that proclaims to the world, sucker?
+Arnold: Can I answer that in my own way?
+Mayer: Please do.
+Arnold: She's sending a car to take you to the airport.
+
+**Monologue by Mayer:**
+
+> Not far from the checking-in desk, she was standing, remote and cool, and for what the word is worth nowadays, virginal. She looked at me as though I reminded her of someone she'd once met at a rather boring party.
+
+Teresa: Better check in.
+Mayer: Would it be too much to ask you where I'm going?
+Teresa: You're going to Glasgow.
+Mayer: Why? According to the PR men, Glasgow is miles better.
+Teresa: Better than what?
+Mayer: You know what Robert Louis Stevenson said?
+Teresa: I'll give him two minutes.
+Mayer: He said the wise man travels only in imagination.
+Teresa: So?
+Mayer: I have the feeling of being forced to travel in someone else's.
+Teresa: You're a fantasy merchant.
+Mayer: Maybe it takes one to know one.
+Teresa: Look, are you going or are you not?
+Mayer: Then get going.
+Teresa: I've brought you a briefcase.
+Mayer: In it, you'll find everything you need.
+Teresa: Have a nice day.
+
+
 And with that pious wish,
 she vanished into thin air
 or more accurately
