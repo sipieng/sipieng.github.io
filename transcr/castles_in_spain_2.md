@@ -257,374 +257,204 @@ Teresa: I've brought you a briefcase.
 Mayer: In it, you'll find everything you need.
 Teresa: Have a nice day.
 
+**Monologue by Mayer:**
 
-And with that pious wish,
-she vanished into thin air
-or more accurately
-into the thick, artificial,
-controlled airport air
-that smelt of everywhere and nowhere,
-of tourists and terrorists
-and have a good day.
-I checked in
-and my obedience was rewarded
-by a boarding pass
-that entitled me to a free diagnosis
-by a machine that certified me
-as free of guns and bombs
-and other hidden hatreds.
-And thus driven,
-I boarded a plane that waited pale and patient
-like a beached whale
-anxious to escape the predators of earth
-even if that meant taking to the air.
-About six miles above the earth,
-I opened the briefcase Teresa had given me.
-It contained various sheets of paper,
-one of which appeared to be a list of addresses.
-Another said that a reservation
-had been made for me
-at a Glasgow hotel.
-There were four or five tattered postcards
-and there was money,
-always a handy thing to have
-even at 36,000 feet.
-I put everything back in the briefcase
-and the little man in the seat beside me
-gave me an approving smile.
-It does my heart good to see that.
-I beg your pardon?
-I once flew from New York
-with a man who kept working a pocket calculator all the way.
-You should have complained to the pilot.
-I got drunk instead.
-And objectionable, I hope.
-Oh, not my style, I'm afraid.
-Are you a professional, ma'am?
-I run a bookshop.
-Oh, very interesting.
-You or secondhand books?
-Both.
-I had a great aunt once who wrote a book.
-Really?
-The man was a man in a soporific way
-and eventually
-he sent himself off to sleep.
-And the aircraft roared
-towards the north
-with its comatose passengers,
-peas in a 600 miles an hour pod.
-And the pilot told us
-it was raining in Glasgow
-but we decided to land there anyway
-and we did.
-A taxi took me to the hotel
-which seemed to have as many flags
-as a small wall.
-From my room on the seventh floor
-there was a view of the river
-and the ceaseless rain
-neither particularly interesting.
-So I took the papers
-out of the briefcase
-and gave them a second look
-at the list of names and addresses
-at the five tattered postcards
-which had been posted
-from various parts of the country
-which were all in the same handwriting
-and which were all signed
-Jock.
-So I decided to phone
-the top number of the list
-in the briefcase.
-Valleyfield Residential Home?
-My name is Mayer.
-I wonder if you can help me.
-What seems to be the problem Mr. Mayer?
-I'd like to come and have a word
-with one of your residents.
-Which resident have you in mind?
-Mr. Henderson.
-Yes, we do have a Mr. Henderson here.
-Are you a relative?
-A friend of a friend.
-The normal visiting hours are between 7 and 8.
-I'll come along then.
-Very well.
-I need hardly remind you of our regulations
-concerning tobacco and alcohol.
-Valleyfield Residential Home
-was an anorexic building
-three stories high
-with a patch of lawn in front
-that was no bigger than a boy's size billiard table
-if not as smooth.
-The ground floor rooms
-two of them fronting onto the street
-were chauvinistic
-with tartan curtains
-and there was a strong smell of cats
-and disinfectant
-with neither odour predominating.
-At 7 o'clock a bell rang
-and we were turned loose
-and a surly nurse with varicose veins
-conducted me to a small room
-where a man called Henderson
-lay in bed.
-He was about 80
-with the complexion of a sound
-polished apple.
-He had hair as soft as silk
-and his eyes were
-astonishingly blue.
-Well, Mr. Mayer.
-Can we talk in private?
-Right, Bertha. You heard what the man said.
-Two's company, three's an epidemic.
-Oh, Mr. Henderson.
-She didn't seem to want to go.
-A nosy bugger.
-Now, what was it you couldn't discuss
-in front of witnesses?
-Nothing.
-Oh? That won't take long.
-I've, um, I've brought you a present.
-Tell me something first.
-Yes?
-Do I know you?
-You probably knew my grandfather.
-Who was he?
-Mayer. Augustus Mayer.
-Oh, it rings a bell.
-Harama. February, 1937.
-Killed there, was he?
-Yes.
-Something was said about a present.
-Something was indeed.
-Is it whisky or fags?
-What would you say to whisky and fags?
-Oh, I'd say that was version and overkill.
-Well, let's just say
-it's in memory of an old comrade.
-Aye.
-It sees one of the plastic cups.
-Right.
-That's a drop of the real stuff.
-Do you mind me asking you a few questions?
-No fire away.
-First of all,
-let me tell you who I am
-and what I'm doing here.
-Oh, you've already told me who you are.
-You're Big Gus Mayer's grandson
-and that's good enough for me.
-As for the other thing,
-what you're doing here,
-for you, you'll be like the others.
-What others?
-Is there a wee taste of that whisky?
-Yes.
-Well, there's these two kids
-that come to see me every Sunday morning.
-Yeah.
-Cheers. Cheers.
-Aye, there's two of them.
-A boy and a girl.
-And the way things are nowadays,
-the boy's the one with the long hair.
-What do they talk about?
-They're never short of subjects,
-I can tell you that.
-Worthwhile subjects?
-Oh, it depends what you think is worthwhile.
-All done men like me.
-You think that's how they see you?
-No.
-They're not doing me a favour
-that boots on the other foot.
-In what way?
-I think I represent something
-that they feel they've lost.
-Do they ever say anything like that?
-No.
-Maybe they've lost the words for it
-as well as the thing itself.
-Do you remember a man
-called Jock Cameron in Spain?
-Well, I'll be damned.
-What's the matter?
-I was just talking about him the other day.
-Who was asking you about him?
-These two kids I was telling you about
-who come here on Sundays.
-They decided to turn the Spanish Civil War
-into a project.
-Not very original.
-Why do you say that?
-Hitler and Mussolini had the same idea.
-Oh, so they did.
-Maybe the kids will be lucky.
-Oh, man.
-I could have went on all day about him
-and they would have asked for me.
-You'd have thought I was talking
-about some big pop star
-and not a wee hard man from Coatbridge.
-Did you keep in touch after Spain?
-No.
-Was there a reason for that?
-Maybe it was because
-we thought we had failed.
-You don't believe that, do you?
-If I believed that, Mayer,
-then your grandfather died in vain.
-If I believed that, Mayer,
-I could never swear to you
-on the stack of Bibles
-that in the same circumstances
-I would do it all again.
-I envy you.
-I don't care a bugger whether you do or not
-because that wasn't my reason
-for doing what I did.
-Mr Henderson.
-Thank you very much for your wish, Jay.
-Good night to you, Mayer.
-Walking away
-from the Valleyfield residential home,
-I decided that Mr Henderson
-did not get my vote
-as Geriatric of the Year.
-And that seemed fair enough
-since I suspected
-that I didn't rate too highly
-on his list of people
-he could not do without.
-And brooding on this
-took me through the damp streets
-all the way back to the hotel.
-MUSIC PLAYS
-I let myself into my room
-only to fetch up short inside the door
-and stare astonished at the stranger
-who stared back at me
-from beside the window
-with a kind of defiant embarrassment.
-Er, look, I know this must seem
-very unusual.
-I'm glad we agree about that.
-This matter seemed so very urgent.
-First things first.
-Who are you?
-My name is
-Nora McGill.
-How did you manage to get in here?
-One of the maids let me in.
-Charming. How much did it cost you?
-Nothing.
-Oh, come on now.
-I told her you were my boyfriend.
-All the world loves a lover.
-What happens now?
-I think
-I'll call the police.
-Oh!
-What's so funny?
-I am the police.
-MUSIC PLAYS
-Aren't you going to ask to see my warrant card?
-When I get my breath back.
-Have a look at it anyway.
-Seems all right.
-I suppose these things can be forged.
-Well, you know about forgeries.
-Less than nothing.
-Have you a passport?
-Yes. Would you mind showing it to me?
-It's at home. And where is home?
-London.
-Quite sure it's not Dublin?
-Positive.
-I've never even been there.
-Our information tells a different story.
-Then your information is nonsense.
-What are you doing up here?
-Very cooperative, Hanrahan.
-There could be a very simple reason for that.
-Could indeed.
-I'm no expert in these things, but don't you lot usually hunt in pairs?
-My partner stepped outside for a minute.
-Get a fresh pair of thumbscrews, no doubt.
-No doubt.
-Why didn't you just call room service?
-Better open up then, shall we?
-This is Inspector McNeil, special branch.
-Glad you could drop in, Inspector.
-Perhaps you'll explain to me why you did.
-A slight misunderstanding, Mr Mayer.
-Not much of an explanation,
-but at least you got my name right.
-Part of the misunderstanding, sir.
-Why did your partner call me Hanrahan?
-Maybe because she doesn't know what Hanrahan looks like.
-Do you?
-That's the problem, Mr Mayer.
-Nobody knows what Hanrahan looks like.
-Are you a patriot, Mr Mayer?
-Not a very loud one.
-You disappoint me.
-Why? What are you expecting?
-Something more bookish, perhaps.
-Patriotism is a last refuge of a scoundrel.
-My partner has an honours degree in English.
-I'm suitably impressed.
-You still haven't answered the question.
-Oh, but I have. It may not be the answer you wanted,
-but it's still an answer.
-Bit flippant, wasn't it?
-And you'd rather I was bookish?
-Well, you are a bookseller, aren't you?
-Have you checked that out?
-Of course. Just now.
-I think it was G.K. Chesterton
-who best stated my own particular attitude,
-my kind of patriotism, if you like.
-Instead, my country, right or wrong,
-is like saying my mother drunk or sober.
-Is that sufficiently bookish for you?
-Up to a point.
-Well, if there's no further business,
-will you both get the hell out of here
-and let me have my room back?
-There's just one more thing, Mr Mayer.
-Let's hear it, then.
-Remember, nobody knows what this Hanrahan looks like.
-Nobody knows what name he's travelling under.
-So keep your door locked.
-And don't let anyone in you don't know.
-In episode two of
-Castles in Spain by Edward Boyd,
-Graham Mayer was played by Ray Brooks,
-with Alexandra Mathey as Teresa,
-Joseph Gregg as Jot Cameron,
-John Westbrook as Jocelyn Coleman,
-Carey Wilson as MacNeil,
-and the rest of the cast
-were played by Graham Mayer.
-In episode three of
-Castles in Spain by Edward Boyd,
-Graham Mayer was played by Ray Brooks,
-with Alexandra Mathey as Teresa,
-Joseph Gregg as Jot Cameron,
-Carey Wilson as MacNeil,
-Sybil Wintrop as Nora,
-Joseph Brady as Mr Henderson,
-William Hope as
-the little man on the aircraft,
-Ian Thompson as Hathaway Arnold,
-and Jennifer Piercy
-as the receptionist.
-The director was
-Patrick Rayner.
+> And with that pious wish, she vanished into thin air or more accurately into the thick, artificial, controlled airport air that smelt of everywhere and nowhere, of tourists and terrorists and have a good day. 
+> 
+> I checked in, and my obedience was rewarded by a boarding pass that entitled me to a free diagnosis by a machine that certified me as free of guns and bombs and other hidden hatreds. And thus driven, I boarded a plane that waited pale and patient like a beached whale anxious to escape the predators of earth even if that meant taking to the air.
+> 
+> About six miles above the earth, I opened the briefcase Teresa had given me. It contained various sheets of paper, one of which appeared to be a list of addresses. Another said that a reservation had been made for me at a Glasgow hotel. There were four or five tattered postcards and there was money, always a handy thing to have even at 36,000 feet.
+> 
+> I put everything back in the briefcase and the little man in the seat beside me gave me an approving smile.
+
+Millhouse: It does my heart good to see that.
+Mayer: I beg your pardon?
+Millhouse: I once flew from New York with a man who kept working a pocket calculator all the way.
+Mayer: You should have complained to the pilot.
+Millhouse: I got drunk instead. And objectionable, I hope.
+Mayer: Not my style, I'm afraid.
+Millhouse: Are you a professional, ma'am?
+Mayer: I run a bookshop.
+Millhouse: Oh, very interesting. New or secondhand books?
+Mayer: Both.
+Millhouse: I had a great aunt once who wrote a book.
+Mayer: Really?
+
+**Monologue by Mayer:**
+
+> The man was a man in a soporific way and eventually he sent himself off to sleep. And the aircraft roared towards the north with its comatose passengers, peas in a 600 miles an hour pod. And the pilot told us it was raining in Glasgow but we decided to land there anyway and we did.
+> 
+> A taxi took me to the hotel which seemed to have as many flags as a small wall. From my room on the seventh floor there was a view of the river and the ceaseless rain neither particularly interesting. So I took the papers out of the briefcase and gave them a second look at the list of names and addresses at the five tattered postcards which had been posted from various parts of the country which were all in the same handwriting and which were all signed Jock.
+> 
+> So I decided to phone the top number of the list in the briefcase.
+
+Receptionist: Valleyfield Residential Home?
+Mayer: My name is Mayer. I wonder if you can help me.
+Receptionist: What seems to be the problem Mr. Mayer?
+Mayer: I'd like to come and have a word with one of your residents.
+Receptionist: Which resident have you in mind?
+Mayer: Mr. Henderson.
+Receptionist: Yes, we do have a Mr. Henderson here. Are you a relative?
+Mayer: A friend of a friend.
+Receptionist: The normal visiting hours are between 7 and 8.
+Mayer: I'll come along then.
+Receptionist: Very well. I need hardly remind you of our regulations concerning tobacco and alcohol.
+
+**Monologue by Mayer:**
+
+> Valleyfield Residential Home was an anorexic building three stories high with a patch of lawn in front that was no bigger than a boy's size billiard table if not as smooth. The ground floor rooms two of them fronting onto the street were chauvinistic with tartan curtains and there was a strong smell of cats and disinfectant with neither odour predominating.
+> 
+> At 7 o'clock a bell rang and we were turned loose and a surly nurse with varicose veins conducted me to a small room where a man called Henderson lay in bed. He was about 80 with the complexion of a sound polished apple. He had hair as soft as silk and his eyes were astonishingly blue.
+
+Nurse: Well, Mr. Mayer.
+Mayer: Can we talk in private?
+Henderson: Right, Bertha. You heard what the man said. Two's company, three's an epidemic.
+Nurse: Oh, Mr. Henderson.
+Mayer: She didn't seem to want to go.
+Henderson: A nosy bugger. Now, what was it you couldn't discuss in front of witnesses?
+Mayer: Nothing.
+Henderson: Oh? That won't take long.
+Mayer: I've, um, I've brought you a present.
+Henderson: Tell me something first.
+Mayer: Yes?
+Henderson: Do I know you?
+Mayer: You probably knew my grandfather.
+Henderson: Who was he?
+Mayer: Augustus Mayer.
+Henderson: Oh, it rings a bell.
+Mayer: Harama. February, 1937.
+Henderson: Killed there, was he?
+Mayer: Yes.
+Henderson: Something was said about a present.
+Mayer: Something was indeed.
+Henderson: Is it whisky or fags?
+Mayer: What would you say to whisky and fags?
+Henderson: Oh, I'd say that was version and overkill.
+Mayer: Well, let's just say it's in memory of an old comrade.
+Henderson: Aye. It sees one of the plastic cups.
+Mayer: Right.
+Henderson: That's a drop of the real stuff.
+Mayer: Do you mind me asking you a few questions?
+Henderson: No. Fire away.
+Mayer: First of all, let me tell you who I am and what I'm doing here.
+Henderson: Oh, you've already told me who you are. You're Big Gus Mayer's grandson and that's good enough for me. As for the other thing, what you're doing here, for you, you'll be like the others.
+Mayer: What others?
+Henderson: Is there a wee taste of that whisky?
+Mayer: Yes.
+Henderson: Well, there's these two kids that come to see me every Sunday morning.
+Mayer: Yeah. Cheers.
+Henderson: Cheers. Aye, there's two of them. A boy and a girl. And the way things are nowadays, the boy's the one with the long hair.
+Mayer: What do they talk about?
+Henderson: They're never short of subjects, I can tell you that.
+Mayer: Worthwhile subjects?
+Henderson: Oh, it depends what you think is worthwhile.
+Mayer: All done men like me.
+Henderson: You think that's how they see you?
+Mayer: No.
+Henderson: They're not doing me a favour that boots on the other foot.
+Mayer: In what way?
+Henderson: I think I represent something that they feel they've lost.
+Mayer: Do they ever say anything like that?
+Henderson: No. Maybe they've lost the words for it as well as the thing itself.
+Mayer: Do you remember a man called Jock Cameron in Spain?
+Henderson: Well, I'll be damned.
+Mayer: What's the matter?
+Henderson: I was just talking about him the other day.
+Mayer: Who was asking you about him?
+Henderson: These two kids I was telling you about who come here on Sundays. They decided to turn the Spanish Civil War into a project.
+Mayer: Not very original.
+Henderson: Why do you say that?
+Mayer: Hitler and Mussolini had the same idea.
+Henderson: Oh, so they did.
+Mayer: Maybe the kids will be lucky.
+Henderson: Oh, man. I could have went on all day about him and they would have asked for me. You'd have thought I was talking about some big pop star and not a wee hard man from Coatbridge.
+Mayer: Did you keep in touch after Spain?
+Henderson: No.
+Mayer: Was there a reason for that?
+Henderson: Maybe it was because we thought we had failed.
+Mayer: You don't believe that, do you?
+Henderson: If I believed that, Mayer, then your grandfather died in vain. If I believed that, Mayer, I could never swear to you on the stack of Bibles that in the same circumstances I would do it all again.
+Mayer: I envy you.
+Henderson: I don't care a bugger whether you do or not because that wasn't my reason for doing what I did.
+Mayer: Mr Henderson.
+Henderson: Thank you very much for your wisky. Good night to you, Mayer.
+
+**Monologue by Mayer:**
+
+> Walking away from the Valleyfield residential home, I decided that Mr Henderson did not get my vote as Geriatric of the Year. And that seemed fair enough since I suspected that I didn't rate too highly on his list of people he could not do without. And brooding on this took me through the damp streets all the way back to the hotel.
+> 
+> I let myself into my room only to fetch up short inside the door and stare astonished at the stranger who stared back at me from beside the window with a kind of defiant embarrassment.
+
+
+Nora: Er, look, I know this must seem very unusual.
+Mayer: I'm glad we agree about that.
+Nora: This matter seemed so very urgent.
+Mayer: First things first. Who are you?
+Nora: My name is Nora McGill.
+Mayer: How did you manage to get in here?
+Nora: One of the maids let me in.
+Mayer: Charming. How much did it cost you?
+Nora: Nothing.
+Mayer: Oh, come on now.
+Nora: I told her you were my boyfriend.
+Mayer: All the world loves a lover.
+Nora: What happens now?
+Mayer: I think I'll call the police.
+Nora: Oh!
+Mayer: What's so funny?
+Nora: I am the police.
+Nora: Aren't you going to ask to see my warrant card?
+Mayer: When I get my breath back.
+Nora: Have a look at it anyway.
+Mayer: Seems all right. I suppose these things can be forged.
+Nora: Well, you know about forgeries.
+Mayer: Less than nothing.
+Nora: Have you a passport?
+Mayer: Yes.
+Nora: Would you mind showing it to me?
+Mayer: It's at home.
+Nora: And where is home?
+Mayer: London.
+Nora: Quite sure it's not Dublin?
+Mayer: Positive. I've never even been there.
+Nora: Our information tells a different story.
+Mayer: Then your information is nonsense.
+Nora: What are you doing up here?
+Mayer: At the moment I'm trying to keep my temper.
+Nora: You are not being very cooperative, Hanrahan.
+Mayer: There could be a very simple reason for that.
+Nora: Could indeed.
+Mayer: I'm no expert in these things, but don't you lot usually hunt in pairs?
+Nora: My partner stepped outside for a minute.
+Mayer: Get a fresh pair of thumbscrews, no doubt.
+Nora: No doubt.
+Mayer: Why didn't you just call room service? Better open up then, shall we?
+Nora: This is Inspector McNeil, special branch.
+Mayer: Glad you could drop in, Inspector. Perhaps you'll explain to me why you did.
+McNeil: A slight misunderstanding, Mr Mayer.
+Mayer: Not much of an explanation, but at least you got my name right.
+McNeil: Part of the misunderstanding, sir.
+Mayer: Why did your partner call me Hanrahan?
+McNeil: Maybe because she doesn't know what Hanrahan looks like.
+Mayer: Do you?
+McNeil: That's the problem, Mr Mayer. Nobody knows what Hanrahan looks like. Are you a patriot, Mr Mayer?
+Mayer: Not a very loud one.
+McNeil: You disappoint me.
+Mayer: Why? What are you expecting?
+McNeil: Something more bookish, perhaps.
+Nora: Somthing like "Patriotism is a last refuge of a scoundrel".
+McNeil: My partner has an honours degree in English.
+Mayer: I'm suitably impressed.
+Nora: You still haven't answered the question.
+Mayer: Oh, but I have. It may not be the answer you wanted, but it's still an answer.
+McNeil: Bit flippant, wasn't it?
+Mayer: And you'd rather I was bookish?
+McNeil: Well, you are a bookseller, aren't you?
+Mayer: Have you checked that out?
+McNeil: Of course. Just now.
+Mayer: I think it was G.K. Chesterton who best stated my own particular attitude, my kind of patriotism, if you like. He said, "My country, right or wrong, is like saying my mother drunk or sober." Is that sufficiently bookish for you?
+Nora: Up to a point.
+Mayer: Well, if there's no further business, will you both get the hell out of here and let me have my room back?
+McNeil: There's just one more thing, Mr Mayer.
+Mayer: Let's hear it, then.
+McNeil: Remember, nobody knows what this Hanrahan looks like. Nobody knows what name he's travelling under. So keep your door locked. And don't let anyone in you don't know.
