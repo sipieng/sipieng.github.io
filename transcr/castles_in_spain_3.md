@@ -387,154 +387,102 @@ McLauchlan: Oh, yes, he managed all right. But what happened to him after that, 
 >
 > My mind was flooded with violent sounds and images, which had the odd effect of destroying surprise when the car drew up beside me.
 
-Do you like walking in the rain, Mr Mayer?
-It's an eccentricity I share with Greta Garbo.
-We want to talk to you, smart-ass.
-You could refuse such a gracious invitation.
-Get into the car.
-Rather late for visiting, Mr Mayer?
-I thought so too, but she insisted.
-Who is she?
-My old nanny.
-Patience is a virtue, Mr Mayer.
-One that Inspector McNeill is not noted for.
-Spoken like a true honours graduate.
-I'm not an honours graduate, Mayer.
-Not even battle honours.
-You're not as clever as you think you are, Mayer.
-It only looks like that in the present distinguished company.
-In a moment I'm going to drag you outside this car and beat the hell out of you.
-The last reason of the king is the sword.
-It doesn't have to be.
-But you'd stand by and watch it happen?
-If necessary.
-What happens if I turn out to be an honours graduate in karate?
-Somebody else will be along to ask the questions.
-Somebody better equipped.
-Well, what's it to be?
-The lady I was visiting is called Miss MacLachlan.
-There are other names on the door.
-She rents out the top two floors.
-She's an old friend of yours?
-I met her for the first time tonight.
-Why were you visiting her?
-Business.
-That covers a multitude of sins, Mr Mayer.
-Oh, no sins at all.
-What was your business?
-Well, if you check me out, you'll know that I run a bookshop.
-It's called The Bookworm.
-We know all that.
-I also run a sideline in rare and unusual books.
-Pornography, eh?
-I'm afraid you'll have to go elsewhere for that.
-For God's sake, will you stop it, you two?
-Tell him to stay inside his warrant card.
-Can we get back to your reason for visiting Miss MacLachlan?
-Her father was a military man, a career soldier.
-Not famous or distinguished as a soldier,
-but modestly celebrated in book-selling circles
-for his collection of books on military history.
-Specialist stuff, but extremely valuable.
-When he was called to the Great War office in the sky,
-Miss MacLachlan fell heir to the collection.
-But until now, she has managed to keep it intact.
-And this collection is the reason that brings you up here?
-That's the main reason.
-Apparently, she's been having a rough time financially
-over the past few years, and the word is out
-that she might now be prepared to let the collection go
-if the right offer was forthcoming.
-I came up to check this out, you see, and put in a bid
-if the rumour turned out to be true.
-We have ways of confirming this, Mayer.
-Be my guest.
-You said that this collection of books
-was the main reason for coming up here.
-That suggests there were others.
-They probably don't matter.
-We're not interested in probabilities, Mayer.
-Possibly not, but I'm sure you'd be even less interested
-in the fact that I felt I had been working too hard
-and owed myself a break.
-Who is JC, Mr Mayer?
-JC?
-Yes.
-Jeremiah Clark, Jiminy Crickets, Joan Collins?
-We're talking about postcards.
-Postcards?
-Found in your hotel room.
-All addressed to the same person, and all signed by the same person.
-JC.
-Oh, Jock Cameron.
-Ah.
-You probably came across a list of names, too.
-We did.
-I hope you'll find it more useful than I did.
-Jock Cameron, Mr Mayer.
-What is your interest in him, Mayer?
-I suppose you might call it purely academic.
-In what way?
-What do you know about the Spanish Civil War?
-Not a lot.
-Surely you must at least have heard of a book called
-For Whom the Bell Tolls?
-Of course.
-And I once had a dog called Ernest Hemingway.
-A bull terrier, no doubt.
-What the hell has all this to do with Cameron?
-Jock Cameron fought in the Spanish Civil War,
-with great distinction.
-Mr Mayer, are all booksellers as long-winded as you?
-I'm trying to give you the complete picture.
-We'll settle for the postcards.
-Well, the postcards belong to a friend of mine
-who's a kind of Spanish Civil War buff.
-For years now, he's had this ambition
-to write a biography of Jock Cameron.
-He met Cameron, who raised no objection,
-but then the trouble began.
-What trouble?
-Well, you see, Cameron's something of a wandering boy,
-always on the move, here, there, everywhere.
-My friend could never pin him down long enough in one place
-for any useful discussion to take place.
-Cameron kept in touch with him by postcard.
-Here I am in Swansea, or Drumner Drocket, or wherever.
-Fascinating but useless for what my friend had in mind.
-What about the list of names?
-Cameron was with the International Brigade in Spain.
-So were all the people on that list.
-This friend of yours supplied you with a list?
-Right.
-Why?
-The idea was that one of them might know where Cameron is now.
-How many of them did you visit?
-One, an old sourpuss called Henderson.
-Did you get anything from him?
-Only a flea in my ear.
-So you have no idea where Cameron is?
-No more than you appear to have.
-There's something you should know, Mr Mayer.
-Really?
-It's about the postcards.
-Yes?
-Each of these postcards came from a place where there'd been a bomb outrage.
-Coincidence, perhaps?
-The postmarts indicate that they were posted round about the dates of the bombings.
-That, Mayer, is why we want to talk to Jock Cameron.
-THE CASTLES IN SPAIN
-In Episode 3 of Castles in Spain, by Edward Boyd,
-Graham Mayer was played by Ray Brooks,
-with Alexandra Mathey as Teresa,
-Kerry Wilson as Inspector MacNeil,
-Sybil Wintrop as Nora McGill,
-John Westbrook as Jocelyn Coleman,
-Yvonne Gillen as Agnes MacLachlan,
-John Hanna as Jock Cameron,
-Ian Thompson as Arnold,
-Caroline Guthrie as Paula,
-Richard Jameson as Pat,
-and Gordon Reed as the waiter and the taxi driver.
-The director was Patrick Rayner.
-CASTLES IN SPAIN
+Norah: Do you like walking in the rain, Mr Mayer?
+Mayer: It's an eccentricity I share with Greta Garbo.
+McNeil: We want to talk to you, smart-ass.
+Mayer: You could refuse such a gracious invitation.
+McNeil: Get into the car.
+Norah: Rather late for visiting, Mr Mayer?
+Mayer: I thought so too, but she insisted.
+McNeil: Who is she?
+Mayer: My old nanny.
+Norah: Patience is a virtue, Mr Mayer, one that Inspector McNeill is not noted for.
+Mayer: Spoken like a true honours graduate.
+McNeil: I'm not an honours graduate, Mayer.
+Mayer: Not even battle honours.
+McNeil: You're not as clever as you think you are, Mayer.
+Mayer: It only looks like that in the present distinguished company.
+McNeil: In a moment I'm going to drag you outside this car and beat the hell out of you.
+Mayer: The last reason of the king is the sword.
+Norah: It doesn't have to be.
+Mayer: But you'd stand by and watch it happen?
+Norah: If necessary.
+Mayer: What happens if I turn out to be an honours graduate in karate?
+Norah: Somebody else will be along to ask the questions. Somebody better equipped. Well, what's it to be?
+Mayer: The lady I was visiting is called Miss MacLachlan.
+McNeil: There are other names on the door.
+Mayer: She rents out the top two floors.
+Norah: She's an old friend of yours?
+Mayer: I met her for the first time tonight.
+McNeil: Why were you visiting her?
+Mayer: Business.
+Norah: That covers a multitude of sins, Mr Mayer.
+Mayer: Oh, no sins at all.
+McNeil: What was your business?
+Mayer: Well, if you check me out, you'll know that I run a bookshop. It's called The Bookworm.
+McNeil: We know all that.
+Mayer: I also run a sideline in rare and unusual books.
+McNeil: Pornography, eh?
+Mayer: I'm afraid you'll have to go elsewhere for that.
+Norah: For God's sake, will you stop it, you two?
+Mayer: Tell him to stay inside his warrant card.
+Norah: Can we get back to your reason for visiting Miss MacLachlan?
+Mayer: Her father was a military man, a career soldier. Not famous or distinguished as a soldier, but modestly celebrated in book-selling circles for his collection of books on military history. Specialist stuff, but extremely valuable. When he was called to the Great War office in the sky, Miss MacLachlan fell heir to the collection. But until now, she has managed to keep it intact.
+Norah: And this collection is the reason that brings you up here?
+Mayer: That's the main reason. Apparently, she's been having a rough time financially over the past few years, and the word is out that she might now be prepared to let the collection go if the right offer was forthcoming. I came up to check this out, you see, and put in a bid if the rumour turned out to be true.
+McNeil: We have ways of confirming this, Mayer.
+Mayer: Be my guest.
+Norah: You said that this collection of books was the main reason for coming up here. That suggests there were others.
+Mayer: They probably don't matter.
+McNeil: We're not interested in probabilities, Mayer.
+Mayer: Possibly not, but I'm sure you'd be even less interested in the fact that I felt I had been working too hard and owed myself a break.
+Norah: Who is JC, Mr Mayer?
+Mayer: JC?
+Norah: Yes.
+Mayer: Jeremiah Clark, Jiminy Crickets, Joan Collins?
+McNeil: We're talking about postcards.
+Mayer: Postcards?
+McNeil: Found in your hotel room. All addressed to the same person, and all signed by the same person.
+Norah: JC.
+Mayer: Oh, Jock Cameron.
+McNeil: Ah.
+Mayer: You probably came across a list of names, too.
+McNeil: We did.
+Mayer: I hope you'll find it more useful than I did.
+Norah: Jock Cameron, Mr Mayer.
+McNeil: What is your interest in him, Mayer?
+Mayer: I suppose you might call it purely academic.
+Norah: In what way?
+Mayer: What do you know about the Spanish Civil War?
+Norah: Not a lot.
+Mayer: Surely you must at least have heard of a book called For Whom the Bell Tolls?
+Norah: Of course. Mayer: And I once had a dog called Ernest Hemingway.
+Mayer: A bull terrier, no doubt.
+McNeil: What the hell has all this to do with Cameron?
+Mayer: Jock Cameron fought in the Spanish Civil War, with great distinction.
+Norah: Mr Mayer, are all booksellers as long-winded as you?
+Mayer: I'm trying to give you the complete picture.
+McNeil: We'll settle for the postcards.
+Mayer: Well, the postcards belong to a friend of mine who's a kind of Spanish Civil War buff. For years now, he's had this ambition to write a biography of Jock Cameron. He met Cameron, who raised no objection, but then the trouble began.
+McNeil: What trouble?
+Mayer: Well, you see, Cameron's something of a wandering boy, always on the move, here, there, everywhere. My friend could never pin him down long enough in one place for any useful discussion to take place. Cameron kept in touch with him by postcard. Here I am in Swansea, or Drumner Drocket, or wherever. Fascinating but useless for what my friend had in mind.
+Norah: What about the list of names?
+Mayer: Cameron was with the International Brigade in Spain. So were all the people on that list.
+McNeil: This friend of yours supplied you with a list?
+Mayer: Right.
+McNeil: Why?
+Mayer: The idea was that one of them might know where Cameron is now.
+Norah: How many of them did you visit?
+Mayer: One, an old sourpuss called Henderson.
+Norah: Did you get anything from him?
+Mayer: Only a flea in my ear.
+McNeil: So you have no idea where Cameron is?
+Mayer: No more than you appear to have.
+Norah: There's something you should know, Mr Mayer.
+Mayer: Really?
+Norah: It's about the postcards.
+Mayer: Yes?
+Norah: Each of these postcards came from a place where there'd been a bomb outrage.
+Mayer: Coincidence, perhaps?
+Norah: The postmarts indicate that they were posted round about the dates of the bombings.
+McNeil: That, Mayer, is why we want to talk to Jock Cameron.
