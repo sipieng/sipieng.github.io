@@ -203,10 +203,10 @@ Arnold: I've come to take over.
 Mayer: Would you mind saying that again?
 Arnold: I've come to take over.
 Mayer: Are you talking about this bookshop?
-Arnold: Yes. Theresa don't usually make that kind of mistake.
-Mayer: Ah, Theresa. How would you like to indulge in some more memory training?
+Arnold: Yes. Teresa don't usually make that kind of mistake.
+Mayer: Ah, Teresa. How would you like to indulge in some more memory training?
 Arnold: What do you want me to do?
-Mayer: I want you to call Theresa and pass on this simple, brutal message. Tell her I'm fed up with her and our whole family, past and present. And that goes for any future members of the family still to come.
+Mayer: I want you to call Teresa and pass on this simple, brutal message. Tell her I'm fed up with her and our whole family, past and present. And that goes for any future members of the family still to come.
 Arnold: Suppose she wants to know why?
 Mayer: She won't.
 Arnold: I don't think I can do this, Mr. Mayer.

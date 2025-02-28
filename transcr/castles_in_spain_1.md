@@ -172,7 +172,7 @@ Teresa: My grandfather thinks you would.
 
 Coleman: It was very good of you to come along, Mr Mayer.
 Mayer: Um, not at all.
-Coleman: I hope you didn't find Theresa too uncouth.
+Coleman: I hope you didn't find Teresa too uncouth.
 Mayer: She's very, um, forthright.
 Coleman: She is totally devoid of good manners, a rude little bitch.
 Mayer: Look, I'm sure you wouldn't wish to embarrass me, Mr, um...
@@ -182,7 +182,7 @@ Coleman: Let me make this quite clear, Mr Coleman.
 Mayer: I didn't come here to discuss the social graces or lack of them of someone I hardly know.
 Coleman: Then why are you here?
 Teresa: My grandfather asked him to come.
-Coleman: Really, Theresa? Did you have to disappear and leave Mr Mayer like this?
+Coleman: Really, Teresa? Did you have to disappear and leave Mr Mayer like this?
 Teresa: I disappeared, as you put it, for two reasons. Grandfather asked me to let him know at once when Mr Mayer arrived.
 Coleman: I don't think we need to go into the second reason.
 Teresa: Why not? The second reason...
@@ -209,7 +209,7 @@ Teresa: I did.
 
 > It was my day for surprises, and it still had some way to go.
 > 
-> Theresa tapped on a door at the end of the gallery. A voice bade us enter, which we did, and were transported back half a century. The room might have been a set for a war play, but a play about a specific war and a specific place at a specific time. A long plain table spilled with maps and posters flared from the walls. One of them stated defiantly: *Defensa Madrid es defensa Catalunya. Catalunya.*
+> Teresa tapped on a door at the end of the gallery. A voice bade us enter, which we did, and were transported back half a century. The room might have been a set for a war play, but a play about a specific war and a specific place at a specific time. A long plain table spilled with maps and posters flared from the walls. One of them stated defiantly: *Defensa Madrid es defensa Catalunya. Catalunya.*
 
 > He was sprawled in a deep leather armchair. He looked up at me and smiled. Even sprawling, he still contrived to look military. By my reckoning, he must have been over 70, but he seemed a great deal younger. Perhaps the room with its maps and posters, a bygone war, had become a magic time capsule that kept time in abeyance.
 
