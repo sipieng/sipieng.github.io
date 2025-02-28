@@ -1,0 +1,485 @@
+<!DOCTYPE html><html><head>
+      <title>castles_in_spain_4</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\mike.shen\.cursor\extensions\shd101wyy.markdown-preview-enhanced-0.8.15\crossnote\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<p>## Episode 4</p>
+<p><em>Narrator:</em><br>
+<em>Castles in Spain, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer. Episode four.</em><br>
+<em>Graham Mayer has been hired under strange circumstances to find a missing veteran of the Spanish Civil War. His search for the elusive and possibly dangerous Jock Cameron has taken him north to Glasgow where he's begun to track down a list of people who knew Cameron in Spain during the late 1930s and who may know where he is now. The trouble is that wherever Mayer goes, two mysterious police officers are never far behind.</em></p>
+<p><em>[Previously in episode 3]</em><br>
+<em>[Outside McLauchlan's house]</em><br>
+Norah: There's something you should know, Mr Mayer.<br>
+Mayer: Really?<br>
+Norah: It's about the postcards.<br>
+Mayer: Yes?<br>
+Norah: Each of these postcards came from a place where there'd been a bomb outrage.<br>
+Mayer: Coincidence perhaps?<br>
+Norah: The postmarks indicate that they were posted round about the dates of the bombings.<br>
+McNeil: That, Mayer, is why we want to talk to Jock Cameron.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>They let me out of the car and I walked back to the hotel. A fine rain was falling and I reflected that I'd discovered something new but not about Jock Cameron. I'd unearthed new depths of duplicity in myself of which I was at once both proud and fearful. And in this state of streaky euphoria, I walked glistening into the bar.</p>
+<p>I recognised him at once. He looked just as little, just as nice as he had done sitting beside me on the plane. Centuries ago, it seemed.</p>
+</blockquote>
+<p><em>[In the hotel bar]</em><br>
+Millhouse: Remember me?<br>
+Mayer: The password is Emily Twelveries.<br>
+Millhouse: Never heard of her.<br>
+Mayer: She was your great aunt and she wrote a book, she said.<br>
+Millhouse: You want to remain my friend?<br>
+Mayer: Until something better offers.<br>
+Millhouse: Don't ever read that book. Don't ever, ever read that book.<br>
+Mayer: What's it called?<br>
+Millhouse: I swore a mighty oath on a stack of Bibles never to tell anybody that.<br>
+Mayer: You make it sound irresistible.<br>
+Millhouse: Guess where I've been tonight?<br>
+Mayer: Where?<br>
+Millhouse: A pop concert.<br>
+Mayer: You'll be smirking next.<br>
+Millhouse: Oh, look who's here.<br>
+Mayer: Who the devil is that?<br>
+Millhouse: That, my friend, is Apollyon.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>Apollyon the Destroyer, the ferocious devil of St. John the Divine. This was the enemy of mankind. But bowdlerized, his fangs extracted, talons cut, his power diminished, reduced to a demon in a sleazy pantomime. He was wearing a scarlet jerkin and flame-colored tights. His boots were ankle length and red. And his hair was cunningly lacquered into two rather unconvincing horns.</p>
+<p>He had an entourage of two, which might mean that even devils are cutting back on things these days.</p>
+<p>One was standard B-movie thug. The other was a girl called Teresa.</p>
+</blockquote>
+<p><em>[In the hotel bar]</em><br>
+Millhouse: Well, bookseller, does he make your blood run cold?<br>
+Mayer: Not so as anyone would notice.<br>
+Millhouse: His real name's McGuire, Terrence McGuire.<br>
+Mayer: You seem to know a lot about him.<br>
+Millhouse: I invented him.<br>
+Mayer: The girl with him?<br>
+Millhouse: Eh, not your run-of-the-mill groupie, I'd have said.<br>
+Mayer: I know her.<br>
+Millhouse: Not to worry. Apollyon isn't into girls.<br>
+Mayer: That's the least of my worries. But I must talk to her.<br>
+Millhouse: Well, ain't the coin a phrase, bookseller? There's no time like the present.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>I walked across the bar to where Teresa sat, pinioned between a pastiche B. Algebra and his B-movie minder. I sat down beside them, uninvited, and was immediately coned by three surprised and hostile stares.</p>
+</blockquote>
+<p><em>[In the hotel bar]</em><br>
+Teresa: What do you want?<br>
+Mayer: I've been looking all over for you.<br>
+Teresa: Why?<br>
+Mayer: We have things to talk about.<br>
+Teresa: Not just now.<br>
+Mayer: Right now, in private.<br>
+Teresa: Not just now.<br>
+Mayer: I must insist.<br>
+Apollyon: Apollyon doesn't like that word, mister.<br>
+Mayer: Too many syllables in it, maybe.<br>
+Apollyon: Smart boy, eh?<br>
+Nuke: This boy botherin' you, Apollyon?<br>
+Apollyon: What's your name, mister?<br>
+Teresa: His name's Mayer.<br>
+Apollyon: Mayer, I think it's time you met Nuke Winter.<br>
+Nuke: I'm Apollyon's minder.<br>
+Apollyon: You know what a minder is, mister?<br>
+Mayer: Some kind of hired bully, isn't it?<br>
+Apollyon: That's right.<br>
+Nuke: Your jacket's hangin' in a shaky nail, by the way.<br>
+Apollyon: It's up to you, Mayer. Either go away or stay and get Nuked.<br>
+Mayer: I'll stay. I must talk to Teresa.<br>
+Millhouse: And so you shall, Mr Bookseller.<br>
+Apollyon: Mr Millhouse.<br>
+Millhouse: Well, McGuire.<br>
+Apollyon: Great to see you, Mr Millhouse.<br>
+Millhouse: I'm sorry I can't return the compliment.<br>
+Apollyon: Is anything wrong, Mr Millhouse?<br>
+Millhouse: I caught your show tonight.<br>
+Apollyon: Great audience. They loved me.<br>
+Millhouse: You were terrible. Who are you, McGuire? And where are you from?<br>
+Apollyon: Look, Mr Millhouse.<br>
+Millhouse: The question was rhetorical. I know only too well who you are and where you're from. What's bothering me at the moment is where you're going, if anywhere.<br>
+Apollyon: Can I say something, Mr Millhouse?<br>
+Millhouse: No, you can't. Where was the bass player tonight?<br>
+Apollyon: I dropped him.<br>
+Millhouse: Why? Was he drunk? Stoned? Strung out in any way I've missed?<br>
+Apollyon: We had a disagreement about the music.<br>
+Millhouse: I want him back in the group.<br>
+Apollyon: Yes, Mr Millhouse.<br>
+Millhouse: The only musician in the group. The only one who knows B-flat from a bull's foot, and you go and drop him.<br>
+Apollyon: I'm sorry, Mr Millhouse.<br>
+Teresa: You don't have to take this, McGuire.<br>
+Apollyon: Shut up, Teresa.<br>
+Teresa: Don't talk to me like that.<br>
+Apollyon: You don't understand.<br>
+Teresa: I understand this much. If you're prepared to sit here and let this character walk all over you, great. But I don't have to sit and listen to it.<br>
+Apollyon: Then get lost.<br>
+Teresa: If you still want to talk to me, Mayer, I'll see you in the morning.<br>
+Mayer: Good night, Teresa.<br>
+Millhouse: Have I made myself clear, McGuire?<br>
+Apollyon: Yes, Mr Millhouse. I'll phone the bass player in the morning.<br>
+Millhouse: Phone him tonight.<br>
+Apollyon: Will do, Mr Millhouse.<br>
+Millhouse: Now, let's have a talk about you, Nuke. Or Puke, whatever your name is.<br>
+Nuke: Nuke, Mr Millhouse.<br>
+Millhouse: Where did McGuire find you?<br>
+Nuke: Terry and me was at school together.<br>
+Millhouse: Uh-huh.<br>
+Nuke: St. Benedict's High.<br>
+Millhouse: Now, how do you see your job as minder, Nuke?<br>
+Nuke: Seeing that Terry, I mean, Apollyon, and, is to get hassled.<br>
+Millhouse: Admirable, but just a little vague. Shall I tell you how I see it?<br>
+Nuke: I'm always willing to learn, Mr Millhouse.<br>
+Millhouse: Your job is to protect McGuire from silly little boys or girls who want to tear his clothes off or smuggle themselves into his guitar case.<br>
+Nuke: Uh-huh.<br>
+Millhouse: Occasionally, you might even have to foil an assassination attempt by a maddened music lover.<br>
+Nuke: Uh-huh.<br>
+Millhouse: What is not in your contract is leaning on people like my friend, Mr Mayer, here.<br>
+Nuke: Oh, I didn't know he was a mate of yours.<br>
+Millhouse: The world's full of mates of mine.<br>
+Nuke: I'll remember that, Mr Millhouse.<br>
+Millhouse: That goes for you, too, McGuire.<br>
+Apollyon: Yes, Mr Millhouse.<br>
+Millhouse: Right, Nuke, take him home and put him to bed. Sing him a lullaby. Give him a glass of hot milk. Read Rupert Bear to him or whatever. And before you put the light out, remember everything I've told you.<br>
+Nuke: Whatever you say, Mr Millhouse.<br>
+Millhouse: Say goodnight, McGuire.<br>
+Apollyon: Goodnight, Mr Millhouse.<br>
+<em>[Apollyon and Nuke leave]</em><br>
+Mayer: Weren't you a bit hard on him?<br>
+Millhouse: Not as hard as Nuke would have been on you.<br>
+Mayer: I owe you for that.<br>
+Millhouse: No, I think nothing of it.<br>
+Mayer: Has he any talent?<br>
+Millhouse: None at all. None of them have.<br>
+Mayer: Oh, come on.<br>
+Millhouse: It's true. Pop music is the great 20th century confidence trick.<br>
+Mayer: You get nothing from it, personally?<br>
+Millhouse: Only money.<br>
+Mayer: I feel almost sorry for that posturing idiot.<br>
+Millhouse: Don't. If he makes it big, he'll treat me a damn sight worse than I ever treated him.<br>
+Mayer: And you'd accept that?<br>
+Millhouse: No way.<br>
+Mayer: What would you do?<br>
+Millhouse: Sell him. I might even let him buy himself back.<br>
+Mayer: What happens if he doesn't make it?<br>
+Millhouse: He can go back to coloring in holy pictures.<br>
+Mayer: You frighten me, Mr Millhouse.<br>
+Millhouse: Go to bed, bookseller. Dream of hearts and flowers.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>I went upstairs to my room, feeling like an endangered species, which perhaps I was. I pulled back the curtains and let the city lights stare up at me unblinkingly. They made patterns which told me nothing. Shapes without content. Flickers of function. Neon nothingness. The reflected comment wrote itself on the low clouds, announcing with a kind of bleak pride, mankind is a failed experiment. I closed the curtains to shut off the past, the present, and the even more dreadful future.</p>
+<p>Then somebody knocked quietly on my door. And when I opened it, there was Teresa.</p>
+</blockquote>
+<p><em>[In the hotel room]</em><br>
+Teresa: May I come in?<br>
+Mayer: I thought we had an appointment for tomorrow morning.<br>
+Teresa: It's tomorrow morning now.<br>
+Mayer: Technically, I suppose you're right.<br>
+Teresa: Come in then.<br>
+Mayer: Sit down.<br>
+Teresa: Who was that horrible little man, Millhouse?<br>
+Mayer: He apparently buys and sells pop stars.<br>
+Teresa: Where did you meet him?<br>
+Mayer: On the plane coming up here.<br>
+Teresa: Is that true?<br>
+Mayer: No, it's not true. He's a colonel in the KGB. So am I. We're all colonels in the KGB. There's a lot of ill feeling about it. Too many chiefs and too few Indians is the main complaint.<br>
+Teresa: You don't have to shout at me.<br>
+Mayer: I'm not shouting at you.<br>
+Teresa: Yes, you are.<br>
+Mayer: I'm not going to argue with you.<br>
+Teresa: Do you know that my grandfather is dead?<br>
+Mayer: I'm sorry. My news for you was only that he'd been taken to hospital.<br>
+Teresa: Then your news is out of date.<br>
+Mayer: Who told you?<br>
+Teresa: Arnold. Just now.<br>
+Mayer: He's a fast man with my phone bill as Arnold.<br>
+Teresa: What do you intend to do now, bookseller?<br>
+Mayer: Cut my losses, go back home.<br>
+Teresa: Lucky you.<br>
+Mayer: Oh, come on. You're not going to give me that little orphan Annie routine again, are you?<br>
+Teresa: You bastard.<br>
+Mayer: That remark is all the charm of a redundancy notice.<br>
+Teresa: I didn't mean--<br>
+Mayer: Are you still mad about the way Millhouse treated your pantomime dame?<br>
+Teresa: Why should I be?<br>
+Mayer: That depends on how close you are to Maguire.<br>
+Teresa: He's just someone I knew in London.<br>
+Mayer: Someone who painted holy pictures.<br>
+Teresa: How did you know that?<br>
+Mayer: Millhouse mentioned something about it.<br>
+Teresa: What else did he mention?<br>
+Mayer: There was the merest suggestion that he might be gay.<br>
+Teresa: They're all gay. Maguire, my grandfather, that old queen, Jocelyn.<br>
+Mayer: Hold on a minute. Who told you about your grandfather being gay?<br>
+Teresa: What does that matter?<br>
+Mayer: It matters for various reasons.<br>
+Teresa: I'd like to hear them.<br>
+Mayer: To begin with, it just might not be true.<br>
+Teresa: But Jocelyn said--<br>
+Mayer: Forget Coleman for a moment. Did your grandfather ever at any time take you aside and say, "Teresa, darling, I've just come out of the closet and I want you to be the first to know."<br>
+Teresa: Don't be silly.<br>
+Mayer: I take it that means no.<br>
+Teresa: Correct.<br>
+Mayer: Then it all comes back to Jocelyn, doesn't it?<br>
+Teresa: I suppose so. He scares me. I think he always has done. I'm going to bed. Good night, Mr Mayer.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>I have a bedside book that goes everywhere with me. I picked it up in Hastings when I was 17. It has shared my sleeplessness ever since. It is a slim volume called Hydra Taphia which is Sir Thomas Brown's way of indicating that he can throw a dead language around with the best of them. In English, it comes out as Earn Burial. And the book fell open at one of my favorite passages which goes as follows:</p>
+<blockquote>
+<p>What song the siren sang or what name Achilles assumed when he hid himself among women, though puzzling questions are not beyond all conjecture.</p>
+</blockquote>
+<p>So I lay in that overheated room conjecturing. Was Achilles another gay warrior like Julius Caesar, like Richard the Lionheart, like William of Orange, like question mark, Teresa's grandfather?</p>
+<p>Morning brought sunshine and a day borrowed from spring or perhaps repaid. And I went downstairs to find the astonishing Mr Millhouse booted and spurred for departure.</p>
+</blockquote>
+<p><em>[In the hotel foyer]</em><br>
+Millhouse: Ah, good morning, bookseller. Come to see me off?<br>
+Mayer: Where to this time?<br>
+Millhouse: Back to the smoke next week in New York.<br>
+Mayer: Happy jet lag.<br>
+Millhouse: Bless you.<br>
+Mayer: Can I ask you one final favor?<br>
+Millhouse: Ask.<br>
+Mayer: Where can I find McGuire?<br>
+Millhouse: That's a favor.<br>
+Mayer: Who knows?<br>
+Millhouse: OK. Here you are, my card. That way you get two addresses for the price of one.<br>
+Mayer: My lucky day.<br>
+Millhouse: Well, off we go into the wild blue yonder. Ciao, bookseller.<br>
+Mayer: Ciao.<br>
+Millhouse: If you fancy McGuire, I won't be hard to deal with.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>He went off through the swing doors, a jaunty indomitable little man who chased money around the world and would almost certainly one day find it.</p>
+<p>So I went searching for Teresa and not finding her, decided to call on McGuire who was known to the trade as a Pollyan. He lived in Garnet Hill which was a real hill even if somewhat lacking in garnets. Once it had been a famous place for theatrical digs. Now it was Glasgow's Chinatown and five exquisite little dolls watched with a comic solemnity as I entered the close where McGuire lived. And I climbed the tiny stairs until I arrived at a green and white striped door which bore the name of Pollyan.</p>
+</blockquote>
+<p><em>[In Apollyon(McGuire)'s flat]</em><br>
+Apollyon: You're beginning to bug me, man.<br>
+Mayer: Does that mean you're going to summon Nuke?<br>
+Apollyon: Nuke's gone to his meditation class.<br>
+Mayer: No comment.<br>
+Apollyon: What do you want?<br>
+Mayer: Do you believe in intuition?<br>
+Apollyon: You can't make money out of it.<br>
+Mayer: Don't bet on that.<br>
+Apollyon: You're wasting my time, bookseller.<br>
+Mayer: I've got this intuition about holy pictures.<br>
+Apollyon: Come in. Teresa been talking, eh?<br>
+Mayer: A little.<br>
+Apollyon: Are you a policeman?<br>
+Mayer: Are we talking about a police matter?<br>
+Apollyon: I didn't do anything wrong, bookseller.<br>
+Mayer: Make up your mind. I'm either a bookseller or a policeman.<br>
+Apollyon: Whatever you are, I've got nothing to worry about.<br>
+Mayer: You could be very, very wrong there.<br>
+Apollyon: You're fishing, aren't you?<br>
+Mayer: And I intend to go on fishing until you tell me about the holy pictures.<br>
+Apollyon: On your bike.<br>
+Mayer: Mr Millhouse might not like your attitude when I mention it to him.<br>
+Apollyon: Mr Millhouse knows about it.<br>
+Mayer: But not all of it.<br>
+Apollyon: What do you mean?<br>
+Mayer: There's something about the holy pictures that he doesn't know. Something that would make him very cross. Something that might mean the end of Apollyon and his big, multicoloured dreams.<br>
+Apollyon: There are other people involved.<br>
+Mayer: People you're scared of?<br>
+Apollyon: People I want to protect.<br>
+Mayer: Teresa, for instance?<br>
+Apollyon: Teresa can look after herself.<br>
+Mayer: In any way, she's female. You're gay, aren't you, Maguire?<br>
+Apollyon: I'm proud of her.<br>
+Mayer: So who's the special man or men you're trying to protect?<br>
+Apollyon: No way, bookseller.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>Walking through Glasgow as a foreign land, I suddenly saw myself as through a tourist's eye and found I had become the weirdest paradox, a foreigner to myself. Who was this foreigner I'd allowed myself to become through vanity or eagerness to please, or perhaps both?</p>
+<p>In Sockey Hall Street, I caught a glimpse of myself in a shop window, my face, a stupid face. The face of a man who had gleefully agreed to whatever confidence trick had been worked upon him, an innocent abroad, a fish out of water. And I found myself longing for old, familiar territory, nostalgie de la bookshop.</p>
+<p>But lacking that, I took myself back to the hotel and found Teresa seated in the lounge behind a pot of coffee.</p>
+</blockquote>
+<p><em>[In the hotel lounge]</em><br>
+Teresa: Are you as angry as you look?<br>
+Mayer: Angrier.<br>
+Teresa: Have some coffee.<br>
+Mayer: No, thank you.<br>
+Teresa: What made you angry?<br>
+Mayer: You and your whole stricken family.<br>
+Teresa: What have we done now?<br>
+Mayer: You've conned me.<br>
+Teresa: In what way?<br>
+Mayer: You're all playing me off against each other.<br>
+Teresa: You're not just looking for excuses.<br>
+Mayer: For what?<br>
+Teresa: Well, you're no nearer finding Jock Cameron, are you?<br>
+Mayer: Maybe that was the whole object of the exercise.<br>
+Teresa: What? Not finding him, you mean?<br>
+Mayer: I'm beginning to think so.<br>
+Teresa: You've bitten off more than you can chew. That's what you're really saying, isn't it?<br>
+Mayer: That's possible.<br>
+Teresa: And now you want to pack it in?<br>
+Mayer: No.<br>
+Teresa: If you were as clever at solving mysteries as you are at dreaming them up--<br>
+Mayer: I'm not. And that perhaps is the whole point.<br>
+Teresa: I'm going to follow your example and give up.<br>
+Mayer: And I'm going to act like someone out of Chandler and Hammett and start asking very personal questions.<br>
+Teresa: My life is an open book.<br>
+Mayer: Let's hope it's written in a language we both understand.<br>
+Teresa: Amen to that.<br>
+Mayer: What do you remember about your parents?<br>
+Teresa: What have they got to do with anything?<br>
+Mayer: Why do you always answer a question with another one?<br>
+Teresa: Do I?<br>
+Mayer: There you are. You've done it again.<br>
+Teresa: Oh, sorry.<br>
+Mayer: Your parents?<br>
+Teresa: They were both killed in a car crash when I was one year old.<br>
+Mayer: So you don't remember anything about them?<br>
+Teresa: Not very much.<br>
+Mayer: Did your grandfather ever talk about them?<br>
+Teresa: My grandfather was a very private person.<br>
+Mayer: That can be a cover-up for a commoner guard and selfishness.<br>
+Teresa: That's not how I saw him.<br>
+Mayer: How exactly did you see him?<br>
+Teresa: As a victim.<br>
+Mayer: I wouldn't have said that.<br>
+Teresa: Maybe we have different definitions of the word.<br>
+Mayer: Obviously we have.<br>
+Teresa: It's a terrible thing to be a survivor, isn't it?<br>
+Mayer: I suppose that depends on what you survive.<br>
+Teresa: Is it possible to survive something physically and be destroyed by it mentally?<br>
+Mayer: It happens all the time.<br>
+Teresa: Don't patronize me.<br>
+Mayer: Don't be touchy. Get on with what you're saying.<br>
+Teresa: You saw my grandfather's room, didn't you?<br>
+Mayer: I did.<br>
+Teresa: That room says it all. The maps on the table, the posters on the wall, "Defensa Madre des Defensa Catalunya." Some corner of a foreign field that is forever what?<br>
+Mayer: Fossilized.<br>
+Teresa: Right. Inside that room, he was still chief of staff of the 14th International Brigade. Outside it was a world he never really understood.<br>
+Mayer: Or perhaps understood only too well.<br>
+Teresa: I don't think so.<br>
+Mayer: Tell me something.<br>
+Teresa: Yes?<br>
+Mayer: Jocelyn Coleman.<br>
+Teresa: Yuck.<br>
+Mayer: Was he in Spain with your grandfather?<br>
+Teresa: Yes.<br>
+Mayer: I'd like to ask you something else about Spain.<br>
+Teresa: Well, I'm sure you would, but I haven't time. I must fly. Literally.<br>
+Mayer: You're going back to London?<br>
+Teresa: I have a funeral to attend.<br>
+Mayer: It's a silly thing to say in the circumstances, but, well, I'm glad you're going to it.<br>
+Teresa: Tell you another silly thing. I feel really angry now because I can't apologize to my grandfather for what I thought about him.<br>
+Mayer: Save your anger for Jocelyn.<br>
+Teresa: He'll never know what hit him. By the way, do you know where the Third Eye Center is?<br>
+Mayer: Sounds like a trendy optician's.<br>
+Teresa: You'll find it's not.<br>
+Mayer: What else will I find?<br>
+Teresa: Someone who wants to talk to you about holy pictures.</p>
+<p><strong>Monologue by Mayer:</strong></p>
+<blockquote>
+<p>I don't know what I expected the Third Eye Center to be. Men in orange robes, perhaps, exchanging with each other the sound of one hand clapping or some other subtlety of Zen. All of them looking like The Last Supper as visualized by Picasso. Instead, I walked into a bookshop, which became an art gallery, or if that didn't turn you on, a health food restaurant.</p>
+<p>He was sitting in the restaurant, a strangely forlorn figure. He looked as though he'd been sitting there for some considerable time. And when he saw me, he smiled, an uneasy smile.</p>
+</blockquote>
+<p><em>[In the restaurant in the Third Eye Center]</em><br>
+Nuke: Hello, bookseller.<br>
+Mayer: Hello, Nuke.<br>
+Nuke: I'd almost given you up.<br>
+Mayer: I thought it would be Maguire, not his minder.<br>
+Nuke: The Lord looketh not on outward appearance. He judges the soul.<br>
+Mayer: Oh, old Zen proverb.<br>
+Nuke: Old Irish granny.<br>
+Mayer: What are you trying to say?<br>
+Nuke: I'm saying that looking like a thug doesn't make me one.<br>
+Mayer: Holy pictures.<br>
+Nuke: Aye, the subject of my PhD thesis.<br>
+Mayer: I was hoping for something slightly less intellectual.<br>
+Nuke: And you shall have it.<br>
+Mayer: In your own time?<br>
+Nuke: How's this for starters? I reckon Maguire's a big talent.<br>
+Mayer: Millhouse might give you an argument there.<br>
+Nuke: To paraphrase Oscar Wilde, Millhouse knows the price of everything and the value of nothing.<br>
+Mayer: You're not just an ugly face, are you?<br>
+Nuke: Spread the glad news.<br>
+Mayer: I will if you tell me about the holy pictures.<br>
+Nuke: I'm telling you about them.<br>
+Mayer: I thought you were getting sidetracked into a pop singer called Apollyon.<br>
+Nuke: Before he was Apollyon the would-be pop star, he was Terry Maguire, a bloody good painter.<br>
+Mayer: Ah.<br>
+Nuke: When we were living in the smoke, we went through a bad patch, and that's when Maguire got into holy pictures.<br>
+Mayer: How'd he start?<br>
+Nuke: I suppose it was all down to Mrs. Hurley.<br>
+Mayer: That name's a holy picture in itself.<br>
+Nuke: She was a landlady, really ecumenical, you know, hated men, Catholic and Protestant. But we got on fine with her until the money ran out and we got behind with the rent.<br>
+Mayer: Timor?<br>
+Nuke: Well, I suppose looking back on it, she wasn't such a bad old skin.<br>
+Mayer: She threw you out?<br>
+Nuke: No.<br>
+Mayer: I find your narrative style very trying, you.<br>
+Nuke: I'm doing you a favour, bookseller.<br>
+Mayer: Well, in case I don't live to find out what it is.<br>
+Nuke: You'll live.<br>
+Mayer: Go on.<br>
+Nuke: Anyway, there we were, facing a furious landlady with no penny between us, and her winding up her sleeves to beat the bejesus out of us. And then a miracle happened.<br>
+Mayer: A miracle in Kilburn? What next?<br>
+Nuke: The amazing thing about miracles, according to Chesterton, is that they sometimes happen.<br>
+Mayer: How did this one happen?<br>
+Nuke: Mrs. Hurley was just teeing off the slaggers when she caught sight of one of Maguire's paintings.<br>
+Mayer: A holy picture?<br>
+Nuke: Yeah. A Madonna and Child. Mrs. Hurley loved it.<br>
+Mayer: Did she buy it?<br>
+Nuke: We traded it for a rent-a-rier.<br>
+Mayer: Was it an original painting, or a copy?<br>
+Nuke: A copy.<br>
+Mayer: Was this a one-off thing?<br>
+Nuke: Well, it would have been, but for Mrs. Hurley. She brought in every old Catholic biddy in Kilburn to see her Madonna, and then they all wanted one. Soon Maguire was working full-time, turning out Madonnas.<br>
+Mayer: The same one?<br>
+Nuke: Oh, no. Maguire rang the changes. The world's filled with pictures of simpering women holding kids who look like Japanese wrestlers.<br>
+Mayer: So that was the story of the holy pictures?<br>
+Nuke: Not quite.<br>
+Mayer: Let's have it all.<br>
+Nuke: Well, bookseller, one night Maguire and me were in this gay bar we used to go to. We get talking to one of the regulars, an older guy, and in the course of the conversation, the story of Mrs. Hurley and the holy pictures cropped up. I was telling it as a big joke, but Maguire didn't see it that way.<br>
+Mayer: Why not?<br>
+Nuke: Maguire's a worrier, manic depressive. He'd discovered doing these holy pictures that he'd a talent for aping other painters' styles, and that got him wondering if that was his real talent and know anything of his own. Then this bloke we were talking to came up with this suggestion.<br>
+Mayer: Which was?<br>
+Nuke: He said he had this collection of paintings, moderns mostly, which he'd been meaning to have copied for some time. Some of them to do with insurance, he said. You put the original in a bank vault and hang up the copy for your friends to drool over.<br>
+Mayer: Society ladies do the same sort of thing with their diamonds.<br>
+Nuke: I love to take your word for that. Anyway, Maguire agrees to give it a go, out of politeness or maybe pub talk, or maybe we thought he was some kind of nut. After all, you don't take seriously a blind guy talking about pictures.<br>
+Mayer: This man was blind?<br>
+Nuke: Blind as a bat. So you can imagine your shock horror when he turns up the next night with the most beautiful Lowry I've ever seen.<br>
+Mayer: And Maguire copied it?<br>
+Nuke: Aye. The blind man.<br>
+Mayer: Let's just call him Coleman.<br>
+Nuke: All right. Coleman tried it out on an expert and it fooled him.<br>
+Mayer: How many paintings did Maguire copy?<br>
+Nuke: Have you seen the gallery in Teresa's house?<br>
+Mayer: I have.<br>
+Nuke: Pure Maguire.<br>
+Mayer: So that's it.<br>
+Nuke: Oh, look now, whatever you think it is, bookseller, Terry copied pictures. End of story, right?</p>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
