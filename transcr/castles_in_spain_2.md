@@ -1,32 +1,12 @@
-## Cast
-
-> Grahame Mayer ...... Ray Brooks
-> Coleman ...... John Westbrook
-> Teresa ...... Alexandra Mathie
-> Forrest ...... Garard Green
-> Hemingway ...... William Hope
-> Cameron ...... John Hannah/Joseph Greig
-> Rainsford ...... Jonathan Tafler
-> Inspector McNeill ...... Carey Wilson
-> Norah McGill ...... Sybil Wintrope
-> Henderson ...... Joseph Brady
-> Arnold ...... Ian Thompson
-> Receptionist ...... Jennifer Piercey
-> Man on plane/Millhouse ...... William Hope
-> Miss McLauchlan ...... Yvonne Gilan
-> Pat ...... Richard Jamieson
-> Paula ...... Caroline Guthrie
-> Waiter/Taxi driver ...... Gordon Reid
-> Nuke ...... John McGlynn
-> Apollyon ...... Billy McColl
-> Dr Lovat ...... Roy Hanlon
-
+## Episode 2
 
 *Narrator:*
-*Castles in Spain, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
+*"Castles in Spain", a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
 *Graham Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest. Forrest was once an officer with the International Brigade during the Spanish Civil War. Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.*
 *But as Mayer leaves Forrest's house to think about this unusual request, he's met in the hall by an elderly blind man.*
 
+*[Previously in episode 1]*
+*[In the house]*
 Colman: Is that you, Mayer?
 Mayer: Yes, Mr Colman.
 Colman: Have you come to any arrangement?
@@ -40,9 +20,10 @@ Colman: Jock Cameron was a man of violence, and wherever he was, death was not f
 **Monologue by Mayer:**
 
 > I came out of the quiet, prosperous house into the quiet, prosperous street and walked quickly away, not feeling prosperous, not feeling quiet, but in some undefined way disturbed, and yes, resentful. Two old men and a teenage girl had, in their various ways, called into question everything I had not realised I was.
-> 
+>
 > Not being very well up in car recognition or the subtleties of ABC registrations and stuff like that, I took no notice of the car that pulled in just ahead of me, until I saw the driver.
 
+*[Outside the house]*
 Teresa: You walk very fast.
 Mayer: I always do when I'm afraid.
 Teresa: What are you afraid of?
@@ -62,9 +43,10 @@ Teresa: Cool. Very cool.
 **Monologue by Mayer:**
 
 > The evening had settled in, wrapping the city in leisure like a duvet. Musicians were coalescing into orchestras, while in half a hundred dressing rooms, actors and actresses smeared reality with grease paint. Cars slid past, bearing passengers, transformed for the night into penguins or perfumed peons. Critics rattled epigrams in their pockets like loose change, hoping that the magic of a clever phrase would change banality into something handed down from Mount Sinai. A new playwright wondered if she was about to become the genius of the week.
-> 
+>
 > It was the hour of the theatre.
 
+*[In the car]*
 Teresa: How did you get on with Grandfather?
 Mayer: You were right when you said he was devious.
 Teresa: So what else is new?
@@ -113,14 +95,14 @@ Mayer: It means that I'm not impressed by your grandfather's reasons for wanting
 **Monologue by Mayer:**
 
 > We finished the journey in silence, but it was not a hostile silence. I felt that momentarily I had ceased to exist, but that what I had said to her still buzzed in her brain, the words unwelcome as picnic insects.
-> 
+>
 > She dropped me off at the shop and acknowledged my thanks with the bright, automatic smile that a well-brought-up lady confers on someone who has just opened a door for her. And I found myself wondering if in some unknown way I had done just that.
-> 
+>
 > I collected a bundle of books about the Spanish Civil War and took them up to bed with me. I thought and thought about Cameron. I fell asleep, still thinking of him. 
-> 
+>
 > Then the dream came. And in the dream, a tough little man strutted through a landscape of harsh brown bitterness. He had no face, yet somehow he was whistling.
 
-*(In the dream)*
+*[In the dream]*
 Mayer: Cameron? Jock Cameron?
 Cameron: Who goes there?
 Mayer: Friend.
@@ -150,9 +132,10 @@ Mayer: Cameron! I want to talk to you!
 **Monologue by Mayer:**
 
 > I awoke from my dream's confusion to sunlight and the kind of morning that summer had been aiming at for months and had finally achieved too late. I lay for a while savoring the rest of the autumn to come. Shock-headed chrysanthemums, the acrid smell of burning leaves, old men in the park, bonfires.
-> 
+>
 > And at that moment I heard the telephone ring.
 
+*[In the bookshop]*
 Arnold: I do hope I've got the right number.
 Mayer: I'm sure we can work something out between us.
 Arnold: Let me explain.
@@ -170,6 +153,7 @@ Mayer: Hello? Hello?
 
 > He was as good as his word and ten minutes later he walked into the shop. A tall young man whose excessive good looks were cancelled out by the vulnerability. His dazzling smile had paid for some dentist's holiday in sunny Tenerife. His voice was standard RP and every now and then you felt it belonged elsewhere and to someone else.
 
+*[In the bookshop]*
 Arnold: I said ten minutes, Mr Mayer. And here I am, bang on time.
 Mayer: Punctuality is the politeness of princes.
 Arnold: Couldn't agree more.
@@ -216,11 +200,12 @@ Arnold: Yes.
 **Monologue by Mayer:**
 
 > I went round the corner to a little cafe that was an interesting survival in that the proprietor stubbornly believed that fast food was no food at all but merely a noun contradicted by an adjective. He had weird ideas about music, too, believing, as he did, that the best accompaniment to meals was silence.
-> 
+>
 > I sat there for about an hour and read one of the heavy newspapers that told me what the intellectual yuppies were wearing, thinking, peddling that particular day.
-> 
+>
 > Thus refreshed, physically and mentally, I returned to the shop and Hathaway Arnold, whose real name was Murgatroyd.
 
+*[In the bookshop]*
 Arnold: You have to meet her at the airport.
 Mayer: There has to be more than that, Arnold.
 Arnold: Honestly, Mr Mayer...
@@ -239,6 +224,7 @@ Arnold: She's sending a car to take you to the airport.
 
 > Not far from the checking-in desk, she was standing, remote and cool, and for what the word is worth nowadays, virginal. She looked at me as though I reminded her of someone she'd once met at a rather boring party.
 
+*[In the airport]*
 Teresa: Better check in.
 Mayer: Would it be too much to ask you where I'm going?
 Teresa: You're going to Glasgow.
@@ -260,13 +246,14 @@ Teresa: Have a nice day.
 **Monologue by Mayer:**
 
 > And with that pious wish, she vanished into thin air or more accurately into the thick, artificial, controlled airport air that smelt of everywhere and nowhere, of tourists and terrorists and have a good day. 
-> 
+>
 > I checked in, and my obedience was rewarded by a boarding pass that entitled me to a free diagnosis by a machine that certified me as free of guns and bombs and other hidden hatreds. And thus driven, I boarded a plane that waited pale and patient like a beached whale anxious to escape the predators of earth even if that meant taking to the air.
-> 
+>
 > About six miles above the earth, I opened the briefcase Teresa had given me. It contained various sheets of paper, one of which appeared to be a list of addresses. Another said that a reservation had been made for me at a Glasgow hotel. There were four or five tattered postcards and there was money, always a handy thing to have even at 36,000 feet.
-> 
+>
 > I put everything back in the briefcase and the little man in the seat beside me gave me an approving smile.
 
+*[In the plane]*
 Millhouse: It does my heart good to see that.
 Mayer: I beg your pardon?
 Millhouse: I once flew from New York with a man who kept working a pocket calculator all the way.
@@ -283,11 +270,13 @@ Mayer: Really?
 **Monologue by Mayer:**
 
 > The man was a man in a soporific way and eventually he sent himself off to sleep. And the aircraft roared towards the north with its comatose passengers, peas in a 600 miles an hour pod. And the pilot told us it was raining in Glasgow but we decided to land there anyway and we did.
-> 
+>
 > A taxi took me to the hotel which seemed to have as many flags as a small wall. From my room on the seventh floor there was a view of the river and the ceaseless rain neither particularly interesting. So I took the papers out of the briefcase and gave them a second look at the list of names and addresses at the five tattered postcards which had been posted from various parts of the country which were all in the same handwriting and which were all signed Jock.
-> 
+>
 > So I decided to phone the top number of the list in the briefcase.
 
+*[In the hotel room]*
+*[On the phone]*
 Receptionist: Valleyfield Residential Home?
 Mayer: My name is Mayer. I wonder if you can help me.
 Receptionist: What seems to be the problem Mr Mayer?
@@ -303,9 +292,10 @@ Receptionist: Very well. I need hardly remind you of our regulations concerning 
 **Monologue by Mayer:**
 
 > Valleyfield Residential Home was an anorexic building three stories high with a patch of lawn in front that was no bigger than a boy's size billiard table if not as smooth. The ground floor rooms two of them fronting onto the street were chauvinistic with tartan curtains and there was a strong smell of cats and disinfectant with neither odour predominating.
-> 
+>
 > At 7 o'clock a bell rang and we were turned loose and a surly nurse with varicose veins conducted me to a small room where a man called Henderson lay in bed. He was about 80 with the complexion of a sound polished apple. He had hair as soft as silk and his eyes were astonishingly blue.
 
+*[In the Valleyfield Residential Home]*
 Nurse: Well, Mr Mayer.
 Mayer: Can we talk in private?
 Henderson: Right, Bertha. You heard what the man said. Two's company, three's an epidemic.
@@ -381,11 +371,11 @@ Henderson: Thank you very much for your wisky. Good night to you, Mayer.
 
 **Monologue by Mayer:**
 
-> Walking away from the Valleyfield residential home, I decided that Mr Henderson did not get my vote as Geriatric of the Year. And that seemed fair enough since I suspected that I didn't rate too highly on his list of people he could not do without. And brooding on this took me through the damp streets all the way back to the hotel.
-> 
+> Walking away from the Valleyfield Residential Home, I decided that Mr Henderson did not get my vote as Geriatric of the Year. And that seemed fair enough since I suspected that I didn't rate too highly on his list of people he could not do without. And brooding on this took me through the damp streets all the way back to the hotel.
+>
 > I let myself into my room only to fetch up short inside the door and stare astonished at the stranger who stared back at me from beside the window with a kind of defiant embarrassment.
 
-
+*[In the hotel room]*
 Norah: Er, look, I know this must seem very unusual.
 Mayer: I'm glad we agree about that.
 Norah: This matter seemed so very urgent.

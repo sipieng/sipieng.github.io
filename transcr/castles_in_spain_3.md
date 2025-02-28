@@ -1,32 +1,12 @@
-## Cast
-
-> Grahame Mayer ...... Ray Brooks
-> Coleman ...... John Westbrook
-> Teresa ...... Alexandra Mathie
-> Forrest ...... Garard Green
-> Hemingway ...... William Hope
-> Cameron ...... John Hannah/Joseph Greig
-> Rainsford ...... Jonathan Tafler
-> Inspector McNeill ...... Carey Wilson
-> Norah McGill ...... Sybil Wintrope
-> Henderson ...... Joseph Brady
-> Arnold ...... Ian Thompson
-> Receptionist ...... Jennifer Piercey
-> Man on plane/Millhouse ...... William Hope
-> Miss McLauchlan ...... Yvonne Gilan
-> Pat ...... Richard Jamieson
-> Paula ...... Caroline Guthrie
-> Waiter/Taxi driver ...... Gordon Reid
-> Nuke ...... John McGlynn
-> Apollyon ...... Billy McColl
-> Dr Lovat ...... Roy Hanlon
-
+## Episode 3
 
 *Narrator:*
-*Castles in Spain, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
+*"Castles in Spain", a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
 *Graham Mayer has been hired by Sandy Forrest, a wealthy elderly gentleman who once fought in the Spanish Civil War, to track down an old comrade who's disappeared. Mayer has severe misgivings, but prompted by Forrest's granddaughter Teresa, and armed with a list of addresses, he's flown north to Glasgow to begin the search for Jock Cameron.*
 *Drawing a blank with the first name on his list, Mayer returns to his hotel room, only to find a pair of special branch officers waiting for him, with a lot of awkward questions about a man called Hanrahan.*
 
+*[Previously in episode 2]*
+*[In the hotel room]*
 Mayer: Well, if there's no further business, will you both get the hell out of here and let me have my room back?
 McNeil: There's just one more thing, Mr Mayer.
 Mayer: Let's hear it then.
@@ -36,6 +16,8 @@ McNeil: Remember, nobody knows what this Hanrahan looks like, nobody knows what 
 
 > In the merry month of May in the year 1902, Mount Palais on the island of Martinique blew up. In the capital, Saint-Pierre, only two of the 30,000 population survived. One was a convict, and the other a madman, and they survived because they were both locked up in cells. While I was trying to decide whether I was criminal or crazy...
 
+*[In the hotel room]*
+*[On the phone]*
 Mayer: Hello?
 Coleman: Is that you, Mayer?
 Mayer: I'm not sure.
@@ -66,13 +48,14 @@ Coleman: Tell Teresa I called.
 **Monologue by Mayer:**
 
 > Supermarket empires grow from primitive small village shops to multinational magnificence. Yet Lord Meatpaste, interviewed last night on television, declined to credit his success to monetarism, capitalism or any otherism. Nor did he admit to more than usual ambition, to more than usual greed. The truth is, he told ten million viewers: "I got out of that small shop to avoid becoming embroiled in the dreary lives of my customers."
-> 
+>
 > I threw myself on the bed that looked as though a computer made it every morning. Lord Meatpaste, Lord Meatpaste, I whimpered, where are you when I need you?
-> 
+>
 > When I woke up it was dark, and so was the taste in my mouth. And I lay for a moment, meditating on the ultimate room service, where you could send out your problems, bafflements, complexes, and in due course have them returned to you, solved and neatly folded. And it occurred to me, depressingly, that somewhere, someone was already working on it.
+>
+> And feeling vaguely defeated, I took the lift to the ground floor and the dining room.
 
-And feeling vaguely defeated, I took the lift to the ground floor and the dining room.
-
+*[In the hotel dining room]*
 Receptionist: Are you a resident, sir?
 Mayer: Yes.
 Receptionist: Could I have your name, sir?
@@ -128,6 +111,8 @@ Mayer: Coleman actually said that in so many words?
 >
 > So I went back to my room. And made a telephone call.
 
+*[In the hotel room]*
+*[On the phone]*
 Arnold: Mayer Book Service?
 Mayer: Ah, Arnold. I wondered how you were getting on.
 Arnold: Oh, learning all the time. Mr Mayer?
@@ -160,6 +145,7 @@ Arnold: Does she know that her grandfather collapsed this evening? He's been tak
 >
 > They swaggered past me into the room, and then the boy spoke.
 
+*[In the hotel room]*
 Pat: Go on, say it.
 Mayer: Say what?
 Pat: Say what you're thinking.
@@ -204,7 +190,8 @@ Pat: He wrote down this name and address for you. He says if anyone knows where 
 >
 > It bore in pencil a name and an address and a telephone number.
 
-
+*[In the hotel room]*
+*[On the phone]*
 McLauchlan: Agnes McLauchlan speaking.
 Mayer: My name is Mayer, Mrs McLauchlan.
 McLauchlan: Miss McLauchlan.
@@ -237,11 +224,11 @@ McLauchlan: At my age, Mr Mayer, beauty sleep is no longer a consideration. You 
 Mayer: Great Western Road.
 McLauchlan: See if you can pick up a pint of milk somewhere.
 
-
 **Monologue by Mayer:**
 
 > The taxi man found a late-night shop, and we bought milk from a sleepy Indian. Then we were on a wide, wide road that surged into the darkness. A public road that still managed to convey an air of conscious worth and almost pharisaical privacy, which even got to the taxi driver.
 
+*[In the taxi]*
 Taxi Driver: Been in Glasgow before?
 Mayer: First time.
 Taxi Driver: You know you've gone to a famous address.
@@ -266,6 +253,7 @@ Taxi Driver: People with old money.
 >
 > She was standing in that huge hall, small and dumpy, like a miniature chess piece on an overgrown chessboard. Her face was smooth, her hair neatly tended. She was very much her own lady in her own house.
 
+*[In McLauchlan's house]*
 McLauchlan: Ah, you managed to get some milk.
 Mayer: Glasgow seems to have an abundance of handy little late-night shops.
 McLauchlan: Well, let's go into the kitchen, Mr Mayer.
@@ -299,6 +287,7 @@ McLauchlan: In that case, let me make you some coffee.
 >
 > She was at one with herself, had not let life rule her and not dreamed futile dreams, had not demanded more than was on offer. She had balanced her giving with her taking and had therefore aged well. She still believed in something and if that something turned out to be God, then fair enough. And if it didn't, well, as the man said, what's in a name?
 
+*[In McLauchlan's house]*
 McLauchlan: The first time I saw Jock Cameron was in Kingston, Jamaica.
 Mayer: Thank you. That would be about 1930.
 McLauchlan: Oh, you know about that.
@@ -317,10 +306,13 @@ McLauchlan: Once.
 Mayer: Can you remember the occasion?
 McLauchlan: It was the day they sent him off the island to start his prison sentence in the UK. I was down at the harbour watching the black kids diving for pennies. And suddenly I heard this commotion and ran over to see what was happening.
 
+*[In McLauchlan's memory in the past]*
+*[Background sound]*
 *(Left, right, left, right.)*
 *(Bags of swagger.)*
 *(Bags of swank.)*
 
+*[In McLauchlan's house]*
 McLauchlan: About a dozen of them with fixed bayonets escorting this one man. Then they halted at the gangway. And this dangerous man looked straight at me. I was holding a flower. I remember a bright red thing. He looked at it and smiled. That's a bonny flower you've got there, hen, he said. Suddenly, I don't ask me why, I threw the flower to him. He caught it and then he was hustled onto the ship. My father heard about the flower and gave me a terrible thrashing.
 Mayer: Did you ever meet Cameron again?
 McLauchlan: Seven years later.
@@ -349,7 +341,7 @@ McLauchlan: No, I never did. Nor did he ever mention it to me.
 Mayer: Not consistent with his macho image, perhaps?
 McLauchlan: No. That is unworthy of you, Mr Mayer. Let me tell you what happened near a place called Brunetti.
 
-*(In McLauchlan's memory in the past)*
+*[In McLauchlan's memory in the past]*
 McLauchlan: What's bothering you?
 Cameron: Can I have a wee word with you?
 McLauchlan: Right, Cameron. What's on your mind?
@@ -375,6 +367,7 @@ Cameron: Until I arrange to get him to Scotland somewhere or other.
 McLauchlan: Look, Cameron, that might not be easy.
 Cameron: I'll manage.
 
+*[In McLauchlan's house]*
 Mayer: Did he manage?
 McLauchlan: Oh, yes, he managed all right. But what happened to him after that, Mr Mayer, is somebody else's story. Whoever that somebody else is.
 
@@ -386,6 +379,7 @@ McLauchlan: Oh, yes, he managed all right. But what happened to him after that, 
 >
 > My mind was flooded with violent sounds and images, which had the odd effect of destroying surprise when the car drew up beside me.
 
+*[Outside McLauchlan's house]*
 Norah: Do you like walking in the rain, Mr Mayer?
 Mayer: It's an eccentricity I share with Greta Garbo.
 McNeil: We want to talk to you, smart-ass.

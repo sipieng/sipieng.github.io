@@ -64,7 +64,7 @@ def remove_timestamps(filepath):
 
 if __name__ == "__main__":
 
-    filepath = 'transcr/castles_in_spain_3.txt'
+    filepath = 'transcr/castles_in_spain_5.txt'
     processed_text = remove_timestamps(filepath)
 
     if processed_text.startswith("Error:"):
@@ -73,7 +73,7 @@ if __name__ == "__main__":
         print(processed_text)
 
     # OPTIONAL: Save the processed text to a new file.
-        output_filepath = 'transcr/castles_in_spain_3.md'
+        output_filepath = 'transcr/castles_in_spain_5.md'
         with open(output_filepath, 'w', encoding='utf-8') as outfile:
             outfile.write(processed_text)
         print(f"Processed text saved to: {output_filepath}")
