@@ -131,7 +131,7 @@ Mayer: Coleman actually said that in so many words?
 
 Arnold: Mayer Book Service?
 Mayer: Ah, Arnold. I wondered how you were getting on.
-Arnold: Oh, learning all the time. Mr. Mayer?
+Arnold: Oh, learning all the time. Mr Mayer?
 Mayer: Yes?
 Arnold: Is there a book called The Homosexual Kings of England?
 Mayer: There is.
@@ -145,7 +145,7 @@ Arnold: What's so special about gay monarchs?
 Mayer: I think she finds them untidy, wants to put them back in the closet.
 Arnold: You mean she destroys the books?
 Mayer: That's why we call her Miss Hitler.
-Arnold: Oh, Mr. Mayer?
+Arnold: Oh, Mr Mayer?
 Mayer: What is it, Arnold?
 Arnold: Teresa's up there with you, isn't she?
 Mayer: Teresa is up here. Teresa is not with me.
@@ -206,291 +206,187 @@ Pat: He wrote down this name and address for you. He says if anyone knows where 
 > It bore in pencil a name and an address and a telephone number.
 
 
-Agnes McLaughlin speaking.
-My name is Mayer, Mrs McLaughlin.
-Miss McLaughlin.
-I beg your pardon?
-What did you say your name was?
-Mayer.
-M-A-Y-E-R.
-I don't think I've ever known anyone with that name.
-Miss McLaughlin, your name has been given me.
-Oh, dear.
-You're not going to offer me a gold Rolls Royce
-or a holiday in Tenerife for two
-or something equally ridiculous?
-Nothing like that.
-Who gave you my name anyway, Mr Mayer?
-A Mr Henderson.
-Oh, I know several Mr Hendersons.
-This one lives in the Valleyfield residential home.
-Oh, that'll be Huey Henderson.
-Now, what can I do to assist you, Mr Mayer?
-I'm trying to find a man called Jock Cameron.
-Yes?
-Mr Henderson said that if anyone was likely to know
-where Cameron was, it was you.
-I see.
-I'm not a policeman, Miss McLaughlin.
-What else are you not?
-Well, I'm not from the DHSS,
-and I'm not from the Inland Revenue,
-and I'm not a hitman from the Mafia.
-Tell the truth and shame the devil, Mr Mayer.
-What are you?
-I'm a bookseller.
-Oh, well, this I must hear about.
-Whenever it's convenient.
-Why don't you come along now?
-If you're sure it's not too late.
-At my age, Mr Mayer,
-beauty sleep is no longer a consideration.
-You have the address?
-Great Western Road.
-See if you can pick up a pint of milk somewhere.
-The taxi man found a late-night shop,
-and we bought milk from a sleepy Indian.
-Then we were on a wide, wide road
-that surged into the darkness.
-A public road that still managed to convey
-an air of conscious worth
-and almost pharisaical privacy,
-which even got to the taxi driver.
-Been in Glasgow before, Jimmy?
-First time.
-You know you've gone to a famous address.
-What's famous about it?
-It's a listed building.
-Really?
-Designed by Greek Thompson.
-Do I get thrown out of the cab
-if I say I've never heard of him?
-Well, not in this economic climate.
-Who was he, anyway?
-Ah, he's a headbanger.
-Victorian architect.
-Everything he designed turned out to be a Greek temple.
-Including this place I'm going?
-Ah, it's no surprise.
-Matter of fact, I quite like it.
-What kind of people live in Greek Thompson buildings?
-People with old money.
-The taxi deposited me at the foot of a row of steps
-and then shot off as though unwittingly
-it was trespassing on something 2,000 years earlier than itself.
-I climbed the steps towards the Corinthian pillars
-that stood on either side of the doorway
-like sentinels that had been turned to stone.
-As I reached the door,
-it opened with a strange whirring sound
-and let me into an enormous hall
-that was tiled in black and white.
-She was standing in that huge hall,
-small and dumpy,
-like a miniature chess piece on an overgrown chessboard.
-Her face was smooth,
-her hair neatly tended.
-She was very much her own lady
-in her own house.
-Ah, you managed to get some milk.
-Glasgow seems to have an abundance
-of handy little late-night shops.
-Well, let's go into the kitchen, Mr Mayer.
-Thank you.
-I spend most of my time in here.
-You live alone in this enormous house?
-I rent out the top two floors.
-Not quite what you expected, Mr Mayer.
-Let's say I don't see Jock Cameron here.
-Jock Cameron has never set foot in this house.
-But you knew him?
-At one time,
-I knew Jock Cameron's body more intimately
-than I knew my own.
-You were...
-No, Mr Mayer.
-We were not.
-Perhaps you'd better tell this in your own way,
-Miss MacLachlan.
-Yeah, perhaps it might be better.
-Oh, wait.
-Please sit down.
-Thank you.
-How much do you know about Jock Cameron?
-Very little, actually.
-I've seen a letter.
-What kind of picture do you have of Jock Cameron?
-I see him as a superb fighting soldier.
-Superb fighting soldiers are ten a penny.
-Cameron was something more.
-How much more?
-I don't want to sound like an old woman rambling on.
-We agreed you should tell this in your own way.
-In that case,
-let me make you some coffee.
-Everything she did,
-all her movements,
-everything was deft,
-precise,
-economical,
-in a strange way,
-unsentimental.
-She was at one with herself,
-had not let life rule her
-and not dreamed futile dreams,
-had not demanded more than was on offer.
-She had balanced her giving with her taking
-and had therefore aged well.
-She still believed in something
-and if that something turned out to be God,
-then fair enough.
-And if it didn't,
-well, as the man said,
-what's in a name?
-The first time I saw Jock Cameron
-was in Kingston, Jamaica.
-Thank you.
-That would be about 1930.
-Oh, you know about that.
-Only from books.
-That's why talking to you is so valuable.
-Everybody else seemed to assume I would get it all from books.
-Well, a lot of it is on record.
-Miss McLaughlin,
-I feel closer to Jock Cameron in this house
-than I ever have done.
-I think that's the nicest thing
-that's been said to me this long time.
-I understand that Cameron was in the British Army at that time.
-He was.
-And he was court-martialed and found guilty of mutiny.
-Oh, there was a strong feeling
-that he was made the scapegoat.
-What were you doing in Kingston at the time, Miss McLaughlin?
-My father was an army officer.
-Ah. Was he sympathetic to Cameron?
-Oh, far from it.
-My father was a very harsh and limited man.
-He believed in King's regulations
-the way better men believed in the Bible.
-I don't think they breed people like him any more.
-I wouldn't be too sure of that.
-I sincerely hope you're wrong.
-You said you saw Cameron in Kingston?
-Once.
-Can you remember the occasion?
-It was the day they sent him off the island
-to start his prison sentence in the UK.
-I was down at the harbour
-watching the black kids diving for pennies.
-And suddenly I heard this commotion
-and ran over to see what was happening.
-Left, right, left, right.
-Bags of swagger.
-Bags of swank.
-About a dozen of them with fixed bayonets
-escorting this one man.
-Then they halted at the gangway.
-And this dangerous man looked straight at me.
-I was holding a flower.
-I remember a bright red thing.
-He looked at it and smiled.
-That's a bonny flower you've got there, hen, he said.
-Suddenly, I don't ask me why,
-I threw the flower to him.
-He caught it and then he was hustled onto the ship.
-My father heard about the flower
-and gave me a terrible thrashing.
-Did you ever meet Cameron again?
-Seven years later.
-Where?
-Harama.
-What were you doing there?
-Oh, I was a nurse.
-A nurse?
-I thought we were talking about Jock Cameron.
-We still are, in a way.
-Shall I save you from saying something foolish?
-If you feel you must.
-Oh, I do, I do.
-Any moment now we'll be getting all that claptrap
-about my background, my advantages
-and being worthy of better things.
-All right, then.
-Why did you become a nurse?
-I suppose becoming a nurse was my form of mutiny.
-I think that when you're brought up the way I was,
-you soon saw the darker side of empire,
-the hypocrisy behind the white man's burden,
-the greed and arrogance at the back of pomp and circumstance.
-So you were making a deliberate political choice.
-I became a nurse to escape from a thoroughly repressive family background,
-which I am not prepared to discuss any further.
-I'm sorry.
-Fine.
-So the second time you met Cameron was in Spain.
-It was hard not to.
-He was all over the place.
-I don't think I've ever met anyone with such energy.
-But you still managed to see quite a lot of him.
-Well, he kept getting wounded
-and you seemed to be batching him up.
-Did you ever mention the flower to him?
-No, I never did.
-Nor did he ever mention it to me.
-Not consistent with his macho image, perhaps?
-No.
-That is unworthy of you, Mr Mayer.
-Let me tell you what happened near a place called Brunetti.
-Nurse McLaughlin.
-What's bothering you?
-Can I have a wee word with you?
-Right, Cameron.
-What's on your mind?
-I've found a baby.
-You've what?
-I've found a baby.
-Oh, I could walk outside and find a dozen abandoned babies in five minutes.
-They seem special, but...
-Well, they all are.
-Well, I delivered them myself.
-Oh, dammit, Cameron.
-Is there no end to your versatility?
-I can turn my hunting mace things if I have to.
-So it would appear.
-Where did this happen?
-In a shell hole.
-Where else?
-What was a pregnant woman doing in a shell hole anyway?
-Killing fascists.
-I'm assuming that she's dead.
-I couldn't get the bleeding stopped.
-Well, what do you intend doing with the child?
-I'd like you to look after him for a wee while.
-For how long?
-Until I arrange to get him to Scotland somewhere or other.
-Look, Cameron, that might not be easy.
-I'll manage.
-Did he manage?
-Oh, yes, he managed all right.
-But what happened to him after that, Mr Mayer,
-is somebody else's story.
-Whoever that somebody else is.
-As I walked away from the theatrical steps of Greek Thompson's listed building,
-an iconoclastic Glasgow moon shrugged aside a curtain of tattered clouds
-and cast a cold northern light on its pillared pomposity,
-making it seem more Thompson than Greek.
-I found it suddenly gym crack, spurious,
-an unreal domicile for an old lady who had known real blood,
-real suffering, and real death.
-You always know when you're being watched.
-Some ancient instinct spreads its slow tension,
-preparing your body for an unseen treachery.
-The thrust of a knife, the whistle of a spear,
-the sudden crack of a gun.
-Eyes focused on you like a burning glass.
-My mind was flooded with violent sounds and images,
-which had the odd effect of destroying surprise when the car drew up beside me.
+McLauchlan: Agnes McLauchlan speaking.
+Mayer: My name is Mayer, Mrs McLauchlan.
+McLauchlan: Miss McLauchlan.
+Mayer: I beg your pardon?
+McLauchlan: What did you say your name was?
+Mayer: Mayer. M-A-Y-E-R.
+McLauchlan: I don't think I've ever known anyone with that name.
+Mayer: Miss McLaughlin, your name has been given me.
+McLauchlan: Oh, dear. You're not going to offer me a gold Rolls Royce or a holiday in Tenerife for two or something equally ridiculous?
+Mayer: Nothing like that.
+McLauchlan: Who gave you my name anyway, Mr Mayer?
+Mayer: A Mr Henderson.
+McLauchlan: Oh, I know several Mr Hendersons.
+Mayer: This one lives in the Valleyfield residential home.
+McLauchlan: Oh, that'll be Huey Henderson. Now, what can I do to assist you, Mr Mayer?
+Mayer: I'm trying to find a man called Jock Cameron.
+McLauchlan: Yes?
+Mayer: Mr Henderson said that if anyone was likely to know where Cameron was, it was you.
+McLauchlan: I see.
+Mayer: I'm not a policeman, Miss McLaughlin.
+McLauchlan: What else are you not?
+Mayer: Well, I'm not from the DHSS, and I'm not from the Inland Revenue, and I'm not a hitman from the Mafia.
+McLauchlan: Tell the truth and shame the devil, Mr Mayer. What are you?
+Mayer: I'm a bookseller.
+McLauchlan: Oh, well, this I must hear about.
+Mayer: Whenever it's convenient.
+McLauchlan: Why don't you come along now?
+Mayer: If you're sure it's not too late.
+McLauchlan: At my age, Mr Mayer, beauty sleep is no longer a consideration. You have the address?
+Mayer: Great Western Road.
+McLauchlan: See if you can pick up a pint of milk somewhere.
+
+
+**Monologue by Mayer:**
+
+> The taxi man found a late-night shop, and we bought milk from a sleepy Indian. Then we were on a wide, wide road that surged into the darkness. A public road that still managed to convey an air of conscious worth and almost pharisaical privacy, which even got to the taxi driver.
+
+Taxi Driver: Been in Glasgow before?
+Mayer: First time.
+Taxi Driver: You know you've gone to a famous address.
+Mayer: What's famous about it?
+Taxi Driver: It's a listed building.
+Mayer: Really?
+Taxi Driver: Designed by Greek Thompson.
+Mayer: Do I get thrown out of the cab if I say I've never heard of him?
+Taxi Driver: Well, not in this economic climate.
+Mayer: Who was he, anyway?
+Taxi Driver: Ah, he's a headbanger. Victorian architect. Everything he designed turned out to be a Greek temple.
+Mayer: Including this place I'm going?
+Taxi Driver: Ah, it's no surprise. Matter of fact, I quite like it.
+Mayer: What kind of people live in Greek Thompson buildings?
+Taxi Driver: People with old money.
+
+**Monologue by Mayer:**
+
+> The taxi deposited me at the foot of a row of steps and then shot off as though unwittingly it was trespassing on something 2,000 years earlier than itself.
+>
+> I climbed the steps towards the Corinthian pillars that stood on either side of the doorway like sentinels that had been turned to stone. As I reached the door, it opened with a strange whirring sound and let me into an enormous hall that was tiled in black and white.
+>
+> She was standing in that huge hall, small and dumpy, like a miniature chess piece on an overgrown chessboard. Her face was smooth, her hair neatly tended. She was very much her own lady in her own house.
+
+McLauchlan: Ah, you managed to get some milk.
+Mayer: Glasgow seems to have an abundance of handy little late-night shops.
+McLauchlan: Well, let's go into the kitchen, Mr Mayer.
+Mayer: Thank you.
+McLauchlan: I spend most of my time in here.
+Mayer: You live alone in this enormous house?
+McLauchlan: I rent out the top two floors. Not quite what you expected, Mr Mayer.
+Mayer: Let's say I don't see Jock Cameron here.
+McLauchlan: Jock Cameron has never set foot in this house.
+Mayer: But you knew him?
+McLauchlan: At one time, I knew Jock Cameron's body more intimately than I knew my own.
+Mayer: You were...
+McLauchlan: No, Mr Mayer. We were not.
+Mayer: Perhaps you'd better tell this in your own way, Miss MacLachlan.
+McLauchlan: Yeah, perhaps it might be better.
+McLauchlan: Oh, wait. Please sit down.
+Mayer: Thank you.
+McLauchlan: How much do you know about Jock Cameron?
+Mayer: Very little, actually. I've seen a letter.
+McLauchlan: What kind of picture do you have of Jock Cameron?
+Mayer: I see him as a superb fighting soldier.
+McLauchlan: Superb fighting soldiers are ten a penny. Cameron was something more.
+Mayer: How much more?
+McLauchlan: I don't want to sound like an old woman rambling on.
+Mayer: We agreed you should tell this in your own way.
+McLauchlan: In that case, let me make you some coffee.
+
+**Monologue by Mayer:**
+
+> Everything she did, all her movements, everything was deft, precise, economical, in a strange way, unsentimental.
+>
+> She was at one with herself, had not let life rule her and not dreamed futile dreams, had not demanded more than was on offer. She had balanced her giving with her taking and had therefore aged well. She still believed in something and if that something turned out to be God, then fair enough. And if it didn't, well, as the man said, what's in a name?
+
+McLauchlan: The first time I saw Jock Cameron was in Kingston, Jamaica.
+Mayer: Thank you. That would be about 1930.
+McLauchlan: Oh, you know about that.
+Mayer: Only from books. That's why talking to you is so valuable. Everybody else seemed to assume I would get it all from books.
+McLauchlan: Well, a lot of it is on record.
+Mayer: Miss McLaughlin, I feel closer to Jock Cameron in this house than I ever have done.
+McLauchlan: I think that's the nicest thing that's been said to me this long time.
+Mayer: I understand that Cameron was in the British Army at that time.
+McLauchlan: He was. And he was court-martialed and found guilty of mutiny. Oh, there was a strong feeling that he was made the scapegoat.
+Mayer: What were you doing in Kingston at the time, Miss McLaughlin?
+McLauchlan: My father was an army officer.
+Mayer: Ah. Was he sympathetic to Cameron?
+McLauchlan: Oh, far from it. My father was a very harsh and limited man. He believed in King's regulations the way better men believed in the Bible. I don't think they breed people like him any more. I wouldn't be too sure of that. I sincerely hope you're wrong.
+Mayer: You said you saw Cameron in Kingston?
+McLauchlan: Once.
+Mayer: Can you remember the occasion?
+McLauchlan: It was the day they sent him off the island to start his prison sentence in the UK. I was down at the harbour watching the black kids diving for pennies. And suddenly I heard this commotion and ran over to see what was happening.
+
+*(Left, right, left, right.)*
+*(Bags of swagger.)*
+*(Bags of swank.)*
+
+McLauchlan: About a dozen of them with fixed bayonets escorting this one man. Then they halted at the gangway. And this dangerous man looked straight at me. I was holding a flower. I remember a bright red thing. He looked at it and smiled. That's a bonny flower you've got there, hen, he said. Suddenly, I don't ask me why, I threw the flower to him. He caught it and then he was hustled onto the ship. My father heard about the flower and gave me a terrible thrashing.
+Mayer: Did you ever meet Cameron again?
+McLauchlan: Seven years later.
+Mayer: Where?
+McLauchlan: Harama.
+Mayer: What were you doing there?
+McLauchlan: Oh, I was a nurse.
+Mayer: A nurse?
+McLauchlan: I thought we were talking about Jock Cameron.
+Mayer: We still are, in a way.
+McLauchlan: Shall I save you from saying something foolish?
+Mayer: If you feel you must.
+McLauchlan: Oh, I do, I do. Any moment now we'll be getting all that claptrap about my background, my advantages and being worthy of better things.
+Mayer: All right, then. Why did you become a nurse?
+McLauchlan: I suppose becoming a nurse was my form of mutiny. I think that when you're brought up the way I was, you soon saw the darker side of empire, the hypocrisy behind the white man's burden, the greed and arrogance at the back of pomp and circumstance. So you were making a deliberate political choice. I became a nurse to escape from a thoroughly repressive family background, which I am not prepared to discuss any further.
+Mayer: I'm sorry.
+McLauchlan: Fine.
+Mayer: So the second time you met Cameron was in Spain.
+McLauchlan: It was hard not to.
+Mayer: He was all over the place.
+McLauchlan: I don't think I've ever met anyone with such energy.
+Mayer: But you still managed to see quite a lot of him.
+McLauchlan: Well, he kept getting wounded and you seemed to be batching him up.
+Mayer: Did you ever mention the flower to him?
+McLauchlan: No, I never did. Nor did he ever mention it to me.
+Mayer: Not consistent with his macho image, perhaps?
+McLauchlan: No. That is unworthy of you, Mr Mayer. Let me tell you what happened near a place called Brunetti.
+
+*(In McLauchlan's memory in the past)*
+McLauchlan: What's bothering you?
+Cameron: Can I have a wee word with you?
+McLauchlan: Right, Cameron. What's on your mind?
+Cameron: I've found a baby.
+McLauchlan: You've what?
+Cameron: I've found a baby.
+McLauchlan: Oh, I could walk outside and find a dozen abandoned babies in five minutes.
+Cameron: They seem special, but...
+McLauchlan: Well, they all are.
+Cameron: Well, I delivered them myself.
+McLauchlan: Oh, dammit, Cameron. Is there no end to your versatility?
+Cameron: I can turn my hunting mace things if I have to.
+McLauchlan: So it would appear. Where did this happen?
+Cameron: In a shell hole.
+McLauchlan: Where else? What was a pregnant woman doing in a shell hole anyway?
+Cameron: Killing fascists.
+McLauchlan: I'm assuming that she's dead.
+Cameron: I couldn't get the bleeding stopped.
+McLauchlan: Well, what do you intend doing with the child?
+Cameron: I'd like you to look after him for a wee while.
+McLauchlan: For how long?
+Cameron: Until I arrange to get him to Scotland somewhere or other.
+McLauchlan: Look, Cameron, that might not be easy.
+Cameron: I'll manage.
+
+Mayer: Did he manage?
+McLauchlan: Oh, yes, he managed all right. But what happened to him after that, Mr Mayer, is somebody else's story. Whoever that somebody else is.
+
+**Monologue by Mayer:**
+
+> As I walked away from the theatrical steps of Greek Thompson's listed building, an iconoclastic Glasgow moon shrugged aside a curtain of tattered clouds and cast a cold northern light on its pillared pomposity, making it seem more Thompson than Greek. I found it suddenly gym crack, spurious, an unreal domicile for an old lady who had known real blood, real suffering, and real death.
+>
+> You always know when you're being watched. Some ancient instinct spreads its slow tension, preparing your body for an unseen treachery. The thrust of a knife, the whistle of a spear, the sudden crack of a gun. Eyes focused on you like a burning glass.
+>
+> My mind was flooded with violent sounds and images, which had the odd effect of destroying surprise when the car drew up beside me.
+
 Do you like walking in the rain, Mr Mayer?
 It's an eccentricity I share with Greta Garbo.
 We want to talk to you, smart-ass.
@@ -523,7 +419,7 @@ She's an old friend of yours?
 I met her for the first time tonight.
 Why were you visiting her?
 Business.
-That covers a multitude of sins, Mr. Mayer.
+That covers a multitude of sins, Mr Mayer.
 Oh, no sins at all.
 What was your business?
 Well, if you check me out, you'll know that I run a bookshop.

@@ -29,16 +29,16 @@
 
 **Monologue by Mayer:**
 
-> The last time I'd been there, the accountant's office had had a comforting air of permanence. It had Dickensian resonances, Victorian vibrations, Bob Cratchit, Scrooge, even Mr. Tolkienhorn from Bleak House. And once there'd been an old man behind a heavy oak desk, who would have recognised these names, and who had had great respect for books and everything and everyone who had to do with them, including me, Mayer, the bookseller.
+> The last time I'd been there, the accountant's office had had a comforting air of permanence. It had Dickensian resonances, Victorian vibrations, Bob Cratchit, Scrooge, even Mr Tolkienhorn from Bleak House. And once there'd been an old man behind a heavy oak desk, who would have recognised these names, and who had had great respect for books and everything and everyone who had to do with them, including me, Mayer, the bookseller.
 > 
 > But that was yesterday, or the day before, or the day before the day before.
 > 
 > The old man had retired to comfortable Surrey, and his high-tech grandson had blitzed the office electronically. Box files had become computers, columns of figures mere fodder for calculators, and word processors with memory banks had replaced the old amnesiac typewriters. And yet, beneath all the glitz and technological gloss, there creaked an ancient bone.
 
-Lawyer: I'm afraid, Mr. Mayer, your stepfather's decision is final.
+Lawyer: I'm afraid, Mr Mayer, your stepfather's decision is final.
 Mayer: Well, that would appear to be that.
 Lawyer: Perhaps if you wrote to him personally.
-Mayer: I don't think I could do that, Mr. Rainsford.
+Mayer: I don't think I could do that, Mr Rainsford.
 Lawyer: Speaking as a businessman, I...
 Mayer: Please, Doctor.
 Mayer: I suppose this development has been on the cards since my mother died.
@@ -52,7 +52,7 @@ Lawyer: I know you find it distasteful, but I...
 Mayer: Go on.
 Lawyer: May we talk business for a moment?
 Mayer: If you must.
-Lawyer: Quite frankly, Mr. Mayer, I find your attitude incomprehensible.
+Lawyer: Quite frankly, Mr Mayer, I find your attitude incomprehensible.
 Mayer: In what way?
 Lawyer: I don't think you realise what this means to you financially.
 Mayer: You underestimate me.
@@ -218,11 +218,11 @@ Mayer: I have an identity crisis.
 Forrest: What's your problem?
 Mayer: When I walked into this house, I was simple Mayer, the bookseller. Now it seems I'm Philip Marlowe, private eye.
 Forrest: Do you know what this is all about, Teresa?
-Teresa: I told Jocelyn that Mr. Mayer was a private detective.
+Teresa: I told Jocelyn that Mr Mayer was a private detective.
 Forrest: Ha! Ah, you'll be the death of me, Teresa. You must excuse us, Mayer. A private joke.
 Teresa: Now, if you'll excuse me, you have things to discuss.
 Forrest: Nothing that need drive you away, though.
-Teresa: Do you mind an audience, Mr. Mayer?
+Teresa: Do you mind an audience, Mr Mayer?
 Mayer: Well, not really.
 Teresa: That means you do. So I'll leave the pair of you to it.
 
@@ -265,7 +265,7 @@ Mayer: Oh?
 Forrest: Did I say something wrong?
 Mayer: Well, you could be suggesting in a roundabout way that I have no personality of my own.
 Forrest: That remains to be seen.
-Mayer: Am I being tested for something, Mr. Forrest?
+Mayer: Am I being tested for something, Mr Forrest?
 Forrest: Perhaps.
 Mayer: Then why don't you come right out with it?
 Forrest: Tell me, Mayer. What would you be doing if you weren't here?
@@ -277,7 +277,7 @@ Mayer: Nothing.
 Forrest: No date in the pub with the boys?
 Mayer: Nothing like that.
 Forrest: Just sitting at home remembering an old lady?
-Mayer: That's rather gratuitous, Mr. Forrest.
+Mayer: That's rather gratuitous, Mr Forrest.
 Forrest: I expected you to say that.
 Mayer: My grandmother...
 Forrest: A very strong, forceful character, I should imagine.
@@ -287,7 +287,7 @@ Mayer: I only knew her.
 Forrest: And that's maybe why you're in danger of identifying with her too closely.
 Mayer: What about your granddaughter?
 Forrest: Does she identify with you?
-Mayer: You'll have to ask her that yourself. At the risk of appearing rude, Mr. Forrest...
+Mayer: You'll have to ask her that yourself. At the risk of appearing rude, Mr Forrest...
 Forrest: You must let me do this my own way, Mayer.
 Mayer: Very well.
 Forrest: I have a letter I want you to read.
@@ -396,7 +396,7 @@ Forrest: Very well.
 > He slipped back into his Spanish war time capsule, and I left him there and walked through the gallery with its expensive pictures, their prices multiplying silently and smugly on the walls. Then out of the gallery and into the hallway, where the blind man stood as though he'd not moved since I'd last seen him.
 
 Coleman: Is that you, Mayer?
-Mayer: Yes, Mr. Cameron.
+Mayer: Yes, Mr Cameron.
 Coleman: Have you come to any arrangement?
 Mayer: Well, not exactly.
 Coleman: May I ask why not?

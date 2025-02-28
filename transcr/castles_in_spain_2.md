@@ -28,7 +28,7 @@
 *But as Mayer leaves Forrest's house to think about this unusual request, he's met in the hall by an elderly blind man.*
 
 Colman: Is that you, Mayer?
-Mayer: Yes, Mr. Colman.
+Mayer: Yes, Mr Colman.
 Colman: Have you come to any arrangement?
 Mayer: Well, not exactly.
 Colman: May I ask why not?
@@ -209,7 +209,7 @@ Arnold: What do you want me to do?
 Mayer: I want you to call Teresa and pass on this simple, brutal message. Tell her I'm fed up with her and our whole family, past and present. And that goes for any future members of the family still to come.
 Arnold: Suppose she wants to know why?
 Mayer: She won't.
-Arnold: I don't think I can do this, Mr. Mayer.
+Arnold: I don't think I can do this, Mr Mayer.
 Mayer: Nonsense. You're an actor, aren't you?
 Arnold: Yes.
 
@@ -223,13 +223,13 @@ Arnold: Yes.
 
 Arnold: You have to meet her at the airport.
 Mayer: There has to be more than that, Arnold.
-Arnold: Honestly, Mr. Mayer...
+Arnold: Honestly, Mr Mayer...
 Mayer: You passed on my message, word for word? And she made no comment?
 Arnold: None. All she said was that you were booked on a four o'clock flight and that she'd meet you at the airport. Well, I thought you would know that.
 Mayer: Why?
 Arnold: I don't know. Just took it for granted, I suppose.
 Mayer: Is it me, Arnold? Tell me, is it me?
-Arnold: Is what you, Mr. Mayer?
+Arnold: Is what you, Mr Mayer?
 Mayer: Am I walking around with an aura that everybody can see clearly except myself? A big, blazing, multicoloured aura that proclaims to the world, sucker?
 Arnold: Can I answer that in my own way?
 Mayer: Please do.
@@ -290,11 +290,11 @@ Mayer: Really?
 
 Receptionist: Valleyfield Residential Home?
 Mayer: My name is Mayer. I wonder if you can help me.
-Receptionist: What seems to be the problem Mr. Mayer?
+Receptionist: What seems to be the problem Mr Mayer?
 Mayer: I'd like to come and have a word with one of your residents.
 Receptionist: Which resident have you in mind?
-Mayer: Mr. Henderson.
-Receptionist: Yes, we do have a Mr. Henderson here. Are you a relative?
+Mayer: Mr Henderson.
+Receptionist: Yes, we do have a Mr Henderson here. Are you a relative?
 Mayer: A friend of a friend.
 Receptionist: The normal visiting hours are between 7 and 8.
 Mayer: I'll come along then.
@@ -306,10 +306,10 @@ Receptionist: Very well. I need hardly remind you of our regulations concerning 
 > 
 > At 7 o'clock a bell rang and we were turned loose and a surly nurse with varicose veins conducted me to a small room where a man called Henderson lay in bed. He was about 80 with the complexion of a sound polished apple. He had hair as soft as silk and his eyes were astonishingly blue.
 
-Nurse: Well, Mr. Mayer.
+Nurse: Well, Mr Mayer.
 Mayer: Can we talk in private?
 Henderson: Right, Bertha. You heard what the man said. Two's company, three's an epidemic.
-Nurse: Oh, Mr. Henderson.
+Nurse: Oh, Mr Henderson.
 Mayer: She didn't seem to want to go.
 Henderson: A nosy bugger. Now, what was it you couldn't discuss in front of witnesses?
 Mayer: Nothing.
@@ -386,50 +386,49 @@ Henderson: Thank you very much for your wisky. Good night to you, Mayer.
 > I let myself into my room only to fetch up short inside the door and stare astonished at the stranger who stared back at me from beside the window with a kind of defiant embarrassment.
 
 
-Nora: Er, look, I know this must seem very unusual.
+Norah: Er, look, I know this must seem very unusual.
 Mayer: I'm glad we agree about that.
-Nora: This matter seemed so very urgent.
+Norah: This matter seemed so very urgent.
 Mayer: First things first. Who are you?
-Nora: My name is Nora McGill.
+Norah: My name is Norah McGill.
 Mayer: How did you manage to get in here?
-Nora: One of the maids let me in.
+Norah: One of the maids let me in.
 Mayer: Charming. How much did it cost you?
-Nora: Nothing.
+Norah: Nothing.
 Mayer: Oh, come on now.
-Nora: I told her you were my boyfriend.
+Norah: I told her you were my boyfriend.
 Mayer: All the world loves a lover.
-Nora: What happens now?
+Norah: What happens now?
 Mayer: I think I'll call the police.
-Nora: Oh!
+Norah: Oh!
 Mayer: What's so funny?
-Nora: I am the police.
-Nora: Aren't you going to ask to see my warrant card?
+Norah: I am the police. Aren't you going to ask to see my warrant card?
 Mayer: When I get my breath back.
-Nora: Have a look at it anyway.
+Norah: Have a look at it anyway.
 Mayer: Seems all right. I suppose these things can be forged.
-Nora: Well, you know about forgeries.
+Norah: Well, you know about forgeries.
 Mayer: Less than nothing.
-Nora: Have you a passport?
+Norah: Have you a passport?
 Mayer: Yes.
-Nora: Would you mind showing it to me?
+Norah: Would you mind showing it to me?
 Mayer: It's at home.
-Nora: And where is home?
+Norah: And where is home?
 Mayer: London.
-Nora: Quite sure it's not Dublin?
+Norah: Quite sure it's not Dublin?
 Mayer: Positive. I've never even been there.
-Nora: Our information tells a different story.
+Norah: Our information tells a different story.
 Mayer: Then your information is nonsense.
-Nora: What are you doing up here?
+Norah: What are you doing up here?
 Mayer: At the moment I'm trying to keep my temper.
-Nora: You are not being very cooperative, Hanrahan.
+Norah: You are not being very cooperative, Hanrahan.
 Mayer: There could be a very simple reason for that.
-Nora: Could indeed.
+Norah: Could indeed.
 Mayer: I'm no expert in these things, but don't you lot usually hunt in pairs?
-Nora: My partner stepped outside for a minute.
+Norah: My partner stepped outside for a minute.
 Mayer: Get a fresh pair of thumbscrews, no doubt.
-Nora: No doubt.
+Norah: No doubt.
 Mayer: Why didn't you just call room service? Better open up then, shall we?
-Nora: This is Inspector McNeil, special branch.
+Norah: This is Inspector McNeil, special branch.
 Mayer: Glad you could drop in, Inspector. Perhaps you'll explain to me why you did.
 McNeil: A slight misunderstanding, Mr Mayer.
 Mayer: Not much of an explanation, but at least you got my name right.
@@ -442,10 +441,10 @@ Mayer: Not a very loud one.
 McNeil: You disappoint me.
 Mayer: Why? What are you expecting?
 McNeil: Something more bookish, perhaps.
-Nora: Somthing like "Patriotism is a last refuge of a scoundrel".
+Norah: Somthing like "Patriotism is a last refuge of a scoundrel".
 McNeil: My partner has an honours degree in English.
 Mayer: I'm suitably impressed.
-Nora: You still haven't answered the question.
+Norah: You still haven't answered the question.
 Mayer: Oh, but I have. It may not be the answer you wanted, but it's still an answer.
 McNeil: Bit flippant, wasn't it?
 Mayer: And you'd rather I was bookish?
@@ -453,7 +452,7 @@ McNeil: Well, you are a bookseller, aren't you?
 Mayer: Have you checked that out?
 McNeil: Of course. Just now.
 Mayer: I think it was G.K. Chesterton who best stated my own particular attitude, my kind of patriotism, if you like. He said, "My country, right or wrong, is like saying my mother drunk or sober." Is that sufficiently bookish for you?
-Nora: Up to a point.
+Norah: Up to a point.
 Mayer: Well, if there's no further business, will you both get the hell out of here and let me have my room back?
 McNeil: There's just one more thing, Mr Mayer.
 Mayer: Let's hear it, then.
