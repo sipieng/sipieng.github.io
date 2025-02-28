@@ -82,7 +82,6 @@ Mayer: I did?
 Receptionist: Yes, the young lady has just arrived.
 Mayer: Then we'd better not keep her waiting.
 Receptionist: This way, sir.
-
 Mayer: Hello, Teresa.
 Teresa: Sit down, Mr Mayer.
 Receptionist: Thank you, sir.
