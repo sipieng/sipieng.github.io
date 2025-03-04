@@ -473,9 +473,9 @@ Mayer: I’m sorry?
 
 *Narrator:*
 
-*“Castles in Spain”, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
+*“Castles in Spain”, a serial in five parts by Edward Boyd, with Ray Brooks as Grahame Mayer.*
 
-*Graham Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest. Forrest was once an officer with the International Brigade during the Spanish Civil War. Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.*
+*Grahame Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest. Forrest was once an officer with the International Brigade during the Spanish Civil War. Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.*
 
 *But as Mayer leaves Forrest’s house to think about this unusual request, he’s met in the hall by an elderly blind man.*
 
