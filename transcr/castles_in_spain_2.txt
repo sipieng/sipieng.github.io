@@ -1,2725 +1,484 @@
-1
-00:00:00,000 --> 00:00:27,840
-Castles in Spain, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.
-
-2
-00:00:28,719 --> 00:00:37,720
-Graham Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest.
-
-3
-00:00:37,720 --> 00:00:42,720
-Forrest was once an officer with the International Brigade during the Spanish Civil War.
-
-4
-00:00:42,720 --> 00:00:52,720
-Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.
-
-5
-00:00:53,599 --> 00:01:01,599
-But as Mayer leaves Forrest's house to think about this unusual request, he's met in the hall by an elderly blind man.
-
-6
-00:01:01,599 --> 00:01:03,599
-Is that you, Mayer?
-
-7
-00:01:03,599 --> 00:01:05,599
-Yes, Mr. Colman.
-
-8
-00:01:05,599 --> 00:01:07,599
-Have you come to any arrangement?
-
-9
-00:01:07,599 --> 00:01:09,599
-Well, not exactly.
-
-10
-00:01:09,599 --> 00:01:11,599
-May I ask why not?
-
-11
-00:01:11,599 --> 00:01:15,599
-Perhaps I have reservations about the whole thing.
-
-12
-00:01:15,599 --> 00:01:17,599
-I am delighted to hear you say that.
-
-13
-00:01:17,599 --> 00:01:19,599
-Why?
-
-14
-00:01:20,480 --> 00:01:26,480
-Jock Cameron was a man of violence, and wherever he was, death was not far away.
-
-15
-00:01:26,480 --> 00:01:33,480
-I think, Mayer, that it would be better for everyone concerned if Cameron were never found.
-
-16
-00:01:34,360 --> 00:01:58,360
-I came out of the quiet, prosperous house into the quiet, prosperous street and walked quickly away, not feeling prosperous, not feeling quiet, but in some undefined way disturbed, and yes, resentful.
-
-17
-00:01:59,239 --> 00:02:07,239
-Two old men and a teenage girl had, in their various ways, called into question everything I had not realised I was.
-
-18
-00:02:07,239 --> 00:02:19,240
-Not being very well up in car recognition or the subtleties of ABC registrations and stuff like that, I took no notice of the car that pulled in just ahead of me, until I saw the driver.
-
-19
-00:02:19,240 --> 00:02:21,240
-You walk very fast.
-
-20
-00:02:21,240 --> 00:02:23,240
-I always do when I'm afraid.
-
-21
-00:02:23,240 --> 00:02:25,240
-What are you afraid of?
-
-22
-00:02:26,119 --> 00:02:28,119
-I'm afraid of the law to be seen actually walking in this neighbourhood.
-
-23
-00:02:28,119 --> 00:02:30,119
-Jump in before the lynching party arrives.
-
-24
-00:02:38,119 --> 00:02:40,119
-Where to?
-
-25
-00:02:40,119 --> 00:02:42,119
-Back to the shop.
-
-26
-00:02:42,119 --> 00:02:44,119
-You live there as well? Or are you a workaholic?
-
-27
-00:02:44,119 --> 00:02:46,119
-I'm not a workaholic. I do live above the shop.
-
-28
-00:02:46,119 --> 00:02:48,119
-Sounds very old-fashioned to me.
-
-29
-00:02:48,119 --> 00:02:50,119
-It's a crown property.
-
-30
-00:02:50,119 --> 00:02:52,119
-What does that mean?
-
-31
-00:02:53,000 --> 00:02:57,000
-When I get a burst pipe or block drain or something like that, I put a call through to Buck House and they send somebody along.
-
-32
-00:02:57,000 --> 00:02:59,000
-A prince of the blood, of course.
-
-33
-00:02:59,000 --> 00:03:01,000
-If there's one available.
-
-34
-00:03:01,000 --> 00:03:03,000
-Cool. Very cool.
-
-35
-00:03:11,000 --> 00:03:15,000
-The evening had settled in, wrapping the city in leisure like a duvet.
-
-36
-00:03:15,880 --> 00:03:23,880
-Musicians were coalescing into orchestras, while in half a hundred dressing rooms, actors and actresses smeared reality with grease paint.
-
-37
-00:03:23,880 --> 00:03:31,880
-Cars slid past, bearing passengers, transformed for the night into penguins or perfumed peons.
-
-38
-00:03:31,880 --> 00:03:41,880
-Critics rattled epigrams in their pockets like loose change, hoping that the magic of a clever phrase would change banality into something handed down from Mount Sinai.
-
-39
-00:03:42,759 --> 00:03:46,759
-A new playwright wondered if she was about to become the genius of the week.
-
-40
-00:03:46,759 --> 00:03:48,759
-It was the hour of the theatre.
-
-41
-00:03:50,759 --> 00:03:52,759
-How did you get on with Grandfather?
-
-42
-00:03:52,759 --> 00:03:54,759
-You were right when you said he was devious.
-
-43
-00:03:54,759 --> 00:03:56,759
-So what else is new?
-
-44
-00:03:56,759 --> 00:03:58,759
-Yes.
-
-45
-00:03:58,759 --> 00:04:00,759
-Did you agree to do what he asked?
-
-46
-00:04:00,759 --> 00:04:02,759
-I told him I would tell him my answer, yes or no, tomorrow.
-
-47
-00:04:02,759 --> 00:04:04,759
-You'll say yes, of course.
-
-48
-00:04:04,759 --> 00:04:06,759
-Why of course?
-
-49
-00:04:06,759 --> 00:04:08,759
-Because I recommended you as the right man for the job.
-
-50
-00:04:09,639 --> 00:04:11,639
-What made you do that?
-
-51
-00:04:11,639 --> 00:04:13,639
-Intuition.
-
-52
-00:04:13,639 --> 00:04:15,639
-How very old-fashioned of you.
-
-53
-00:04:15,639 --> 00:04:17,640
-What a devious crowd you are.
-
-54
-00:04:17,640 --> 00:04:19,640
-Not all of us.
-
-55
-00:04:19,640 --> 00:04:21,640
-Yes, all of you. Every last one of you.
-
-56
-00:04:21,640 --> 00:04:23,640
-Sorry?
-
-57
-00:04:23,640 --> 00:04:25,640
-Your grandfather spent his time trying to destroy the credibility of my grandmother.
-
-58
-00:04:25,640 --> 00:04:27,640
-Successfully?
-
-59
-00:04:27,640 --> 00:04:29,640
-What the hell does that matter?
-
-60
-00:04:29,640 --> 00:04:31,640
-Don't be cross.
-
-61
-00:04:31,640 --> 00:04:33,640
-I have every right to be cross. Your grandfather wants me to do something. Fine.
-
-62
-00:04:33,640 --> 00:04:37,640
-But he wraps up that simple fact in all kinds of pseudo-psychological claptrap.
-
-63
-00:04:38,519 --> 00:04:40,519
-I told him you were more intelligent than you looked.
-
-64
-00:04:40,519 --> 00:04:42,519
-Oh, great. That makes everything all right, then.
-
-65
-00:04:42,519 --> 00:04:44,519
-I could have said you were a load of rubbish. Would you have preferred that?
-
-66
-00:04:44,519 --> 00:04:46,519
-My preference doesn't appear to matter.
-
-67
-00:04:46,519 --> 00:04:48,519
-Oh, dear.
-
-68
-00:04:48,519 --> 00:04:50,519
-Your vanity's been hurt.
-
-69
-00:04:50,519 --> 00:04:52,519
-Wrong. My intelligence has been insulted.
-
-70
-00:04:52,519 --> 00:04:54,519
-You can't even get your act together, you lot.
-
-71
-00:04:54,519 --> 00:04:56,519
-You reckon?
-
-72
-00:04:56,519 --> 00:04:58,519
-Why don't you take a vote on it?
-
-73
-00:04:58,519 --> 00:05:00,519
-A vote on what?
-
-74
-00:05:00,519 --> 00:05:02,519
-Do you want Jock Cameron found,
-
-75
-00:05:02,519 --> 00:05:04,519
-or would he be better off left wherever he is?
-
-76
-00:05:04,519 --> 00:05:06,519
-We want him found, of course.
-
-77
-00:05:07,399 --> 00:05:09,399
-Coleman doesn't.
-
-78
-00:05:09,399 --> 00:05:11,399
-How do you know that?
-
-79
-00:05:11,399 --> 00:05:13,399
-He told me.
-
-80
-00:05:13,399 --> 00:05:15,399
-Ironical, isn't it?
-
-81
-00:05:15,399 --> 00:05:17,399
-What is?
-
-82
-00:05:17,399 --> 00:05:19,399
-Your grandfather wasting all the sweetness and light on me.
-
-83
-00:05:19,399 --> 00:05:21,399
-Was it wasted?
-
-84
-00:05:21,399 --> 00:05:23,399
-I'm afraid it was.
-
-85
-00:05:23,399 --> 00:05:25,399
-So I've got to go back and report failure?
-
-86
-00:05:25,399 --> 00:05:27,399
-Not failure. Success.
-
-87
-00:05:27,399 --> 00:05:29,399
-You like playing bloody silly games, don't you?
-
-88
-00:05:29,399 --> 00:05:31,399
-No, no.
-
-89
-00:05:31,399 --> 00:05:33,399
-I neither like playing them or having them played on me,
-
-90
-00:05:33,399 --> 00:05:35,399
-which is why I intend to find
-
-91
-00:05:36,279 --> 00:05:38,279
-Jock Cameron.
-
-92
-00:05:38,279 --> 00:05:40,279
-What exactly does that mean?
-
-93
-00:05:40,279 --> 00:05:42,279
-It means that I'm not impressed by your grandfather's reasons
-
-94
-00:05:42,279 --> 00:05:44,279
-for wanting to find Cameron,
-
-95
-00:05:44,279 --> 00:05:46,279
-but I'm fascinated by the possibility
-
-96
-00:05:46,279 --> 00:05:48,279
-of discovering why Coleman
-
-97
-00:05:48,279 --> 00:05:50,279
-doesn't want him found.
-
-98
-00:06:00,279 --> 00:06:02,279
-We finished the journey in silence,
-
-99
-00:06:02,279 --> 00:06:04,279
-but it was not a hostile silence.
-
-100
-00:06:05,160 --> 00:06:07,160
-I felt that momentarily I had ceased to exist,
-
-101
-00:06:07,160 --> 00:06:09,160
-but that what I had said to her
-
-102
-00:06:09,160 --> 00:06:11,160
-still buzzed in her brain,
-
-103
-00:06:11,160 --> 00:06:13,160
-the words unwelcome as picnic insects.
-
-104
-00:06:15,160 --> 00:06:17,160
-She dropped me off at the shop
-
-105
-00:06:17,160 --> 00:06:19,160
-and acknowledged my thanks with the bright, automatic smile
-
-106
-00:06:19,160 --> 00:06:21,160
-that a well-brought-up lady confers
-
-107
-00:06:21,160 --> 00:06:23,160
-on someone who has just opened a door for her.
-
-108
-00:06:25,160 --> 00:06:27,160
-And I found myself wondering
-
-109
-00:06:27,160 --> 00:06:29,160
-if in some unknown way
-
-110
-00:06:29,160 --> 00:06:31,160
-I had done just that.
-
-111
-00:06:35,160 --> 00:06:37,160
-I collected a bundle of books
-
-112
-00:06:37,160 --> 00:06:39,160
-about the Spanish Civil War
-
-113
-00:06:39,160 --> 00:06:41,160
-and took them up to bed with me.
-
-114
-00:06:41,160 --> 00:06:43,160
-I thought and thought about Cameron.
-
-115
-00:06:43,160 --> 00:06:45,160
-I fell asleep,
-
-116
-00:06:45,160 --> 00:06:47,160
-still thinking of him.
-
-117
-00:06:47,160 --> 00:06:49,160
-Then the dream came.
-
-118
-00:06:51,160 --> 00:06:53,160
-And in the dream,
-
-119
-00:06:53,160 --> 00:06:55,160
-a tough little man strutted through
-
-120
-00:06:55,160 --> 00:06:57,160
-a landscape of harsh brown bitterness.
-
-121
-00:06:57,160 --> 00:06:59,160
-He had no face,
-
-122
-00:06:59,160 --> 00:07:01,160
-yet somehow
-
-123
-00:07:01,160 --> 00:07:03,160
-he was whistling.
-
-124
-00:07:05,160 --> 00:07:07,160
-Cameron? Jock Cameron?
-
-125
-00:07:07,160 --> 00:07:09,160
-Who goes there?
-
-126
-00:07:09,160 --> 00:07:11,160
-Friend.
-
-127
-00:07:11,160 --> 00:07:13,160
-Advance, friend, and be recognized.
-
-128
-00:07:13,160 --> 00:07:15,160
-I do not recognize you, friend.
-
-129
-00:07:15,160 --> 00:07:17,160
-Then do not claim the name.
-
-130
-00:07:17,160 --> 00:07:19,160
-You claimed it first.
-
-131
-00:07:19,160 --> 00:07:21,160
-Would you know my skin on a bush in Palestine?
-
-132
-00:07:21,160 --> 00:07:23,160
-Yes.
-
-133
-00:07:23,160 --> 00:07:25,160
-That is a privilege dearly bought.
-
-134
-00:07:25,160 --> 00:07:27,160
-The price was paid.
-
-135
-00:07:27,160 --> 00:07:29,160
-Where?
-
-136
-00:07:29,160 --> 00:07:31,160
-Arama.
-
-137
-00:07:31,160 --> 00:07:33,160
-Was the final payment made there?
-
-138
-00:07:34,040 --> 00:07:36,040
-Permission to speak?
-
-139
-00:07:36,040 --> 00:07:38,040
-Granted.
-
-140
-00:07:38,040 --> 00:07:40,040
-I've changed my mind.
-
-141
-00:07:40,040 --> 00:07:42,040
-You cannot do that.
-
-142
-00:07:42,040 --> 00:07:44,040
-Who says so?
-
-143
-00:07:44,040 --> 00:07:46,040
-King's regulations.
-
-144
-00:07:46,040 --> 00:07:48,040
-I'm a Republican.
-
-145
-00:07:48,040 --> 00:07:50,040
-You are welcome to this land, Republican.
-
-146
-00:07:50,040 --> 00:07:52,040
-This land whose sun has burned green
-
-147
-00:07:52,040 --> 00:07:54,040
-from the spectrum.
-
-148
-00:07:54,040 --> 00:07:56,040
-This land of tasteless bread
-
-149
-00:07:56,040 --> 00:07:58,040
-and bitter oranges.
-
-150
-00:07:58,040 --> 00:08:00,040
-Cameron?
-
-151
-00:08:00,040 --> 00:08:02,040
-Here we have everything a bad humanity requires.
-
-152
-00:08:02,920 --> 00:08:04,920
-Cameron!
-
-153
-00:08:04,920 --> 00:08:06,920
-I want to talk to you.
-
-154
-00:08:16,920 --> 00:08:18,920
-I awoke from my dream's confusion
-
-155
-00:08:18,920 --> 00:08:20,920
-to sunlight
-
-156
-00:08:20,920 --> 00:08:22,920
-and the kind of morning
-
-157
-00:08:22,920 --> 00:08:24,920
-that summer had been aiming at for months
-
-158
-00:08:24,920 --> 00:08:26,920
-and had finally achieved too late.
-
-159
-00:08:26,920 --> 00:08:28,920
-I lay for a while
-
-160
-00:08:28,920 --> 00:08:30,920
-savoring the rest
-
-161
-00:08:31,799 --> 00:08:33,799
-of the autumn to come.
-
-162
-00:08:33,799 --> 00:08:35,799
-Shock-headed chrysanthemums,
-
-163
-00:08:35,799 --> 00:08:37,799
-the acrid smell of burning leaves,
-
-164
-00:08:37,799 --> 00:08:39,799
-old men in the park,
-
-165
-00:08:39,799 --> 00:08:41,799
-bonfires.
-
-166
-00:08:41,799 --> 00:08:43,799
-And at that moment I heard the telephone ring.
-
-167
-00:08:43,799 --> 00:08:45,799
-I do hope I've got the right number.
-
-168
-00:08:45,799 --> 00:08:47,799
-I'm sure we can work something out between us.
-
-169
-00:08:47,799 --> 00:08:49,799
-Let me explain.
-
-170
-00:08:49,799 --> 00:08:51,799
-Put me out of my misery first.
-
-171
-00:08:51,799 --> 00:08:53,799
-Yes?
-
-172
-00:08:53,799 --> 00:08:55,799
-Who should I be?
-
-173
-00:08:55,799 --> 00:08:57,799
-It would be very reassuring if you were a Mr Mayer.
-
-174
-00:08:57,799 --> 00:08:59,799
-Be reassured.
-
-175
-00:09:00,679 --> 00:09:02,679
-I do believe it's working.
-
-176
-00:09:02,679 --> 00:09:04,679
-Six out of six is good, isn't it?
-
-177
-00:09:04,679 --> 00:09:06,679
-Anything better would be suspicious.
-
-178
-00:09:06,679 --> 00:09:08,679
-I'll be round in about ten minutes, Mr Mayer.
-
-179
-00:09:08,679 --> 00:09:10,679
-Hello?
-
-180
-00:09:10,679 --> 00:09:12,679
-Hello?
-
-181
-00:09:12,679 --> 00:09:14,679
-He was as good as his word
-
-182
-00:09:14,679 --> 00:09:16,679
-and ten minutes later
-
-183
-00:09:16,679 --> 00:09:18,679
-he walked into the shop.
-
-184
-00:09:18,679 --> 00:09:20,679
-A tall young man whose excessive good looks
-
-185
-00:09:20,679 --> 00:09:22,679
-were cancelled out by the vulnerability.
-
-186
-00:09:22,679 --> 00:09:24,679
-His dazzling smile
-
-187
-00:09:24,679 --> 00:09:26,679
-had paid for some dentist's holiday
-
-188
-00:09:26,679 --> 00:09:28,679
-in sunny Tenerife.
-
-189
-00:09:29,559 --> 00:09:31,559
-His voice was standard RP
-
-190
-00:09:31,559 --> 00:09:33,559
-and every now and then
-
-191
-00:09:33,559 --> 00:09:35,559
-you felt it belonged elsewhere
-
-192
-00:09:35,559 --> 00:09:37,559
-and to someone else.
-
-193
-00:09:37,559 --> 00:09:39,559
-I said ten minutes, Mr Mayer
-
-194
-00:09:39,559 --> 00:09:41,559
-and here I am, bang on time.
-
-195
-00:09:41,559 --> 00:09:43,559
-Punctuality is the politeness of princes.
-
-196
-00:09:43,559 --> 00:09:45,559
-Couldn't agree more.
-
-197
-00:09:45,559 --> 00:09:47,559
-You have a nice line in telephone calls.
-
-198
-00:09:47,559 --> 00:09:49,559
-Thank you.
-
-199
-00:09:49,559 --> 00:09:51,559
-Six out of six what?
-
-200
-00:09:51,559 --> 00:09:53,559
-Oh, that, it's too embarrassing.
-
-201
-00:09:53,559 --> 00:09:55,559
-It'll go no further than this room.
-
-202
-00:09:55,559 --> 00:09:57,559
-Well, you see, Mr Mayer,
-
-203
-00:09:58,440 --> 00:10:00,440
-I can't remember lines.
-
-204
-00:10:00,440 --> 00:10:02,440
-Maybe you should stick to mime.
-
-205
-00:10:02,440 --> 00:10:04,440
-It's not funny, Mr Mayer, I can tell you.
-
-206
-00:10:04,440 --> 00:10:06,440
-What has this got to do with telephone calls?
-
-207
-00:10:06,440 --> 00:10:08,440
-Memory training.
-
-208
-00:10:08,440 --> 00:10:10,440
-Memory training? Right.
-
-209
-00:10:10,440 --> 00:10:12,440
-I'm sure there's a connection there somewhere
-
-210
-00:10:12,440 --> 00:10:14,440
-if I could only make it.
-
-211
-00:10:14,440 --> 00:10:16,440
-It works like this.
-
-212
-00:10:16,440 --> 00:10:18,440
-At one time if anyone gave me their telephone number
-
-213
-00:10:18,440 --> 00:10:20,440
-I used to write it down.
-
-214
-00:10:20,440 --> 00:10:22,440
+## Episode 2
+
+*Narrator:*
+
+*“Castles in Spain”, a serial in five parts by Edward Boyd, with Ray Brooks as Graham Mayer.*
+
+*Graham Mayer is visited one day in his London bookshop by a girl called Teresa, who takes him to see her grandfather, Sandy Forrest. Forrest was once an officer with the International Brigade during the Spanish Civil War. Now, fifty years later, he wants Mayer to track down, not a rare book, but a missing person, an old comrade from Spain called Jock Cameron.*
+
+*But as Mayer leaves Forrest’s house to think about this unusual request, he’s met in the hall by an elderly blind man.*
+
+*[Previously in episode 1]
+[In the house]*
+
+Colman: Is that you, Mayer?
+Mayer: Yes, Mr Colman.
+Colman: Have you come to any arrangement?
+Mayer: Well, not exactly.
+Colman: May I ask why not?
+Mayer: Perhaps I have reservations about the whole thing.
+Colman: I am delighted to hear you say that.
+Mayer: Why?
+Colman: Jock Cameron was a man of violence, and wherever he was, death was not far away. I think, Mayer, that it would be better for everyone concerned if Cameron were never found.
+
+**Monologue by Mayer:**
+
+> I came out of the quiet, prosperous house into the quiet, prosperous street and walked quickly away, not feeling prosperous, not feeling quiet, but in some undefined way disturbed, and yes, resentful. Two old men and a teenage girl had, in their various ways, called into question everything I had not realised I was.
+> 
+> 
+> Not being very well up in car recognition or the subtleties of ABC registrations and stuff like that, I took no notice of the car that pulled in just ahead of me, until I saw the driver.
+> 
+
+*[Outside the house]*
+
+Teresa: You walk very fast.
+Mayer: I always do when I’m afraid.
+Teresa: What are you afraid of?
+Mayer: I’m afraid of the law to be seen actually walking in this neighbourhood.
+Teresa: Jump in before the lynching party arrives. Where to?
+Mayer: Back to the shop.
+Teresa: You live there as well? Or are you a workaholic?
+Mayer: I’m not a workaholic. I do live above the shop.
+Teresa: Sounds very old-fashioned to me.
+Mayer: It’s a crown property.
+Teresa: What does that mean?
+Mayer: When I get a burst pipe or block drain or something like that, I put a call through to Buck House and they send somebody along.
+Teresa: A prince of the blood, of course.
+Mayer: If there’s one available.
+Teresa: Cool. Very cool.
+
+**Monologue by Mayer:**
+
+> The evening had settled in, wrapping the city in leisure like a duvet. Musicians were coalescing into orchestras, while in half a hundred dressing rooms, actors and actresses smeared reality with grease paint. Cars slid past, bearing passengers, transformed for the night into penguins or perfumed peons. Critics rattled epigrams in their pockets like loose change, hoping that the magic of a clever phrase would change banality into something handed down from Mount Sinai. A new playwright wondered if she was about to become the genius of the week.
+> 
+> 
+> It was the hour of the theatre.
+> 
+
+*[In the car]*
+
+Teresa: How did you get on with Grandfather?
+Mayer: You were right when you said he was devious.
+Teresa: So what else is new?
+Mayer: Yes.
+Teresa: Did you agree to do what he asked?
+Mayer: I told him I would tell him my answer, yes or no, tomorrow.
+Teresa: You’ll say yes, of course.
+Mayer: Why of course?
+Teresa: Because I recommended you as the right man for the job.
+Mayer: What made you do that?
+Teresa: Intuition.
+Mayer: How very old-fashioned of you. What a devious crowd you are.
+Teresa: Not all of us.
+Mayer: Yes, all of you. Every last one of you.
+Teresa: Sorry?
+Mayer: Your grandfather spent his time trying to destroy the credibility of my grandmother.
+Teresa: Successfully?
+Mayer: What the hell does that matter?
+Teresa: Don’t be cross.
+Mayer: I have every right to be cross. Your grandfather wants me to do something. Fine. But he wraps up that simple fact in all kinds of pseudo-psychological claptrap.
+Teresa: I told him you were more intelligent than you looked.
+Mayer: Oh, great. That makes everything all right, then.
+Teresa: I could have said you were a load of rubbish. Would you have preferred that?
+Mayer: My preference doesn’t appear to matter.
+Teresa: Oh, dear. Your vanity’s been hurt.
+Mayer: Wrong. My intelligence has been insulted.
+Teresa: You can’t even get your act together, you lot. You reckon?
+Mayer: Why don’t you take a vote on it?
+Teresa: A vote on what?
+Mayer: Do you want Jock Cameron found, or would he be better off left wherever he is?
+Teresa: We want him found, of course.
+Mayer: Coleman doesn’t.
+Teresa: How do you know that?
+Mayer: He told me. Ironical, isn’t it?
+Teresa: What is?
+Mayer: Your grandfather wasting all the sweetness and light on me.
+Teresa: Was it wasted?
+Mayer: I’m afraid it was.
+Teresa: So I’ve got to go back and report failure?
+Mayer: Not failure. Success.
+Teresa: You like playing bloody silly games, don’t you?
+Mayer: No, no. I neither like playing them or having them played on me, which is why I intend to find Jock Cameron.
+Teresa: What exactly does that mean?
+Mayer: It means that I’m not impressed by your grandfather’s reasons for wanting to find Cameron, but I’m fascinated by the possibility of discovering why Coleman doesn’t want him found.
+
+**Monologue by Mayer:**
+
+> We finished the journey in silence, but it was not a hostile silence. I felt that momentarily I had ceased to exist, but that what I had said to her still buzzed in her brain, the words unwelcome as picnic insects.
+> 
+> 
+> She dropped me off at the shop and acknowledged my thanks with the bright, automatic smile that a well-brought-up lady confers on someone who has just opened a door for her. And I found myself wondering if in some unknown way I had done just that.
+> 
+> I collected a bundle of books about the Spanish Civil War and took them up to bed with me. I thought and thought about Cameron. I fell asleep, still thinking of him.
+> 
+> Then the dream came. And in the dream, a tough little man strutted through a landscape of harsh brown bitterness. He had no face, yet somehow he was whistling.
+> 
+
+*[In the dream]*
+
+Mayer: Cameron? Jock Cameron?
+Cameron: Who goes there?
+Mayer: Friend.
+Cameron: Advance, friend, and be recognized.
+Mayer: I do not recognize you, friend.
+Cameron: Then do not claim the name.
+Mayer: You claimed it first.
+Cameron: Would you know my skin on a bush in Palestine?
+Mayer: Yes.
+Cameron: That is a privilege dearly bought.
+Mayer: The price was paid.
+Cameron: Where?
+Mayer: Arama.
+Cameron: Was the final payment made there?
+Mayer: Permission to speak?
+Cameron: Granted.
+Mayer: I’ve changed my mind.
+Cameron: You cannot do that.
+Mayer: Who says so?
+Cameron: King’s regulations.
+Mayer: I’m a Republican.
+Cameron: You are welcome to this land, Republican. This land whose sun has burned green from the spectrum. This land of tasteless bread and bitter oranges.
+Mayer: Cameron?
+Cameron: Here we have everything a bad humanity requires.
+Mayer: Cameron! I want to talk to you!
+
+**Monologue by Mayer:**
+
+> I awoke from my dream’s confusion to sunlight and the kind of morning that summer had been aiming at for months and had finally achieved too late. I lay for a while savoring the rest of the autumn to come. Shock-headed chrysanthemums, the acrid smell of burning leaves, old men in the park, bonfires.
+> 
+> 
+> And at that moment I heard the telephone ring.
+> 
+
+*[In the bookshop]*
+
+Arnold: I do hope I’ve got the right number.
+Mayer: I’m sure we can work something out between us.
+Arnold: Let me explain.
+Mayer: Put me out of my misery first.
+Arnold: Yes?
+Mayer: Who should I be?
+Arnold: It would be very reassuring if you were a Mr Mayer.
+Mayer: Be reassured.
+Arnold: I do believe it’s working. Six out of six is good, isn’t it?
+Mayer: Anything better would be suspicious.
+Arnold: I’ll be round in about ten minutes, Mr Mayer.
+Mayer: Hello? Hello?
+
+**Monologue by Mayer:**
+
+> He was as good as his word and ten minutes later he walked into the shop. A tall young man whose excessive good looks were cancelled out by the vulnerability. His dazzling smile had paid for some dentist’s holiday in sunny Tenerife. His voice was standard RP and every now and then you felt it belonged elsewhere and to someone else.
+> 
+
+*[In the bookshop]*
+
+Arnold: I said ten minutes, Mr Mayer. And here I am, bang on time.
+Mayer: Punctuality is the politeness of princes.
+Arnold: Couldn’t agree more.
+Mayer: You have a nice line in telephone calls.
+Arnold: Thank you.
+Mayer: Six out of six what?
+Arnold: Oh, that, it’s too embarrassing.
+Mayer: It’ll go no further than this room.
+Arnold: Well, you see, Mr Mayer, I can’t remember lines.
+Mayer: Maybe you should stick to mime.
+Arnold: It’s not funny, Mr Mayer, I can tell you.
+Mayer: What has this got to do with telephone calls?
+Arnold: Memory training.
+Mayer: Memory training?
+Arnold: Right.
+Mayer: I’m sure there’s a connection there somewhere if I could only make it.
+Arnold: It works like this.
+At one time if anyone gave me their telephone number I used to write it down.
+Arnold: I used to write it down.
 Now I make an effort to remember it.
-
-215
-00:10:22,440 --> 00:10:24,440
-And you find that improves your memory?
-
-216
-00:10:24,440 --> 00:10:26,440
-Six out of six.
-
-217
-00:10:27,320 --> 00:10:29,320
-You haven't told me your name.
-
-218
-00:10:29,320 --> 00:10:31,320
-Arnold.
-
-219
-00:10:31,320 --> 00:10:33,320
-Hathaway Arnold.
-
-220
-00:10:33,320 --> 00:10:35,320
-Oh, splendid name for an actor.
-
-221
-00:10:35,320 --> 00:10:37,320
-You really think so?
-
-222
-00:10:37,320 --> 00:10:39,320
-Yes, fine Shakespearean ring to it.
-
-223
-00:10:39,320 --> 00:10:41,320
-That's why I chose it.
-
-224
-00:10:41,320 --> 00:10:43,320
-My real name is Murgatroyd.
-
-225
-00:10:43,320 --> 00:10:45,320
-Well, now that's out of the way, what brings you here?
-
-226
-00:10:45,320 --> 00:10:47,320
-I've come to take over.
-
-227
-00:10:47,320 --> 00:10:49,320
-Would you mind saying that again?
-
-228
-00:10:49,320 --> 00:10:51,320
-I've come to take over.
-
-229
-00:10:51,320 --> 00:10:53,320
-Are you talking about this bookshop?
-
-230
-00:10:53,320 --> 00:10:55,320
-Yes.
-
-231
-00:10:56,200 --> 00:10:58,200
-I don't usually make that kind of mistake.
-
-232
-00:10:58,200 --> 00:11:00,200
-Ah, Theresa.
-
-233
-00:11:00,200 --> 00:11:02,200
-How would you like to indulge in some more memory training?
-
-234
-00:11:02,200 --> 00:11:04,200
-What do you want me to do?
-
-235
-00:11:04,200 --> 00:11:06,200
-I want you to call Theresa
-
-236
-00:11:06,200 --> 00:11:08,200
-and pass on this simple, brutal message.
-
-237
-00:11:08,200 --> 00:11:10,200
-Tell her I'm fed up with her
-
-238
-00:11:10,200 --> 00:11:12,200
-and our whole family, past and present.
-
-239
-00:11:12,200 --> 00:11:14,200
-And that goes for any future members of the family still to come.
-
-240
-00:11:14,200 --> 00:11:16,200
-Suppose she wants to know why?
-
-241
-00:11:16,200 --> 00:11:18,200
-She won't.
-
-242
-00:11:18,200 --> 00:11:20,200
-I don't think I can do this, Mr. Mayer.
-
-243
-00:11:20,200 --> 00:11:22,200
-Nonsense. You're an actor, aren't you?
-
-244
-00:11:22,200 --> 00:11:24,200
-Yes.
-
-245
-00:11:25,080 --> 00:11:27,080
-And went round the corner to a little cafe
-
-246
-00:11:27,080 --> 00:11:29,080
-that was an interesting survival
-
-247
-00:11:29,080 --> 00:11:31,080
-in that the proprietor stubbornly believed
-
-248
-00:11:31,080 --> 00:11:33,080
-that fast food was no food at all
-
-249
-00:11:33,080 --> 00:11:35,080
-but merely a noun
-
-250
-00:11:35,080 --> 00:11:37,080
-contradicted by an adjective.
-
-251
-00:11:37,080 --> 00:11:39,080
-He had weird ideas about music, too,
-
-252
-00:11:39,080 --> 00:11:41,080
-believing, as he did,
-
-253
-00:11:41,080 --> 00:11:43,080
-that the best accompaniment to meals
-
-254
-00:11:43,080 --> 00:11:45,080
-was silence.
-
-255
-00:11:45,080 --> 00:11:47,080
-I sat there for about an hour
-
-256
-00:11:47,080 --> 00:11:49,080
-and read one of the heavy newspapers
-
-257
-00:11:49,080 --> 00:11:51,080
-that told me what the intellectual yuppies
-
-258
-00:11:51,080 --> 00:11:53,080
-were wearing, thinking,
-
-259
-00:11:53,960 --> 00:11:55,960
-peddling that particular day.
-
-260
-00:11:55,960 --> 00:11:57,960
-Thus refreshed,
-
-261
-00:11:57,960 --> 00:11:59,960
-physically and mentally,
-
-262
-00:11:59,960 --> 00:12:01,960
-I returned to the shop
-
-263
-00:12:01,960 --> 00:12:03,960
-and Hathaway Arnold,
-
-264
-00:12:03,960 --> 00:12:05,960
-whose real name was Murgatroyd.
-
-265
-00:12:05,960 --> 00:12:07,960
-You have to meet her at the airport.
-
-266
-00:12:07,960 --> 00:12:09,960
-There has to be more than that, Arnold.
-
-267
-00:12:09,960 --> 00:12:11,960
-Honestly, Mr. Mayer...
-
-268
-00:12:11,960 --> 00:12:13,960
-You passed on my message. Word for word.
-
-269
-00:12:13,960 --> 00:12:15,960
-And she made no comment? None.
-
-270
-00:12:15,960 --> 00:12:17,960
-All she said was that you were booked
-
-271
-00:12:17,960 --> 00:12:19,960
-on a four o'clock flight
-
-272
-00:12:19,960 --> 00:12:21,960
-and that she'd meet you at the airport.
-
-273
-00:12:22,840 --> 00:12:24,840
-Well, I thought you would know that.
-
-274
-00:12:24,840 --> 00:12:26,840
-Why?
-
-275
-00:12:26,840 --> 00:12:28,840
-I don't know. Just took it for granted, I suppose.
-
-276
-00:12:28,840 --> 00:12:30,840
-Is it me, Arnold?
-
-277
-00:12:30,840 --> 00:12:32,840
-Tell me, is it me?
-
-278
-00:12:32,840 --> 00:12:34,840
-Is what you, Mr. Mayer?
-
-279
-00:12:34,840 --> 00:12:36,840
-Am I walking around with an aura
-
-280
-00:12:36,840 --> 00:12:38,840
-that everybody can see clearly except myself?
-
-281
-00:12:38,840 --> 00:12:40,840
-A big, blazing, multicoloured aura
-
-282
-00:12:40,840 --> 00:12:42,840
-that proclaims to the world, sucker?
-
-283
-00:12:42,840 --> 00:12:44,840
-Can I answer that in my own way?
-
-284
-00:12:44,840 --> 00:12:46,840
-Please do.
-
-285
-00:12:46,840 --> 00:12:48,840
-She's sending a car to take you to the airport.
-
-286
-00:12:52,840 --> 00:12:54,840
-Not far from the checking-in desk,
-
-287
-00:12:54,840 --> 00:12:56,840
-she was standing, remote and cool,
-
-288
-00:12:56,840 --> 00:12:58,840
-and for what the word is worth nowadays,
-
-289
-00:12:58,840 --> 00:13:00,840
-virginal.
-
-290
-00:13:00,840 --> 00:13:02,840
-She looked at me
-
-291
-00:13:02,840 --> 00:13:04,840
-as though I reminded her
-
-292
-00:13:04,840 --> 00:13:06,840
-of someone she'd once met
-
-293
-00:13:06,840 --> 00:13:08,840
-at a rather boring party.
-
-294
-00:13:08,840 --> 00:13:10,840
-Better check in.
-
-295
-00:13:10,840 --> 00:13:12,840
-Would it be too much to ask you where I'm going?
-
-296
-00:13:12,840 --> 00:13:14,840
-You're going to Glasgow.
-
-297
-00:13:14,840 --> 00:13:16,840
-Why?
-
-298
-00:13:16,840 --> 00:13:18,840
-According to the PR men, Glasgow is miles better.
-
-299
-00:13:18,840 --> 00:13:20,840
-Better than what?
-
-300
-00:13:21,719 --> 00:13:23,719
-You know what Robert Louis Stevenson said?
-
-301
-00:13:23,719 --> 00:13:25,719
-I'll give him two minutes.
-
-302
-00:13:25,719 --> 00:13:27,719
-He said the wise man travels only in imagination.
-
-303
-00:13:27,719 --> 00:13:29,719
-So?
-
-304
-00:13:29,719 --> 00:13:31,719
-I have the feeling of being forced to travel in someone else's.
-
-305
-00:13:31,719 --> 00:13:33,719
-You're a fantasy merchant.
-
-306
-00:13:33,719 --> 00:13:35,719
-Maybe it takes one to know one.
-
-307
-00:13:35,719 --> 00:13:37,719
-Look, are you going or are you not?
-
-308
-00:13:37,719 --> 00:13:39,719
-Then get going.
-
-309
-00:13:39,719 --> 00:13:41,719
-I've brought you a briefcase.
-
-310
-00:13:41,719 --> 00:13:43,719
-In it, you'll find everything you need.
-
-311
-00:13:43,719 --> 00:13:45,719
-Have a nice day.
-
-312
-00:13:45,719 --> 00:13:47,719
-And with that pious wish,
-
-313
-00:13:47,719 --> 00:13:49,719
-she vanished into thin air
-
-314
-00:13:50,599 --> 00:13:52,599
-or more accurately
-
-315
-00:13:52,599 --> 00:13:54,599
-into the thick, artificial,
-
-316
-00:13:54,599 --> 00:13:56,599
-controlled airport air
-
-317
-00:13:56,599 --> 00:13:58,599
-that smelt of everywhere and nowhere,
-
-318
-00:13:58,599 --> 00:14:00,599
-of tourists and terrorists
-
-319
-00:14:00,599 --> 00:14:02,599
-and have a good day.
-
-320
-00:14:02,599 --> 00:14:04,599
-I checked in
-
-321
-00:14:04,599 --> 00:14:06,599
-and my obedience was rewarded
-
-322
-00:14:06,599 --> 00:14:08,599
-by a boarding pass
-
-323
-00:14:08,599 --> 00:14:10,599
-that entitled me to a free diagnosis
-
-324
-00:14:10,599 --> 00:14:12,599
-by a machine that certified me
-
-325
-00:14:12,599 --> 00:14:14,599
-as free of guns and bombs
-
-326
-00:14:14,599 --> 00:14:16,599
-and other hidden hatreds.
-
-327
-00:14:16,599 --> 00:14:18,599
-And thus driven,
-
-328
-00:14:19,479 --> 00:14:21,479
-I boarded a plane that waited pale and patient
-
-329
-00:14:21,479 --> 00:14:23,479
-like a beached whale
-
-330
-00:14:23,479 --> 00:14:25,479
-anxious to escape the predators of earth
-
-331
-00:14:25,479 --> 00:14:27,479
-even if that meant taking to the air.
-
-332
-00:14:41,479 --> 00:14:43,479
-About six miles above the earth,
-
-333
-00:14:43,479 --> 00:14:45,479
-I opened the briefcase Teresa had given me.
-
-334
-00:14:45,479 --> 00:14:47,479
-It contained various sheets of paper,
-
-335
-00:14:48,359 --> 00:14:50,359
-one of which appeared to be a list of addresses.
-
-336
-00:14:50,359 --> 00:14:52,359
-Another said that a reservation
-
-337
-00:14:52,359 --> 00:14:54,359
-had been made for me
-
-338
-00:14:54,359 --> 00:14:56,359
-at a Glasgow hotel.
-
-339
-00:14:56,359 --> 00:14:58,359
-There were four or five tattered postcards
-
-340
-00:14:58,359 --> 00:15:00,359
-and there was money,
-
-341
-00:15:00,359 --> 00:15:02,359
-always a handy thing to have
-
-342
-00:15:02,359 --> 00:15:04,359
-even at 36,000 feet.
-
-343
-00:15:04,359 --> 00:15:06,359
-I put everything back in the briefcase
-
-344
-00:15:06,359 --> 00:15:08,359
-and the little man in the seat beside me
-
-345
-00:15:08,359 --> 00:15:10,359
-gave me an approving smile.
-
-346
-00:15:12,359 --> 00:15:14,359
-It does my heart good to see that.
-
-347
-00:15:15,239 --> 00:15:17,239
-I beg your pardon?
-
-348
-00:15:17,239 --> 00:15:19,239
-I once flew from New York
-
-349
-00:15:19,239 --> 00:15:21,239
-with a man who kept working a pocket calculator all the way.
-
-350
-00:15:21,239 --> 00:15:23,239
-You should have complained to the pilot.
-
-351
-00:15:23,239 --> 00:15:25,239
-I got drunk instead.
-
-352
-00:15:25,239 --> 00:15:27,239
-And objectionable, I hope.
-
-353
-00:15:27,239 --> 00:15:29,239
-Oh, not my style, I'm afraid.
-
-354
-00:15:29,239 --> 00:15:31,239
-Are you a professional, ma'am?
-
-355
-00:15:31,239 --> 00:15:33,239
-I run a bookshop.
-
-356
-00:15:33,239 --> 00:15:35,239
-Oh, very interesting.
-
-357
-00:15:35,239 --> 00:15:37,239
-You or secondhand books?
-
-358
-00:15:37,239 --> 00:15:39,239
-Both.
-
-359
-00:15:39,239 --> 00:15:41,239
-I had a great aunt once who wrote a book.
-
-360
-00:15:41,239 --> 00:15:43,239
-Really?
-
-361
-00:15:44,119 --> 00:15:46,119
-The man was a man in a soporific way
-
-362
-00:15:46,119 --> 00:15:48,119
-and eventually
-
-363
-00:15:48,119 --> 00:15:50,119
-he sent himself off to sleep.
-
-364
-00:15:50,119 --> 00:15:52,119
-And the aircraft roared
-
-365
-00:15:52,119 --> 00:15:54,119
-towards the north
-
-366
-00:15:54,119 --> 00:15:56,119
-with its comatose passengers,
-
-367
-00:15:56,119 --> 00:15:58,119
-peas in a 600 miles an hour pod.
-
-368
-00:16:00,119 --> 00:16:02,119
-And the pilot told us
-
-369
-00:16:02,119 --> 00:16:04,119
-it was raining in Glasgow
-
-370
-00:16:04,119 --> 00:16:06,119
-but we decided to land there anyway
-
-371
-00:16:06,119 --> 00:16:08,119
-and we did.
-
-372
-00:16:10,119 --> 00:16:12,119
-A taxi took me to the hotel
-
-373
-00:16:13,000 --> 00:16:15,000
-which seemed to have as many flags
-
-374
-00:16:15,000 --> 00:16:17,000
-as a small wall.
-
-375
-00:16:17,000 --> 00:16:19,000
-From my room on the seventh floor
-
-376
-00:16:19,000 --> 00:16:21,000
-there was a view of the river
-
-377
-00:16:21,000 --> 00:16:23,000
-and the ceaseless rain
-
-378
-00:16:23,000 --> 00:16:25,000
-neither particularly interesting.
-
-379
-00:16:25,000 --> 00:16:27,000
-So I took the papers
-
-380
-00:16:27,000 --> 00:16:29,000
-out of the briefcase
-
-381
-00:16:29,000 --> 00:16:31,000
-and gave them a second look
-
-382
-00:16:31,000 --> 00:16:33,000
-at the list of names and addresses
-
-383
-00:16:33,000 --> 00:16:35,000
-at the five tattered postcards
-
-384
-00:16:35,000 --> 00:16:37,000
-which had been posted
-
-385
-00:16:37,000 --> 00:16:39,000
-from various parts of the country
-
-386
-00:16:39,000 --> 00:16:41,000
-which were all in the same handwriting
-
-387
-00:16:41,880 --> 00:16:43,880
-and which were all signed
-
-388
-00:16:43,880 --> 00:16:45,880
-Jock.
-
-389
-00:16:45,880 --> 00:16:47,880
-So I decided to phone
-
-390
-00:16:47,880 --> 00:16:49,880
-the top number of the list
-
-391
-00:16:49,880 --> 00:16:51,880
-in the briefcase.
-
-392
-00:16:51,880 --> 00:16:53,880
-Valleyfield Residential Home?
-
-393
-00:16:53,880 --> 00:16:55,880
-My name is Mayer.
-
-394
-00:16:55,880 --> 00:16:57,880
-I wonder if you can help me.
-
-395
-00:16:57,880 --> 00:16:59,880
-What seems to be the problem Mr. Mayer?
-
-396
-00:16:59,880 --> 00:17:01,880
-I'd like to come and have a word
-
-397
-00:17:01,880 --> 00:17:03,880
-with one of your residents.
-
-398
-00:17:03,880 --> 00:17:05,880
-Which resident have you in mind?
-
-399
-00:17:05,880 --> 00:17:07,880
-Mr. Henderson.
-
-400
-00:17:07,880 --> 00:17:09,880
-Yes, we do have a Mr. Henderson here.
-
-401
-00:17:10,760 --> 00:17:12,760
-Are you a relative?
-
-402
-00:17:12,760 --> 00:17:14,760
-A friend of a friend.
-
-403
-00:17:14,760 --> 00:17:16,760
-The normal visiting hours are between 7 and 8.
-
-404
-00:17:16,760 --> 00:17:18,760
-I'll come along then.
-
-405
-00:17:18,760 --> 00:17:20,760
-Very well.
-
-406
-00:17:20,760 --> 00:17:22,760
-I need hardly remind you of our regulations
-
-407
-00:17:22,760 --> 00:17:24,760
-concerning tobacco and alcohol.
-
-408
-00:17:36,760 --> 00:17:38,760
-Valleyfield Residential Home
-
-409
-00:17:39,640 --> 00:17:41,640
-was an anorexic building
-
-410
-00:17:41,640 --> 00:17:43,640
-three stories high
-
-411
-00:17:43,640 --> 00:17:45,640
-with a patch of lawn in front
-
-412
-00:17:45,640 --> 00:17:47,640
-that was no bigger than a boy's size billiard table
-
-413
-00:17:47,640 --> 00:17:49,640
-if not as smooth.
-
-414
-00:17:49,640 --> 00:17:51,640
-The ground floor rooms
-
-415
-00:17:51,640 --> 00:17:53,640
-two of them fronting onto the street
-
-416
-00:17:53,640 --> 00:17:55,640
-were chauvinistic
-
-417
-00:17:55,640 --> 00:17:57,640
-with tartan curtains
-
-418
-00:17:57,640 --> 00:17:59,640
-and there was a strong smell of cats
-
-419
-00:17:59,640 --> 00:18:01,640
-and disinfectant
-
-420
-00:18:01,640 --> 00:18:03,640
-with neither odour predominating.
-
-421
-00:18:03,640 --> 00:18:05,640
-At 7 o'clock a bell rang
-
-422
-00:18:05,640 --> 00:18:07,640
-and we were turned loose
-
-423
-00:18:08,520 --> 00:18:10,520
-and a surly nurse with varicose veins
-
-424
-00:18:10,520 --> 00:18:12,520
-conducted me to a small room
-
-425
-00:18:12,520 --> 00:18:14,520
-where a man called Henderson
-
-426
-00:18:14,520 --> 00:18:16,520
-lay in bed.
-
-427
-00:18:16,520 --> 00:18:18,520
-He was about 80
-
-428
-00:18:18,520 --> 00:18:20,520
-with the complexion of a sound
-
-429
-00:18:20,520 --> 00:18:22,520
-polished apple.
-
-430
-00:18:22,520 --> 00:18:24,520
-He had hair as soft as silk
-
-431
-00:18:24,520 --> 00:18:26,520
-and his eyes were
-
-432
-00:18:26,520 --> 00:18:28,520
-astonishingly blue.
-
-433
-00:18:28,520 --> 00:18:30,520
-Well, Mr. Mayer.
-
-434
-00:18:32,520 --> 00:18:34,520
-Can we talk in private?
-
-435
-00:18:34,520 --> 00:18:36,520
-Right, Bertha. You heard what the man said.
-
-436
-00:18:37,400 --> 00:18:39,400
-Two's company, three's an epidemic.
-
-437
-00:18:39,400 --> 00:18:41,400
-Oh, Mr. Henderson.
-
-438
-00:18:51,400 --> 00:18:53,400
-She didn't seem to want to go.
-
-439
-00:18:53,400 --> 00:18:55,400
-A nosy bugger.
-
-440
-00:18:55,400 --> 00:18:57,400
-Now, what was it you couldn't discuss
-
-441
-00:18:57,400 --> 00:18:59,400
-in front of witnesses?
-
-442
-00:18:59,400 --> 00:19:01,400
-Nothing.
-
-443
-00:19:01,400 --> 00:19:03,400
-Oh? That won't take long.
-
-444
-00:19:03,400 --> 00:19:05,400
-I've, um, I've brought you a present.
-
-445
-00:19:06,280 --> 00:19:08,280
-Tell me something first.
-
-446
-00:19:08,280 --> 00:19:10,280
-Yes?
-
-447
-00:19:10,280 --> 00:19:12,280
-Do I know you?
-
-448
-00:19:12,280 --> 00:19:14,280
-You probably knew my grandfather.
-
-449
-00:19:14,280 --> 00:19:16,280
-Who was he?
-
-450
-00:19:16,280 --> 00:19:18,280
-Mayer. Augustus Mayer.
-
-451
-00:19:18,280 --> 00:19:20,280
-Oh, it rings a bell.
-
-452
-00:19:20,280 --> 00:19:22,280
-Harama. February, 1937.
-
-453
-00:19:22,280 --> 00:19:24,280
-Killed there, was he?
-
-454
-00:19:24,280 --> 00:19:26,280
-Yes.
-
-455
-00:19:28,280 --> 00:19:30,280
-Something was said about a present.
-
-456
-00:19:30,280 --> 00:19:32,280
-Something was indeed.
-
-457
-00:19:32,280 --> 00:19:34,280
-Is it whisky or fags?
-
-458
-00:19:35,160 --> 00:19:37,160
-What would you say to whisky and fags?
-
-459
-00:19:37,160 --> 00:19:39,160
-Oh, I'd say that was version and overkill.
-
-460
-00:19:39,160 --> 00:19:41,160
-Well, let's just say
-
-461
-00:19:41,160 --> 00:19:43,160
-it's in memory of an old comrade.
-
-462
-00:19:43,160 --> 00:19:45,160
-Aye.
-
-463
-00:19:45,160 --> 00:19:47,160
-It sees one of the plastic cups.
-
-464
-00:19:47,160 --> 00:19:49,160
-Right.
-
-465
-00:20:01,160 --> 00:20:03,160
-That's a drop of the real stuff.
-
-466
-00:20:04,040 --> 00:20:06,040
-Do you mind me asking you a few questions?
-
-467
-00:20:06,040 --> 00:20:08,040
-No fire away.
-
-468
-00:20:08,040 --> 00:20:10,040
-First of all,
-
-469
-00:20:10,040 --> 00:20:12,040
-let me tell you who I am
-
-470
-00:20:12,040 --> 00:20:14,040
-and what I'm doing here.
-
-471
-00:20:14,040 --> 00:20:16,040
-Oh, you've already told me who you are.
-
-472
-00:20:16,040 --> 00:20:18,040
-You're Big Gus Mayer's grandson
-
-473
-00:20:18,040 --> 00:20:20,040
-and that's good enough for me.
-
-474
-00:20:20,040 --> 00:20:22,040
-As for the other thing,
-
-475
-00:20:22,040 --> 00:20:24,040
-what you're doing here,
-
-476
-00:20:24,040 --> 00:20:26,040
-for you, you'll be like the others.
-
-477
-00:20:26,040 --> 00:20:28,040
-What others?
-
-478
-00:20:28,040 --> 00:20:30,040
-Is there a wee taste of that whisky?
-
-479
-00:20:30,040 --> 00:20:32,040
-Yes.
-
-480
-00:20:32,920 --> 00:20:34,920
-Well, there's these two kids
-
-481
-00:20:34,920 --> 00:20:36,920
-that come to see me every Sunday morning.
-
-482
-00:20:36,920 --> 00:20:38,920
-Yeah.
-
-483
-00:20:38,920 --> 00:20:40,920
-Cheers. Cheers.
-
-484
-00:20:40,920 --> 00:20:42,920
-Aye, there's two of them.
-
-485
-00:20:42,920 --> 00:20:44,920
-A boy and a girl.
-
-486
-00:20:44,920 --> 00:20:46,920
-And the way things are nowadays,
-
-487
-00:20:46,920 --> 00:20:48,920
-the boy's the one with the long hair.
-
-488
-00:20:50,920 --> 00:20:52,920
-What do they talk about?
-
-489
-00:20:52,920 --> 00:20:54,920
-They're never short of subjects,
-
-490
-00:20:54,920 --> 00:20:56,920
-I can tell you that.
-
-491
-00:20:56,920 --> 00:20:58,920
-Worthwhile subjects?
-
-492
-00:20:58,920 --> 00:21:00,920
-Oh, it depends what you think is worthwhile.
-
-493
-00:21:01,800 --> 00:21:03,800
-All done men like me.
-
-494
-00:21:03,800 --> 00:21:05,800
-You think that's how they see you?
-
-495
-00:21:05,800 --> 00:21:07,800
-No.
-
-496
-00:21:07,800 --> 00:21:09,800
-They're not doing me a favour
-
-497
-00:21:09,800 --> 00:21:11,800
-that boots on the other foot.
-
-498
-00:21:11,800 --> 00:21:13,800
-In what way?
-
-499
-00:21:13,800 --> 00:21:15,800
-I think I represent something
-
-500
-00:21:15,800 --> 00:21:17,800
-that they feel they've lost.
-
-501
-00:21:17,800 --> 00:21:19,800
-Do they ever say anything like that?
-
-502
-00:21:19,800 --> 00:21:21,800
-No.
-
-503
-00:21:21,800 --> 00:21:23,800
-Maybe they've lost the words for it
-
-504
-00:21:23,800 --> 00:21:25,800
-as well as the thing itself.
-
-505
-00:21:25,800 --> 00:21:27,800
-Do you remember a man
-
-506
-00:21:27,800 --> 00:21:29,800
-called Jock Cameron in Spain?
-
-507
-00:21:30,680 --> 00:21:32,680
-Well, I'll be damned.
-
-508
-00:21:32,680 --> 00:21:34,680
-What's the matter?
-
-509
-00:21:34,680 --> 00:21:36,680
-I was just talking about him the other day.
-
-510
-00:21:36,680 --> 00:21:38,680
-Who was asking you about him?
-
-511
-00:21:38,680 --> 00:21:40,680
-These two kids I was telling you about
-
-512
-00:21:40,680 --> 00:21:42,680
-who come here on Sundays.
-
-513
-00:21:42,680 --> 00:21:44,680
-They decided to turn the Spanish Civil War
-
-514
-00:21:44,680 --> 00:21:46,680
-into a project.
-
-515
-00:21:46,680 --> 00:21:48,680
-Not very original.
-
-516
-00:21:48,680 --> 00:21:50,680
-Why do you say that?
-
-517
-00:21:50,680 --> 00:21:52,680
-Hitler and Mussolini had the same idea.
-
-518
-00:21:52,680 --> 00:21:54,680
-Oh, so they did.
-
-519
-00:21:54,680 --> 00:21:56,680
-Maybe the kids will be lucky.
-
-520
-00:21:56,680 --> 00:21:58,680
-Oh, man.
-
-521
-00:21:59,560 --> 00:22:01,560
-I could have went on all day about him
-
-522
-00:22:01,560 --> 00:22:03,560
-and they would have asked for me.
-
-523
-00:22:03,560 --> 00:22:05,560
-You'd have thought I was talking
-
-524
-00:22:05,560 --> 00:22:07,560
-about some big pop star
-
-525
-00:22:07,560 --> 00:22:09,560
-and not a wee hard man from Coatbridge.
-
-526
-00:22:09,560 --> 00:22:11,560
-Did you keep in touch after Spain?
-
-527
-00:22:11,560 --> 00:22:13,560
-No.
-
-528
-00:22:13,560 --> 00:22:15,560
-Was there a reason for that?
-
-529
-00:22:15,560 --> 00:22:17,560
-Maybe it was because
-
-530
-00:22:17,560 --> 00:22:19,560
-we thought we had failed.
-
-531
-00:22:19,560 --> 00:22:21,560
-You don't believe that, do you?
-
-532
-00:22:21,560 --> 00:22:23,560
-If I believed that, Mayer,
-
-533
-00:22:23,560 --> 00:22:25,560
-then your grandfather died in vain.
-
-534
-00:22:26,439 --> 00:22:28,439
-If I believed that, Mayer,
-
-535
-00:22:28,439 --> 00:22:30,439
-I could never swear to you
-
-536
-00:22:30,439 --> 00:22:32,439
-on the stack of Bibles
-
-537
-00:22:32,439 --> 00:22:34,439
-that in the same circumstances
-
-538
-00:22:34,439 --> 00:22:36,439
-I would do it all again.
-
-539
-00:22:36,439 --> 00:22:38,439
-I envy you.
-
-540
-00:22:38,439 --> 00:22:40,439
-I don't care a bugger whether you do or not
-
-541
-00:22:40,439 --> 00:22:42,439
-because that wasn't my reason
-
-542
-00:22:42,439 --> 00:22:44,439
-for doing what I did.
-
-543
-00:22:44,439 --> 00:22:46,439
-Mr Henderson.
-
-544
-00:22:46,439 --> 00:22:48,439
-Thank you very much for your wish, Jay.
-
-545
-00:22:48,439 --> 00:22:50,439
-Good night to you, Mayer.
-
-546
-00:22:56,439 --> 00:22:58,439
-Walking away
-
-547
-00:22:58,439 --> 00:23:00,439
-from the Valleyfield residential home,
-
-548
-00:23:00,439 --> 00:23:02,439
-I decided that Mr Henderson
-
-549
-00:23:02,439 --> 00:23:04,439
-did not get my vote
-
-550
-00:23:04,439 --> 00:23:06,439
-as Geriatric of the Year.
-
-551
-00:23:06,439 --> 00:23:08,439
-And that seemed fair enough
-
-552
-00:23:08,439 --> 00:23:10,439
-since I suspected
-
-553
-00:23:10,439 --> 00:23:12,439
-that I didn't rate too highly
-
-554
-00:23:12,439 --> 00:23:14,439
-on his list of people
-
-555
-00:23:14,439 --> 00:23:16,439
-he could not do without.
-
-556
-00:23:16,439 --> 00:23:18,439
-And brooding on this
-
-557
-00:23:18,439 --> 00:23:20,439
-took me through the damp streets
-
-558
-00:23:20,439 --> 00:23:22,439
-all the way back to the hotel.
-
-559
-00:23:26,439 --> 00:23:28,439
-MUSIC PLAYS
-
-560
-00:23:36,439 --> 00:23:38,439
-I let myself into my room
-
-561
-00:23:38,439 --> 00:23:40,439
-only to fetch up short inside the door
-
-562
-00:23:40,439 --> 00:23:42,439
-and stare astonished at the stranger
-
-563
-00:23:42,439 --> 00:23:44,439
-who stared back at me
-
-564
-00:23:44,439 --> 00:23:46,439
-from beside the window
-
-565
-00:23:46,439 --> 00:23:48,439
-with a kind of defiant embarrassment.
-
-566
-00:23:48,439 --> 00:23:50,439
-Er, look, I know this must seem
-
-567
-00:23:50,439 --> 00:23:52,439
-very unusual.
-
-568
-00:23:52,439 --> 00:23:54,439
-I'm glad we agree about that.
-
-569
-00:23:54,439 --> 00:23:56,439
-This matter seemed so very urgent.
-
-570
-00:23:56,439 --> 00:23:58,439
-First things first.
-
-571
-00:23:58,439 --> 00:24:00,439
-Who are you?
-
-572
-00:24:00,439 --> 00:24:02,439
-My name is
-
-573
-00:24:02,439 --> 00:24:04,439
-Nora McGill.
-
-574
-00:24:04,439 --> 00:24:06,439
-How did you manage to get in here?
-
-575
-00:24:06,439 --> 00:24:08,439
-One of the maids let me in.
-
-576
-00:24:08,439 --> 00:24:10,439
-Charming. How much did it cost you?
-
-577
-00:24:10,439 --> 00:24:12,439
-Nothing.
-
-578
-00:24:12,439 --> 00:24:14,439
-Oh, come on now.
-
-579
-00:24:14,439 --> 00:24:16,439
-I told her you were my boyfriend.
-
-580
-00:24:16,439 --> 00:24:18,439
-All the world loves a lover.
-
-581
-00:24:20,439 --> 00:24:22,439
-What happens now?
-
-582
-00:24:22,439 --> 00:24:24,439
-I think
-
-583
-00:24:24,439 --> 00:24:26,439
-I'll call the police.
-
-584
-00:24:26,439 --> 00:24:28,439
-Oh!
-
-585
-00:24:28,439 --> 00:24:30,439
-What's so funny?
-
-586
-00:24:30,439 --> 00:24:32,439
-I am the police.
-
-587
-00:24:32,439 --> 00:24:34,439
-MUSIC PLAYS
-
-588
-00:24:44,439 --> 00:24:46,439
-Aren't you going to ask to see my warrant card?
-
-589
-00:24:46,439 --> 00:24:48,439
-When I get my breath back.
-
-590
-00:24:48,439 --> 00:24:50,439
-Have a look at it anyway.
-
-591
-00:24:50,439 --> 00:24:52,439
-Seems all right.
-
-592
-00:24:52,439 --> 00:24:54,439
-I suppose these things can be forged.
-
-593
-00:24:54,439 --> 00:24:56,439
-Well, you know about forgeries.
-
-594
-00:24:56,439 --> 00:24:58,439
-Less than nothing.
-
-595
-00:24:58,439 --> 00:25:00,439
-Have you a passport?
-
-596
-00:25:00,439 --> 00:25:02,439
-Yes. Would you mind showing it to me?
-
-597
-00:25:02,439 --> 00:25:04,439
-It's at home. And where is home?
-
-598
-00:25:04,439 --> 00:25:06,439
-London.
-
-599
-00:25:06,439 --> 00:25:08,439
-Quite sure it's not Dublin?
-
-600
-00:25:08,439 --> 00:25:10,439
-Positive.
-
-601
-00:25:10,439 --> 00:25:12,439
-I've never even been there.
-
-602
-00:25:12,439 --> 00:25:14,439
-Our information tells a different story.
-
-603
-00:25:14,439 --> 00:25:16,439
-Then your information is nonsense.
-
-604
-00:25:16,439 --> 00:25:18,439
-What are you doing up here?
-
-605
-00:25:18,439 --> 00:25:20,439
-Very cooperative, Hanrahan.
-
-606
-00:25:20,439 --> 00:25:22,439
-There could be a very simple reason for that.
-
-607
-00:25:22,439 --> 00:25:24,439
-Could indeed.
-
-608
-00:25:24,439 --> 00:25:26,439
-I'm no expert in these things, but don't you lot usually hunt in pairs?
-
-609
-00:25:26,439 --> 00:25:28,439
-My partner stepped outside for a minute.
-
-610
-00:25:28,439 --> 00:25:30,439
-Get a fresh pair of thumbscrews, no doubt.
-
-611
-00:25:30,439 --> 00:25:32,439
-No doubt.
-
-612
-00:25:32,439 --> 00:25:34,439
-Why didn't you just call room service?
-
-613
-00:25:34,439 --> 00:25:36,439
-Better open up then, shall we?
-
-614
-00:25:38,439 --> 00:25:40,439
-This is Inspector McNeil, special branch.
-
-615
-00:25:40,439 --> 00:25:42,439
-Glad you could drop in, Inspector.
-
-616
-00:25:42,439 --> 00:25:44,439
-Perhaps you'll explain to me why you did.
-
-617
-00:25:44,439 --> 00:25:46,439
-A slight misunderstanding, Mr Mayer.
-
-618
-00:25:46,439 --> 00:25:48,439
-Not much of an explanation,
-
-619
-00:25:48,439 --> 00:25:50,439
-but at least you got my name right.
-
-620
-00:25:50,439 --> 00:25:52,439
-Part of the misunderstanding, sir.
-
-621
-00:25:52,439 --> 00:25:54,439
-Why did your partner call me Hanrahan?
-
-622
-00:25:54,439 --> 00:25:56,439
-Maybe because she doesn't know what Hanrahan looks like.
-
-623
-00:25:56,439 --> 00:25:58,439
-Do you?
-
-624
-00:25:58,439 --> 00:26:00,439
-That's the problem, Mr Mayer.
-
-625
-00:26:00,439 --> 00:26:02,439
-Nobody knows what Hanrahan looks like.
-
-626
-00:26:04,439 --> 00:26:06,439
-Are you a patriot, Mr Mayer?
-
-627
-00:26:06,439 --> 00:26:08,439
-Not a very loud one.
-
-628
-00:26:08,439 --> 00:26:10,439
-You disappoint me.
-
-629
-00:26:10,439 --> 00:26:12,439
-Why? What are you expecting?
-
-630
-00:26:12,439 --> 00:26:14,439
-Something more bookish, perhaps.
-
-631
-00:26:14,439 --> 00:26:16,439
-Patriotism is a last refuge of a scoundrel.
-
-632
-00:26:16,439 --> 00:26:18,439
-My partner has an honours degree in English.
-
-633
-00:26:18,439 --> 00:26:20,439
-I'm suitably impressed.
-
-634
-00:26:20,439 --> 00:26:22,439
-You still haven't answered the question.
-
-635
-00:26:22,439 --> 00:26:24,439
-Oh, but I have. It may not be the answer you wanted,
-
-636
-00:26:24,439 --> 00:26:26,439
-but it's still an answer.
-
-637
-00:26:26,439 --> 00:26:28,439
-Bit flippant, wasn't it?
-
-638
-00:26:28,439 --> 00:26:30,439
-And you'd rather I was bookish?
-
-639
-00:26:30,439 --> 00:26:32,439
-Well, you are a bookseller, aren't you?
-
-640
-00:26:32,439 --> 00:26:34,439
-Have you checked that out?
-
-641
-00:26:34,439 --> 00:26:36,439
-Of course. Just now.
-
-642
-00:26:36,439 --> 00:26:38,439
-I think it was G.K. Chesterton
-
-643
-00:26:38,439 --> 00:26:40,439
-who best stated my own particular attitude,
-
-644
-00:26:40,439 --> 00:26:42,439
-my kind of patriotism, if you like.
-
-645
-00:26:42,439 --> 00:26:44,439
-Instead, my country, right or wrong,
-
-646
-00:26:44,439 --> 00:26:46,439
-is like saying my mother drunk or sober.
-
-647
-00:26:46,439 --> 00:26:48,439
-Is that sufficiently bookish for you?
-
-648
-00:26:48,439 --> 00:26:50,439
-Up to a point.
-
-649
-00:26:50,439 --> 00:26:52,439
-Well, if there's no further business,
-
-650
-00:26:52,439 --> 00:26:54,439
-will you both get the hell out of here
-
-651
-00:26:54,439 --> 00:26:56,439
-and let me have my room back?
-
-652
-00:26:56,439 --> 00:26:58,439
-There's just one more thing, Mr Mayer.
-
-653
-00:26:58,439 --> 00:27:00,439
-Let's hear it, then.
-
-654
-00:27:00,439 --> 00:27:02,439
-Remember, nobody knows what this Hanrahan looks like.
-
-655
-00:27:02,439 --> 00:27:04,439
-Nobody knows what name he's travelling under.
-
-656
-00:27:04,439 --> 00:27:06,439
-So keep your door locked.
-
-657
-00:27:06,439 --> 00:27:08,439
-And don't let anyone in you don't know.
-
-658
-00:27:12,439 --> 00:27:14,439
-In episode two of
-
-659
-00:27:14,439 --> 00:27:16,439
-Castles in Spain by Edward Boyd,
-
-660
-00:27:16,439 --> 00:27:18,439
-Graham Mayer was played by Ray Brooks,
-
-661
-00:27:18,439 --> 00:27:20,439
-with Alexandra Mathey as Teresa,
-
-662
-00:27:20,439 --> 00:27:22,439
-Joseph Gregg as Jot Cameron,
-
-663
-00:27:22,439 --> 00:27:24,439
-John Westbrook as Jocelyn Coleman,
-
-664
-00:27:24,439 --> 00:27:26,439
-Carey Wilson as MacNeil,
-
-665
-00:27:26,439 --> 00:27:28,439
-and the rest of the cast
-
-666
-00:27:28,439 --> 00:27:30,439
-were played by Graham Mayer.
-
-667
-00:27:30,439 --> 00:27:32,439
-In episode three of
-
-668
-00:27:32,439 --> 00:27:34,439
-Castles in Spain by Edward Boyd,
-
-669
-00:27:34,439 --> 00:27:36,439
-Graham Mayer was played by Ray Brooks,
-
-670
-00:27:36,439 --> 00:27:38,439
-with Alexandra Mathey as Teresa,
-
-671
-00:27:38,439 --> 00:27:40,439
-Joseph Gregg as Jot Cameron,
-
-672
-00:27:40,439 --> 00:27:42,439
-Carey Wilson as MacNeil,
-
-673
-00:27:42,439 --> 00:27:44,439
-Sybil Wintrop as Nora,
-
-674
-00:27:44,439 --> 00:27:46,439
-Joseph Brady as Mr Henderson,
-
-675
-00:27:46,439 --> 00:27:48,439
-William Hope as
-
-676
-00:27:48,439 --> 00:27:50,439
-the little man on the aircraft,
-
-677
-00:27:50,439 --> 00:27:52,439
-Ian Thompson as Hathaway Arnold,
-
-678
-00:27:52,439 --> 00:27:54,439
-and Jennifer Piercy
-
-679
-00:27:54,439 --> 00:27:56,439
-as the receptionist.
-
-680
-00:27:56,439 --> 00:27:58,439
-The director was
-
-681
-00:27:58,439 --> 00:28:00,439
-Patrick Rayner.
-
-
+Mayer: And you find that improves your memory?
+Arnold: Six out of six.
+Mayer: You haven’t told me your name.
+Arnold: Arnold. Hathaway Arnold.
+Mayer: Oh, splendid name for an actor.
+Arnold: You really think so?
+Mayer: Yes, fine Shakespearean ring to it.
+Arnold: That’s why I chose it. My real name is Murgatroyd.
+Mayer: Well, now that’s out of the way, what brings you here?
+Arnold: I’ve come to take over.
+Mayer: Would you mind saying that again?
+Arnold: I’ve come to take over.
+Mayer: Are you talking about this bookshop?
+Arnold: Yes. Teresa don’t usually make that kind of mistake.
+Mayer: Ah, Teresa. How would you like to indulge in some more memory training?
+Arnold: What do you want me to do?
+Mayer: I want you to call Teresa and pass on this simple, brutal message. Tell her I’m fed up with her and our whole family, past and present. And that goes for any future members of the family still to come.
+Arnold: Suppose she wants to know why?
+Mayer: She won’t.
+Arnold: I don’t think I can do this, Mr Mayer.
+Mayer: Nonsense. You’re an actor, aren’t you?
+Arnold: Yes.
+
+**Monologue by Mayer:**
+
+> I went round the corner to a little cafe that was an interesting survival in that the proprietor stubbornly believed that fast food was no food at all but merely a noun contradicted by an adjective. He had weird ideas about music, too, believing, as he did, that the best accompaniment to meals was silence.
+> 
+> 
+> I sat there for about an hour and read one of the heavy newspapers that told me what the intellectual yuppies were wearing, thinking, peddling that particular day.
+> 
+> Thus refreshed, physically and mentally, I returned to the shop and Hathaway Arnold, whose real name was Murgatroyd.
+> 
+
+*[In the bookshop]*
+
+Arnold: You have to meet her at the airport.
+Mayer: There has to be more than that, Arnold.
+Arnold: Honestly, Mr Mayer…
+Mayer: You passed on my message, word for word? And she made no comment?
+Arnold: None. All she said was that you were booked on a four o’clock flight and that she’d meet you at the airport. Well, I thought you would know that.
+Mayer: Why?
+Arnold: I don’t know. Just took it for granted, I suppose.
+Mayer: Is it me, Arnold? Tell me, is it me?
+Arnold: Is what you, Mr Mayer?
+Mayer: Am I walking around with an aura that everybody can see clearly except myself? A big, blazing, multicoloured aura that proclaims to the world, sucker?
+Arnold: Can I answer that in my own way?
+Mayer: Please do.
+Arnold: She’s sending a car to take you to the airport.
+
+**Monologue by Mayer:**
+
+> Not far from the checking-in desk, she was standing, remote and cool, and for what the word is worth nowadays, virginal. She looked at me as though I reminded her of someone she’d once met at a rather boring party.
+> 
+
+*[In the airport]*
+
+Teresa: Better check in.
+Mayer: Would it be too much to ask you where I’m going?
+Teresa: You’re going to Glasgow.
+Mayer: Why? According to the PR men, Glasgow is miles better.
+Teresa: Better than what?
+Mayer: You know what Robert Louis Stevenson said?
+Teresa: I’ll give him two minutes.
+Mayer: He said the wise man travels only in imagination.
+Teresa: So?
+Mayer: I have the feeling of being forced to travel in someone else’s.
+Teresa: You’re a fantasy merchant.
+Mayer: Maybe it takes one to know one.
+Teresa: Look, are you going or are you not?
+Mayer: Then get going.
+Teresa: I’ve brought you a briefcase.
+Mayer: In it, you’ll find everything you need.
+Teresa: Have a nice day.
+
+**Monologue by Mayer:**
+
+> And with that pious wish, she vanished into thin air or more accurately into the thick, artificial, controlled airport air that smelt of everywhere and nowhere, of tourists and terrorists and have a good day.
+> 
+> 
+> I checked in, and my obedience was rewarded by a boarding pass that entitled me to a free diagnosis by a machine that certified me as free of guns and bombs and other hidden hatreds. And thus driven, I boarded a plane that waited pale and patient like a beached whale anxious to escape the predators of earth even if that meant taking to the air.
+> 
+> About six miles above the earth, I opened the briefcase Teresa had given me. It contained various sheets of paper, one of which appeared to be a list of addresses. Another said that a reservation had been made for me at a Glasgow hotel. There were four or five tattered postcards and there was money, always a handy thing to have even at 36,000 feet.
+> 
+> I put everything back in the briefcase and the little man in the seat beside me gave me an approving smile.
+> 
+
+*[In the plane]*
+
+Millhouse: It does my heart good to see that.
+Mayer: I beg your pardon?
+Millhouse: I once flew from New York with a man who kept working a pocket calculator all the way.
+Mayer: You should have complained to the pilot.
+Millhouse: I got drunk instead. And objectionable, I hope.
+Mayer: Not my style, I’m afraid.
+Millhouse: Are you a professional, ma’am?
+Mayer: I run a bookshop.
+Millhouse: Oh, very interesting. New or secondhand books?
+Mayer: Both.
+Millhouse: I had a great aunt once who wrote a book.
+Mayer: Really?
+
+**Monologue by Mayer:**
+
+> The man was a man in a soporific way and eventually he sent himself off to sleep. And the aircraft roared towards the north with its comatose passengers, peas in a 600 miles an hour pod. And the pilot told us it was raining in Glasgow but we decided to land there anyway and we did.
+> 
+> 
+> A taxi took me to the hotel which seemed to have as many flags as a small wall. From my room on the seventh floor there was a view of the river and the ceaseless rain neither particularly interesting. So I took the papers out of the briefcase and gave them a second look at the list of names and addresses at the five tattered postcards which had been posted from various parts of the country which were all in the same handwriting and which were all signed Jock.
+> 
+> So I decided to phone the top number of the list in the briefcase.
+> 
+
+*[In the hotel room]
+[On the phone]*
+
+Receptionist: Valleyfield Residential Home?
+Mayer: My name is Mayer. I wonder if you can help me.
+Receptionist: What seems to be the problem Mr Mayer?
+Mayer: I’d like to come and have a word with one of your residents.
+Receptionist: Which resident have you in mind?
+Mayer: Mr Henderson.
+Receptionist: Yes, we do have a Mr Henderson here. Are you a relative?
+Mayer: A friend of a friend.
+Receptionist: The normal visiting hours are between 7 and 8.
+Mayer: I’ll come along then.
+Receptionist: Very well. I need hardly remind you of our regulations concerning tobacco and alcohol.
+
+**Monologue by Mayer:**
+
+> Valleyfield Residential Home was an anorexic building three stories high with a patch of lawn in front that was no bigger than a boy’s size billiard table if not as smooth. The ground floor rooms two of them fronting onto the street were chauvinistic with tartan curtains and there was a strong smell of cats and disinfectant with neither odour predominating.
+> 
+> 
+> At 7 o’clock a bell rang and we were turned loose and a surly nurse with varicose veins conducted me to a small room where a man called Henderson lay in bed. He was about 80 with the complexion of a sound polished apple. He had hair as soft as silk and his eyes were astonishingly blue.
+> 
+
+*[In the Valleyfield Residential Home]*
+
+Nurse: Well, Mr Mayer.
+Mayer: Can we talk in private?
+Henderson: Right, Bertha. You heard what the man said. Two’s company, three’s an epidemic.
+Nurse: Oh, Mr Henderson.
+Mayer: She didn’t seem to want to go.
+Henderson: A nosy bugger. Now, what was it you couldn’t discuss in front of witnesses?
+Mayer: Nothing.
+Henderson: Oh? That won’t take long.
+Mayer: I’ve, um, I’ve brought you a present.
+Henderson: Tell me something first.
+Mayer: Yes?
+Henderson: Do I know you?
+Mayer: You probably knew my grandfather.
+Henderson: Who was he?
+Mayer: Augustus Mayer.
+Henderson: Oh, it rings a bell.
+Mayer: Harama. February, 1937.
+Henderson: Killed there, was he?
+Mayer: Yes.
+Henderson: Something was said about a present.
+Mayer: Something was indeed.
+Henderson: Is it whisky or fags?
+Mayer: What would you say to whisky and fags?
+Henderson: Oh, I’d say that was version and overkill.
+Mayer: Well, let’s just say it’s in memory of an old comrade.
+Henderson: Aye. It sees one of the plastic cups.
+Mayer: Right.
+Henderson: That’s a drop of the real stuff.
+Mayer: Do you mind me asking you a few questions?
+Henderson: No. Fire away.
+Mayer: First of all, let me tell you who I am and what I’m doing here.
+Henderson: Oh, you’ve already told me who you are. You’re Big Gus Mayer’s grandson and that’s good enough for me. As for the other thing, what you’re doing here, for you, you’ll be like the others.
+Mayer: What others?
+Henderson: Is there a wee taste of that whisky?
+Mayer: Yes.
+Henderson: Well, there’s these two kids that come to see me every Sunday morning.
+Mayer: Yeah. Cheers.
+Henderson: Cheers. Aye, there’s two of them. A boy and a girl. And the way things are nowadays, the boy’s the one with the long hair.
+Mayer: What do they talk about?
+Henderson: They’re never short of subjects, I can tell you that.
+Mayer: Worthwhile subjects?
+Henderson: Oh, it depends what you think is worthwhile.
+Mayer: All done men like me.
+Henderson: You think that’s how they see you?
+Mayer: No.
+Henderson: They’re not doing me a favour that boots on the other foot.
+Mayer: In what way?
+Henderson: I think I represent something that they feel they’ve lost.
+Mayer: Do they ever say anything like that?
+Henderson: No. Maybe they’ve lost the words for it as well as the thing itself.
+Mayer: Do you remember a man called Jock Cameron in Spain?
+Henderson: Well, I’ll be damned.
+Mayer: What’s the matter?
+Henderson: I was just talking about him the other day.
+Mayer: Who was asking you about him?
+Henderson: These two kids I was telling you about who come here on Sundays. They decided to turn the Spanish Civil War into a project.
+Mayer: Not very original.
+Henderson: Why do you say that?
+Mayer: Hitler and Mussolini had the same idea.
+Henderson: Oh, so they did.
+Mayer: Maybe the kids will be lucky.
+Henderson: Oh, man. I could have went on all day about him and they would have asked for me. You’d have thought I was talking about some big pop star and not a wee hard man from Coatbridge.
+Mayer: Did you keep in touch after Spain?
+Henderson: No.
+Mayer: Was there a reason for that?
+Henderson: Maybe it was because we thought we had failed.
+Mayer: You don’t believe that, do you?
+Henderson: If I believed that, Mayer, then your grandfather died in vain. If I believed that, Mayer, I could never swear to you on the stack of Bibles that in the same circumstances I would do it all again.
+Mayer: I envy you.
+Henderson: I don’t care a bugger whether you do or not because that wasn’t my reason for doing what I did.
+Mayer: Mr Henderson.
+Henderson: Thank you very much for your wisky. Good night to you, Mayer.
+
+**Monologue by Mayer:**
+
+> Walking away from the Valleyfield Residential Home, I decided that Mr Henderson did not get my vote as Geriatric of the Year. And that seemed fair enough since I suspected that I didn’t rate too highly on his list of people he could not do without. And brooding on this took me through the damp streets all the way back to the hotel.
+> 
+> 
+> I let myself into my room only to fetch up short inside the door and stare astonished at the stranger who stared back at me from beside the window with a kind of defiant embarrassment.
+> 
+
+*[In the hotel room]*
+
+Norah: Er, look, I know this must seem very unusual.
+Mayer: I’m glad we agree about that.
+Norah: This matter seemed so very urgent.
+Mayer: First things first. Who are you?
+Norah: My name is Norah McGill.
+Mayer: How did you manage to get in here?
+Norah: One of the maids let me in.
+Mayer: Charming. How much did it cost you?
+Norah: Nothing.
+Mayer: Oh, come on now.
+Norah: I told her you were my boyfriend.
+Mayer: All the world loves a lover.
+Norah: What happens now?
+Mayer: I think I’ll call the police.
+Norah: Oh!
+Mayer: What’s so funny?
+Norah: I am the police. Aren’t you going to ask to see my warrant card?
+Mayer: When I get my breath back.
+Norah: Have a look at it anyway.
+Mayer: Seems all right. I suppose these things can be forged.
+Norah: Well, you know about forgeries.
+Mayer: Less than nothing.
+Norah: Have you a passport?
+Mayer: Yes.
+Norah: Would you mind showing it to me?
+Mayer: It’s at home.
+Norah: And where is home?
+Mayer: London.
+Norah: Quite sure it’s not Dublin?
+Mayer: Positive. I’ve never even been there.
+Norah: Our information tells a different story.
+Mayer: Then your information is nonsense.
+Norah: What are you doing up here?
+Mayer: At the moment I’m trying to keep my temper.
+Norah: You are not being very cooperative, Hanrahan.
+Mayer: There could be a very simple reason for that.
+Norah: Could indeed.
+Mayer: I’m no expert in these things, but don’t you lot usually hunt in pairs?
+Norah: My partner stepped outside for a minute.
+Mayer: Get a fresh pair of thumbscrews, no doubt.
+Norah: No doubt.
+Mayer: Why didn’t you just call room service? Better open up then, shall we?
+Norah: This is Inspector McNeil, special branch.
+Mayer: Glad you could drop in, Inspector. Perhaps you’ll explain to me why you did.
+McNeil: A slight misunderstanding, Mr Mayer.
+Mayer: Not much of an explanation, but at least you got my name right.
+McNeil: Part of the misunderstanding, sir.
+Mayer: Why did your partner call me Hanrahan?
+McNeil: Maybe because she doesn’t know what Hanrahan looks like.
+Mayer: Do you?
+McNeil: That’s the problem, Mr Mayer. Nobody knows what Hanrahan looks like. Are you a patriot, Mr Mayer?
+Mayer: Not a very loud one.
+McNeil: You disappoint me.
+Mayer: Why? What are you expecting?
+McNeil: Something more bookish, perhaps.
+Norah: Somthing like “Patriotism is a last refuge of a scoundrel”.
+McNeil: My partner has an honours degree in English.
+Mayer: I’m suitably impressed.
+Norah: You still haven’t answered the question.
+Mayer: Oh, but I have. It may not be the answer you wanted, but it’s still an answer.
+McNeil: Bit flippant, wasn’t it?
+Mayer: And you’d rather I was bookish?
+McNeil: Well, you are a bookseller, aren’t you?
+Mayer: Have you checked that out?
+McNeil: Of course. Just now.
+Mayer: I think it was G.K. Chesterton who best stated my own particular attitude, my kind of patriotism, if you like. He said, “My country, right or wrong, is like saying my mother drunk or sober.” Is that sufficiently bookish for you?
+Norah: Up to a point.
+Mayer: Well, if there’s no further business, will you both get the hell out of here and let me have my room back?
+McNeil: There’s just one more thing, Mr Mayer.
+Mayer: Let’s hear it, then.
+McNeil: Remember, nobody knows what this Hanrahan looks like. Nobody knows what name he’s travelling under. So keep your door locked. And don’t let anyone in you don’t know.
