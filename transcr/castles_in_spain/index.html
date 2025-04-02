@@ -345,8 +345,19 @@
                         // Load the selected episode content
                         loadEpisode(targetEpisode);
 
-                        // Scroll to top of content area might be nice
-                        contentArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        // Scroll to top of content area
+                        if (window.innerWidth < 1024) {
+                            // For mobile, wait for menu to close before scrolling
+                            setTimeout(() => {
+                                window.scrollTo({
+                                    top: 0,
+                                    behavior: 'smooth'
+                                });
+                            }, 300); // Match the transition duration
+                        } else {
+                            // For desktop, scroll immediately
+                            contentArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
                     });
                 });
 
@@ -358,11 +369,21 @@
                         event.preventDefault();
                         const targetEpisode = targetLink.getAttribute('data-target-episode');
                         if (targetEpisode) {
-                            // Find the corresponding sidebar link and simulate a click
-                            // This keeps logic centralized and updates sidebar active state correctly
+                            // Find the corresponding sidebar link and update its state
                             const sidebarLink = document.querySelector(`.nav-link[data-episode="${targetEpisode}"]`);
                             if (sidebarLink) {
-                                sidebarLink.click(); // Trigger the sidebar link's click handler
+                                // Update active state without triggering click
+                                navLinks.forEach(nav => nav.classList.remove('active'));
+                                sidebarLink.classList.add('active');
+                                
+                                // Load content directly
+                                loadEpisode(targetEpisode);
+                                
+                                // Scroll to top
+                                window.scrollTo({
+                                    top: 0,
+                                    behavior: 'smooth'
+                                });
                             }
                         }
                     }
