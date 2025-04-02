@@ -131,7 +131,7 @@
                         targetSection.innerHTML = '<p class="error-message">Error: Markdown library not loaded.</p>';
                         return;
                     }
-                    targetSection.innerHTML = marked.parse(markdownText);
+                    targetSection.innerHTML = marked.parse(markdownText, { breaks: true });
 
                 } catch (error) {
                     // Display error message if fetch or rendering fails
