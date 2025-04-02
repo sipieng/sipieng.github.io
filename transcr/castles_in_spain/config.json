@@ -1,11 +1,27 @@
 {
     "title": "Transcripts of 'Castles in Spain', a BBC Radio 4 Full-cast Drama.",
     "episodes": [
-        "Episode 1",
-        "Episode 2",
-        "Episode 3",
-        "Episode 4",
-        "title 5"
+        {
+            "id": "episode_1",
+            "title": "Episode 1"
+        },
+        {
+            "id": "episode_2",
+            "title": "Episode 2"
+        },
+        {
+            "id": "episode_3",
+            "title": "Episode 3"
+        },
+        {
+            "id": "episode_4",
+            "title": "Episode 4"
+        },
+        {
+            "id": "episode_5",
+            "title": "Episode 5"
+        }
     ],
-    "coverImage": "castles_in_spain_cover.jpg"
+    "coverImage": "castles_in_spain_cover.jpg",
+    "fileExtension": "txt"
 }

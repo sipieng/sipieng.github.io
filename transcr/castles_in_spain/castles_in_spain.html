@@ -163,7 +163,7 @@
                     targetSection.innerHTML = '<p class="loading-message">Loading content...</p>';
                     targetSection.style.display = 'block';
 
-                    const filename = `${config.episodes[episodeNumber - 1].toLowerCase().replace(' ', '_')}.txt`;
+                    const filename = `${config.episodes[episodeNumber - 1].id}.${config.fileExtension}`;
 
                     try {
                         const response = await fetch(filename);
@@ -182,7 +182,7 @@
 
                     } catch (error) {
                         console.error('Error loading or rendering episode:', error);
-                        targetSection.innerHTML = `<p class="error-message">Error loading content for ${config.episodes[episodeNumber - 1]}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
+                        targetSection.innerHTML = `<p class="error-message">Error loading content for ${config.episodes[episodeNumber - 1].title}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
                         updateBottomNavigation(0);
                     }
                 }
