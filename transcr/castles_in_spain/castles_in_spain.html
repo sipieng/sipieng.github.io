@@ -61,13 +61,7 @@
                 <h1></h1>
             </div>
 
-            <div id="content-area">
-                <div id="episode-1" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
-                <div id="episode-2" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
-                <div id="episode-3" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
-                <div id="episode-4" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
-                <div id="episode-5" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
-            </div>
+            <div id="content-area"></div>
             <div id="episode-navigation" class="mt-8 pt-6 border-t border-gray-300 flex justify-between items-center">
                 <a href="#" id="prev-episode-link" data-target-episode="" class="text-blue-600 hover:text-blue-800 font-medium transition-colors duration-150 ease-in-out" style="display: none;">
                     <i class="fas fa-arrow-left mr-2"></i><span class="link-text"></span>
@@ -105,10 +99,19 @@
                     navList.appendChild(li);
                 });
 
+                // Update content area with episode divs
+                const contentArea = document.getElementById('content-area');
+                contentArea.innerHTML = '';
+                config.episodes.forEach((episode, index) => {
+                    const div = document.createElement('div');
+                    div.id = `episode-${index + 1}`;
+                    div.className = 'episode-content prose max-w-none prose-indigo lg:prose-lg';
+                    contentArea.appendChild(div);
+                });
+
                 // Re-attach event listeners for new nav links
                 const navLinks = document.querySelectorAll('.nav-link');
                 const contentSections = document.querySelectorAll('.episode-content');
-                const contentArea = document.getElementById('content-area');
                 const bottomNav = document.getElementById('episode-navigation');
                 const prevLink = document.getElementById('prev-episode-link');
                 const nextLink = document.getElementById('next-episode-link');
