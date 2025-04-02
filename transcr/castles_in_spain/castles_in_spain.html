@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transcripts of "Castles in Spain", a BBC Radio 4 Full-cast Drama.</title>
+    <title></title>
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -83,12 +83,9 @@
         <main class="flex-grow p-6 lg:p-10 bg-white overflow-auto">
 
             <div class="flex flex-col sm:flex-row items-start sm:items-end mb-6 pb-4 border-b border-gray-200">
-                <img src="castles_in_spain_cover.jpg"
-                     alt="Cover image for Castles in Spain"
+                <img src="" alt="Cover image for Castles in Spain"
                      class="block w-[200px] h-[200px] rounded-lg shadow-md object-contain flex-shrink-0 mb-4 sm:mb-0 sm:mr-6">
-                     <h1 class="text-2xl lg:text-3xl font-bold text-gray-800">
-                    Transcripts of "Castles in Spain", a BBC Radio 4 Full-cast Drama.
-                </h1>
+                     <h1></h1>
                 </div>
 
             <div id="content-area">
@@ -111,130 +108,157 @@
     </div>
 
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const navLinks = document.querySelectorAll('.nav-link');
-            const contentSections = document.querySelectorAll('.episode-content');
-            const contentArea = document.getElementById('content-area');
-            const bottomNav = document.getElementById('episode-navigation');
-            const prevLink = document.getElementById('prev-episode-link');
-            const nextLink = document.getElementById('next-episode-link');
-            const prevLinkText = prevLink.querySelector('.link-text');
-            const nextLinkText = nextLink.querySelector('.link-text');
+        document.addEventListener('DOMContentLoaded', async function() {
+            try {
+                const response = await fetch('config.json');
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                const config = await response.json();
 
-            // --- Function to Update Bottom Navigation ---
-            function updateBottomNavigation(currentEpisode) {
-                const episodeNum = parseInt(currentEpisode, 10);
-                const totalEpisodes = 5; // Assuming 5 episodes
+                // Update title
+                document.title = config.title;
+                document.querySelector('h1').textContent = config.title;
 
-                // Reset links
-                prevLink.style.display = 'none';
-                nextLink.style.display = 'none';
-                prevLink.setAttribute('data-target-episode', '');
-                nextLink.setAttribute('data-target-episode', '');
+                // Update cover image
+                document.querySelector('img').src = config.coverImage;
 
-                // Show/Update Previous Link
-                if (episodeNum > 1) {
-                    const prevEpisodeNum = episodeNum - 1;
-                    prevLinkText.textContent = `Episode ${prevEpisodeNum}`;
-                    prevLink.setAttribute('data-target-episode', prevEpisodeNum);
-                    prevLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
-                }
-
-                // Show/Update Next Link
-                if (episodeNum < totalEpisodes) {
-                    const nextEpisodeNum = episodeNum + 1;
-                    nextLinkText.textContent = `Episode ${nextEpisodeNum}`;
-                    nextLink.setAttribute('data-target-episode', nextEpisodeNum);
-                    nextLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
-                }
-            }
-
-            // --- Function to Load and Render Markdown ---
-            async function loadEpisode(episodeNumber) {
-                const targetSection = document.getElementById(`episode-${episodeNumber}`);
-                if (!targetSection) return; // Exit if target div doesn't exist
-
-                // Hide all other content sections first
-                contentSections.forEach(section => {
-                    if (section.id !== `episode-${episodeNumber}`) {
-                        section.style.display = 'none';
-                        section.innerHTML = ''; // Clear content of hidden sections
-                    }
+                // Update navigation
+                const navList = document.querySelector('nav ul');
+                navList.innerHTML = '';
+                config.episodes.forEach((episode, index) => {
+                    const li = document.createElement('li');
+                    li.innerHTML = `<a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="${index + 1}">
+                                    <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> ${episode}
+                                </a>`;
+                    navList.appendChild(li);
                 });
 
-                // Show loading message
-                targetSection.innerHTML = '<p class="loading-message">Loading content...</p>';
-                targetSection.style.display = 'block'; // Make sure the section is visible
+                // Re-attach event listeners for new nav links
+                const navLinks = document.querySelectorAll('.nav-link');
+                const contentSections = document.querySelectorAll('.episode-content');
+                const contentArea = document.getElementById('content-area');
+                const bottomNav = document.getElementById('episode-navigation');
+                const prevLink = document.getElementById('prev-episode-link');
+                const nextLink = document.getElementById('next-episode-link');
+                const prevLinkText = prevLink.querySelector('.link-text');
+                const nextLinkText = nextLink.querySelector('.link-text');
 
-                const filename = `episode_${episodeNumber}.txt`;
+                // --- Function to Update Bottom Navigation ---
+                function updateBottomNavigation(currentEpisode) {
+                    const episodeNum = parseInt(currentEpisode, 10);
+                    const totalEpisodes = 5; // Assuming 5 episodes
 
-                try {
-                    const response = await fetch(filename);
-                    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
-                    const markdownText = await response.text();
+                    // Reset links
+                    prevLink.style.display = 'none';
+                    nextLink.style.display = 'none';
+                    prevLink.setAttribute('data-target-episode', '');
+                    nextLink.setAttribute('data-target-episode', '');
 
-                    if (typeof marked === 'undefined' || typeof marked.parse !== 'function') {
-                        console.error("Marked.js library is not loaded correctly.");
-                        targetSection.innerHTML = '<p class="error-message">Error: Markdown library not loaded.</p>';
-                        return;
+                    // Show/Update Previous Link
+                    if (episodeNum > 1) {
+                        const prevEpisodeNum = episodeNum - 1;
+                        prevLinkText.textContent = `Episode ${prevEpisodeNum}`;
+                        prevLink.setAttribute('data-target-episode', prevEpisodeNum);
+                        prevLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
                     }
-                    targetSection.innerHTML = marked.parse(markdownText, { breaks: true });
 
-                    // *** UPDATE BOTTOM NAVIGATION after content loaded ***
-                    updateBottomNavigation(episodeNumber);
-
-                } catch (error) {
-                    console.error('Error loading or rendering episode:', error);
-                    targetSection.innerHTML = `<p class="error-message">Error loading content for Episode ${episodeNumber}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
-                     // Also hide bottom nav on error
-                    updateBottomNavigation(0); // Pass 0 or invalid number to hide both
+                    // Show/Update Next Link
+                    if (episodeNum < totalEpisodes) {
+                        const nextEpisodeNum = episodeNum + 1;
+                        nextLinkText.textContent = `Episode ${nextEpisodeNum}`;
+                        nextLink.setAttribute('data-target-episode', nextEpisodeNum);
+                        nextLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
+                    }
                 }
-            }
 
-            // --- Event Listener for Sidebar Navigation Links ---
-            navLinks.forEach(link => {
-                link.addEventListener('click', function(event) {
-                    event.preventDefault();
-                    const targetEpisode = this.getAttribute('data-episode');
+                // --- Function to Load and Render Markdown ---
+                async function loadEpisode(episodeNumber) {
+                    const targetSection = document.getElementById(`episode-${episodeNumber}`);
+                    if (!targetSection) return; // Exit if target div doesn't exist
 
-                    // Update active link style in sidebar
-                    navLinks.forEach(nav => nav.classList.remove('active'));
-                    this.classList.add('active');
+                    // Hide all other content sections first
+                    contentSections.forEach(section => {
+                        if (section.id !== `episode-${episodeNumber}`) {
+                            section.style.display = 'none';
+                            section.innerHTML = ''; // Clear content of hidden sections
+                        }
+                    });
 
-                    // Load the selected episode content
-                    loadEpisode(targetEpisode);
+                    // Show loading message
+                    targetSection.innerHTML = '<p class="loading-message">Loading content...</p>';
+                    targetSection.style.display = 'block'; // Make sure the section is visible
 
-                    // Scroll to top of content area might be nice
-                    contentArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    const filename = `episode_${episodeNumber}.txt`;
+
+                    try {
+                        const response = await fetch(filename);
+                        if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                        const markdownText = await response.text();
+
+                        if (typeof marked === 'undefined' || typeof marked.parse !== 'function') {
+                            console.error("Marked.js library is not loaded correctly.");
+                            targetSection.innerHTML = '<p class="error-message">Error: Markdown library not loaded.</p>';
+                            return;
+                        }
+                        targetSection.innerHTML = marked.parse(markdownText, { breaks: true });
+
+                        // *** UPDATE BOTTOM NAVIGATION after content loaded ***
+                        updateBottomNavigation(episodeNumber);
+
+                    } catch (error) {
+                        console.error('Error loading or rendering episode:', error);
+                        targetSection.innerHTML = `<p class="error-message">Error loading content for Episode ${episodeNumber}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
+                         // Also hide bottom nav on error
+                        updateBottomNavigation(0); // Pass 0 or invalid number to hide both
+                    }
+                }
+
+                // --- Event Listener for Sidebar Navigation Links ---
+                navLinks.forEach(link => {
+                    link.addEventListener('click', function(event) {
+                        event.preventDefault();
+                        const targetEpisode = this.getAttribute('data-episode');
+
+                        // Update active link style in sidebar
+                        navLinks.forEach(nav => nav.classList.remove('active'));
+                        this.classList.add('active');
+
+                        // Load the selected episode content
+                        loadEpisode(targetEpisode);
+
+                        // Scroll to top of content area might be nice
+                        contentArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    });
                 });
-            });
 
-            // --- Event Listener for Bottom Navigation Links ---
-            bottomNav.addEventListener('click', function(event) {
-                const targetLink = event.target.closest('a'); // Find nearest parent <a>
-                // Check if a valid prev/next link was clicked
-                if (targetLink && (targetLink.id === 'prev-episode-link' || targetLink.id === 'next-episode-link')) {
-                    event.preventDefault();
-                    const targetEpisode = targetLink.getAttribute('data-target-episode');
-                    if (targetEpisode) {
-                        // Find the corresponding sidebar link and simulate a click
-                        // This keeps logic centralized and updates sidebar active state correctly
-                        const sidebarLink = document.querySelector(`.nav-link[data-episode="${targetEpisode}"]`);
-                        if (sidebarLink) {
-                            sidebarLink.click(); // Trigger the sidebar link's click handler
+                // --- Event Listener for Bottom Navigation Links ---
+                bottomNav.addEventListener('click', function(event) {
+                    const targetLink = event.target.closest('a'); // Find nearest parent <a>
+                    // Check if a valid prev/next link was clicked
+                    if (targetLink && (targetLink.id === 'prev-episode-link' || targetLink.id === 'next-episode-link')) {
+                        event.preventDefault();
+                        const targetEpisode = targetLink.getAttribute('data-target-episode');
+                        if (targetEpisode) {
+                            // Find the corresponding sidebar link and simulate a click
+                            // This keeps logic centralized and updates sidebar active state correctly
+                            const sidebarLink = document.querySelector(`.nav-link[data-episode="${targetEpisode}"]`);
+                            if (sidebarLink) {
+                                sidebarLink.click(); // Trigger the sidebar link's click handler
+                            }
                         }
                     }
+                });
+
+                // Initial load of the first episode
+                loadEpisode('1');
+                const initialActiveLink = document.querySelector('.nav-link[data-episode="1"]');
+                if (initialActiveLink) {
+                    navLinks.forEach(nav => nav.classList.remove('active'));
+                    initialActiveLink.classList.add('active');
                 }
-            });
 
-            // --- Initial Load ---
-            loadEpisode('1');
-             const initialActiveLink = document.querySelector('.nav-link[data-episode="1"]');
-             if (initialActiveLink) {
-                 navLinks.forEach(nav => nav.classList.remove('active'));
-                 initialActiveLink.classList.add('active');
-             }
-
+            } catch (error) {
+                console.error('Error loading config:', error);
+            }
         });
     </script>
 
