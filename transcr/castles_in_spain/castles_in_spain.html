@@ -121,7 +121,7 @@
                 // --- Function to Update Bottom Navigation ---
                 function updateBottomNavigation(currentEpisode) {
                     const episodeNum = parseInt(currentEpisode, 10);
-                    const totalEpisodes = 5; // Assuming 5 episodes
+                    const totalEpisodes = config.episodes.length;
 
                     // Reset links
                     prevLink.style.display = 'none';
@@ -132,17 +132,17 @@
                     // Show/Update Previous Link
                     if (episodeNum > 1) {
                         const prevEpisodeNum = episodeNum - 1;
-                        prevLinkText.textContent = `Episode ${prevEpisodeNum}`;
+                        prevLinkText.textContent = config.episodes[prevEpisodeNum - 1];
                         prevLink.setAttribute('data-target-episode', prevEpisodeNum);
-                        prevLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
+                        prevLink.style.display = 'inline-flex';
                     }
 
                     // Show/Update Next Link
                     if (episodeNum < totalEpisodes) {
                         const nextEpisodeNum = episodeNum + 1;
-                        nextLinkText.textContent = `Episode ${nextEpisodeNum}`;
+                        nextLinkText.textContent = config.episodes[nextEpisodeNum - 1];
                         nextLink.setAttribute('data-target-episode', nextEpisodeNum);
-                        nextLink.style.display = 'inline-flex'; // Use inline-flex to align icon and text
+                        nextLink.style.display = 'inline-flex';
                     }
                 }
 
@@ -161,9 +161,9 @@
 
                     // Show loading message
                     targetSection.innerHTML = '<p class="loading-message">Loading content...</p>';
-                    targetSection.style.display = 'block'; // Make sure the section is visible
+                    targetSection.style.display = 'block';
 
-                    const filename = `episode_${episodeNumber}.txt`;
+                    const filename = `${config.episodes[episodeNumber - 1].toLowerCase().replace(' ', '_')}.txt`;
 
                     try {
                         const response = await fetch(filename);
@@ -182,9 +182,8 @@
 
                     } catch (error) {
                         console.error('Error loading or rendering episode:', error);
-                        targetSection.innerHTML = `<p class="error-message">Error loading content for Episode ${episodeNumber}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
-                         // Also hide bottom nav on error
-                        updateBottomNavigation(0); // Pass 0 or invalid number to hide both
+                        targetSection.innerHTML = `<p class="error-message">Error loading content for ${config.episodes[episodeNumber - 1]}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
+                        updateBottomNavigation(0);
                     }
                 }
 
