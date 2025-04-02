@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -42,6 +45,36 @@
             height: 100vh;
             overflow-y: auto;
         }
+        .title-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+        .cover-image {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            margin-bottom: 1.5rem;
+        }
+        .main-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #1a365d;
+            text-align: center;
+            margin: 0;
+            font-family: 'Merriweather', serif;
+        }
+        /* reset markdown styles */
+        .prose {
+            font-family: 'Merriweather', serif;
+        }
+        .prose h1, .prose h2, .prose h3, .prose h4 {
+            font-family: 'Merriweather', serif;
+            color: #1a365d;
+        }
     </style>
 </head>
 <body class="bg-gray-50 font-sans antialiased">
@@ -57,8 +90,10 @@
         <main class="flex-grow p-6 lg:p-10 bg-white overflow-auto">
 
             <div class="flex flex-col sm:flex-row items-start sm:items-end mb-6 pb-4 border-b border-gray-200">
-                <img src="" alt="">
-                <h1></h1>
+                <div class="title-container">
+                    <img src="" alt="" class="cover-image">
+                    <h1 class="main-title"></h1>
+                </div>
             </div>
 
             <div id="content-area"></div>
