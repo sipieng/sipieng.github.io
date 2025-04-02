@@ -53,7 +53,6 @@
             overflow-y: auto;
             -webkit-overflow-scrolling: touch;
         }
-        /* 新增样式 */
         .title-container {
             display: flex;
             flex-direction: row;
@@ -88,7 +87,7 @@
             font-family: 'Merriweather', serif;
             flex: 1;
         }
-        /* 修改 Markdown 内容样式 */
+        /* Reset markdown styles */
         .prose {
             font-family: 'Merriweather', serif;
         }
@@ -96,9 +95,77 @@
             font-family: 'Merriweather', serif;
             color: #1a365d;
         }
+        /* Mobile menu button */
+        .mobile-menu-button {
+            display: none;
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            z-index: 20;
+            background-color: #3b82f6;
+            color: white;
+            padding: 0.5rem;
+            border-radius: 0.375rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        /* Mobile navigation styles */
+        @media (max-width: 1023px) {
+            .mobile-menu-button {
+                display: block;
+            }
+            aside {
+                position: fixed;
+                top: 0;
+                left: -100%;
+                width: 80%;
+                max-width: 300px;
+                height: 100vh;
+                transition: left 0.3s ease-in-out;
+                z-index: 15;
+                background-color: white;
+                box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+            }
+            aside.nav-open {
+                left: 0;
+            }
+            /* Overlay when mobile menu is open */
+            .nav-overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-color: rgba(0, 0, 0, 0.5);
+                z-index: 14;
+            }
+            .nav-overlay.open {
+                display: block;
+            }
+        }
+        /* Desktop navigation styles */
+        @media (min-width: 1024px) {
+            aside {
+                position: -webkit-sticky;
+                position: sticky;
+                top: 0;
+                height: auto;
+                max-height: 100vh;
+                overflow-y: auto;
+                z-index: 10;
+            }
+        }
     </style>
 </head>
 <body class="bg-gray-50 font-sans antialiased">
+    <!-- Mobile menu button -->
+    <button class="mobile-menu-button lg:hidden" id="mobile-menu-button">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <!-- Navigation overlay for mobile -->
+    <div class="nav-overlay" id="nav-overlay"></div>
+
     <div class="flex flex-col lg:flex-row min-h-screen">
         <aside class="w-full lg:w-64 bg-gray-100 p-4 lg:p-6 border-b lg:border-b-0 lg:border-r border-gray-200 flex-shrink-0">
             <h2 class="text-lg font-semibold text-gray-700 mb-4 hidden lg:block">Navigation</h2>
@@ -130,6 +197,30 @@
 
     <script>
         document.addEventListener('DOMContentLoaded', async function() {
+            // Add mobile menu functionality
+            const mobileMenuButton = document.getElementById('mobile-menu-button');
+            const navOverlay = document.getElementById('nav-overlay');
+            const aside = document.querySelector('aside');
+
+            function toggleMobileMenu() {
+                aside.classList.toggle('nav-open');
+                navOverlay.classList.toggle('open');
+                // Toggle menu button icon
+                const icon = mobileMenuButton.querySelector('i');
+                icon.classList.toggle('fa-bars');
+                icon.classList.toggle('fa-times');
+            }
+
+            mobileMenuButton.addEventListener('click', toggleMobileMenu);
+            navOverlay.addEventListener('click', toggleMobileMenu);
+
+            // Close mobile menu when clicking a nav link
+            document.addEventListener('click', function(event) {
+                if (event.target.closest('.nav-link') && window.innerWidth < 1024) {
+                    toggleMobileMenu();
+                }
+            });
+
             try {
                 const response = await fetch('config.json');
                 if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
