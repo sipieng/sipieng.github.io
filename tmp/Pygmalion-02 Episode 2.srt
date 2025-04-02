@@ -1,0 +1,5152 @@
+1
+00:00:00,000 --> 00:00:11,680
+Pygmalion, by me, George Bernard Shaw, Episode 2.
+
+2
+00:00:11,680 --> 00:00:18,080
+Eliza has not passed as a Duchess yet, and Higgins's bet remains on one.
+
+3
+00:00:18,080 --> 00:00:24,240
+But the six months are not yet exhausted, and just in time, Eliza does actually pass
+
+4
+00:00:24,240 --> 00:00:26,280
+as a Princess.
+
+5
+00:00:26,280 --> 00:00:33,080
+For a glimpse of how she did it, imagine an embassy in London, one summer evening, after
+
+6
+00:00:33,080 --> 00:00:34,080
+dark.
+
+7
+00:00:34,080 --> 00:00:36,759
+A grand reception is in progress.
+
+8
+00:00:36,759 --> 00:00:40,360
+A small crowd is lined up to see the guests arrive.
+
+9
+00:00:40,360 --> 00:00:42,840
+A Rolls-Royce car drives up.
+
+10
+00:00:42,840 --> 00:00:47,279
+Colonel Pickering, in evening dress, with medals and orders, alights.
+
+11
+00:00:47,279 --> 00:00:55,639
+And hands out Eliza, in opera cloak, evening dress, diamonds, fan, flowers and all accessories.
+
+12
+00:00:55,639 --> 00:00:57,639
+Higgins follows.
+
+13
+00:00:57,639 --> 00:01:02,560
+The car drives off, and the three go up the steps and into the house, the door opening
+
+14
+00:01:02,560 --> 00:01:05,120
+for them as they approach.
+
+15
+00:01:05,120 --> 00:01:11,160
+One of the guests is an important-looking young man, with an astonishingly hairy face.
+
+16
+00:01:11,160 --> 00:01:12,160
+Maestro!
+
+17
+00:01:12,160 --> 00:01:13,160
+Maestro!
+
+18
+00:01:13,160 --> 00:01:15,160
+Ah, Professor Higgins!
+
+19
+00:01:15,160 --> 00:01:16,160
+Mwah!
+
+20
+00:01:16,160 --> 00:01:17,160
+Mwah!
+
+21
+00:01:17,160 --> 00:01:18,160
+Do you remember me?
+
+22
+00:01:18,160 --> 00:01:19,160
+No, I don't.
+
+23
+00:01:19,160 --> 00:01:20,160
+Who the devil are you?
+
+24
+00:01:20,160 --> 00:01:28,320
+I am your pupil, your first pupil, your best and greatest pupil.
+
+25
+00:01:28,320 --> 00:01:32,919
+I am little Nepomuk, the marvellous boy.
+
+26
+00:01:32,919 --> 00:01:36,000
+I have made your name famous throughout Europe.
+
+27
+00:01:36,000 --> 00:01:38,599
+You teach me phonetic.
+
+28
+00:01:38,599 --> 00:01:40,599
+You cannot forget me.
+
+29
+00:01:40,599 --> 00:01:45,279
+Do you know Colonel Pickering, the author of spoken Sanskrit?
+
+30
+00:01:45,279 --> 00:01:46,279
+Good evening.
+
+31
+00:01:46,279 --> 00:01:47,279
+Good evening.
+
+32
+00:01:47,279 --> 00:01:48,279
+Why don't you shave?
+
+33
+00:01:48,400 --> 00:01:53,360
+Well, I have not your impulsing appearance, your chin, your brow.
+
+34
+00:01:53,360 --> 00:01:56,239
+Nobody noticed me when I shaved.
+
+35
+00:01:56,239 --> 00:01:58,480
+Now I am famous.
+
+36
+00:01:58,480 --> 00:02:01,959
+They call me hairy-faced dick.
+
+37
+00:02:01,959 --> 00:02:04,639
+And what are you doing here among all these swells?
+
+38
+00:02:04,639 --> 00:02:06,199
+I am interpreter.
+
+39
+00:02:06,199 --> 00:02:08,800
+I speak thirty-two languages.
+
+40
+00:02:08,800 --> 00:02:12,639
+I am indispensable at these international parties.
+
+41
+00:02:12,639 --> 00:02:15,119
+You are great cockney specialist.
+
+42
+00:02:15,119 --> 00:02:19,559
+You place a man anywhere in London the moment he opens his mouth.
+
+43
+00:02:19,559 --> 00:02:23,080
+I place a man in Europe.
+
+44
+00:02:23,080 --> 00:02:24,839
+You are wanted upstairs.
+
+45
+00:02:24,839 --> 00:02:28,960
+Her Excellency cannot understand the Greek, gentlemen.
+
+46
+00:02:28,960 --> 00:02:29,960
+Thank you.
+
+47
+00:02:29,960 --> 00:02:30,960
+Yes.
+
+48
+00:02:30,960 --> 00:02:31,960
+Immediately.
+
+49
+00:02:31,960 --> 00:02:37,279
+This Greek diplomatist pretends he cannot speak or understand English.
+
+50
+00:02:37,279 --> 00:02:39,119
+He cannot deceive me.
+
+51
+00:02:39,119 --> 00:02:42,880
+He is a son of a Clerkenwell watchmaker.
+
+52
+00:02:42,880 --> 00:02:48,240
+He speaks English so villainously that he dare not utter a word of it without betraying
+
+53
+00:02:48,240 --> 00:02:49,240
+his origin.
+
+54
+00:02:49,240 --> 00:02:56,080
+I help him to pretend, but I make him pay through the nose.
+
+55
+00:02:56,080 --> 00:03:01,559
+I make them all pay.
+
+56
+00:03:01,559 --> 00:03:03,279
+Is this fellow really an expert?
+
+57
+00:03:03,279 --> 00:03:05,039
+Can he find out Eliza and blackmail her?
+
+58
+00:03:05,039 --> 00:03:06,399
+We shall see.
+
+59
+00:03:06,399 --> 00:03:09,479
+If he finds her out, I lose my bet.
+
+60
+00:03:09,479 --> 00:03:10,479
+Ah, Eliza.
+
+61
+00:03:10,479 --> 00:03:11,479
+Now for it.
+
+62
+00:03:11,479 --> 00:03:12,479
+Are you ready?
+
+63
+00:03:12,479 --> 00:03:13,479
+Are you nervous, Colonel?
+
+64
+00:03:13,479 --> 00:03:14,479
+Frightfully.
+
+65
+00:03:14,479 --> 00:03:20,520
+I feel exactly as I felt before my first battle.
+
+66
+00:03:20,520 --> 00:03:23,520
+It's the first time that frightens.
+
+67
+00:03:23,520 --> 00:03:26,160
+It is not the first time for me, Colonel.
+
+68
+00:03:26,160 --> 00:03:31,399
+I have done this fifty times, hundreds of times, in my little pickery in Angel Court
+
+69
+00:03:31,399 --> 00:03:32,399
+in my daydreams.
+
+70
+00:03:32,399 --> 00:03:35,919
+I am in a dream now.
+
+71
+00:03:35,919 --> 00:03:38,360
+Promise me not to let Professor Higgins wake me.
+
+72
+00:03:38,440 --> 00:03:44,000
+For if he does, I shall forget everything and talk as I used to Drury Lane.
+
+73
+00:03:44,000 --> 00:03:47,000
+Not a word, Higgins.
+
+74
+00:03:47,000 --> 00:03:50,000
+Now, ready?
+
+75
+00:03:50,000 --> 00:03:51,000
+Ready.
+
+76
+00:03:51,000 --> 00:03:52,000
+Go.
+
+77
+00:03:57,000 --> 00:04:00,000
+Miss Doolittle, Colonel Pickering, Professor Higgins.
+
+78
+00:04:00,000 --> 00:04:04,000
+Miss Doolittle, Colonel Pickering, Professor Higgins.
+
+79
+00:04:04,000 --> 00:04:06,000
+How do you do?
+
+80
+00:04:06,000 --> 00:04:07,000
+How do you do?
+
+81
+00:04:07,639 --> 00:04:08,639
+How do you do?
+
+82
+00:04:08,639 --> 00:04:09,639
+How do you do?
+
+83
+00:04:12,639 --> 00:04:13,639
+How do you do, Pickering?
+
+84
+00:04:13,639 --> 00:04:14,639
+How do you do?
+
+85
+00:04:14,639 --> 00:04:17,640
+Is that your adopted daughter, Colonel Pickering?
+
+86
+00:04:17,640 --> 00:04:19,640
+She will make a sensation.
+
+87
+00:04:19,640 --> 00:04:21,640
+Most kind of you to invite her.
+
+88
+00:04:23,640 --> 00:04:26,640
+Nipamuk, find out all about her.
+
+89
+00:04:26,640 --> 00:04:27,640
+Excellent.
+
+90
+00:04:27,640 --> 00:04:31,640
+In the drawing room, the reception is in full swing.
+
+91
+00:04:31,640 --> 00:04:33,640
+Eliza passes through.
+
+92
+00:04:34,279 --> 00:04:40,279
+She is so intent on her ordeal that she walks like a somnambulist in a desert
+
+93
+00:04:40,279 --> 00:04:43,279
+instead of a debutante in a fashionable crowd.
+
+94
+00:04:43,279 --> 00:04:46,279
+They stop talking to look at her.
+
+95
+00:04:48,279 --> 00:04:50,279
+Eliza is a sensation.
+
+96
+00:04:50,279 --> 00:04:52,279
+Not a hint of nervousness.
+
+97
+00:04:52,279 --> 00:04:54,279
+Ah, there is Professor Higgins.
+
+98
+00:04:54,279 --> 00:04:55,279
+He will tell us.
+
+99
+00:04:55,279 --> 00:04:58,279
+Tell us about the wonderful young lady, Professor.
+
+100
+00:04:58,279 --> 00:05:00,279
+What wonderful young lady?
+
+101
+00:05:00,279 --> 00:05:02,279
+You know very well.
+
+102
+00:05:02,920 --> 00:05:04,920
+Tell me, there has been nothing like her in London
+
+103
+00:05:04,920 --> 00:05:07,920
+since people stood on their chairs to look at Mrs. Liontree.
+
+104
+00:05:07,920 --> 00:05:10,920
+Ah, there you are at last, Nipamuk.
+
+105
+00:05:10,920 --> 00:05:13,920
+Have you found out all about the Doolittle lady?
+
+106
+00:05:13,920 --> 00:05:16,920
+I have found out all about her.
+
+107
+00:05:16,920 --> 00:05:17,920
+She is a fraud.
+
+108
+00:05:17,920 --> 00:05:18,920
+A fraud?
+
+109
+00:05:18,920 --> 00:05:19,920
+Oh, no.
+
+110
+00:05:19,920 --> 00:05:20,920
+Yes, yes.
+
+111
+00:05:20,920 --> 00:05:22,920
+She cannot deceive me.
+
+112
+00:05:22,920 --> 00:05:25,920
+Her name cannot be Doolittle.
+
+113
+00:05:25,920 --> 00:05:26,920
+Why?
+
+114
+00:05:26,920 --> 00:05:31,920
+Because Doolittle is an English name and she is not English.
+
+115
+00:05:32,559 --> 00:05:33,559
+Nonsense.
+
+116
+00:05:33,559 --> 00:05:35,559
+She speaks English perfectly.
+
+117
+00:05:35,559 --> 00:05:36,559
+Too perfectly.
+
+118
+00:05:36,559 --> 00:05:41,559
+Can you show me any Englishwoman who speaks English as it should be spoken?
+
+119
+00:05:41,559 --> 00:05:46,559
+Only foreigners who have been taught to speak it, speak it well.
+
+120
+00:05:46,559 --> 00:05:49,559
+Certainly she terrified me by the way she said, how do you do?
+
+121
+00:05:49,559 --> 00:05:54,559
+I had a schoolmistress who talked like that and I was mortally afraid of her.
+
+122
+00:05:54,559 --> 00:05:57,559
+But if she is not English, what is she?
+
+123
+00:05:57,559 --> 00:05:58,559
+Hungarian.
+
+124
+00:05:58,559 --> 00:06:00,559
+I get it.
+
+125
+00:06:01,200 --> 00:06:04,200
+Hungarian and of royal blood.
+
+126
+00:06:04,200 --> 00:06:06,200
+I am Hungarian.
+
+127
+00:06:06,200 --> 00:06:08,200
+My blood is royal.
+
+128
+00:06:08,200 --> 00:06:10,200
+Did you speak to her in Hungarian?
+
+129
+00:06:10,200 --> 00:06:11,200
+I did.
+
+130
+00:06:11,200 --> 00:06:12,200
+She was very clever.
+
+131
+00:06:12,200 --> 00:06:15,200
+She said, please speak to me in English.
+
+132
+00:06:15,200 --> 00:06:18,200
+I do not understand French.
+
+133
+00:06:18,200 --> 00:06:20,200
+Oh, French.
+
+134
+00:06:20,200 --> 00:06:24,200
+She pretends not to know the difference between Hungarian and French.
+
+135
+00:06:24,200 --> 00:06:25,200
+Impossible.
+
+136
+00:06:25,200 --> 00:06:26,200
+She knows both.
+
+137
+00:06:26,200 --> 00:06:29,200
+And the royal blood, how did you find that out?
+
+138
+00:06:29,839 --> 00:06:31,839
+Instinct, Mastro, instinct.
+
+139
+00:06:31,839 --> 00:06:37,839
+Only the Magyar races can produce that air of the divine right.
+
+140
+00:06:37,839 --> 00:06:39,839
+Those resolute eyes.
+
+141
+00:06:39,839 --> 00:06:42,839
+She is a princess.
+
+142
+00:06:42,839 --> 00:06:44,839
+What do you say, Professor?
+
+143
+00:06:44,839 --> 00:06:50,839
+I say, an ordinary London girl out of the gutter and taught to speak by an expert.
+
+144
+00:06:50,839 --> 00:06:52,839
+I place her in Drury Lane.
+
+145
+00:06:52,839 --> 00:06:55,839
+Oh, Mastro, Mastro.
+
+146
+00:06:56,480 --> 00:07:00,480
+You are mad on the subject of Cockney dialects.
+
+147
+00:07:00,480 --> 00:07:04,480
+The London gutter is the whole world for you.
+
+148
+00:07:04,480 --> 00:07:07,480
+What does Your Excellency say?
+
+149
+00:07:07,480 --> 00:07:10,480
+Oh, of course I agree with Neptune.
+
+150
+00:07:10,480 --> 00:07:13,480
+She must be a princess at least.
+
+151
+00:07:13,480 --> 00:07:18,480
+Not necessarily legitimate, of course, but that is undoubtedly her class.
+
+152
+00:07:18,480 --> 00:07:20,480
+I stick to my opinion.
+
+153
+00:07:20,480 --> 00:07:23,480
+You are incorrigible.
+
+154
+00:07:26,480 --> 00:07:27,480
+Where is Eliza?
+
+155
+00:07:27,480 --> 00:07:29,480
+You must keep an eye on her.
+
+156
+00:07:29,480 --> 00:07:32,480
+I don't think I can bear much more.
+
+157
+00:07:32,480 --> 00:07:34,480
+The people all stare so at me.
+
+158
+00:07:34,480 --> 00:07:39,480
+An old lady has just told me that I speak exactly like Queen Victoria.
+
+159
+00:07:39,480 --> 00:07:42,480
+I am sorry if I have lost your bet.
+
+160
+00:07:42,480 --> 00:07:46,480
+I have done my best, but nothing can make me the same as these people.
+
+161
+00:07:46,480 --> 00:07:48,480
+You have not lost it, my dear.
+
+162
+00:07:48,480 --> 00:07:51,480
+You have won it ten times over.
+
+163
+00:07:51,480 --> 00:07:53,480
+I've had enough of chattering to these fools.
+
+164
+00:07:54,119 --> 00:07:56,119
+Eliza is tired and I am hungry.
+
+165
+00:07:56,119 --> 00:07:58,119
+Let us clear out and have supper somewhere.
+
+166
+00:08:20,119 --> 00:08:22,119
+I say, pick lock up, will you?
+
+167
+00:08:22,119 --> 00:08:23,119
+Right.
+
+168
+00:08:23,760 --> 00:08:25,760
+Can Mrs Pearce go to bed?
+
+169
+00:08:25,760 --> 00:08:27,760
+We don't want anything more, do we?
+
+170
+00:08:27,760 --> 00:08:29,760
+Oh, no.
+
+171
+00:08:33,760 --> 00:08:37,760
+I say, Mrs Pearce will row if we leave our coats lying about in the drawing room.
+
+172
+00:08:37,760 --> 00:08:39,760
+Chuck them over the banisters into the hall.
+
+173
+00:08:39,760 --> 00:08:42,760
+She'll find them there in the morning and put them away all right.
+
+174
+00:08:42,760 --> 00:08:44,760
+She'll think we were drunk.
+
+175
+00:08:44,760 --> 00:08:46,760
+We are, most likely.
+
+176
+00:08:46,760 --> 00:08:48,760
+Are there any letters?
+
+177
+00:08:48,760 --> 00:08:50,760
+I didn't look.
+
+178
+00:08:51,400 --> 00:08:57,400
+I wonder where the devil my slippers are?
+
+179
+00:09:04,400 --> 00:09:08,400
+Only circulars and this coroneted billet do for you.
+
+180
+00:09:08,400 --> 00:09:11,400
+Oh, yeah, money lender.
+
+181
+00:09:14,400 --> 00:09:17,400
+Oh, Lord, what an evening.
+
+182
+00:09:17,400 --> 00:09:19,400
+What a crew.
+
+183
+00:09:20,039 --> 00:09:22,039
+Silly tomfoolery.
+
+184
+00:09:22,039 --> 00:09:24,039
+Oh, here are my slippers.
+
+185
+00:09:24,039 --> 00:09:26,039
+Look.
+
+186
+00:09:26,039 --> 00:09:28,039
+Oh, I feel a bit tired.
+
+187
+00:09:28,039 --> 00:09:30,039
+It's been a long day.
+
+188
+00:09:30,039 --> 00:09:32,039
+The garden party, dinner party and the opera.
+
+189
+00:09:32,039 --> 00:09:34,039
+Not too much of a good thing.
+
+190
+00:09:34,039 --> 00:09:36,039
+But you've won your bet, Higgins.
+
+191
+00:09:36,039 --> 00:09:38,039
+Eliza did the trick and something to spare.
+
+192
+00:09:38,039 --> 00:09:40,039
+Thank God it's over.
+
+193
+00:09:40,039 --> 00:09:42,039
+Were you nervous at the garden party?
+
+194
+00:09:42,039 --> 00:09:44,039
+I was.
+
+195
+00:09:44,039 --> 00:09:46,039
+Eliza didn't seem a bit nervous.
+
+196
+00:09:46,039 --> 00:09:48,039
+No, she wasn't nervous.
+
+197
+00:09:48,679 --> 00:09:50,679
+I've had a routine of putting the job through
+
+198
+00:09:50,679 --> 00:09:52,679
+all these months that has told on me.
+
+199
+00:09:52,679 --> 00:09:54,679
+It was interesting enough at first
+
+200
+00:09:54,679 --> 00:09:56,679
+while we were at the phonetics.
+
+201
+00:09:56,679 --> 00:09:58,679
+But after that, I got deadly sick of it.
+
+202
+00:09:58,679 --> 00:10:00,679
+If I hadn't backed myself to do it,
+
+203
+00:10:00,679 --> 00:10:02,679
+I should have chucked the whole thing up two months ago.
+
+204
+00:10:02,679 --> 00:10:04,679
+It was a silly notion.
+
+205
+00:10:04,679 --> 00:10:06,679
+The whole thing had been a bore.
+
+206
+00:10:06,679 --> 00:10:08,679
+Oh, come.
+
+207
+00:10:08,679 --> 00:10:10,679
+The garden party was frightfully exciting.
+
+208
+00:10:10,679 --> 00:10:12,679
+My heart began beating like anything.
+
+209
+00:10:12,679 --> 00:10:14,679
+Well, yes, for the first three minutes.
+
+210
+00:10:14,679 --> 00:10:16,679
+But when I saw we were going to win hands down,
+
+211
+00:10:17,320 --> 00:10:19,320
+sitting in a cage, hanging about, doing nothing,
+
+212
+00:10:19,320 --> 00:10:21,320
+the dinner was worse.
+
+213
+00:10:21,320 --> 00:10:23,320
+Sitting gorging there for over an hour
+
+214
+00:10:23,320 --> 00:10:25,320
+with nobody but a damn fool
+
+215
+00:10:25,320 --> 00:10:27,320
+of a fashionable woman to talk to.
+
+216
+00:10:27,320 --> 00:10:29,320
+I tell you, Pickering,
+
+217
+00:10:29,320 --> 00:10:31,320
+never again for me.
+
+218
+00:10:31,320 --> 00:10:33,320
+No more artificial duchesses.
+
+219
+00:10:33,320 --> 00:10:35,320
+The whole thing has been simple perpetrate.
+
+220
+00:10:35,320 --> 00:10:37,320
+Well, you've never been broken in properly
+
+221
+00:10:37,320 --> 00:10:39,320
+to the social routine.
+
+222
+00:10:39,320 --> 00:10:41,320
+I rather enjoy dipping into it occasionally myself.
+
+223
+00:10:41,320 --> 00:10:43,320
+Makes me feel young again.
+
+224
+00:10:43,320 --> 00:10:45,320
+Anyhow, it was a great success,
+
+225
+00:10:45,960 --> 00:10:47,960
+an immense success.
+
+226
+00:10:47,960 --> 00:10:49,960
+I was quite frightened once or twice
+
+227
+00:10:49,960 --> 00:10:51,960
+because Eliza was doing it so well.
+
+228
+00:10:51,960 --> 00:10:53,960
+You see, lots of the real people can't do it at all.
+
+229
+00:10:53,960 --> 00:10:55,960
+They're such fools that they think
+
+230
+00:10:55,960 --> 00:10:57,960
+style comes by nature to people in their position,
+
+231
+00:10:57,960 --> 00:10:59,960
+and so they never learn.
+
+232
+00:10:59,960 --> 00:11:01,960
+There's always something professional
+
+233
+00:11:01,960 --> 00:11:03,960
+about doing a thing superlatively well.
+
+234
+00:11:03,960 --> 00:11:05,960
+Yes.
+
+235
+00:11:05,960 --> 00:11:07,960
+That's what drives me mad.
+
+236
+00:11:07,960 --> 00:11:09,960
+Silly people don't know their own silly business.
+
+237
+00:11:09,960 --> 00:11:11,960
+However,
+
+238
+00:11:11,960 --> 00:11:13,960
+it's over and done with,
+
+239
+00:11:14,599 --> 00:11:16,599
+and I can go to bed at last without dreading tomorrow.
+
+240
+00:11:16,599 --> 00:11:18,599
+Yes, I think I shall turn in too.
+
+241
+00:11:18,599 --> 00:11:20,599
+Still, it's been a great occasion,
+
+242
+00:11:20,599 --> 00:11:22,599
+a triumph for you.
+
+243
+00:11:22,599 --> 00:11:24,599
+Good night.
+
+244
+00:11:24,599 --> 00:11:26,599
+Good night.
+
+245
+00:11:26,599 --> 00:11:28,599
+Oh, put out the lights.
+
+246
+00:11:28,599 --> 00:11:30,599
+And tell Mrs. Pierce
+
+247
+00:11:30,599 --> 00:11:32,599
+not to make coffee for me in the morning.
+
+248
+00:11:32,599 --> 00:11:34,599
+I'll take D.
+
+249
+00:11:40,599 --> 00:11:42,599
+What the devil have I done with my slippers?
+
+250
+00:11:44,599 --> 00:11:46,599
+There are your slippers.
+
+251
+00:11:46,599 --> 00:11:48,599
+And there.
+
+252
+00:11:48,599 --> 00:11:50,599
+Take your slippers and make you never have a day's luck with them.
+
+253
+00:11:50,599 --> 00:11:52,599
+What on earth?
+
+254
+00:11:52,599 --> 00:11:54,599
+What's the matter?
+
+255
+00:11:54,599 --> 00:11:56,599
+Anything wrong?
+
+256
+00:11:56,599 --> 00:11:58,599
+Nothing wrong with you.
+
+257
+00:11:58,599 --> 00:12:00,599
+I've won your bet for you, haven't I?
+
+258
+00:12:00,599 --> 00:12:02,599
+That's enough for you.
+
+259
+00:12:02,599 --> 00:12:04,599
+I don't matter, I suppose.
+
+260
+00:12:04,599 --> 00:12:06,599
+You won my bet?
+
+261
+00:12:06,599 --> 00:12:08,599
+You presumptuous insect.
+
+262
+00:12:08,599 --> 00:12:10,599
+I won it.
+
+263
+00:12:10,599 --> 00:12:12,599
+What did you throw those slippers at me for?
+
+264
+00:12:13,239 --> 00:12:15,239
+I wanted to smash your face.
+
+265
+00:12:15,239 --> 00:12:17,239
+I'd like to kill you, you selfish brute.
+
+266
+00:12:17,239 --> 00:12:19,239
+Why didn't you leave me where you picked me out of,
+
+267
+00:12:19,239 --> 00:12:21,239
+in the gutter?
+
+268
+00:12:21,239 --> 00:12:23,239
+You thank God it's all over,
+
+269
+00:12:23,239 --> 00:12:25,239
+and that now you can throw me back again there, do you?
+
+270
+00:12:25,239 --> 00:12:27,239
+The creature is nervous after all.
+
+271
+00:12:27,239 --> 00:12:29,239
+Get up.
+
+272
+00:12:29,239 --> 00:12:31,239
+Would you?
+
+273
+00:12:31,239 --> 00:12:33,239
+Crawl in, you cat.
+
+274
+00:12:33,239 --> 00:12:35,239
+How dare you show your temper to me?
+
+275
+00:12:35,239 --> 00:12:37,239
+Sit down and be quiet.
+
+276
+00:12:43,239 --> 00:12:45,239
+What's to become of me?
+
+277
+00:12:45,239 --> 00:12:47,239
+What's to become of me?
+
+278
+00:12:47,239 --> 00:12:49,239
+How the devil do I know what's to become of you?
+
+279
+00:12:49,239 --> 00:12:51,239
+What does it matter what becomes of you?
+
+280
+00:12:51,239 --> 00:12:53,239
+You don't care.
+
+281
+00:12:53,239 --> 00:12:55,239
+I know you don't care.
+
+282
+00:12:55,239 --> 00:12:57,239
+You wouldn't care if I was dead.
+
+283
+00:12:57,239 --> 00:12:59,239
+I am nothing to you.
+
+284
+00:12:59,239 --> 00:13:01,239
+Not so much as them slippers.
+
+285
+00:13:01,239 --> 00:13:03,239
+Those slippers!
+
+286
+00:13:03,239 --> 00:13:05,239
+Those slippers.
+
+287
+00:13:05,239 --> 00:13:07,239
+I didn't think it made any difference now.
+
+288
+00:13:07,880 --> 00:13:09,880
+Why have you begun
+
+289
+00:13:09,880 --> 00:13:11,880
+going on like this?
+
+290
+00:13:11,880 --> 00:13:13,880
+May I ask
+
+291
+00:13:13,880 --> 00:13:15,880
+whether you complain of your treatment here?
+
+292
+00:13:15,880 --> 00:13:17,880
+No.
+
+293
+00:13:17,880 --> 00:13:19,880
+Has anybody behaved badly to you?
+
+294
+00:13:19,880 --> 00:13:21,880
+Colonel Pickering?
+
+295
+00:13:21,880 --> 00:13:23,880
+Mrs. Pierce?
+
+296
+00:13:23,880 --> 00:13:25,880
+Any of the servants?
+
+297
+00:13:25,880 --> 00:13:27,880
+No.
+
+298
+00:13:27,880 --> 00:13:29,880
+I presume you don't pretend that I have treated you badly?
+
+299
+00:13:29,880 --> 00:13:31,880
+No.
+
+300
+00:13:31,880 --> 00:13:33,880
+I am glad to hear it.
+
+301
+00:13:33,880 --> 00:13:35,880
+Perhaps you're tired after the strain of the day.
+
+302
+00:13:36,520 --> 00:13:38,520
+Will you have a glass of champagne?
+
+303
+00:13:38,520 --> 00:13:40,520
+No!
+
+304
+00:13:40,520 --> 00:13:42,520
+Thank you.
+
+305
+00:13:42,520 --> 00:13:44,520
+This has been coming on you
+
+306
+00:13:44,520 --> 00:13:46,520
+for some days.
+
+307
+00:13:46,520 --> 00:13:48,520
+I suppose it was natural
+
+308
+00:13:48,520 --> 00:13:50,520
+for you to be anxious
+
+309
+00:13:50,520 --> 00:13:52,520
+about the garden party
+
+310
+00:13:52,520 --> 00:13:54,520
+but that's all over now.
+
+311
+00:13:54,520 --> 00:13:56,520
+There's nothing more to worry about.
+
+312
+00:13:56,520 --> 00:13:58,520
+No.
+
+313
+00:13:58,520 --> 00:14:00,520
+Nothing more for you to worry about.
+
+314
+00:14:00,520 --> 00:14:02,520
+Oh God,
+
+315
+00:14:02,520 --> 00:14:04,520
+I wish I was dead!
+
+316
+00:14:05,159 --> 00:14:07,159
+Why?
+
+317
+00:14:07,159 --> 00:14:09,159
+In heaven's name, why?
+
+318
+00:14:11,159 --> 00:14:13,159
+Listen to me, Eliza.
+
+319
+00:14:13,159 --> 00:14:15,159
+All this irritation is purely subjective.
+
+320
+00:14:15,159 --> 00:14:17,159
+I don't understand!
+
+321
+00:14:17,159 --> 00:14:19,159
+I'm too ignorant!
+
+322
+00:14:19,159 --> 00:14:21,159
+It's only imagination.
+
+323
+00:14:21,159 --> 00:14:23,159
+Low spirits
+
+324
+00:14:23,159 --> 00:14:25,159
+and nothing else.
+
+325
+00:14:25,159 --> 00:14:27,159
+Nobody's hurting you.
+
+326
+00:14:27,159 --> 00:14:29,159
+Nothing's wrong.
+
+327
+00:14:29,159 --> 00:14:31,159
+You go to bed like a good girl
+
+328
+00:14:31,159 --> 00:14:33,159
+and sleep it off.
+
+329
+00:14:33,799 --> 00:14:35,799
+That will make you comfortable.
+
+330
+00:14:35,799 --> 00:14:37,799
+I heard your prayers.
+
+331
+00:14:37,799 --> 00:14:39,799
+Thank God it's all over!
+
+332
+00:14:39,799 --> 00:14:41,799
+Don't you thank God it's all over?
+
+333
+00:14:41,799 --> 00:14:43,799
+Now you are free
+
+334
+00:14:43,799 --> 00:14:45,799
+and can do what you like.
+
+335
+00:14:45,799 --> 00:14:47,799
+What am I fit for?
+
+336
+00:14:47,799 --> 00:14:49,799
+What have you left me fit for?
+
+337
+00:14:49,799 --> 00:14:51,799
+Where am I to go?
+
+338
+00:14:51,799 --> 00:14:53,799
+What am I to do?
+
+339
+00:14:53,799 --> 00:14:55,799
+What's to become of me?
+
+340
+00:14:55,799 --> 00:14:57,799
+That's what's worrying you, eh?
+
+341
+00:14:59,799 --> 00:15:01,799
+I shouldn't bother about it
+
+342
+00:15:02,440 --> 00:15:04,440
+if I were you.
+
+343
+00:15:04,440 --> 00:15:06,440
+I should imagine you won't have much difficulty
+
+344
+00:15:06,440 --> 00:15:08,440
+in settling yourself somewhere.
+
+345
+00:15:08,440 --> 00:15:10,440
+I hadn't quite realised
+
+346
+00:15:10,440 --> 00:15:12,440
+that you were going away.
+
+347
+00:15:12,440 --> 00:15:14,440
+You might marry.
+
+348
+00:15:18,440 --> 00:15:20,440
+You see,
+
+349
+00:15:20,440 --> 00:15:22,440
+all men are not confirmed old bachelors
+
+350
+00:15:22,440 --> 00:15:24,440
+like me and the Colonel.
+
+351
+00:15:24,440 --> 00:15:26,440
+Most men are the marrying sort.
+
+352
+00:15:26,440 --> 00:15:28,440
+Poor devils.
+
+353
+00:15:28,440 --> 00:15:30,440
+And you're not bad looking.
+
+354
+00:15:31,080 --> 00:15:33,080
+It's a pleasure to look at you sometimes.
+
+355
+00:15:33,080 --> 00:15:35,080
+Not now, of course,
+
+356
+00:15:35,080 --> 00:15:37,080
+because you're crying and looking as ugly
+
+357
+00:15:37,080 --> 00:15:39,080
+as a very devil.
+
+358
+00:15:39,080 --> 00:15:41,080
+But when you're alright
+
+359
+00:15:41,080 --> 00:15:43,080
+and yourself,
+
+360
+00:15:43,080 --> 00:15:45,080
+you're what I should call
+
+361
+00:15:45,080 --> 00:15:47,080
+attractive,
+
+362
+00:15:47,080 --> 00:15:49,080
+that is to the people
+
+363
+00:15:49,080 --> 00:15:51,080
+in the marrying line,
+
+364
+00:15:51,080 --> 00:15:53,080
+you go to bed,
+
+365
+00:15:53,080 --> 00:15:55,080
+have a nice good rest
+
+366
+00:15:55,080 --> 00:15:57,080
+and then get up
+
+367
+00:15:57,080 --> 00:15:59,080
+and look at yourself in the glass
+
+368
+00:15:59,719 --> 00:16:01,719
+and say,
+
+369
+00:16:01,719 --> 00:16:03,719
+I'm not a bad chap or other
+
+370
+00:16:03,719 --> 00:16:05,719
+who would do very well.
+
+371
+00:16:05,719 --> 00:16:07,719
+We're above that at the corner
+
+372
+00:16:07,719 --> 00:16:09,719
+of Tottenham Court Road.
+
+373
+00:16:09,719 --> 00:16:11,719
+What do you mean?
+
+374
+00:16:11,719 --> 00:16:13,719
+I sold flowers.
+
+375
+00:16:13,719 --> 00:16:15,719
+I didn't sell myself.
+
+376
+00:16:15,719 --> 00:16:17,719
+Now you've made a lady of me,
+
+377
+00:16:17,719 --> 00:16:19,719
+I'm not fit to sell anything else.
+
+378
+00:16:19,719 --> 00:16:21,719
+I wish you'd left me where you found me.
+
+379
+00:16:21,719 --> 00:16:23,719
+Tosh, Eliza!
+
+380
+00:16:23,719 --> 00:16:25,719
+Don't you insult human relations
+
+381
+00:16:25,719 --> 00:16:27,719
+by dragging all this cant about
+
+382
+00:16:28,359 --> 00:16:30,359
+What about your old idea
+
+383
+00:16:30,359 --> 00:16:32,359
+of a florist shop?
+
+384
+00:16:32,359 --> 00:16:34,359
+Pickering could set you up in one.
+
+385
+00:16:34,359 --> 00:16:36,359
+He's lots of money.
+
+386
+00:16:36,359 --> 00:16:38,359
+He'll have to pay for all those togs you've been wearing today.
+
+387
+00:16:38,359 --> 00:16:40,359
+And that, with the hire of the jewellery,
+
+388
+00:16:40,359 --> 00:16:42,359
+will make a big hole in £200.
+
+389
+00:16:42,359 --> 00:16:44,359
+Why?
+
+390
+00:16:44,359 --> 00:16:46,359
+Six months ago,
+
+391
+00:16:46,359 --> 00:16:48,359
+you would have thought it the millennium
+
+392
+00:16:48,359 --> 00:16:50,359
+to have a flower shop of your own.
+
+393
+00:16:50,359 --> 00:16:52,359
+Come,
+
+394
+00:16:52,359 --> 00:16:54,359
+you'll be alright.
+
+395
+00:16:54,359 --> 00:16:56,359
+I must clear off to bed.
+
+396
+00:16:57,000 --> 00:16:59,000
+I'm terribly sleepy.
+
+397
+00:16:59,000 --> 00:17:01,000
+By the way, I came down for something.
+
+398
+00:17:01,000 --> 00:17:03,000
+I forget what it was.
+
+399
+00:17:03,000 --> 00:17:05,000
+Your slippers.
+
+400
+00:17:05,000 --> 00:17:07,000
+Oh, yes, of course.
+
+401
+00:17:07,000 --> 00:17:09,000
+You shied them at me.
+
+402
+00:17:09,000 --> 00:17:11,000
+Before you go, sir.
+
+403
+00:17:11,000 --> 00:17:13,000
+Huh?
+
+404
+00:17:13,000 --> 00:17:15,000
+Do my clothes
+
+405
+00:17:15,000 --> 00:17:17,000
+belong to me or to Colonel Pickering?
+
+406
+00:17:17,000 --> 00:17:19,000
+What the devil
+
+407
+00:17:19,000 --> 00:17:21,000
+use would they be to Pickering?
+
+408
+00:17:21,000 --> 00:17:23,000
+He might want them for the next girl
+
+409
+00:17:23,000 --> 00:17:25,000
+you pick up to experiment on.
+
+410
+00:17:25,640 --> 00:17:27,640
+Is that the way you feel towards us?
+
+411
+00:17:27,640 --> 00:17:29,640
+I don't want to hear anything more about it.
+
+412
+00:17:29,640 --> 00:17:31,640
+All I want to know
+
+413
+00:17:31,640 --> 00:17:33,640
+is whether anything belongs to me.
+
+414
+00:17:33,640 --> 00:17:35,640
+My own clothes were burnt.
+
+415
+00:17:35,640 --> 00:17:37,640
+But what does it matter?
+
+416
+00:17:37,640 --> 00:17:39,640
+Why need you start bothering about that
+
+417
+00:17:39,640 --> 00:17:41,640
+in the middle of the night?
+
+418
+00:17:41,640 --> 00:17:43,640
+I want to know
+
+419
+00:17:43,640 --> 00:17:45,640
+what I may take away with me.
+
+420
+00:17:45,640 --> 00:17:47,640
+I don't want to be accused of stealing.
+
+421
+00:17:47,640 --> 00:17:49,640
+Stealing?
+
+422
+00:17:49,640 --> 00:17:51,640
+Oh, no,
+
+423
+00:17:51,640 --> 00:17:53,640
+you shouldn't have said that, Eliza.
+
+424
+00:17:54,280 --> 00:17:56,280
+That shows a want of feeling.
+
+425
+00:17:56,280 --> 00:17:58,280
+I'm sorry.
+
+426
+00:17:58,280 --> 00:18:00,280
+I'm only a common, ignorant girl.
+
+427
+00:18:00,280 --> 00:18:02,280
+And in my station, I have to be careful.
+
+428
+00:18:02,280 --> 00:18:04,280
+There can't be any feelings
+
+429
+00:18:04,280 --> 00:18:06,280
+between the like of you and the like of me.
+
+430
+00:18:06,280 --> 00:18:08,280
+Please will you tell me
+
+431
+00:18:08,280 --> 00:18:10,280
+what belongs to me and what doesn't?
+
+432
+00:18:10,280 --> 00:18:12,280
+Oh, you may take the whole damned house full
+
+433
+00:18:12,280 --> 00:18:14,280
+if you like.
+
+434
+00:18:14,280 --> 00:18:16,280
+Except the jewels. They're hired.
+
+435
+00:18:16,280 --> 00:18:18,280
+Will that satisfy you?
+
+436
+00:18:18,280 --> 00:18:20,280
+Stop, please.
+
+437
+00:18:20,280 --> 00:18:22,280
+Will you take these to your room
+
+438
+00:18:22,920 --> 00:18:24,920
+and keep them safe?
+
+439
+00:18:24,920 --> 00:18:26,920
+I don't want to run the risk of their being missing.
+
+440
+00:18:26,920 --> 00:18:28,920
+Hand them over!
+
+441
+00:18:28,920 --> 00:18:30,920
+If these belonged to me
+
+442
+00:18:30,920 --> 00:18:32,920
+instead of to the jeweler,
+
+443
+00:18:32,920 --> 00:18:34,920
+I'd ram them down your ungrateful throat.
+
+444
+00:18:34,920 --> 00:18:36,920
+This ring isn't the jeweler's.
+
+445
+00:18:36,920 --> 00:18:38,920
+It's the one you bought me in Brighton.
+
+446
+00:18:38,920 --> 00:18:40,920
+I don't want it now.
+
+447
+00:18:40,920 --> 00:18:42,920
+Oh, you infamous creature.
+
+448
+00:18:44,920 --> 00:18:46,920
+Don't you hit me!
+
+449
+00:18:46,920 --> 00:18:48,920
+Hit you?
+
+450
+00:18:48,920 --> 00:18:50,920
+How dare you accuse me of such a thing?
+
+451
+00:18:51,560 --> 00:18:53,560
+You've hit me.
+
+452
+00:18:53,560 --> 00:18:55,560
+You have wounded me to the heart.
+
+453
+00:18:55,560 --> 00:18:57,560
+I'm glad.
+
+454
+00:18:57,560 --> 00:18:59,560
+I've got a little of my own back, anyhow.
+
+455
+00:18:59,560 --> 00:19:01,560
+You have caused me
+
+456
+00:19:01,560 --> 00:19:03,560
+to lose my temper.
+
+457
+00:19:03,560 --> 00:19:05,560
+A thing that has hardly ever
+
+458
+00:19:05,560 --> 00:19:07,560
+happened to me before.
+
+459
+00:19:07,560 --> 00:19:09,560
+I prefer to say nothing more tonight.
+
+460
+00:19:09,560 --> 00:19:11,560
+I am going to bed.
+
+461
+00:19:11,560 --> 00:19:13,560
+We had better leave a note
+
+462
+00:19:13,560 --> 00:19:15,560
+for Mrs. Pierce about the coffee.
+
+463
+00:19:15,560 --> 00:19:17,560
+For she won't be told
+
+464
+00:19:17,560 --> 00:19:19,560
+by me.
+
+465
+00:19:20,199 --> 00:19:22,199
+Damn Mrs. Pierce
+
+466
+00:19:22,199 --> 00:19:24,199
+and damn the coffee
+
+467
+00:19:24,199 --> 00:19:26,199
+and damn you
+
+468
+00:19:26,199 --> 00:19:28,199
+and damn my own folly
+
+469
+00:19:28,199 --> 00:19:30,199
+for having lavished
+
+470
+00:19:30,199 --> 00:19:32,199
+my hard-earned knowledge
+
+471
+00:19:32,199 --> 00:19:34,199
+and the treasure
+
+472
+00:19:34,199 --> 00:19:36,199
+of my regard
+
+473
+00:19:36,199 --> 00:19:38,199
+and intimacy
+
+474
+00:19:38,199 --> 00:19:40,199
+on a heartless guttersnipe.
+
+475
+00:19:50,199 --> 00:19:52,199
+Mmm.
+
+476
+00:19:52,199 --> 00:19:54,199
+Mmm.
+
+477
+00:19:54,199 --> 00:19:56,199
+Mmm.
+
+478
+00:19:56,199 --> 00:19:58,199
+Mmm.
+
+479
+00:19:58,199 --> 00:20:00,199
+Mmm.
+
+480
+00:20:00,199 --> 00:20:02,199
+Mmm.
+
+481
+00:20:02,199 --> 00:20:04,199
+Mmm.
+
+482
+00:20:04,199 --> 00:20:06,199
+Freddy!
+
+483
+00:20:06,199 --> 00:20:08,199
+What are you doing here?
+
+484
+00:20:08,199 --> 00:20:10,199
+Nothing.
+
+485
+00:20:10,199 --> 00:20:12,199
+I spend most of my nights here
+
+486
+00:20:12,199 --> 00:20:14,199
+gazing up at your window.
+
+487
+00:20:14,199 --> 00:20:16,199
+It's the only place where I'm happy.
+
+488
+00:20:16,199 --> 00:20:18,199
+Don't laugh at me, Miss Doolittle.
+
+489
+00:20:18,839 --> 00:20:20,839
+Do you hear?
+
+490
+00:20:20,839 --> 00:20:22,839
+Lies is good enough for me.
+
+491
+00:20:22,839 --> 00:20:24,839
+Freddy.
+
+492
+00:20:24,839 --> 00:20:26,839
+You don't think I'm a heartless guttersnipe, do you?
+
+493
+00:20:26,839 --> 00:20:28,839
+Oh, no.
+
+494
+00:20:28,839 --> 00:20:30,839
+Darling, how can you imagine such a thing?
+
+495
+00:20:30,839 --> 00:20:32,839
+You...
+
+496
+00:20:32,839 --> 00:20:34,839
+You are the loveliest, dearest...
+
+497
+00:20:34,839 --> 00:20:36,839
+Oh!
+
+498
+00:20:36,839 --> 00:20:38,839
+Mmm.
+
+499
+00:20:38,839 --> 00:20:40,839
+Oh!
+
+500
+00:20:40,839 --> 00:20:42,839
+Marvin! Marvin!
+
+501
+00:20:42,839 --> 00:20:44,839
+Sorry, Constable.
+
+502
+00:20:44,839 --> 00:20:46,839
+We've only just become engaged.
+
+503
+00:20:47,479 --> 00:20:49,479
+Double quick.
+
+504
+00:20:54,479 --> 00:20:56,479
+You didn't half give me a fight, that copper.
+
+505
+00:20:56,479 --> 00:20:58,479
+But you answered him proper.
+
+506
+00:20:58,479 --> 00:21:00,479
+I had no idea the police were so devilishly prudish.
+
+507
+00:21:00,479 --> 00:21:02,479
+It's their business
+
+508
+00:21:02,479 --> 00:21:04,479
+to hunt girls off the streets.
+
+509
+00:21:04,479 --> 00:21:06,479
+I hope I haven't taken you out of your way.
+
+510
+00:21:06,479 --> 00:21:08,479
+Where were you going?
+
+511
+00:21:08,479 --> 00:21:10,479
+To the river.
+
+512
+00:21:10,479 --> 00:21:12,479
+What for?
+
+513
+00:21:12,479 --> 00:21:14,479
+To make a hole in it.
+
+514
+00:21:14,479 --> 00:21:16,479
+Eliza, darling, what do you mean?
+
+515
+00:21:17,119 --> 00:21:19,119
+I don't know.
+
+516
+00:21:19,119 --> 00:21:21,119
+There's nobody in the world now,
+
+517
+00:21:21,119 --> 00:21:23,119
+but you and me is there.
+
+518
+00:21:23,119 --> 00:21:25,119
+Not a soul.
+
+519
+00:21:29,119 --> 00:21:31,119
+Look, we must go somewhere.
+
+520
+00:21:31,119 --> 00:21:33,119
+We can't wander about the streets all night.
+
+521
+00:21:33,119 --> 00:21:35,119
+Can't we?
+
+522
+00:21:35,119 --> 00:21:37,119
+I think it'd be lovely to wander about forever.
+
+523
+00:21:37,119 --> 00:21:39,119
+Oh, darling.
+
+524
+00:21:39,760 --> 00:21:41,760
+Can I drive you and the lady
+
+525
+00:21:41,760 --> 00:21:43,760
+anywhere, sir?
+
+526
+00:21:43,760 --> 00:21:45,760
+Oh, Freddy, a taxi.
+
+527
+00:21:45,760 --> 00:21:47,760
+The very thing.
+
+528
+00:21:47,760 --> 00:21:49,760
+But dammit, I've no money.
+
+529
+00:21:49,760 --> 00:21:51,760
+I have plenty.
+
+530
+00:21:51,760 --> 00:21:53,760
+The Colonel thinks you should never go out
+
+531
+00:21:53,760 --> 00:21:55,760
+without ten pounds in your pocket.
+
+532
+00:21:55,760 --> 00:21:57,760
+Listen, we'll drive about all night,
+
+533
+00:21:57,760 --> 00:21:59,760
+and in the morning, I'll call old Mrs. Higgins
+
+534
+00:21:59,760 --> 00:22:01,760
+and ask her what I ought to do.
+
+535
+00:22:01,760 --> 00:22:03,760
+I'll tell you all about it in the cab.
+
+536
+00:22:03,760 --> 00:22:05,760
+Right-o. A ripping.
+
+537
+00:22:05,760 --> 00:22:07,760
+Wimbledon Common.
+
+538
+00:22:09,760 --> 00:22:11,760
+MUSIC
+
+539
+00:22:23,760 --> 00:22:25,760
+Mr. Henry, ma'am, is downstairs
+
+540
+00:22:25,760 --> 00:22:27,760
+with Colonel Pickering.
+
+541
+00:22:27,760 --> 00:22:29,760
+Well, show them up.
+
+542
+00:22:29,760 --> 00:22:31,760
+They're using the telephone, ma'am.
+
+543
+00:22:31,760 --> 00:22:33,760
+Telephoning to the police, I think.
+
+544
+00:22:33,760 --> 00:22:35,760
+What?
+
+545
+00:22:35,760 --> 00:22:37,760
+Mr. Henry's in a state, ma'am.
+
+546
+00:22:38,400 --> 00:22:40,400
+If you'd told me that Mr. Henry was not in a state,
+
+547
+00:22:40,400 --> 00:22:42,400
+it would have been more surprising.
+
+548
+00:22:42,400 --> 00:22:44,400
+Tell them to come up when they've finished
+
+549
+00:22:44,400 --> 00:22:46,400
+with the police.
+
+550
+00:22:46,400 --> 00:22:48,400
+I suppose he's lost something.
+
+551
+00:22:48,400 --> 00:22:50,400
+Yes, ma'am.
+
+552
+00:22:50,400 --> 00:22:52,400
+Go upstairs and tell Miss Doolittle
+
+553
+00:22:52,400 --> 00:22:54,400
+that Mr. Henry and the Colonel are here.
+
+554
+00:22:54,400 --> 00:22:56,400
+Ask her not to come down
+
+555
+00:22:56,400 --> 00:22:58,400
+till I send for her.
+
+556
+00:22:58,400 --> 00:23:00,400
+Yes, ma'am.
+
+557
+00:23:00,400 --> 00:23:02,400
+Look, young mother,
+
+558
+00:23:02,400 --> 00:23:04,400
+here's a confounded thing.
+
+559
+00:23:04,400 --> 00:23:06,400
+Yes, dear.
+
+560
+00:23:07,040 --> 00:23:09,040
+What is it?
+
+561
+00:23:09,040 --> 00:23:11,040
+Eliza's bolted.
+
+562
+00:23:11,040 --> 00:23:13,040
+You must have frightened her.
+
+563
+00:23:13,040 --> 00:23:15,040
+Frightened her? Nonsense.
+
+564
+00:23:15,040 --> 00:23:17,040
+She was left last night as usual
+
+565
+00:23:17,040 --> 00:23:19,040
+to turn out the lights and all that
+
+566
+00:23:19,040 --> 00:23:21,040
+and instead of going to bed
+
+567
+00:23:21,040 --> 00:23:23,040
+she changed her clothes and went right off.
+
+568
+00:23:23,040 --> 00:23:25,040
+Her bed wasn't slept in.
+
+569
+00:23:25,040 --> 00:23:27,040
+She came in a cab for her things
+
+570
+00:23:27,040 --> 00:23:29,040
+before seven this morning
+
+571
+00:23:29,040 --> 00:23:31,040
+and that fool Mrs. Pearce let her have them
+
+572
+00:23:31,040 --> 00:23:33,040
+without telling me a word about it.
+
+573
+00:23:33,040 --> 00:23:35,040
+What am I to do?
+
+574
+00:23:35,680 --> 00:23:37,680
+With all the appointments I've got
+
+575
+00:23:37,680 --> 00:23:39,680
+I'm absolutely lost, Mrs. Higgins.
+
+576
+00:23:39,680 --> 00:23:41,680
+Has Henry told you?
+
+577
+00:23:41,680 --> 00:23:43,680
+What does that ass of an inspector say?
+
+578
+00:23:43,680 --> 00:23:45,680
+Have you offered a reward?
+
+579
+00:23:45,680 --> 00:23:47,680
+You don't need to say that you set the police
+
+580
+00:23:47,680 --> 00:23:49,680
+after Eliza.
+
+581
+00:23:49,680 --> 00:23:51,680
+Of course. What are the police for?
+
+582
+00:23:51,680 --> 00:23:53,680
+What else could we do?
+
+583
+00:23:53,680 --> 00:23:55,680
+The inspector made a lot of difficulties.
+
+584
+00:23:55,680 --> 00:23:57,680
+I really think he suspected us
+
+585
+00:23:57,680 --> 00:23:59,680
+of some improper purpose.
+
+586
+00:23:59,680 --> 00:24:01,680
+Of course he did.
+
+587
+00:24:01,680 --> 00:24:03,680
+What right have you to go to the police
+
+588
+00:24:04,319 --> 00:24:06,319
+But we want to find her.
+
+589
+00:24:06,319 --> 00:24:08,319
+We can't let her go like this, you know, Mrs. Higgins.
+
+590
+00:24:08,319 --> 00:24:10,319
+What are we to do?
+
+591
+00:24:10,319 --> 00:24:12,319
+You have no more sense, either of you,
+
+592
+00:24:12,319 --> 00:24:14,319
+than two children.
+
+593
+00:24:14,319 --> 00:24:16,319
+Mr. Henry, a gentleman wants to see you
+
+594
+00:24:16,319 --> 00:24:18,319
+very particular.
+
+595
+00:24:18,319 --> 00:24:20,319
+He's been sent on from Wimpole Street.
+
+596
+00:24:20,319 --> 00:24:22,319
+I can't see anyone now. Who is it?
+
+597
+00:24:22,319 --> 00:24:24,319
+Mr. Doolittle, sir.
+
+598
+00:24:24,319 --> 00:24:26,319
+Doolittle? Do you mean the dustman?
+
+599
+00:24:26,319 --> 00:24:28,319
+Dustman? No, sir. A gentleman.
+
+600
+00:24:28,319 --> 00:24:30,319
+By George Pick!
+
+601
+00:24:30,319 --> 00:24:32,319
+It's some relative of hers that she's gone to.
+
+602
+00:24:32,959 --> 00:24:34,959
+A relative we know nothing about.
+
+603
+00:24:34,959 --> 00:24:36,959
+Send him up, quick!
+
+604
+00:24:36,959 --> 00:24:38,959
+Yes, sir.
+
+605
+00:24:38,959 --> 00:24:40,959
+Gentile relatives?
+
+606
+00:24:40,959 --> 00:24:42,959
+Now we shall hear some things.
+
+607
+00:24:42,959 --> 00:24:44,959
+Do you know any of her people?
+
+608
+00:24:44,959 --> 00:24:46,959
+Only her father, the fellow we told you about.
+
+609
+00:24:46,959 --> 00:24:48,959
+Mr. Doolittle.
+
+610
+00:24:48,959 --> 00:24:50,959
+See here? Do you see this?
+
+611
+00:24:50,959 --> 00:24:52,959
+You done this?
+
+612
+00:24:52,959 --> 00:24:54,959
+Done what, man?
+
+613
+00:24:54,959 --> 00:24:56,959
+This, I tell you. Look at it.
+
+614
+00:24:56,959 --> 00:24:58,959
+Look at this silk hat. Look at this frock coat.
+
+615
+00:24:58,959 --> 00:25:00,959
+These shoes.
+
+616
+00:25:01,599 --> 00:25:03,599
+Why would she buy me clothes?
+
+617
+00:25:03,599 --> 00:25:05,599
+Good morning, Mr. Doolittle.
+
+618
+00:25:05,599 --> 00:25:07,599
+Won't you sit down?
+
+619
+00:25:07,599 --> 00:25:09,599
+Asking your pardon, ma'am.
+
+620
+00:25:09,599 --> 00:25:11,599
+Thank you.
+
+621
+00:25:11,599 --> 00:25:13,599
+I'm that full of what has happened to me
+
+622
+00:25:13,599 --> 00:25:15,599
+that I can't think of anything else.
+
+623
+00:25:15,599 --> 00:25:17,599
+What the dickens has happened to you?
+
+624
+00:25:17,599 --> 00:25:19,599
+I shouldn't mind if it had only happened to me.
+
+625
+00:25:19,599 --> 00:25:21,599
+Anything might happen to anybody
+
+626
+00:25:21,599 --> 00:25:23,599
+and nobody to blame but Providence, as you might say.
+
+627
+00:25:23,599 --> 00:25:25,599
+But this is something you
+
+628
+00:25:25,599 --> 00:25:27,599
+have done to me.
+
+629
+00:25:27,599 --> 00:25:29,599
+Yes, you, Henry Higgins.
+
+630
+00:25:30,239 --> 00:25:32,239
+You found Eliza.
+
+631
+00:25:32,239 --> 00:25:34,239
+Have you lost her?
+
+632
+00:25:34,239 --> 00:25:36,239
+Yes.
+
+633
+00:25:36,239 --> 00:25:38,239
+You have all the luck you have.
+
+634
+00:25:38,239 --> 00:25:40,239
+I ain't found her but she'll find me
+
+635
+00:25:40,239 --> 00:25:42,239
+quick enough now after what you have done to me.
+
+636
+00:25:42,239 --> 00:25:44,239
+But what has my son done to you, Mr. Doolittle?
+
+637
+00:25:44,239 --> 00:25:46,239
+Done to me? Ruined me.
+
+638
+00:25:46,239 --> 00:25:48,239
+Destroyed my happiness.
+
+639
+00:25:48,239 --> 00:25:50,239
+Tied me up and delivered me
+
+640
+00:25:50,239 --> 00:25:52,239
+into the hands of middle class morality.
+
+641
+00:25:52,239 --> 00:25:54,239
+You're raving.
+
+642
+00:25:54,239 --> 00:25:56,239
+You're drunk.
+
+643
+00:25:56,239 --> 00:25:58,239
+You're mad.
+
+644
+00:25:58,880 --> 00:26:00,880
+Drunk, am I?
+
+645
+00:26:00,880 --> 00:26:02,880
+Murder, am I?
+
+646
+00:26:02,880 --> 00:26:04,880
+Tell me this.
+
+647
+00:26:04,880 --> 00:26:06,880
+Did you or did you not
+
+648
+00:26:06,880 --> 00:26:08,880
+write a letter to an old blighter in America
+
+649
+00:26:08,880 --> 00:26:10,880
+that was giving five millions
+
+650
+00:26:10,880 --> 00:26:12,880
+to found moral reform societies
+
+651
+00:26:12,880 --> 00:26:14,880
+all over the world and that wanted you
+
+652
+00:26:14,880 --> 00:26:16,880
+to invent a universal language for him?
+
+653
+00:26:16,880 --> 00:26:18,880
+What? Ezra D. Wannafella?
+
+654
+00:26:18,880 --> 00:26:20,880
+He's dead.
+
+655
+00:26:20,880 --> 00:26:22,880
+Yes, he's dead.
+
+656
+00:26:22,880 --> 00:26:24,880
+And I'm done for.
+
+657
+00:26:24,880 --> 00:26:26,880
+Now, did you or did you not
+
+658
+00:26:27,520 --> 00:26:29,520
+expect to him to say that the most original moralist
+
+659
+00:26:29,520 --> 00:26:31,520
+at present in England, to the best of your knowledge,
+
+660
+00:26:31,520 --> 00:26:33,520
+was Alfred Doolittle,
+
+661
+00:26:33,520 --> 00:26:35,520
+a common dustman?
+
+662
+00:26:35,520 --> 00:26:37,520
+Oh. Well, after your last visit,
+
+663
+00:26:37,520 --> 00:26:39,520
+I remember making some silly joke of the kind.
+
+664
+00:26:39,520 --> 00:26:41,520
+Oh.
+
+665
+00:26:41,520 --> 00:26:43,520
+You may well call it
+
+666
+00:26:43,520 --> 00:26:45,520
+a silly joke.
+
+667
+00:26:45,520 --> 00:26:47,520
+It put the lid on me right enough.
+
+668
+00:26:47,520 --> 00:26:49,520
+Just give him the chance he wanted
+
+669
+00:26:49,520 --> 00:26:51,520
+to show that Americans is not like us.
+
+670
+00:26:51,520 --> 00:26:53,520
+That they recognize and respect merit
+
+671
+00:26:53,520 --> 00:26:55,520
+in every class of life, however humble.
+
+672
+00:26:56,160 --> 00:26:58,160
+Them words is in his blooming will
+
+673
+00:26:58,160 --> 00:27:00,160
+in which, Henry Higgins,
+
+674
+00:27:00,160 --> 00:27:02,160
+thanks to your silly joking,
+
+675
+00:27:02,160 --> 00:27:04,160
+he leaves me a share in his pre-digested
+
+676
+00:27:04,160 --> 00:27:06,160
+cheese trust worth 3,000 a year
+
+677
+00:27:06,160 --> 00:27:08,160
+on condition that I lecture
+
+678
+00:27:08,160 --> 00:27:10,160
+for his Wannafella Moral Reform World League
+
+679
+00:27:10,160 --> 00:27:12,160
+as often as they ask me.
+
+680
+00:27:12,160 --> 00:27:14,160
+Up to six times a year.
+
+681
+00:27:14,160 --> 00:27:16,160
+That definitely does. Oh, what a lark.
+
+682
+00:27:16,160 --> 00:27:18,160
+A safe thing for you, Doolittle.
+
+683
+00:27:18,160 --> 00:27:20,160
+They won't ask you twice.
+
+684
+00:27:20,160 --> 00:27:22,160
+It ain't the lecture in my mind.
+
+685
+00:27:22,160 --> 00:27:24,160
+I'll lecture them blue in the face I will
+
+686
+00:27:24,800 --> 00:27:26,800
+and not turn an ear.
+
+687
+00:27:26,800 --> 00:27:28,800
+It's making a gentleman of me that I object to.
+
+688
+00:27:28,800 --> 00:27:30,800
+Who asked him to make a gentleman of me?
+
+689
+00:27:30,800 --> 00:27:32,800
+I was happy.
+
+690
+00:27:32,800 --> 00:27:34,800
+I was free.
+
+691
+00:27:34,800 --> 00:27:36,800
+I touched pretty nigh everybody
+
+692
+00:27:36,800 --> 00:27:38,800
+for money when I wanted it.
+
+693
+00:27:38,800 --> 00:27:40,800
+Same as I touched you, Henry Higgins.
+
+694
+00:27:40,800 --> 00:27:42,800
+Now I am worried
+
+695
+00:27:42,800 --> 00:27:44,800
+tied neck and heels
+
+696
+00:27:44,800 --> 00:27:46,800
+and everybody touches me for money.
+
+697
+00:27:46,800 --> 00:27:48,800
+When I was a poor man
+
+698
+00:27:48,800 --> 00:27:50,800
+the doctors used to shove me out of the hospital
+
+699
+00:27:50,800 --> 00:27:52,800
+before I could hardly stand on my legs
+
+700
+00:27:53,439 --> 00:27:55,439
+and I had nothing to pay.
+
+701
+00:27:55,439 --> 00:27:57,439
+Now they find out that I'm not a healthy man
+
+702
+00:27:57,439 --> 00:27:59,439
+and can't live unless they looks after me twice a day.
+
+703
+00:27:59,439 --> 00:28:01,439
+In the house, I'm not let to do
+
+704
+00:28:01,439 --> 00:28:03,439
+an hand's turn for meself.
+
+705
+00:28:03,439 --> 00:28:05,439
+Somebody else must do it
+
+706
+00:28:05,439 --> 00:28:07,439
+and touch me for it.
+
+707
+00:28:07,439 --> 00:28:09,439
+A year ago, I hadn't a relative in the world
+
+708
+00:28:09,439 --> 00:28:11,439
+except two or three that wouldn't speak to me.
+
+709
+00:28:11,439 --> 00:28:13,439
+Now I have 50
+
+710
+00:28:13,439 --> 00:28:15,439
+and not a decent week's wages among a lot of them.
+
+711
+00:28:15,439 --> 00:28:17,439
+I have to live for others
+
+712
+00:28:17,439 --> 00:28:19,439
+and not for meself.
+
+713
+00:28:19,439 --> 00:28:21,439
+That's middle class morality.
+
+714
+00:28:22,079 --> 00:28:24,079
+Don't you be anxious.
+
+715
+00:28:24,079 --> 00:28:26,079
+I bet she's on my doorstep by this.
+
+716
+00:28:26,079 --> 00:28:28,079
+She that could support herself easy
+
+717
+00:28:28,079 --> 00:28:30,079
+by selling flowers if I wasn't respectable.
+
+718
+00:28:30,079 --> 00:28:32,079
+And the next one to touch me
+
+719
+00:28:32,079 --> 00:28:34,079
+will be you.
+
+720
+00:28:34,079 --> 00:28:36,079
+Henry Higgins, I'll have to learn
+
+721
+00:28:36,079 --> 00:28:38,079
+to speak middle class language from you
+
+722
+00:28:38,079 --> 00:28:40,079
+instead of speaking proper English.
+
+723
+00:28:40,079 --> 00:28:42,079
+That's where you'll come in
+
+724
+00:28:42,079 --> 00:28:44,079
+and I dare say
+
+725
+00:28:44,079 --> 00:28:46,079
+that's what you've done it for.
+
+726
+00:28:46,079 --> 00:28:48,079
+But my dear Mr Doolittle
+
+727
+00:28:48,079 --> 00:28:50,079
+you need not suffer all this
+
+728
+00:28:50,719 --> 00:28:52,719
+if you're really in earnest.
+
+729
+00:28:52,719 --> 00:28:54,719
+Nobody can force you to accept this bequest.
+
+730
+00:28:54,719 --> 00:28:56,719
+You can repudiate it.
+
+731
+00:28:56,719 --> 00:28:58,719
+Isn't that so, Colonel Pickering?
+
+732
+00:28:58,719 --> 00:29:00,719
+I believe so.
+
+733
+00:29:00,719 --> 00:29:02,719
+That's the tragedy of it, ma'am.
+
+734
+00:29:02,719 --> 00:29:04,719
+It's easy to say chuck it
+
+735
+00:29:04,719 --> 00:29:06,719
+but I haven't the nerve.
+
+736
+00:29:06,719 --> 00:29:08,719
+Which one of us has?
+
+737
+00:29:08,719 --> 00:29:10,719
+We're all intimidated.
+
+738
+00:29:10,719 --> 00:29:12,719
+Intimidated, ma'am.
+
+739
+00:29:12,719 --> 00:29:14,719
+That's what we are.
+
+740
+00:29:14,719 --> 00:29:16,719
+What is there for me if I chuck it
+
+741
+00:29:16,719 --> 00:29:18,719
+but the workhouse in my old age?
+
+742
+00:29:19,359 --> 00:29:21,359
+If I was one of the deserving poor
+
+743
+00:29:21,359 --> 00:29:23,359
+and had put by a bit
+
+744
+00:29:23,359 --> 00:29:25,359
+I could chuck it
+
+745
+00:29:25,359 --> 00:29:27,359
+but then why should I?
+
+746
+00:29:27,359 --> 00:29:29,359
+Because the deserving poor might as well be millionaires
+
+747
+00:29:29,359 --> 00:29:31,359
+for all the happiness they ever have.
+
+748
+00:29:31,359 --> 00:29:33,359
+They don't know what happiness is.
+
+749
+00:29:33,359 --> 00:29:35,359
+But I, as one of the undeserving poor
+
+750
+00:29:35,359 --> 00:29:37,359
+have nothing between me and a pauper's uniform
+
+751
+00:29:37,359 --> 00:29:39,359
+but this here blasted
+
+752
+00:29:39,359 --> 00:29:41,359
+three thousand a year
+
+753
+00:29:41,359 --> 00:29:43,359
+that shoves me into the middle class.
+
+754
+00:29:43,359 --> 00:29:45,359
+Excuse the expression, ma'am.
+
+755
+00:29:45,359 --> 00:29:47,359
+You'd use it yourself if you had my provocation.
+
+756
+00:29:48,000 --> 00:29:50,000
+They've got you every way you turn.
+
+757
+00:29:50,000 --> 00:29:52,000
+Intimidated.
+
+758
+00:29:52,000 --> 00:29:54,000
+That's what I am.
+
+759
+00:29:54,000 --> 00:29:56,000
+Broke. Bought up.
+
+760
+00:29:56,000 --> 00:29:58,000
+Happier men than me will call for my dust
+
+761
+00:29:58,000 --> 00:30:00,000
+and touch me for their tip.
+
+
+
+1
+00:30:00,000 --> 00:30:09,000
+And I'll look on, helpless, and envied of them, and that, that's what your son has brought me to.
+
+2
+00:30:09,000 --> 00:30:15,000
+Well, I'm very glad you're not going to do anything foolish, Mr Doolittle.
+
+3
+00:30:15,000 --> 00:30:21,000
+But this solves the problem of Eliza's future. You can provide for her now.
+
+4
+00:30:21,000 --> 00:30:27,000
+Yes, Mum. I'm expected to provide for everyone now, out of 3,000 a year.
+
+5
+00:30:27,000 --> 00:30:33,000
+Nonsense. He can't provide for her. He shan't provide for her. She doesn't belong to him.
+
+6
+00:30:33,000 --> 00:30:38,000
+I paid him five pounds for her. Doolittle, either you're an honest man or a rogue.
+
+7
+00:30:38,000 --> 00:30:41,000
+A little of both, Henry, like the rest of us. A little of both.
+
+8
+00:30:41,000 --> 00:30:45,000
+But you took that money for the girl, and you've no rights to take her as well.
+
+9
+00:30:45,000 --> 00:30:53,000
+Henry, don't be absurd. If you really want to know where Eliza is, she's upstairs.
+
+10
+00:30:54,000 --> 00:30:58,000
+Upstairs? Well, then I shall jolly soon fetch her downstairs.
+
+11
+00:30:58,000 --> 00:31:00,000
+Be quiet, Henry. Sit down.
+
+12
+00:31:00,000 --> 00:31:01,000
+I?
+
+13
+00:31:01,000 --> 00:31:04,000
+Sit down, dear, and listen to me.
+
+14
+00:31:04,000 --> 00:31:09,000
+Oh, very well, very well, very well. But I think you might have told us this half an hour ago.
+
+15
+00:31:09,000 --> 00:31:15,000
+Eliza came to me this morning. She told me of the brutal way you two treated her.
+
+16
+00:31:15,000 --> 00:31:16,000
+What?
+
+17
+00:31:16,000 --> 00:31:20,000
+My dear Mrs Higgins, she's been telling you stories. We didn't treat her brutally.
+
+18
+00:31:20,000 --> 00:31:25,000
+Brutally? We hardly said a word to her, and we parted on particularly good terms.
+
+19
+00:31:25,000 --> 00:31:28,000
+Higgins, did you bully her after I went to bed?
+
+20
+00:31:28,000 --> 00:31:32,000
+Just the other way about. She threw my slippers in my face.
+
+21
+00:31:32,000 --> 00:31:36,000
+She behaved in the most outrageous way. I never gave her the slightest provocation.
+
+22
+00:31:36,000 --> 00:31:39,000
+The slippers came bang into my face the moment I entered the room,
+
+23
+00:31:39,000 --> 00:31:43,000
+before I had uttered a word and used perfectly awful language.
+
+24
+00:31:43,000 --> 00:31:45,000
+But why? What did we do to her?
+
+25
+00:31:45,000 --> 00:31:49,000
+I think I know pretty well what you did.
+
+26
+00:31:49,000 --> 00:31:54,000
+The girl is naturally rather affectionate, I think. Isn't she, Mr Doolittle?
+
+27
+00:31:54,000 --> 00:31:57,000
+Very tender-hearted, ma'am. Takes after me.
+
+28
+00:31:57,000 --> 00:32:01,000
+Just so. She had become attached to you both.
+
+29
+00:32:01,000 --> 00:32:04,000
+She worked very hard for you, Henry.
+
+30
+00:32:04,000 --> 00:32:10,000
+I don't think you quite realise what anything in the nature of brain work means to a girl like that.
+
+31
+00:32:10,000 --> 00:32:14,000
+Well, it seems to me that when the great day of trial came,
+
+32
+00:32:14,000 --> 00:32:19,000
+and she did this wonderful thing for you without making a single mistake,
+
+33
+00:32:19,000 --> 00:32:23,000
+you two sat there and never said a word to her,
+
+34
+00:32:23,000 --> 00:32:27,000
+but talked together of how glad you were that it was all over,
+
+35
+00:32:27,000 --> 00:32:30,000
+and how you'd been bored with the whole thing.
+
+36
+00:32:30,000 --> 00:32:34,000
+And then you were surprised because she threw your slippers at you.
+
+37
+00:32:34,000 --> 00:32:37,000
+I should have thrown the fire irons at you.
+
+38
+00:32:37,000 --> 00:32:41,000
+We said nothing except that we were tired and wanted to go to bed. Did we, Peg?
+
+39
+00:32:41,000 --> 00:32:42,000
+That was all.
+
+40
+00:32:42,000 --> 00:32:43,000
+Quite sure?
+
+41
+00:32:43,000 --> 00:32:45,000
+Absolutely. Really, that was all.
+
+42
+00:32:45,000 --> 00:32:52,000
+You didn't thank her, or pet her, or admire her, or tell her how splendid she'd been.
+
+43
+00:32:52,000 --> 00:32:58,000
+But she knew all about that. We didn't make speeches to her, if that's what you mean.
+
+44
+00:32:58,000 --> 00:33:02,000
+Perhaps we were a little inconsiderate.
+
+45
+00:33:02,000 --> 00:33:04,000
+Is she very angry?
+
+46
+00:33:04,000 --> 00:33:07,000
+I'm afraid she won't go back to Wimpole Street,
+
+47
+00:33:07,000 --> 00:33:13,000
+especially now that Mr Doolittle is able to keep up the position that you thrust upon her.
+
+48
+00:33:13,000 --> 00:33:19,000
+But she says she's quite willing to meet you on friendly terms and let bygones be bygones.
+
+49
+00:33:19,000 --> 00:33:21,000
+Is she, bright George?
+
+50
+00:33:21,000 --> 00:33:25,000
+If you promise to behave yourself, Henry, I'll ask her to come down.
+
+51
+00:33:25,000 --> 00:33:29,000
+If not, go home, for you've taken up quite enough of my time.
+
+52
+00:33:29,000 --> 00:33:32,000
+All right. Very well.
+
+53
+00:33:32,000 --> 00:33:34,000
+Peg, you behave yourself.
+
+54
+00:33:34,000 --> 00:33:39,000
+Let us put on our best Sunday manners for this creature that we picked out of the mud.
+
+55
+00:33:39,000 --> 00:33:43,000
+Now, now, Henry Higgins. Have some consideration for my feelings as a middle-class man.
+
+56
+00:33:43,000 --> 00:33:46,000
+Remember your promise, Henry.
+
+57
+00:33:46,000 --> 00:33:51,000
+Mr Doolittle, will you be good enough as to step out on the balcony for a moment?
+
+58
+00:33:51,000 --> 00:33:56,000
+I don't want Eliza to have the shock of your news until she's made it up with these two gentlemen.
+
+59
+00:33:56,000 --> 00:33:57,000
+Would you mind?
+
+60
+00:33:57,000 --> 00:34:01,000
+As you wish, lady. Anything to help Henry keep her off my hands.
+
+61
+00:34:05,000 --> 00:34:07,000
+Ask Miss Doolittle to come down, please.
+
+62
+00:34:07,000 --> 00:34:09,000
+Yes, ma'am.
+
+63
+00:34:09,000 --> 00:34:12,000
+Now, Henry, be good.
+
+64
+00:34:12,000 --> 00:34:15,000
+I am behaving myself perfectly.
+
+65
+00:34:15,000 --> 00:34:17,000
+He is doing his best, Mrs Higgins.
+
+66
+00:34:18,000 --> 00:34:22,000
+Henry, dearest, you don't look at all nice in that attitude.
+
+67
+00:34:22,000 --> 00:34:25,000
+I was not trying to look nice, Mother.
+
+68
+00:34:25,000 --> 00:34:28,000
+It doesn't matter, dear. I only wanted to make you speak.
+
+69
+00:34:28,000 --> 00:34:30,000
+Why?
+
+70
+00:34:30,000 --> 00:34:33,000
+Because you can't speak and whistle at the same time.
+
+71
+00:34:33,000 --> 00:34:36,000
+Oh, the devil is that girl.
+
+72
+00:34:36,000 --> 00:34:38,000
+Are we to wait here all day?
+
+73
+00:34:38,000 --> 00:34:41,000
+How do you do, Professor Higgins?
+
+74
+00:34:41,000 --> 00:34:43,000
+Are you comfortable?
+
+75
+00:34:43,000 --> 00:34:46,000
+How do you do, Professor Higgins?
+
+76
+00:34:46,000 --> 00:34:48,000
+Are you quite well?
+
+77
+00:34:48,000 --> 00:34:50,000
+Am I?
+
+78
+00:34:50,000 --> 00:34:53,000
+But of course you are. You are never ill.
+
+79
+00:34:53,000 --> 00:34:56,000
+So glad to see you again, Colonel Pickering.
+
+80
+00:35:00,000 --> 00:35:03,000
+Quite chilly this morning, isn't it?
+
+81
+00:35:03,000 --> 00:35:05,000
+Don't you dare try this game on me.
+
+82
+00:35:05,000 --> 00:35:07,000
+I taught it to you and it doesn't take me in.
+
+83
+00:35:07,000 --> 00:35:10,000
+Get up and come home and don't be a fool.
+
+84
+00:35:10,000 --> 00:35:12,000
+Very nicely put indeed, Henry.
+
+85
+00:35:12,000 --> 00:35:15,000
+No woman could resist such an invitation.
+
+86
+00:35:15,000 --> 00:35:18,000
+Do let her alone, Mother. Let her speak for herself.
+
+87
+00:35:18,000 --> 00:35:22,000
+You will jolly soon see whether she has an idea that I haven't put into her head
+
+88
+00:35:22,000 --> 00:35:24,000
+or a word that I haven't put into her mouth.
+
+89
+00:35:24,000 --> 00:35:27,000
+I tell you, I have created this thing
+
+90
+00:35:27,000 --> 00:35:30,000
+out of the squashed cabbage leaves of Covent Garden
+
+91
+00:35:30,000 --> 00:35:33,000
+and now she pretends to play the fine lady with me.
+
+92
+00:35:33,000 --> 00:35:36,000
+Yes, dear, but you'll sit down, won't you?
+
+93
+00:35:37,000 --> 00:35:42,000
+Will you drop me altogether now that the experiment is over, Colonel Pickering?
+
+94
+00:35:42,000 --> 00:35:45,000
+Oh, don't. You mustn't think of it as an experiment.
+
+95
+00:35:45,000 --> 00:35:47,000
+It shocks me somehow.
+
+96
+00:35:47,000 --> 00:35:50,000
+Oh, I'm only a squashed cabbage leaf.
+
+97
+00:35:50,000 --> 00:35:51,000
+No.
+
+98
+00:35:51,000 --> 00:35:55,000
+But I owe so much to you that I should be very unhappy if you forgot me.
+
+99
+00:35:55,000 --> 00:35:58,000
+It's very kind of you to say so, Miss Doolittle.
+
+100
+00:35:58,000 --> 00:36:01,000
+It's not because you paid for my dresses.
+
+101
+00:36:01,000 --> 00:36:04,000
+I know you are generous to everybody with money
+
+102
+00:36:04,000 --> 00:36:08,000
+but it was from you that I learnt really nice manners
+
+103
+00:36:08,000 --> 00:36:11,000
+and that is what makes one a lady, isn't it?
+
+104
+00:36:11,000 --> 00:36:14,000
+You see, it was so very difficult for me
+
+105
+00:36:14,000 --> 00:36:17,000
+with the example of Professor Higgins always before me.
+
+106
+00:36:17,000 --> 00:36:20,000
+I was brought up to be just like him.
+
+107
+00:36:20,000 --> 00:36:22,000
+Unable to control myself
+
+108
+00:36:22,000 --> 00:36:26,000
+and using bad language on the slightest provocation.
+
+109
+00:36:26,000 --> 00:36:29,000
+And I should never have known that ladies and gentlemen
+
+110
+00:36:29,000 --> 00:36:32,000
+didn't behave like that if you hadn't been there.
+
+111
+00:36:32,000 --> 00:36:36,000
+He taught you to speak and I couldn't have done that, you know.
+
+112
+00:36:36,000 --> 00:36:39,000
+Of course, that is his profession.
+
+113
+00:36:39,000 --> 00:36:41,000
+Damnation, Henry!
+
+114
+00:36:41,000 --> 00:36:45,000
+It was just like learning to dance in the fashionable way.
+
+115
+00:36:45,000 --> 00:36:47,000
+There is nothing more than that in it.
+
+116
+00:36:47,000 --> 00:36:50,000
+But do you know what began my real education?
+
+117
+00:36:50,000 --> 00:36:51,000
+What?
+
+118
+00:36:51,000 --> 00:36:56,000
+Your calling me Miss Doolittle that day when I first came to Wimpole Street.
+
+119
+00:36:56,000 --> 00:36:59,000
+That was the beginning of self-respect for me.
+
+120
+00:36:59,000 --> 00:37:02,000
+And there were a hundred little things you never noticed
+
+121
+00:37:02,000 --> 00:37:04,000
+because they came naturally to you.
+
+122
+00:37:04,000 --> 00:37:08,000
+Things about standing up and taking off your hat and opening doors.
+
+123
+00:37:08,000 --> 00:37:10,000
+Oh, that was nothing.
+
+124
+00:37:10,000 --> 00:37:14,000
+Yes, things that showed you thought and felt about me
+
+125
+00:37:14,000 --> 00:37:17,000
+as if I was something better than a scullery maid.
+
+126
+00:37:17,000 --> 00:37:21,000
+Though, of course, I know you would have been just the same to a scullery maid
+
+127
+00:37:21,000 --> 00:37:23,000
+if she had been let in the drawing room.
+
+128
+00:37:23,000 --> 00:37:26,000
+You never took off your boots in the dining room when I was there.
+
+129
+00:37:26,000 --> 00:37:28,000
+Oh, you mustn't mind that.
+
+130
+00:37:28,000 --> 00:37:30,000
+Higgins takes off his boots all over the place.
+
+131
+00:37:30,000 --> 00:37:33,000
+I know. I'm not blaming him.
+
+132
+00:37:33,000 --> 00:37:35,000
+It is his way, isn't it?
+
+133
+00:37:35,000 --> 00:37:38,000
+But it made such a difference to me that you didn't do it.
+
+134
+00:37:38,000 --> 00:37:43,000
+You see, really and truly, apart from the things anyone could pick up
+
+135
+00:37:43,000 --> 00:37:47,000
+the dressing and the proper way of speaking and so on
+
+136
+00:37:47,000 --> 00:37:50,000
+the difference between a lady and a flower girl
+
+137
+00:37:50,000 --> 00:37:54,000
+is not how she behaves but how she is treated.
+
+138
+00:37:54,000 --> 00:37:57,000
+I shall always be a flower girl to Professor Higgins
+
+139
+00:37:57,000 --> 00:38:02,000
+because he always treats me as a flower girl and always will.
+
+140
+00:38:02,000 --> 00:38:04,000
+But I know I can be a lady to you
+
+141
+00:38:04,000 --> 00:38:08,000
+because you always treat me as a lady and always will.
+
+142
+00:38:08,000 --> 00:38:11,000
+Please don't grind your teeth, Henry.
+
+143
+00:38:11,000 --> 00:38:14,000
+Well, this is really very nice of you, Miss Doolittle.
+
+144
+00:38:14,000 --> 00:38:18,000
+I should like you to call me Eliza now, if you would.
+
+145
+00:38:18,000 --> 00:38:21,000
+Oh, thank you. Eliza, of course.
+
+146
+00:38:21,000 --> 00:38:25,000
+And I should like Professor Higgins to call me Miss Doolittle.
+
+147
+00:38:25,000 --> 00:38:27,000
+I'll see you damned first!
+
+148
+00:38:27,000 --> 00:38:29,000
+Henry, Henry.
+
+149
+00:38:29,000 --> 00:38:31,000
+Why don't you slang back at him?
+
+150
+00:38:31,000 --> 00:38:34,000
+Don't stand it. It would do him a lot of good.
+
+151
+00:38:34,000 --> 00:38:37,000
+I can't. I could have done it once.
+
+152
+00:38:37,000 --> 00:38:39,000
+But now I can't go back to it.
+
+153
+00:38:39,000 --> 00:38:43,000
+Last night, when I was wandering about, a girl spoke to me
+
+154
+00:38:43,000 --> 00:38:47,000
+and I tried to get back into the old way with her, but it was no use.
+
+155
+00:38:47,000 --> 00:38:52,000
+You told me, you know, that when a child is brought to a foreign country
+
+156
+00:38:52,000 --> 00:38:56,000
+it picks up the language in a few weeks and forgets its own.
+
+157
+00:38:56,000 --> 00:38:59,000
+Well, I am a child in your country.
+
+158
+00:38:59,000 --> 00:39:04,000
+I have forgotten my own language and can speak nothing but yours.
+
+159
+00:39:04,000 --> 00:39:07,000
+That's the real break-off with the corner of Tottenham Court Road.
+
+160
+00:39:07,000 --> 00:39:10,000
+Leaving Wimpole Street finishes it.
+
+161
+00:39:10,000 --> 00:39:13,000
+Oh, but you're coming back to Wimpole Street, aren't you?
+
+162
+00:39:13,000 --> 00:39:15,000
+You'll forgive Higgins?
+
+163
+00:39:15,000 --> 00:39:17,000
+Forgive? Will she bite George?
+
+164
+00:39:17,000 --> 00:39:21,000
+Let her go. Let her find out how she can get on without us.
+
+165
+00:39:21,000 --> 00:39:25,000
+She will relapse into the gutter in three weeks without me at her elbow.
+
+166
+00:39:25,000 --> 00:39:28,000
+He's incorrigible, Eliza.
+
+167
+00:39:28,000 --> 00:39:30,000
+You won't relapse, will you?
+
+168
+00:39:30,000 --> 00:39:32,000
+No, not now. Never again.
+
+169
+00:39:32,000 --> 00:39:34,000
+I have learnt my lesson.
+
+170
+00:39:34,000 --> 00:39:37,000
+I don't believe I could utter one of those old sounds if I tried.
+
+171
+00:39:37,000 --> 00:39:40,000
+Do you at all? What do you say to that?
+
+172
+00:39:40,000 --> 00:39:42,000
+Do a little?
+
+173
+00:39:42,000 --> 00:39:44,000
+Oh!
+
+174
+00:39:44,000 --> 00:39:46,000
+Ha! Just so!
+
+175
+00:39:46,000 --> 00:39:48,000
+How! How!
+
+176
+00:39:48,000 --> 00:39:50,000
+Victory! Victory!
+
+177
+00:39:50,000 --> 00:39:52,000
+Can you blame the girl?
+
+178
+00:39:52,000 --> 00:39:54,000
+Don't look at me like that, Eliza.
+
+179
+00:39:54,000 --> 00:39:57,000
+It ain't my fault. I've come into money.
+
+180
+00:39:57,000 --> 00:40:00,000
+You must have touched a millionaire this time, Dad.
+
+181
+00:40:00,000 --> 00:40:03,000
+I have, but I'm dressed something special today.
+
+182
+00:40:03,000 --> 00:40:06,000
+I'm going to St George's, Hanover Square.
+
+183
+00:40:06,000 --> 00:40:10,000
+Your stepmother is going to marry me!
+
+184
+00:40:10,000 --> 00:40:15,000
+You're going to let yourself down to marry that low, common woman?
+
+185
+00:40:15,000 --> 00:40:18,000
+He ought to, Eliza. Why has she changed her mind?
+
+186
+00:40:18,000 --> 00:40:21,000
+Intimidated, Governor. Intimidated!
+
+187
+00:40:21,000 --> 00:40:24,000
+Middle-class morality claims its victim.
+
+188
+00:40:24,000 --> 00:40:28,000
+Won't you put on your hat, Eliza, and come and see me turned off?
+
+189
+00:40:28,000 --> 00:40:31,000
+If the Colonel says I must, I...
+
+190
+00:40:31,000 --> 00:40:33,000
+I'll... I'll demean myself
+
+191
+00:40:33,000 --> 00:40:36,000
+and get insulted for my pains, like enough.
+
+192
+00:40:36,000 --> 00:40:39,000
+Don't be afraid. She never comes to words with anyone now, poor woman.
+
+193
+00:40:39,000 --> 00:40:43,000
+Respectability has broken all the spirit out of her.
+
+194
+00:40:43,000 --> 00:40:46,000
+Be kind to them, Eliza. Make the best of it.
+
+195
+00:40:46,000 --> 00:40:49,000
+Oh, well, just to show there's no ill feeling.
+
+196
+00:40:49,000 --> 00:40:51,000
+I'll be back in a moment.
+
+197
+00:40:51,000 --> 00:40:54,000
+I feel uncommon nervous about the ceremony, Colonel.
+
+198
+00:40:54,000 --> 00:40:56,000
+I wish you'd come and see me through it.
+
+199
+00:40:56,000 --> 00:40:58,000
+But you've been through it before, Matt.
+
+200
+00:40:58,000 --> 00:41:00,000
+You were married to Eliza's mother.
+
+201
+00:41:00,000 --> 00:41:02,000
+Who told you that, Colonel?
+
+202
+00:41:02,000 --> 00:41:04,000
+Well...
+
+203
+00:41:04,000 --> 00:41:07,000
+Nobody told me, but I concluded that...
+
+204
+00:41:07,000 --> 00:41:10,000
+No, no, no, that ain't the natural way, Colonel.
+
+205
+00:41:10,000 --> 00:41:12,000
+It's only the middle-class way.
+
+206
+00:41:12,000 --> 00:41:15,000
+My way was always the undeserving way.
+
+207
+00:41:15,000 --> 00:41:18,000
+But don't say nothing to Eliza. She don't know.
+
+208
+00:41:18,000 --> 00:41:20,000
+I always had a delicacy about telling her.
+
+209
+00:41:20,000 --> 00:41:24,000
+Quite right. We'll leave it so, if you don't mind.
+
+210
+00:41:24,000 --> 00:41:27,000
+And you'll come at the church, Colonel, and put me through straight?
+
+211
+00:41:27,000 --> 00:41:30,000
+With pleasure, as far as a bachelor can.
+
+212
+00:41:30,000 --> 00:41:32,000
+May I come, Mr Doolittle?
+
+213
+00:41:32,000 --> 00:41:34,000
+I should be very sorry to miss your wedding.
+
+214
+00:41:34,000 --> 00:41:38,000
+Oh, I should indeed be honoured by your condescension, ma'am.
+
+215
+00:41:38,000 --> 00:41:41,000
+And my poor old woman would take it as a tremendous compliment.
+
+216
+00:41:42,000 --> 00:41:46,000
+She's been very low, thinking of the happy days that are no more.
+
+217
+00:41:46,000 --> 00:41:49,000
+I'll order the carriage and get ready.
+
+218
+00:41:49,000 --> 00:41:51,000
+I shan't be more than 15 minutes.
+
+219
+00:41:51,000 --> 00:41:55,000
+Oh, Eliza, I'm going to the church to see your father married.
+
+220
+00:41:55,000 --> 00:41:58,000
+You had better come in the room with me.
+
+221
+00:41:58,000 --> 00:42:01,000
+Colonel Pickering can go on with the bridegroom.
+
+222
+00:42:01,000 --> 00:42:03,000
+Bridegroom?
+
+223
+00:42:03,000 --> 00:42:05,000
+Oh, what a word!
+
+224
+00:42:05,000 --> 00:42:08,000
+Makes a man realise his position somehow.
+
+225
+00:42:09,000 --> 00:42:14,000
+Before I go, Eliza, do forgive Higgins and come back to us.
+
+226
+00:42:14,000 --> 00:42:17,000
+I don't think Dad would allow me. Would you, Dad?
+
+227
+00:42:17,000 --> 00:42:20,000
+They played you off. Very cunning, Eliza.
+
+228
+00:42:20,000 --> 00:42:22,000
+Them two sportsmen.
+
+229
+00:42:22,000 --> 00:42:25,000
+If it had been only one of them, you could have nailed him.
+
+230
+00:42:25,000 --> 00:42:29,000
+But you see, there was two, and one of them chaperoned the other, as you might say.
+
+231
+00:42:29,000 --> 00:42:32,000
+It was artful of you, Colonel, but I bear you no malice.
+
+232
+00:42:32,000 --> 00:42:34,000
+I should have done the same myself.
+
+233
+00:42:34,000 --> 00:42:37,000
+I've been the victim of one woman after another all my life.
+
+234
+00:42:37,000 --> 00:42:40,000
+But don't grudge you two getting the better of Eliza.
+
+235
+00:42:40,000 --> 00:42:42,000
+I shan't interfere.
+
+236
+00:42:42,000 --> 00:42:44,000
+Right, it's time for us to go, Colonel.
+
+237
+00:42:44,000 --> 00:42:46,000
+So long, Henry.
+
+238
+00:42:46,000 --> 00:42:48,000
+See you in St George's, Eliza.
+
+239
+00:42:48,000 --> 00:42:50,000
+Do stay with us, Eliza.
+
+240
+00:42:55,000 --> 00:43:00,000
+Well, Eliza, you've had a bit of your own back, as you call it.
+
+241
+00:43:00,000 --> 00:43:03,000
+Have you had enough, and are you going to be reasonable,
+
+242
+00:43:03,000 --> 00:43:05,000
+or do you want any more?
+
+243
+00:43:05,000 --> 00:43:08,000
+You want me back only to pick up your slippers and put up with your tempers
+
+244
+00:43:08,000 --> 00:43:10,000
+and fetch and carry for you.
+
+245
+00:43:10,000 --> 00:43:12,000
+I haven't said I wanted you back at all.
+
+246
+00:43:12,000 --> 00:43:14,000
+No, indeed.
+
+247
+00:43:14,000 --> 00:43:16,000
+Then what are we talking about?
+
+248
+00:43:16,000 --> 00:43:18,000
+About you, not about me.
+
+249
+00:43:18,000 --> 00:43:22,000
+If you come back, I shall treat you just as I have always treated you.
+
+250
+00:43:22,000 --> 00:43:25,000
+I can't change my nature, and I don't intend to change my manners.
+
+251
+00:43:25,000 --> 00:43:28,000
+My manners are exactly the same as Colonel Pickering's.
+
+252
+00:43:28,000 --> 00:43:31,000
+That's not true. He treats a flower girl as if she was a duchess.
+
+253
+00:43:31,000 --> 00:43:34,000
+And I treat a duchess as if she was a flower girl.
+
+254
+00:43:34,000 --> 00:43:36,000
+I see. The same for everybody.
+
+255
+00:43:36,000 --> 00:43:38,000
+Just so.
+
+256
+00:43:38,000 --> 00:43:40,000
+Like father?
+
+257
+00:43:41,000 --> 00:43:44,000
+Without accepting the comparison at all points, Eliza,
+
+258
+00:43:44,000 --> 00:43:46,000
+it is quite true that your father is not a snob,
+
+259
+00:43:46,000 --> 00:43:49,000
+and that he will be quite at home in any station of life
+
+260
+00:43:49,000 --> 00:43:52,000
+to which his eccentric destiny may call him.
+
+261
+00:43:52,000 --> 00:43:56,000
+The great secret, Eliza, is not having bad manners or good manners
+
+262
+00:43:56,000 --> 00:43:58,000
+or any other particular sort of manners,
+
+263
+00:43:58,000 --> 00:44:03,000
+but having the same manner for all human souls.
+
+264
+00:44:03,000 --> 00:44:06,000
+In short, behaving as if you were in heaven,
+
+265
+00:44:06,000 --> 00:44:09,000
+where there are no third-class carriages,
+
+266
+00:44:09,000 --> 00:44:12,000
+and one soul is as good as another.
+
+267
+00:44:12,000 --> 00:44:16,000
+Amen. You are a born preacher.
+
+268
+00:44:16,000 --> 00:44:19,000
+The question is not whether I treat you rudely,
+
+269
+00:44:19,000 --> 00:44:22,000
+but whether you ever heard me treat anyone else better.
+
+270
+00:44:22,000 --> 00:44:24,000
+I don't care how you treat me.
+
+271
+00:44:24,000 --> 00:44:26,000
+I don't mind you swearing at me.
+
+272
+00:44:26,000 --> 00:44:28,000
+I don't mind a black eye.
+
+273
+00:44:28,000 --> 00:44:31,000
+I've had one before this, but I won't be passed over.
+
+274
+00:44:31,000 --> 00:44:34,000
+You talk about me as if I were a motor bus.
+
+275
+00:44:34,000 --> 00:44:37,000
+So you are a motor bus, all bounce and go,
+
+276
+00:44:37,000 --> 00:44:39,000
+and no consideration for anyone.
+
+277
+00:44:39,000 --> 00:44:43,000
+But I can do without you. Don't think I can't.
+
+278
+00:44:43,000 --> 00:44:46,000
+I know you can. I told you, you could.
+
+279
+00:44:46,000 --> 00:44:48,000
+Oh!
+
+280
+00:44:50,000 --> 00:44:53,000
+You never asked yourself, I suppose,
+
+281
+00:44:53,000 --> 00:44:56,000
+whether I could do without you.
+
+282
+00:44:56,000 --> 00:44:59,000
+Don't you try to get around me.
+
+283
+00:44:59,000 --> 00:45:01,000
+You'll have to do without me.
+
+284
+00:45:01,000 --> 00:45:03,000
+Oh, I can do without anybody.
+
+285
+00:45:03,000 --> 00:45:08,000
+I have my own soul, my own spark of divine fire.
+
+286
+00:45:08,000 --> 00:45:12,000
+But I shall miss you, Eliza.
+
+287
+00:45:12,000 --> 00:45:16,000
+I have learnt something from your idiotic notions.
+
+288
+00:45:16,000 --> 00:45:19,000
+I confess that, humbly and gratefully.
+
+289
+00:45:19,000 --> 00:45:26,000
+And I have grown accustomed to your voice and appearance.
+
+290
+00:45:26,000 --> 00:45:28,000
+I like them, rather.
+
+291
+00:45:28,000 --> 00:45:31,000
+Well, you have both of them on your gramophone
+
+292
+00:45:31,000 --> 00:45:33,000
+and in your book of photographs.
+
+293
+00:45:33,000 --> 00:45:36,000
+When you feel lonely without me, you can turn the machine on.
+
+294
+00:45:36,000 --> 00:45:38,000
+It's got no feelings to hurt.
+
+295
+00:45:38,000 --> 00:45:40,000
+I can't turn your soul on.
+
+296
+00:45:40,000 --> 00:45:42,000
+Leave me those feelings.
+
+297
+00:45:42,000 --> 00:45:45,000
+And you can take away the voice and the face.
+
+298
+00:45:45,000 --> 00:45:47,000
+They are not you.
+
+299
+00:45:47,000 --> 00:45:50,000
+Oh, you are a devil.
+
+300
+00:45:50,000 --> 00:45:52,000
+You can twist the heart in a girl
+
+301
+00:45:52,000 --> 00:45:55,000
+as easy as some could twist her arms to hurt her.
+
+302
+00:45:55,000 --> 00:45:57,000
+Mrs Pierce warned me.
+
+303
+00:45:57,000 --> 00:45:59,000
+Time and again she has wanted to leave you.
+
+304
+00:45:59,000 --> 00:46:02,000
+And you always got round her at the last minute.
+
+305
+00:46:02,000 --> 00:46:04,000
+And you don't care a bit for her.
+
+306
+00:46:04,000 --> 00:46:06,000
+And you don't care a bit for me.
+
+307
+00:46:06,000 --> 00:46:08,000
+I care for life, for humanity.
+
+308
+00:46:08,000 --> 00:46:11,000
+And you are a part of it that has come my way
+
+309
+00:46:11,000 --> 00:46:13,000
+and been built into my house.
+
+310
+00:46:13,000 --> 00:46:16,000
+What more can you or anyone ask?
+
+311
+00:46:16,000 --> 00:46:19,000
+I won't care for anybody that doesn't care for me.
+
+312
+00:46:19,000 --> 00:46:22,000
+Commercial principles, Eliza.
+
+313
+00:46:22,000 --> 00:46:24,000
+Like silly violets, isn't it?
+
+314
+00:46:24,000 --> 00:46:27,000
+Don't sneer at me. It's mean to sneer at me.
+
+315
+00:46:27,000 --> 00:46:30,000
+I have never sneered in my life.
+
+316
+00:46:30,000 --> 00:46:34,000
+Sneering doesn't become either the human face or the human soul.
+
+317
+00:46:34,000 --> 00:46:38,000
+I am expressing my righteous contempt for commercialism.
+
+318
+00:46:38,000 --> 00:46:41,000
+I don't and won't trade in affection.
+
+319
+00:46:41,000 --> 00:46:45,000
+You call me a brute because you couldn't buy a claim on me
+
+320
+00:46:45,000 --> 00:46:48,000
+by fetching my slippers and finding my spectacles.
+
+321
+00:46:48,000 --> 00:46:50,000
+You are a fool.
+
+322
+00:46:50,000 --> 00:46:54,000
+To think a woman fetching a man's slippers is a disgusting sight.
+
+323
+00:46:54,000 --> 00:46:56,000
+Did I ever fetch your slippers?
+
+324
+00:46:56,000 --> 00:46:59,000
+I think a good deal more of you for throwing them in my face.
+
+325
+00:46:59,000 --> 00:47:03,000
+No use slaving for me and then saying you want to be cared for.
+
+326
+00:47:03,000 --> 00:47:05,000
+Who cares for a slave?
+
+327
+00:47:05,000 --> 00:47:09,000
+If you come back, come back for the sake of good fellowship,
+
+328
+00:47:09,000 --> 00:47:11,000
+for you'll get nothing else.
+
+329
+00:47:11,000 --> 00:47:15,000
+You've had a thousand times as much out of me as I have out of you.
+
+330
+00:47:15,000 --> 00:47:18,000
+And if you dare to set up your little dog's tricks
+
+331
+00:47:18,000 --> 00:47:22,000
+by carrying slippers against my creation of a duchess, Eliza,
+
+332
+00:47:22,000 --> 00:47:25,000
+I'll slam the door in your silly face.
+
+333
+00:47:25,000 --> 00:47:28,000
+What did you do it for if you didn't care for me?
+
+334
+00:47:28,000 --> 00:47:30,000
+Why, because it was my job.
+
+335
+00:47:30,000 --> 00:47:33,000
+You never thought of the trouble it would make for me?
+
+336
+00:47:33,000 --> 00:47:35,000
+Would the world ever have been made
+
+337
+00:47:35,000 --> 00:47:38,000
+if its maker had been afraid of making trouble?
+
+338
+00:47:38,000 --> 00:47:41,000
+Making life means making trouble.
+
+339
+00:47:41,000 --> 00:47:44,000
+I'm no preacher. I don't notice things like that.
+
+340
+00:47:44,000 --> 00:47:46,000
+I notice that you don't notice me.
+
+341
+00:47:46,000 --> 00:47:48,000
+No, Eliza, you're an idiot.
+
+342
+00:47:48,000 --> 00:47:52,000
+I waste the treasures of my Miltonic mind by spreading them before you.
+
+343
+00:47:52,000 --> 00:47:56,000
+Once for all, understand that I go my way and do my work
+
+344
+00:47:56,000 --> 00:47:59,000
+without carrying tuppence what happens to either of us.
+
+345
+00:47:59,000 --> 00:48:03,000
+I am not intimidated like your father and your stepmother.
+
+346
+00:48:03,000 --> 00:48:06,000
+So you can come back or go to the devil, which you please.
+
+347
+00:48:06,000 --> 00:48:08,000
+What am I to come back for?
+
+348
+00:48:08,000 --> 00:48:11,000
+For the fun of it. That's why I took you on.
+
+349
+00:48:11,000 --> 00:48:15,000
+And you may throw me out tomorrow if I don't do everything you want me to?
+
+350
+00:48:15,000 --> 00:48:19,000
+Yes, and you may walk out tomorrow if I don't do everything you want me to.
+
+351
+00:48:19,000 --> 00:48:21,000
+And live with my stepmother?
+
+352
+00:48:21,000 --> 00:48:23,000
+Yes, or sell flowers.
+
+353
+00:48:23,000 --> 00:48:26,000
+Oh, if I only could go back to my flower basket,
+
+354
+00:48:26,000 --> 00:48:30,000
+I should be independent of both you and Father and all the world.
+
+355
+00:48:30,000 --> 00:48:33,000
+Why did you take my independence from me?
+
+356
+00:48:33,000 --> 00:48:35,000
+Why did I give it up?
+
+357
+00:48:35,000 --> 00:48:38,000
+I'm a slave now for all my fine clothes.
+
+358
+00:48:38,000 --> 00:48:40,000
+Not a bit.
+
+359
+00:48:40,000 --> 00:48:43,000
+I'll adopt you as my daughter and settle money on you, if you like.
+
+360
+00:48:43,000 --> 00:48:45,000
+Would you rather marry Pickering?
+
+361
+00:48:45,000 --> 00:48:47,000
+I wouldn't marry you if you asked me.
+
+362
+00:48:47,000 --> 00:48:49,000
+And you're nearer my age than what he is.
+
+363
+00:48:49,000 --> 00:48:51,000
+Than he is, not than what he is.
+
+364
+00:48:51,000 --> 00:48:54,000
+Oh, I'll talk as I like. You're not my teacher now.
+
+365
+00:48:54,000 --> 00:48:56,000
+I don't suppose Pickering would, though.
+
+366
+00:48:56,000 --> 00:48:59,000
+He's as confirmed an old bachelor as I am.
+
+367
+00:48:59,000 --> 00:49:02,000
+That's not what I want. And don't you think it.
+
+368
+00:49:02,000 --> 00:49:05,000
+I've always had chaps enough wanting me that way.
+
+369
+00:49:05,000 --> 00:49:08,000
+Freddy Hill writes to me twice and three times a day.
+
+370
+00:49:08,000 --> 00:49:10,000
+Sheets and sheets.
+
+371
+00:49:10,000 --> 00:49:12,000
+Damn his impudence.
+
+372
+00:49:12,000 --> 00:49:14,000
+He might do if he likes, poor lad.
+
+373
+00:49:14,000 --> 00:49:16,000
+And he does love me.
+
+374
+00:49:16,000 --> 00:49:18,000
+You have no right to encourage him.
+
+375
+00:49:18,000 --> 00:49:20,000
+Every girl has a right to be loved.
+
+376
+00:49:20,000 --> 00:49:22,000
+What? By fools like that?
+
+377
+00:49:22,000 --> 00:49:24,000
+Freddy's not a fool.
+
+378
+00:49:24,000 --> 00:49:26,000
+And if he's weak and poor and wants me,
+
+379
+00:49:26,000 --> 00:49:29,000
+maybe he'd make me happier than my betters
+
+380
+00:49:29,000 --> 00:49:31,000
+that bully me and don't want me.
+
+381
+00:49:31,000 --> 00:49:35,000
+Can he make anything of you? That's the point.
+
+382
+00:49:35,000 --> 00:49:37,000
+Perhaps I could make something of him.
+
+383
+00:49:37,000 --> 00:49:41,000
+But I never thought of us making anything of one another.
+
+384
+00:49:41,000 --> 00:49:44,000
+I never think of anything else.
+
+385
+00:49:44,000 --> 00:49:47,000
+I only want to be natural.
+
+386
+00:49:47,000 --> 00:49:51,000
+In short, you want me to be as infatuated about you as Freddy.
+
+387
+00:49:51,000 --> 00:49:53,000
+Is that it? No, I don't.
+
+388
+00:49:53,000 --> 00:49:56,000
+That's not the sort of feeling I want from you.
+
+389
+00:49:56,000 --> 00:49:59,000
+And don't you be too sure of yourself or of me.
+
+390
+00:49:59,000 --> 00:50:01,000
+I could have been a bad girl if I'd liked.
+
+391
+00:50:01,000 --> 00:50:05,000
+I've seen more of some things than you for all your learning.
+
+392
+00:50:05,000 --> 00:50:09,000
+Girls like me can drag gentlemen down to make love to them easy enough,
+
+393
+00:50:09,000 --> 00:50:11,000
+and they wish each other dead the next minute.
+
+394
+00:50:11,000 --> 00:50:13,000
+Of course they do.
+
+395
+00:50:13,000 --> 00:50:16,000
+Then what in thunder are we quarrelling about?
+
+396
+00:50:16,000 --> 00:50:18,000
+I want a little kindness.
+
+397
+00:50:18,000 --> 00:50:22,000
+I know I'm a common ignorant girl and you a book-learned gentleman,
+
+398
+00:50:22,000 --> 00:50:24,000
+but I'm not dirt under your feet.
+
+399
+00:50:24,000 --> 00:50:28,000
+What I'd done... What I did was not for the dresses and the taxis.
+
+400
+00:50:28,000 --> 00:50:33,000
+I did it because we were pleasant together and I came to care for you.
+
+401
+00:50:33,000 --> 00:50:35,000
+Not to want you to make love to me
+
+402
+00:50:35,000 --> 00:50:38,000
+and not forgetting the difference between us,
+
+403
+00:50:38,000 --> 00:50:40,000
+but more friendly-like.
+
+404
+00:50:40,000 --> 00:50:43,000
+Well, of course.
+
+405
+00:50:43,000 --> 00:50:45,000
+That's just how I feel.
+
+406
+00:50:45,000 --> 00:50:47,000
+And how Pickering feels.
+
+407
+00:50:47,000 --> 00:50:50,000
+Eliza, you're a fool.
+
+408
+00:50:50,000 --> 00:50:52,000
+That's not a proper answer to give me.
+
+409
+00:50:52,000 --> 00:50:56,000
+It's all you get until you stop being a common idiot.
+
+410
+00:50:56,000 --> 00:50:58,000
+If you're going to be a lady,
+
+411
+00:50:58,000 --> 00:51:00,000
+you'll have to give up feeling neglected
+
+412
+00:51:00,000 --> 00:51:02,000
+if the men you know don't spend half their time
+
+413
+00:51:02,000 --> 00:51:05,000
+snivelling over you and the other half giving you black eyes.
+
+414
+00:51:05,000 --> 00:51:08,000
+If you can't stand the coldness of my sort of life
+
+415
+00:51:08,000 --> 00:51:11,000
+and the strain of it, go back to the gutter.
+
+416
+00:51:11,000 --> 00:51:14,000
+Work till you are more a brute than a human being
+
+417
+00:51:14,000 --> 00:51:18,000
+and then cuddle and squabble and drink till you fall asleep.
+
+418
+00:51:18,000 --> 00:51:21,000
+Oh, it's a fine life, the life of the gutter.
+
+419
+00:51:21,000 --> 00:51:24,000
+It's real, it's warm, it's violent.
+
+420
+00:51:24,000 --> 00:51:26,000
+You can feel it through the thickest skin.
+
+421
+00:51:26,000 --> 00:51:31,000
+You can taste it and smell it without any training or any work.
+
+422
+00:51:31,000 --> 00:51:36,000
+Not like science and literature and classical music
+
+423
+00:51:36,000 --> 00:51:39,000
+and philosophy and art.
+
+424
+00:51:39,000 --> 00:51:41,000
+Ah...
+
+425
+00:51:41,000 --> 00:51:48,000
+You find me cold, unfeeling, selfish, don't you?
+
+426
+00:51:48,000 --> 00:51:50,000
+Very well.
+
+427
+00:51:50,000 --> 00:51:53,000
+Be off with you to the sort of people you like.
+
+428
+00:51:53,000 --> 00:51:56,000
+Marry some sentimental hog or other with lots of money
+
+429
+00:51:56,000 --> 00:51:59,000
+and a thick pair of lips to kiss you with
+
+430
+00:51:59,000 --> 00:52:01,000
+and a thick pair of boots to kick you with.
+
+431
+00:52:01,000 --> 00:52:03,000
+If you can't appreciate what you've got,
+
+432
+00:52:03,000 --> 00:52:06,000
+you'd better get what you can appreciate.
+
+433
+00:52:06,000 --> 00:52:08,000
+Oh, you are a cruel tyrant.
+
+434
+00:52:08,000 --> 00:52:11,000
+I can't talk to you. You turn everything against me.
+
+435
+00:52:11,000 --> 00:52:13,000
+I'm always in the wrong.
+
+436
+00:52:13,000 --> 00:52:16,000
+But you know very well all the time that you're nothing but a bully.
+
+437
+00:52:16,000 --> 00:52:19,000
+You know I can't go back to the gutter, as you call it,
+
+438
+00:52:19,000 --> 00:52:23,000
+and that I have no real friends in the world but you and the Colonel.
+
+439
+00:52:23,000 --> 00:52:27,000
+You know well I couldn't bear to live with a low common man after you two
+
+440
+00:52:27,000 --> 00:52:31,000
+and it's wicked and cruel of you to insult me by pretending I could.
+
+441
+00:52:31,000 --> 00:52:33,000
+You think I must go back to Wimpole Street
+
+442
+00:52:33,000 --> 00:52:35,000
+because I have nowhere else to go but fathers.
+
+443
+00:52:35,000 --> 00:52:38,000
+But don't you be too sure that you have me under your feet
+
+444
+00:52:38,000 --> 00:52:40,000
+to be trampled on and talked down.
+
+445
+00:52:40,000 --> 00:52:45,000
+I'll marry Freddy, I will, as soon as I'm able to support him.
+
+446
+00:52:45,000 --> 00:52:48,000
+Freddy? That young fool?
+
+447
+00:52:48,000 --> 00:52:51,000
+That poor devil who couldn't get a job as an errand boy,
+
+448
+00:52:51,000 --> 00:52:53,000
+even if he had the guts to try for it?
+
+449
+00:52:53,000 --> 00:52:58,000
+Do you not understand that I have made you consort for a king?
+
+450
+00:52:58,000 --> 00:53:01,000
+Freddy loves me. That makes him king enough for me.
+
+451
+00:53:01,000 --> 00:53:05,000
+I don't want him to work. He wasn't brought up to it as I was.
+
+452
+00:53:05,000 --> 00:53:07,000
+I'll go and be a teacher.
+
+453
+00:53:07,000 --> 00:53:10,000
+What will you teach in heaven's name?
+
+454
+00:53:10,000 --> 00:53:13,000
+What you taught me. I'll teach phonetics.
+
+455
+00:53:15,000 --> 00:53:19,000
+I'll offer myself as an assistant to that hairy-faced Hungarian.
+
+456
+00:53:19,000 --> 00:53:24,000
+What? That imposter? That humbug? That toadying ignoramus?
+
+457
+00:53:24,000 --> 00:53:27,000
+Teach him my methods, my discoveries.
+
+458
+00:53:27,000 --> 00:53:31,000
+You take one step in his direction and I'll wring your neck.
+
+459
+00:53:31,000 --> 00:53:33,000
+Do you hear?
+
+460
+00:53:33,000 --> 00:53:36,000
+Wring away? What do I care?
+
+461
+00:53:36,000 --> 00:53:38,000
+I knew you'd strike me someday.
+
+462
+00:53:41,000 --> 00:53:45,000
+Aha! Now I know how to deal with you.
+
+463
+00:53:45,000 --> 00:53:48,000
+What a fool I was not to think of it before.
+
+464
+00:53:48,000 --> 00:53:50,000
+You can't take away the knowledge you gave me.
+
+465
+00:53:50,000 --> 00:53:52,000
+You said I had a finer ear than you,
+
+466
+00:53:52,000 --> 00:53:56,000
+and I can be civil and kind to people which has more than you can.
+
+467
+00:53:56,000 --> 00:54:00,000
+Oh! Aha! That's done you, Henry Ickensley, yes?
+
+468
+00:54:00,000 --> 00:54:04,000
+Now I don't care that for your bullying and your big talk.
+
+469
+00:54:04,000 --> 00:54:06,000
+I'll advertise it in the papers
+
+470
+00:54:06,000 --> 00:54:09,000
+that your duchess is only a flower girl that you taught
+
+471
+00:54:09,000 --> 00:54:12,000
+and that she'll teach anybody to be a duchess just the same
+
+472
+00:54:12,000 --> 00:54:14,000
+in six months for a thousand guineas.
+
+473
+00:54:14,000 --> 00:54:17,000
+Oh, when I think of myself crawling under your feet
+
+474
+00:54:17,000 --> 00:54:20,000
+and being trampled on and called names
+
+475
+00:54:20,000 --> 00:54:24,000
+when all the time I had only to lift up my finger
+
+476
+00:54:24,000 --> 00:54:28,000
+to be as good as you, I could kick myself.
+
+477
+00:54:28,000 --> 00:54:32,000
+You damned impudent slut, you.
+
+478
+00:54:32,000 --> 00:54:35,000
+But it's better than snivelling,
+
+479
+00:54:35,000 --> 00:54:38,000
+better than fetching slippers and finding spectacles, isn't it?
+
+480
+00:54:38,000 --> 00:54:43,000
+By George, Eliza, I said I'd make a woman of you, and I have.
+
+481
+00:54:43,000 --> 00:54:46,000
+I like you like this.
+
+482
+00:54:46,000 --> 00:54:48,000
+Yes.
+
+483
+00:54:48,000 --> 00:54:53,000
+You can turn round and make up to me now that I'm not afraid of you
+
+484
+00:54:53,000 --> 00:54:55,000
+and couldn't do without you.
+
+485
+00:54:55,000 --> 00:54:57,000
+Of course I do, you little fool.
+
+486
+00:54:57,000 --> 00:55:00,000
+Five minutes ago you were like a millstone round my neck.
+
+487
+00:55:00,000 --> 00:55:05,000
+Now you're a tower of strength, a consort battleship.
+
+488
+00:55:05,000 --> 00:55:11,000
+You and I and Pickering will be three old bachelors together
+
+489
+00:55:11,000 --> 00:55:14,000
+instead of only two men and a silly girl.
+
+490
+00:55:14,000 --> 00:55:17,000
+The carriage is waiting, Eliza. Are you ready?
+
+491
+00:55:17,000 --> 00:55:20,000
+Quite. Is the Professor coming?
+
+492
+00:55:20,000 --> 00:55:23,000
+Certainly not. He can't behave himself in church.
+
+493
+00:55:23,000 --> 00:55:27,000
+He makes remarks out loud all the time on the clergyman's pronunciation.
+
+494
+00:55:27,000 --> 00:55:30,000
+Then I shall not see you again, Professor.
+
+495
+00:55:30,000 --> 00:55:32,000
+Goodbye.
+
+496
+00:55:32,000 --> 00:55:33,000
+Goodbye, dear.
+
+497
+00:55:33,000 --> 00:55:35,000
+Goodbye, Mother.
+
+498
+00:55:35,000 --> 00:55:39,000
+Oh, by the way, Eliza, order a ham and a Stilton cheese, will you?
+
+499
+00:55:39,000 --> 00:55:42,000
+And buy me a pair of reindeer gloves, number eights,
+
+500
+00:55:42,000 --> 00:55:44,000
+and a tie to match that new suit of mine.
+
+501
+00:55:44,000 --> 00:55:47,000
+That's Elon Binman's. You can choose the colour.
+
+502
+00:55:47,000 --> 00:55:51,000
+Number eights are too small for you if you want them lined with lamb's wool.
+
+503
+00:55:51,000 --> 00:55:55,000
+You have three new ties that you have forgotten in the drawer of your washstand.
+
+504
+00:55:55,000 --> 00:55:58,000
+Colonel Pickering prefers double Gloucester to Stilton.
+
+505
+00:55:58,000 --> 00:56:02,000
+I telephoned Mrs Pierce this morning not to forget the ham.
+
+506
+00:56:02,000 --> 00:56:07,000
+What you are to do without me I cannot imagine.
+
+507
+00:56:07,000 --> 00:56:11,000
+I'm afraid you've spoiled that girl, Henry.
+
+508
+00:56:11,000 --> 00:56:17,000
+I should be uneasy about you and her if she were less fond of Colonel Pickering.
+
+509
+00:56:20,000 --> 00:56:22,000
+Pickering? Nonsense!
+
+510
+00:56:22,000 --> 00:56:25,000
+She's going to marry Freddie!
+
+511
+00:56:25,000 --> 00:56:27,000
+Ha, ha, ha, ha, ha, ha!
+
+512
+00:56:27,000 --> 00:56:29,000
+Freddie!
+
+513
+00:56:29,000 --> 00:56:31,000
+Freddie!
+
+514
+00:56:31,000 --> 00:56:34,000
+Ha, ha, ha, ha, ha, ha!
+
+515
+00:56:42,000 --> 00:56:46,000
+In episode two of Pygmalion by George Bernard Shaw,
+
+516
+00:56:46,000 --> 00:56:49,000
+Higgins was played by Alastair McGowan,
+
+517
+00:56:49,000 --> 00:56:51,000
+Pickering by Hugh Fraser,
+
+518
+00:56:51,000 --> 00:56:54,000
+and Eliza by Morgana Robinson.
+
+519
+00:56:54,000 --> 00:56:56,000
+Doolittle was played by Al Murray,
+
+520
+00:56:56,000 --> 00:56:58,000
+Nepomuk by David Sturzica,
+
+521
+00:56:58,000 --> 00:57:01,000
+and Mrs Higgins by Sian Phillips.
+
+522
+00:57:01,000 --> 00:57:04,000
+Freddie Eynsford-Hill was played by Tom Forrester,
+
+523
+00:57:04,000 --> 00:57:07,000
+and a pal made by Charlotte Page.
+
+524
+00:57:07,000 --> 00:57:09,000
+The ambassador was John Dougal,
+
+525
+00:57:09,000 --> 00:57:12,000
+and the ambassador's wife, Sarah Ridgway.
+
+526
+00:57:12,000 --> 00:57:17,000
+Pygmalion was adopted and directed for radio by Emma Harding.
+
+
+

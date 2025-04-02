@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transcripts of "Castles in Spain", a BBC Radio 4 Full-cast Drama.</title>
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Custom styles */
+        .episode-content {
+            display: none; /* Hide all content initially */
+        }
+        /* Style for active nav link */
+        .nav-link.active {
+            background-color: #3b82f6; /* blue-500 */
+            color: white;
+        }
+        .nav-link.active i {
+             color: white; /* Ensure icon color matches text */
+        }
+        /* Add some basic styling for loading/error messages */
+        .loading-message, .error-message {
+            color: #6b7280; /* gray-500 */
+            font-style: italic;
+            padding: 1rem 0;
+        }
+        .error-message {
+            color: #ef4444; /* red-500 */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans antialiased">
+
+    <div class="flex flex-col lg:flex-row min-h-screen">
+        <aside class="w-full lg:w-64 bg-gray-100 p-4 lg:p-6 border-b lg:border-b-0 lg:border-r border-gray-200 flex-shrink-0">
+            <h2 class="text-lg font-semibold text-gray-700 mb-4 hidden lg:block">Navigation</h2>
+            <nav>
+                <ul class="space-y-2">
+                    <li>
+                        <a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out active" data-episode="1">
+                            <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> Episode 1
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="2">
+                            <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> Episode 2
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="3">
+                             <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> Episode 3
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="4">
+                            <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> Episode 4
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="5">
+                             <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> Episode 5
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="flex-grow p-6 lg:p-10 bg-white overflow-auto">
+
+            <div class="flex flex-col sm:flex-row items-start sm:items-end mb-6 pb-4 border-b border-gray-200">
+                <img src="castles_in_spain_cover.jpg"
+                     alt="Cover image for Castles in Spain"
+                     class="block w-[200px] h-[200px] rounded-lg shadow-md object-contain flex-shrink-0 mb-4 sm:mb-0 sm:mr-6">
+                     <h1 class="text-2xl lg:text-3xl font-bold text-gray-800">
+                    Transcripts of "Castles in Spain", a BBC Radio 4 Full-cast Drama.
+                </h1>
+                </div>
+
+            <div id="content-area">
+                <div id="episode-1" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
+                <div id="episode-2" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
+                <div id="episode-3" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
+                <div id="episode-4" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
+                <div id="episode-5" class="episode-content prose max-w-none prose-indigo lg:prose-lg"></div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const navLinks = document.querySelectorAll('.nav-link');
+            const contentSections = document.querySelectorAll('.episode-content');
+            const contentArea = document.getElementById('content-area'); // Container for all episode divs
+
+            // --- Function to Load and Render Markdown ---
+            async function loadEpisode(episodeNumber) {
+                const targetSection = document.getElementById(`episode-${episodeNumber}`);
+                if (!targetSection) return; // Exit if target div doesn't exist
+
+                // Hide all other sections first
+                contentSections.forEach(section => {
+                    if (section.id !== `episode-${episodeNumber}`) {
+                        section.style.display = 'none';
+                        section.innerHTML = ''; // Clear content of hidden sections
+                    }
+                });
+
+                // Show loading message
+                targetSection.innerHTML = '<p class="loading-message">Loading content...</p>';
+                targetSection.style.display = 'block'; // Make sure the section is visible
+
+                const filename = `episode_${episodeNumber}.txt`;
+
+                try {
+                    const response = await fetch(filename);
+
+                    if (!response.ok) {
+                        // Throw an error if the file fetch failed (e.g., 404 Not Found)
+                        throw new Error(`HTTP error! Status: ${response.status}`);
+                    }
+
+                    const markdownText = await response.text();
+
+                    // Render Markdown to HTML using Marked.js
+                    // Ensure marked.parse is available (check if Marked.js loaded)
+                    if (typeof marked === 'undefined' || typeof marked.parse !== 'function') {
+                        console.error("Marked.js library is not loaded correctly.");
+                        targetSection.innerHTML = '<p class="error-message">Error: Markdown library not loaded.</p>';
+                        return;
+                    }
+                    targetSection.innerHTML = marked.parse(markdownText);
+
+                } catch (error) {
+                    // Display error message if fetch or rendering fails
+                    console.error('Error loading or rendering episode:', error);
+                    targetSection.innerHTML = `<p class="error-message">Error loading content for Episode ${episodeNumber}. Please check if '${filename}' exists and the server is configured correctly.</p>`;
+                }
+            }
+
+            // --- Event Listener for Navigation Links ---
+            navLinks.forEach(link => {
+                link.addEventListener('click', function(event) {
+                    event.preventDefault(); // Prevent default link behavior
+
+                    const targetEpisode = this.getAttribute('data-episode');
+
+                    // Update active link style
+                    navLinks.forEach(nav => nav.classList.remove('active'));
+                    this.classList.add('active');
+
+                    // Load the selected episode content
+                    loadEpisode(targetEpisode);
+                });
+            });
+
+            // --- Initial Load ---
+            // Load Episode 1 content when the page loads
+            loadEpisode('1');
+             // Ensure the first link is marked active initially (redundant with HTML but safe)
+             const initialActiveLink = document.querySelector('.nav-link[data-episode="1"]');
+             if (initialActiveLink) {
+                 navLinks.forEach(nav => nav.classList.remove('active')); // Clear any just in case
+                 initialActiveLink.classList.add('active');
+             }
+
+        });
+    </script>
+
+</body>
+</html>
