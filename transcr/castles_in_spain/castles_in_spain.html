@@ -94,7 +94,7 @@
                 config.episodes.forEach((episode, index) => {
                     const li = document.createElement('li');
                     li.innerHTML = `<a href="#" class="nav-link flex items-center py-2 px-3 rounded text-gray-700 hover:bg-gray-200 hover:scale-105 transition-transform duration-150 ease-in-out" data-episode="${index + 1}">
-                                    <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> ${episode}
+                                    <i class="fas fa-file-lines w-5 mr-2 text-blue-600"></i> ${episode.title}
                                 </a>`;
                     navList.appendChild(li);
                 });
@@ -132,7 +132,7 @@
                     // Show/Update Previous Link
                     if (episodeNum > 1) {
                         const prevEpisodeNum = episodeNum - 1;
-                        prevLinkText.textContent = config.episodes[prevEpisodeNum - 1];
+                        prevLinkText.textContent = config.episodes[prevEpisodeNum - 1].title;
                         prevLink.setAttribute('data-target-episode', prevEpisodeNum);
                         prevLink.style.display = 'inline-flex';
                     }
@@ -140,7 +140,7 @@
                     // Show/Update Next Link
                     if (episodeNum < totalEpisodes) {
                         const nextEpisodeNum = episodeNum + 1;
-                        nextLinkText.textContent = config.episodes[nextEpisodeNum - 1];
+                        nextLinkText.textContent = config.episodes[nextEpisodeNum - 1].title;
                         nextLink.setAttribute('data-target-episode', nextEpisodeNum);
                         nextLink.style.display = 'inline-flex';
                     }
