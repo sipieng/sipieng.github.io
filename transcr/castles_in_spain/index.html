@@ -42,8 +42,16 @@
             position: -webkit-sticky;
             position: sticky;
             top: 0;
-            height: 100vh;
+            height: auto;
+            max-height: 100vh;
             overflow-y: auto;
+            z-index: 10;
+        }
+        main {
+            min-height: 100vh;
+            height: auto;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
         }
         /* 新增样式 */
         .title-container {
@@ -53,6 +61,16 @@
             gap: 2rem;
             margin-bottom: 2rem;
             width: 100%;
+        }
+        @media (max-width: 1024px) {
+            .title-container {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .cover-image {
+                max-width: 100%;
+                height: auto;
+            }
         }
         .cover-image {
             width: auto;
