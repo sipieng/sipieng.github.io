@@ -44,8 +44,7 @@ Mayer: Well, that would appear to be that.
 Rainsford: Perhaps if you wrote to him personally.
 Mayer: I don’t think I could do that, Mr Rainsford.
 Rainsford: Speaking as a businessman, I…
-Mayer: Please, Doctor.
-Mayer: I suppose this development has been on the cards since my mother died.
+Mayer: Please, Doctor. I suppose this development has been on the cards since my mother died.
 Rainsford: Are you saying that your stepfather disliked you?
 Mayer: I think that would probably be doing him an injustice.
 Rainsford: In what way?
@@ -78,7 +77,7 @@ Rainsford: I believe that without your stepfather’s financial support, you’l
 
 *[In the bookshop]*
 
-Teresa: Your Mayer?
+Teresa: You Mayer?
 Mayer: Mr Mayer.
 Teresa: You worried about your sexuality or something?
 Mayer: My problem is much less complicated. I simply want to close the shop.
