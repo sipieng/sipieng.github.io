@@ -1,6 +1,6 @@
 ### Introduction
 
-A bookseller turns P. I. in this intriguing five-part BBC radio thriller
+A bookseller turns P. I. in this intriguing five-part BBC radio thriller.
 
 Grahame Mayer specialises in selling books, not solving mysteries. So when he’s asked to play private investigator and track down a soldier from the Spanish Civil War, he wonders if it’s some sort of test – and if so, what will happen if he fails...
 
@@ -11,8 +11,8 @@ Will a series of postcards, some holy pictures and an encounter with a pop star 
 Created by Edward Boyd, who wrote for a number of BBC TV shows including Z-Cars, this enthralling crime drama stars Ray Brooks, with a supporting cast including Garard Green, John Hannah and Alexandra Mathie.
 
 
-Written by Edward Boyd
-Produced at BBC Scotland by Patrick Rayner
+Written by Edward Boyd.
+Produced at BBC Scotland by Patrick Rayner.
 
 Cast
 
@@ -37,4 +37,4 @@ Cast
 > Apollyon ...... Billy McColl
 > Dr Lovat ...... Roy Hanlon
 
-First broadcast BBC Radio 4, 25 October-20 November 1987.
+First broadcast on BBC Radio 4, 25 October-20 November 1987.

@@ -1,5 +1,5 @@
 {
-    "title": "Transcripts of \"Castles in Spain\", a BBC Radio 4 Full-cast Drama.",
+    "title": "Transcripts of \"Castles in Spain\", a BBC Radio 4 full-cast P.I. Detective series.",
     "episodes": [
         {
             "id": "intro",
@@ -26,6 +26,6 @@
             "title": "Episode 5"
         }
     ],
-    "coverImage": "cover.png",
+    "coverImage": "cover.jpg",
     "fileExtension": "md"
 }
