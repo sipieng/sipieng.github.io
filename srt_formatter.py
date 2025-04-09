@@ -64,7 +64,7 @@ def remove_timestamps(filepath):
 
 if __name__ == "__main__":
 
-    filepath = 'transcripts/brave.md'
+    filepath = 'transcripts/brave_new_world_2.txt'
     processed_text = remove_timestamps(filepath)
 
     if processed_text.startswith("Error:"):
