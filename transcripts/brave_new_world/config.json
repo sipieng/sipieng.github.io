@@ -1,0 +1,19 @@
+{
+    "title": "Transcripts of \"Brave New World\", A BBC Radio 4 full-cast dramatisation.",
+    "episodes": [
+        {
+            "id": "intro",
+            "title": "Introduction"
+        },
+        {
+            "id": "brave_new_world_1",
+            "title": "Episode 1"
+        },
+        {
+            "id": "brave_new_world_2",
+            "title": "Episode 2"
+        }
+    ],
+    "coverImage": "cover.jpg",
+    "fileExtension": "md"
+}
