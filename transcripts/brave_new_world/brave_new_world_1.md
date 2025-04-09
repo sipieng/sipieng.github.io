@@ -20,7 +20,7 @@ Dr. Shaw …… Nick Underwood
 
 *Brave New World by Aldous Huxley, dramatized for radio by Jonathan Holloway.*
 
-*[In the flat]*
+*[In Lenina's residence]*
 
 Lenina: Are you finished in the bathroom, Fanny?
 Fanny: Yes, it’s all yours.
@@ -32,9 +32,6 @@ Fanny: Use my removal cream.
 **Monologue by Helmholtz:**
 
 > We are in a small flat occupied by two young women, student workers who at the end of a normal day are getting themselves spruced up for the evening ahead. Listen to their happy voices. You would never guess what they do for a living, how they earn their bread, or how they expect to spend their leisure.
-> 
-
-*[In the flat]*
 
 Fanny: Tonight will be my 30th new man.
 Lenina: In how long?
@@ -52,8 +49,6 @@ Lenina: You’re only 19.
 > Let me introduce myself. My name is Helmholtz Watson. I’ve decided to write an account of what I now see as an irretrievably corrupted humanity. There might be a very slim chance people will return to a healthier way, and maybe that’s why it’s worth recording this. That’s what I tell myself. I don’t hold out much hope, but it is a way of perhaps preserving my own sanity just a little longer. Writing gives a reason not just to curl up with an overdose of the current neurotoxin of choice, Soma.
 > 
 
-*[In the flat]*
-
 Fanny: Dr. Wells says that women like me with wide pelvises ought to have their first simulated pregnancy when they’re 17.
 Lenina: I don’t usually like wide pelvises. Somehow you carry a 12.
 Fanny: So anyway, I’m really two years late, not two years early.
@@ -69,9 +64,6 @@ Fanny: Doesn’t bear thinking about.
 **Monologue by Helmholtz:**
 
 > All the signs were there, but people didn’t want to acknowledge them. Greed bent the post-Enlightenment West out of shape. A very few people owned the wealth, and they declared war on the intelligence of the populations of the developed world. America elected an amoral, aggressive gangster to the most powerful job anywhere. He let loose the dogs who turned civilization into a global cult of numbskull consumerism which would believe any rubbish as long as it justified breakneck consumption of sugar, drugs, and no-strings sex.
-> 
-
-*[In the flat]*
 
 Fanny: I assume you’re going out?
 Lenina: Yes.
@@ -90,7 +82,6 @@ Fanny: But dignified. That’s the best word.
 **Monologue by Helmholtz:**
 
 > Although it’s an everyday thing for us, I imagine you’ll be confused. You see, for us now, promiscuity is the rule, not the exception. And there has been a deliberate process of blurring the line which used to separate childhood and sex. Sex is a proven commercial proposition. Childhood doesn’t come anywhere near it in terms of profit.
-> 
 
 Lenina: To be honest, I haven’t been feeling very promiscuous lately. There are times when I’d just rather not be doing it.
 Fanny: But you’ve got to make the effort. Even if you don’t want to. After all, everyone…
@@ -99,9 +90,7 @@ Fanny: Careful who you say that to. You won’t exactly make yourself popular.
 
 **Monologue by Helmholtz:**
 
-> Of course, you started all this. Relationships require effort. And that kind of stamina got lost in your quick-fix world, where electronic devices enabled everyone to scan their immediate surroundings
-for the opportunity of a spot of spontaneous, blameless carnality.
-> 
+> Of course, you started all this. Relationships require effort. And that kind of stamina got lost in your quick-fix world, where electronic devices enabled everyone to scan their immediate surroundings for the opportunity of a spot of spontaneous, blameless carnality.
 
 Lenina: Do you know Bernard Marx?
 Fanny: You’re not serious.
@@ -110,14 +99,12 @@ Lenina: Why not? He’s an alpha plus. He’s asked me if I want to go on holida
 **Monologue by Helmholtz:**
 
 > I could go on about how your time got scared of global warming and disguised a land grab as a war between freedom and theocracy and how you pasted over the cracks with aggressive sentimentality. But I won’t.
-> 
 
 Lenina: His face doesn’t really fit. People say Bernard actually chooses to spend time on his own.
 
 **Monologue by Helmholtz:**
 
 > I’m fond of Bernard. He’s bright and sees through the gruesome gaiety of this world. He’s the closest thing to a friend that I have. But sadly, I don’t think he’s got much strength of character.
-> 
 
 Lenina: Well, I think he’s clever and perceptive.
 Fanny: There’s nothing attractive about Bernard Marx. He’s too small. He’s not at all handsome. He looks like he didn’t get enough oxygen when he was in the flask. He’s got funny little feet, like a girl. He knew perfectly well what small feet mean.
@@ -130,9 +117,7 @@ Fanny: Well, I’m stumped, but I suppose it’s better than sticking with Henry
 
 **Monologue by Helmholtz:**
 
-> I was an unthinking, career-orientated fellow once, an escalator squash champion who’d had 640 girls in four years. Then the veil fell from my eyes, the niggling sense of wrongness took over. And now I’m a secret dissident who wishes he wasn’t but can’t help it. There’s no mystery left in our brave new world. No chase, no alluring electrical charges skittering over the surface
-and tremulous, fractured conversations, human to human. No, it’s perfunctory and desperately, depressingly, aggressively dull!
-> 
+> I was an unthinking, career-orientated fellow once, an escalator squash champion who’d had 640 girls in four years. Then the veil fell from my eyes, the niggling sense of wrongness took over. And now I’m a secret dissident who wishes he wasn’t but can’t help it. There’s no mystery left in our brave new world. No chase, no alluring electrical charges skittering over the surface and tremulous, fractured conversations, human to human. No, it’s perfunctory and desperately, depressingly, aggressively dull!
 
 Fanny: Have you got some Soma you can lend me?
 Lenina: I don’t use it much these days. It takes the edge off.
@@ -141,7 +126,6 @@ Fanny: Really? I can’t imagine having sex without it. I can’t imagine anythi
 **Monologue by Helmholtz:**
 
 > You will by now have realised I’m talking to you from the future. 100 years into the future, as a matter of fact. Yes, and thank you for laying the foundations of the reality I have to live with every day. Yes, thanks a bunch.
-> 
 
 *[In the London Hatcheries]*
 
@@ -152,21 +136,18 @@ The Director: I used to, but not this year.
 **Monologue by Helmholtz:**
 
 > I am an academic too, but in the College of Emotional Engineering. I do a lot with media and conditioning, and mostly that involves making up stories, or more accurately, fictions, that convince our people they’re happy. I know how it all works from the rancid core outwards. Please stay with me as I reveal my world piece by rotten piece. Here is an eminent man giving his students a little tour.
-> 
 
 The Director: Please gather around, I don’t like shouting. We give some embryos less oxygen. That retards their development. The lower the grade, the less the oxygen. The first organ affected is the brain, after that the skeleton. At 70% of normal oxygen you get dwarfs. At less than 70, eyeless abominations.
 
 **Monologue by Helmholtz:**
 
 > Such a smooth voice. It makes the extremity of what he does somehow acceptable. It’s the same voice which only has to ask politely, and any of the young women he’s training will gladly hop into bed with him. Eugenics was, in your time, a dirty word, something the Nazis did. Now, it’s a respectable trade. You may ask, what does the hatchery hatch? The answer is human beings.
-> 
 
 The Director: We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries. Let’s move on up to the next floor.
 
 **Monologue by Helmholtz:**
 
 > How many goodly creatures are there here. How beauteous mankind is. A brave new world that has such people in it.
-> 
 
 The Director: Lowering the temperature in the incubators and bombarding them with x-rays leaves the grown human being with a horror of cold. These drones are predestined to emigrate to the tropics. They’re miners, acetate silk spinners and steel workers. And why would that be appropriate?
 Girl: They thrive on heat.
@@ -175,18 +156,14 @@ The Director: And that, in a nutshell, is the secret of happiness. Liking what y
 **Monologue by Helmholtz:**
 
 > Training teachers like me is high risk. They have to be educated to do their job, but they mustn’t be educated enough that they start to question how things are done. The tendency towards doubt must be neutralised. If not, the result is self-loathing, anti-social behaviour and ultimately the penal system.
-> 
 
 The Director: You can see from the sign this is where we condition the Alpha Plus intellectuals. We need them smart, but thinking along pretty narrow pathways. They must above all else be useful. So we show the Alpha toddlers paintings from the past. The names of novelists in big letters and other artefacts from dead history. While they’re taking all that in, we hit them with huge volumes of industrial sound and give them electric shocks through the carpet. They dance and cry like puppets. We do it repeatedly. For them, books and paintings and words become associated with pain. So they grow up safe from unhelpful ideas and ambitions, hating those useless old things all their lives. Hating what the old order called enquiry.
 
 **Monologue by Helmholtz:**
 
 > But it doesn’t work in every case. There isn’t even the old pretense of democracy anymore. If you resist, you risk either being exiled to Iceland or banished to live with feral savages on reserves in America’s far-flung places. The real world cloaks itself in a global system of ruthless nannying. Happiness and contentment are in force with the threat of physical violence. The state arranges us according to a biologically determined caste system. Sex is now a compulsory recreation. And the idea that children might be born to a human mother is just appallingly embarrassing. I hate this world. But I’m impotent before its massive, pillow-like ministry.
-> 
 
-*[Female echoing]*
-
-*Everyone belongs to everyone else. Everyone belongs to everyone else…*
+*[Female echoing]: Everyone belongs to everyone else. Everyone belongs to everyone else…*
 
 The Director: Apple, JP Morgan, Ford Motor Corporation, Walmart and Samsung. These great companies are now universally recognised as among the central figures in the creation of a stable social structure founded on commercial priorities of production and consumption.
 Girl: Director, I…
@@ -195,7 +172,6 @@ The Director: No more questions, I’m afraid. We’re on the clock now. 150 yea
 **Monologue by Helmholtz:**
 
 > The only relief from torment comes in the few seconds after I’ve woken up in the morning. That’s the pause between the dull ache of knowing something is wrong and the full-blown realisation of the truth. That the world is intellectually dead.
-> 
 
 The Director: We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women’s previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby
 crawling about in their insolence. And we’ve all been relieved of the horror of growing up in a home with a family.
@@ -207,7 +183,8 @@ The Director: I imagine it was terrifying.
 **Monologue by Helmholtz:**
 
 > The public mind is cauterised by reverse morality. Friendship, love, simplicity, they’re all drowned by enforced promiscuity, sensual and intellectual, self-love, materialism, fear of ageing, fear of wisdom.
-> 
+
+*[In Bernard's residence]*
 
 Bernard: Can you pass my towel, Henry? I’ve got soap in my eye.
 Henry: I like to give her a whack on the thigh when we’re at it. See the ripple travel across and the livid pink from the smack.
@@ -237,6 +214,8 @@ Bernard: People used to get cleverer as they got older. More mature. Wiser.
 Henry: I just want to buy stuff and muck about for the rest of my days, thank you very much. If you want to get on, you’ll muckle down and do the same. After all, what did the past give us? What did all that history add up to? Nine years’ war, massive damage right across the globe, chemical and biological destruction.
 Bernard: And now collaborative government across the entire world means we can spend, spend, spend anywhere. I feel utterly bored all the time.
 Henry: I enjoy being bored. I like it very much. Very much indeed.
+
+*[Somewhere outside]*
 
 Lenina: Guess what, Bernard?
 Bernard: Lenina! Where did you pop out from? I thought you’d be home by now.
@@ -278,10 +257,9 @@ Lenina: He just doesn’t like lateness. Says it’s rude. Well, let me know abo
 
 **Monologue by Helmholtz:**
 
-> My era takes no account of the price the planet pays for consumption. A small helicopter carves the heart out of the earth to make and run it. I don’t own one. Many do.
-Titanium gouged from the Far Eastern landscape. Aviation fuel sucked from seabeds laid waste.
-Atmospheric warming, raising sea levels so whole island communities just vanish.
-> 
+> My era takes no account of the price the planet pays for consumption. A small helicopter carves the heart out of the earth to make and run it. I don’t own one. Many do. Titanium gouged from the Far Eastern landscape. Aviation fuel sucked from seabeds laid waste. Atmospheric warming, raising sea levels so whole island communities just vanish.
+
+*[Somewhere outside]*
 
 Henry: Four minutes late, Lenina.
 Lenina: I’m sorry, Henry. I got held up chatting to your little friend, Bernard Marks.
@@ -295,33 +273,36 @@ Henry: Oh, history, art, ecology, veggie, it’s all the same. Being awkward for
 Lenina: Oh, keep your hair on. I only said I wasn’t keen on obstacle golf.
 Henry: Don’t tell me to keep my hair on. We have a social responsibility to play things like obstacle golf. Otherwise the inventors and the manufacturers would be out of business. Anyway, what kind of idiots would be entertained by simply hitting a ball and wandering after it?
 [ENGINE REVS]
+
+*[Outside the hangar]*
+
 Bernard: I asked my cocktail to be out of the hangar and ready by seven o’clock. What’s going on?
-xxx Sorry, Mr. Marks, it’s these Bokanovskys. Much worse than Epsilon’s. I have to take what’s quoted. Seven identicals. Small, black and hideous. As thick as two short planks. You tell them something and they forget before the words are out of your mouth.
+Heliport Man: Sorry, Mr. Marks, it’s these Bokanovskys. Much worse than Epsilon’s. I have to take what’s quoted. Seven identicals. Small, black and hideous. As thick as two short planks. You tell them something and they forget before the words are out of your mouth.
 
 **Monologue by Helmholtz:**
 
 > In your time, you very nearly achieved a situation where skin colour didn’t matter. But the wars and the migrations came, enemies were dehumanised through racial stereotypes, and the hatcheries shrunk brains accordingly.
-> 
 
-xxx Ah, of course. I don’t mean you’re like that. You’re an alpha, after all. Just...
+Heliport Man: Ah, of course. I don’t mean you’re like that. You’re an alpha, after all. Just...
 Bernard: a short one.
-xxx Are you going anywhere nice?
+Heliport Man: Are you going anywhere nice?
 Bernard: Nice? Are you saying you have to file a flight plan, which I don’t believe you do.
-xxx Well, actually, I do, Mr. Marks.
+Heliport Man: Well, actually, I do, Mr. Marks.
 Bernard: Then write down I’m going to Propaganda House on Fleet Street.
-xxx Ah. Whom shall you be seeing there?
+Heliport Man: Ah. Whom shall you be seeing there?
 Bernard: My friend Helmholtz Watson. He’s an alpha plus and he lectures in the Department of Writing at the College of Emotional Engineering.
-xxx Helm… Holtz?
+Heliport Man: Helm… Holtz?
 
 **Monologue by Helmholtz:**
 
 > It used to be only Americans who suffered from the poor spelling of semi-literate officials, meeting them at Ellis Island and scrawling approximations of their names. Now the whole world has to put up with the gaffes of petty low-caste officialdom.
-> 
 
 Bernard: You look a bit flummoxed.
-xxx Unusual name. I haven’t come across it before.
+Heliport Man: Unusual name. I haven’t come across it before.
 Bernard: Do you want me to write it down for you?
-xxx Would you? That would be very helpful.
+Heliport Man: Would you? That would be very helpful.
+
+*[In Helmholtz's office]*
 
 Bernard: Helmholtz, my dear fellow. How have you been?
 Helmholtz: Bernard. Kept myself this side of suicidal. Just when you think you’re getting immune to stupid people, one of them does something really awful. Last week they were changing the office furniture around and someone found an actual book tucked behind some shelves. Erewhon it was called. As you know, I love books. We were allowed restricted access to them when I was training. That’s when I started keeping a diary.
@@ -344,33 +325,35 @@ Bernard: I got a dressing down from the director of the hatchery yesterday. Well
 Helmholtz: Has she got a brain?
 Bernard: Yes, actually. I’m quite optimistic about her.
 
-[d]
-
-The Director: The New Mexico reservation, I see. Hmm. I went there once. Must have been your age. So, 25 years ago, then. Don’t look so worried.
+*[Flashback]*
+*The Director: The New Mexico reservation, I see. Hmm. I went there once. Must have been your age. So, 25 years ago, then. Don’t look so worried.*
 
 Bernard: And for a while he went rambling on, got lost in his own memories of trekking in the reservations.
 
-The Director: I had the same idea. I got a permit for New Mexico, took a girl to look at the savages.
-She was a beta minus. Yellow hair, particularly pneumatic. We peered at the feral savages and rode about on horses. And then she got lost up some revolting mountain.
+*[Flashback]*
+*The Director: I had the same idea. I got a permit for New Mexico, took a girl to look at the savages. She was a beta minus. Yellow hair, particularly pneumatic. We peered at the feral savages and rode about on horses. And then she got lost up some revolting mountain.*
 
 Helmholtz: What did he mean, lost?
 Bernard: He certainly let something slip there. Something he didn’t intend to.
 
-The Director: I went to sleep and she must have gone for a walk. When I woke up, she wasn’t there.
-And there was a huge thunderstorm. I searched and I shouted. She must have fallen into a gully or been eaten by a mountain lion. I dream about it sometimes.
+*[Flashback]*
+*The Director: I went to sleep and she must have gone for a walk. When I woke up, she wasn’t there. And there was a huge thunderstorm. I searched and I shouted. She must have fallen into a gully or been eaten by a mountain lion. I dream about it sometimes.*
 
 Helmholtz: Fancy that.
 Bernard: And then he seemed to come to. Woke up, sort of thing. Realised what he’d said.
 
-The Director: Don’t get the wrong idea. There was nothing wrong about our relationship. Nothing emotional or drawn out.
+*[Flashback]*
+*The Director: Don’t get the wrong idea. There was nothing wrong about our relationship. Nothing emotional or drawn out.*
 
 Bernard: And that’s when he made a pathetic attempt to turn the tables by telling me off.
 
-The Director: I think I ought to take this opportunity, Mr. Marks, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.
+*[Flashback]*
+*The Director: I think I ought to take this opportunity, Mr. Marks, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.*
 
 Helmholtz: So, he lost his marbles. Your director has an emotional side, then.
 
-The Director: If I hear any more about you behaving strangely, undermining the code that forbid monogamy and free thinking, I will transfer you to the hatchery sub-centre in Iceland.
+*[Flashback]*
+*The Director: If I hear any more about you behaving strangely, undermining the code that forbid monogamy and free thinking, I will transfer you to the hatchery sub-centre in Iceland.*
 
 Bernard: Oh, yes. He thought he’d given me a dressing down. But I banged the door behind me as I went.
 Helmholtz: And I imagine you swaggered a bit and whistled as you walked away down the corridor.
@@ -378,6 +361,8 @@ Bernard: I did, as a matter of fact.
 Helmholtz: Bernard! You were warning me just now, but if you’re not careful, that bastard’s going to start a witch hunt.
 Bernard: I’m not afraid.
 Helmholtz: And you should be. You’re fond of boasting and showing off your disdain to people who are too stupid to put up with it. Ah, at last. The lift’s here.
+
+*[In the lift]*
 
 Girl1: Professor Helmholtz, what a nice surprise.
 Helmholtz: Yes. Dolores, isn’t it?
@@ -406,7 +391,11 @@ Girl1: But the whole point was two on one.
 Helmholtz: I wasn’t suggesting a double date.
 Girl2: We were two of us, one of you.
 Girl1: But if you’d rather go out with your friend, well, it’s disappointing, but it’s your lookout, I’m afraid. See you around.
-Helmholtz: Thank you, I suppose. Goodbye, then. These young women. They’re too awful for words.
+Helmholtz: Thank you, I suppose. Goodbye, then.
+
+*[Girls leave]*
+
+Helmholtz: These young women. They’re too awful for words.
 Bernard: It’s Lenina Crown.
 Helmholtz: What?
 Bernard: The girl I’m taking to New Mexico. Her name is Lenina Crown.
@@ -433,7 +422,7 @@ Bernard: I’m convinced the DLH said more to me about New Mexico than he intend
 Helmholtz: I’ll keep my ears open.
 Bernard: Call me any time, day or night, if you hear Iceland and my name in the same sentence. Come on.
 
-(train rumbling)
+*[In the helicopter]*
 
 Lenina: So this really is a date, Bernard?
 Bernard: Yes. Well, yes. But a kind of preliminary date. A sort of mutual test drive before we go all the way to America together. Where shall we fly off to this afternoon?
@@ -491,12 +480,13 @@ Bernard: All right, then. We’ll go back.
 **Monologue by Helmholtz:**
 
 > I’ve always had a bad feeling about Bernard. He’s quite frail. Tends to jump at things without considering the consequences. I worry that he misreads me. I’ve got used to keeping a part of me sacred. The part that knows this world is a pale shadow of what it should be. And that they did things better in the past. I’ve learned not to take hold of the rope with which I might be permitted to hang myself. Bernard is an idealist. And an idealist is just one notch away from a martyr. Anyway, Bernard returned to London and took Lenina to his apartment. He was in a strange mood. Hysterical. Chugging down Soma like it was sweeties.
-> 
+
+*[In Bernard's residence]*
 
 Bernard: I know what’s supposed to happen now. I’ll put some music on. Something smooth and romantic. And then you’ll take hold of that diagonal zipper and slowly draw it down across your body. Then step out of your jumpsuit and walk to the bathroom, passing close enough that I can smell your scent.
 Lenina: Certainly.
 
-[unzipping]
+*[Lenina unzipping her clothes]*
 
 Bernard: I am trying to behave as one ought to.
 Lenina: Pardon?
@@ -517,7 +507,8 @@ Bernard: I’m in your hands.
 **Monologue by Helmholtz:**
 
 > Bernard kept his word. A week later, he and Lenina rocketed across the Atlantic Ocean and were soon exploring a huge, utterly tasteless room in a New Mexico mid-range casino hotel, all mustard-coloured plastic and brown Hessian walls.
-> 
+
+*[In the hotel]*
 
 The Warden: Ah, you’re here. I was waiting by the reception desk, but that’s fine.
 Bernard: What do you need to talk to us about?
@@ -568,6 +559,8 @@ The Warden: Don’t be alarmed, but it’s best you’re prepared.
 Bernard: What for?
 The Warden: When we fly in over the electric fence, you’ll see a lot of carcasses inside the wire. The animals never learn what the fence really is and what it will do to them. You will be staying at the Malpais Rest House. There will be a dance there this evening. I will take you there accompanied by my own sullen young savage. He’ll keep you amused. He’s funny, the way he pulls faces and jumps about. But don’t worry, we’ll be back here tomorrow. Just remember, they are perfectly tame. Savages won’t do you any harm. They’ve had plenty of torture and starvation when they act up.
 
+*[In the reservation]*
+
 Lenina: He absolutely stinks. He actually makes me feel sick.
 Bernard: Who does?
 Lenina: Our guide.
@@ -602,9 +595,7 @@ Lenina: Yuck. Please, Bernard. I’d rather you didn’t swear like that. You kn
 
 **Monologue by Helmholtz:**
 
-> I confess I was jealous when I heard the details of their trip. I’ve not been to the reservations.
-I’ve not seen the savages first hand. It’s a regret. I would love to have been exposed to that decrepitude, the smells, the way other lives can be led. Bernard has his fascination with science, but I would really have liked to have watched Lenina’s face, watched those layers of crudeness being peeled back.
-> 
+> I confess I was jealous when I heard the details of their trip. I’ve not been to the reservations. I’ve not seen the savages first hand. It’s a regret. I would love to have been exposed to that decrepitude, the smells, the way other lives can be led. Bernard has his fascination with science, but I would really have liked to have watched Lenina’s face, watched those layers of crudeness being peeled back.
 
 Lenina: What’s the matter with that? Is it a woman? She’s got a huge thing around her neck.
 Bernard: That’s called a goiter.
@@ -707,6 +698,8 @@ Bernard: Are you–are you all right? Is she–is she all right?
 John: Oh, she’s sick. The mezcal has made her sick.
 Linda: You look disgusted. And bored.
 John: We’re alone, you see. Utterly alone. We only have each other. We speak English to each other. And you are the first we have spoken to for many years.
+
+*[Somewhere outside the reservation]*
 
 Bernard: It’s very good of you to speak to me, Master Vermont.
 Mustapha: You’ve told your story to three levels of administrators so far this morning and frightened the wits out of each intern. Are you going to frighten the wits out of me?
