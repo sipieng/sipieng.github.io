@@ -2,6 +2,10 @@
     "title": "Transcripts of \"Castles in Spain\", a BBC Radio 4 Full-cast Drama.",
     "episodes": [
         {
+            "id": "cast",
+            "title": "Cast"
+        },
+        {
             "id": "episode_1",
             "title": "Episode 1"
         },
