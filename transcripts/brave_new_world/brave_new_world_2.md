@@ -566,11 +566,26 @@ Mustapha: Because you are too dangerous, even for Iceland. We have fenced off an
 
 **Recording from Lenina:**
 
-> I’m sorry I missed you, Mr Watson. Bernard thinks a lot of you. I hoped you might be able to help me. You see, I don’t know how I’m supposed to make any sense of this. Believe me, I really don’t understand. Beyond which zip-up boots to wear, or which of the men at the Soma fountain to go home with, I haven’t had to make a serious decision about any aspect of my life. I haven’t wanted to. Now this man comes along, turns me down, sends me into a spin. It was comfortable being wanted. Please make things normal again. I want not to want. Men came and went, literally, and each brought some kind of novelty, mostly and all. Confirmed I am special, beautiful, desirable, and I depilated. And deodorized and was worshipped and stroked and complimented. Then he comes along, this downright cheek of it. And suddenly everything I thought counted for nothing. Not for him, the tinted hair, foundation, long enameled nails. Not for him, the uplift bra and gossamer pants. No, he wants everything natural. Ugly, in other words. And he wanted me thinking, not blanked by Soma and sex. And I know he’s right, but he has stripped it all away. Oh, showed me how useless I am. And put nothing in its place. I am empty now. Lost, sad, and I can’t stand it. I ache for him, for myself, for everything. A lost soul, and even that word makes sense because I know it should exist, but for me it doesn’t. I can’t stand this. How can I be expected to? There’s no one who can...
+> I’m sorry I missed you, Mr. Watson. Bernard thinks a lot of you. I hoped you might be able to help me. You see, I don’t know how I’m supposed to make any sense of this. Believe me, I really don’t understand.
+> 
+> Beyond which zip-up boots to wear, or which of the men at the Soma fountain to go home with, I haven’t had to make a serious decision about any aspect of my life. I haven’t wanted to. Now this man comes along, turns me down, sends me into a spin. It was comfortable being wanted. Please make things normal again. I want not to want.
+> 
+> Men came and went, literally, and each brought some kind of novelty, mostly and all. Confirmed I am special, beautiful, desirable, and I depilated. And deodorized and was worshipped and stroked and complimented. Then he comes along, this downright cheek of it. And suddenly everything I thought counted for nothing.
+> 
+> Not for him, the tinted hair, foundation, long enameled nails. Not for him, the uplift bra and gossamer pants. No, he wants everything natural. Ugly, in other words. And he wanted me thinking, not blanked by Soma and sex.
+> 
+> And I know he’s right, but he has stripped it all away. Oh, showed me how useless I am. And put nothing in its place. I am empty now. Lost, sad, and I can’t stand it.
+> 
+> I ache for him, for myself, for everything. A lost soul, and even that word makes sense because I know it should exist, but for me it doesn’t. I can’t stand this. How can I be expected to? There’s no one who can...
 
 **Monologue by Helmholtz:**
 
-> So we managed to ruin her along with ourselves.An uncomplicated young woman became complex under the influence of a trio of men who asked questions which had no answers. Unfortunately, John’s personal reservation was not preserved in anonymity. Its chance discovery by a lorry driver and his son prompted a flurry of publicity and an invasion of suburban helicopterists. During the national holiday week, they descended on his bunker in swarms, always demanding the spectacle of his self-flagellation. “The whip! The whip!” they cried, and he obliged. Until, one day, he was discovered in the stairwell of his dark concrete abode. A headgear of gorse wound about his matted locks, a flow of dried blood staining his side where he’d clipped the sharp banister while dropping. Mr Savage turned very slowly at the end of a fifteen-foot rope, his martyrdom complete, his neck broken, his coitus achieved. His feet, like two unhurried compass needles, turning towards the right and after a few seconds unhurriedly turning back to the left. On hearing the news of John’s death, Lenina Crowne walked out into the road in Kensington Gore and lay down, waiting to be flattened by a bus. Then she resided in a care home in Wembley until throwing herself from a window when the nurse’s back was turned. At least, that was the story given out.
-> Goodbye, Lenina Crown.
+> So we managed to ruin her along with ourselves. An uncomplicated young woman became complex under the influence of a trio of men who asked questions which had no answers. Unfortunately, John’s personal reservation was not preserved in anonymity. Its chance discovery by a lorry driver and his son prompted a flurry of publicity and an invasion of suburban helicopterists.
+> 
+> During the national holiday week, they descended on his bunker in swarms, always demanding the spectacle of his self-flagellation. “The whip! The whip!” they cried, and he obliged. Until, one day, he was discovered in the stairwell of his dark concrete abode. A headgear of gorse wound about his matted locks, a flow of dried blood staining his side where he’d clipped the sharp banister while dropping. Mr Savage turned very slowly at the end of a fifteen-foot rope, his martyrdom complete, his neck broken, his coitus achieved. His feet, like two unhurried compass needles, turning towards the right and after a few seconds unhurriedly turning back to the left.
+> 
+> On hearing the news of John’s death, Lenina Crowne walked out into the road in Kensington Gore and lay down, waiting to be flattened by a bus. Then she resided in a care home in Wembley until throwing herself from a window when the nurse’s back was turned. At least, that was the story given out.
+> 
+> Goodbye, Lenina Crowne.
+> 
 > Goodbye, history.
->
