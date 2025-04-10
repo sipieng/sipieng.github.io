@@ -1,28 +1,8 @@
-# brave_new_world_1
-
-# brave_new_world_1
-
-### Cast
-
-> Bernard …… Justin Salinger
-Helmholtz …… Jonathan Coy
-Lenina …… Pippa Bennett-Warner
-The Director …… Anton Lesser
-John …… Milton Lopes
-Linda …… Karina Fernandez
-Fanny …… Nicola Ferguson
-Henry …… Sam Rix
-The Warden …… James Lailey
-Miss Keats …… Scarlett Brookes
-Mustapha Mond …… Sean Baker
-Girl …… Scarlett Brookes,
-Heliport Man …… Brian Protheroe
-Dr. Shaw …… Nick Underwood
-> 
+## Episode 1
 
 *Brave New World by Aldous Huxley, dramatised for radio by Jonathan Holloway.*
 
-*[In Lenina’s residence]*
+*[At Lenina’s residence]*
 
 Lenina: Are you finished in the bathroom, Fanny?
 Fanny: Yes, it’s all yours.
@@ -137,7 +117,7 @@ Fanny: Really? I can’t imagine having sex without it. I can’t imagine anythi
 > You will by now have realised I’m talking to you from the future. 100 years into the future, as a matter of fact. Yes, and thank you for laying the foundations of the reality I have to live with every day. Yes, thanks a bunch.
 > 
 
-*[In the London Hatcheries]*
+*[In the London Hatchery]*
 
 The Director: Come along now everyone, don’t dawdle. I enjoy these face-to-face sessions with the student body, but as the director of the London Hatcheries, I can’t hide myself away with you all afternoon.
 Boy: Sir, someone said you’d be teaching the electro-aversive therapy module yourself.
@@ -209,7 +189,7 @@ The Director: I imagine it was terrifying.
 > The public mind is cauterised by reverse morality. Friendship, love, simplicity, they’re all drowned by enforced promiscuity, sensual and intellectual, self-love, materialism, fear of ageing, fear of wisdom.
 > 
 
-*[In Bernard’s residence]*
+*[At Bernard’s residence]*
 
 Bernard: Can you pass my towel, Henry? I’ve got soap in my eye.
 Henry: I like to give her a whack on the thigh when we’re at it. See the ripple travel across and the livid pink from the smack.
@@ -513,7 +493,7 @@ Bernard: [SIGHS] All right, then. We’ll go back.
 > I’ve always had a bad feeling about Bernard. He’s quite frail. Tends to jump at things without considering the consequences. I worry that he misreads me. I’ve got used to keeping a part of me sacred. The part that knows this world is a pale shadow of what it should be. And that they did things better in the past. I’ve learned not to take hold of the rope with which I might be permitted to hang myself. Bernard is an idealist. And an idealist is just one notch away from a martyr. Anyway, Bernard returned to London and took Lenina to his apartment. He was in a strange mood. Hysterical. Chugging down Soma like it was sweeties.
 > 
 
-*[In Bernard’s residence]*
+*[At Bernard’s residence]*
 
 Bernard: I know what’s supposed to happen now. I’ll put some music on. Something smooth and romantic. And then you’ll take hold of that diagonal zipper and slowly draw it down across your body. Then step out of your jumpsuit and walk to the bathroom, passing close enough that I can smell your scent.
 Lenina: Certainly.
@@ -666,7 +646,7 @@ John: It’s not fair. They won’t let me be the sacrifice. I could have bled t
 Lenina: Well, you look like us, not them.
 John: And the Indians hate me because I’m fair. Linda is my mother. Don’t look at her like that, Cerdos.
 Bernard: How did you get here?
-Linda: I came from London a long time ago. (COUGHS) Before he was born with the bastardo who was his father.
+Linda: I came from London a long time ago. [COUGHS] Before he was born with the bastardo who was his father.
 John: She doesn’t like talking about it. My mother…
 Lenina: Oh, do you have to use that word?
 John: But that’s what she is, perra orgullosa.
@@ -686,7 +666,7 @@ Lenina: He wouldn’t have told you if he thought there was a chance you’d run
 Bernard: Unless he was convinced she’s dead. Maybe he tried to kill her. Maybe he thought it succeeded.
 Linda: He thought we died. Both of us. Him inside me. Si. Muerto.
 John: Otherwise he would not have had the courage to leave. My mother doesn’t talk about it because… ¿Le duele el corazón? It hurts her heart. She tries not to care about what Tomas did to her. But I see the sorrow in her face every day when the mezcal wears off. He must have been a bad man. Un hombre no natural. To run away and leave her alone. To fly away and leave me as well. There will be a judgement on him one day.
-Lenina: Come on, Bernard. The director of Hatcheries wouldn’t have partnered.
+Lenina: Come on, Bernard. The director of hatcheries wouldn’t have partnered.
 Bernard: Slept with.
 John: Covered.
 Lenina: Someone like that.
@@ -741,7 +721,7 @@ Bernard: That isn’t my intention.
 Mustapha: You only get one crack at speaking to the controller in Whitehall. I hope you’re going to impress me.
 Bernard: I have discovered an Englishwoman and her son living in squalor among the Indians of the Malpais reservation in New Mexico.
 Mustapha: It has been explained to me.
-Bernard: I have listened to their story and I believe the director of Hatcher is deliberately disposed of this woman, possibly attempted to kill her, in order to avoid a scandal.
+Bernard: I have listened to their story and I believe the director of hatcheries is deliberately disposed of this woman, possibly attempted to kill her, in order to avoid a scandal.
 Mustapha: I want the woman and the boy recovered to civilisation. I shall within the next 15 minutes send the necessary orders to the warden of the reservation. I would like you to proceed to the warden’s office. I expect you to accompany them back to London. And, Mr. Marks…
 Bernard: Yes?
 Mustapha: I also expect absolute discretion in all matters pertaining to this affair. You will report directly to me and no-one else. You will be given the number for my private line and I expect to hear from you every day. Good morning.
