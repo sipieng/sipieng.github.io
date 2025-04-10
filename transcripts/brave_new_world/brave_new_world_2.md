@@ -48,8 +48,7 @@ Dr Shaw: Well, that dosage will finish her off in a month or two. One day the re
 Bernard: But, Doctor, why are you giving her Soma if it’s shortening her life?
 Dr Shaw: She has no serious occupation, Mr Marx. No contribution to make. So, which is better? Keeping her sober and miserable, or giving her a few weeks of dreamscape holiday?
 Bernard: It’s not right.
-Dr Shaw: Well, first of all, it’s not for you to say. Unless you have a degree in clinical medicine secreted about your person. Do you? I thought not. Linda is a scientific resource. She’s a specimen we must study. We don’t get her kind any more. It’s true we can’t rejuvenate her, but I, for one, I’m very glad to have this opportunity to
-see an example of senility in a human being. Thank you so much for calling me in. Now, please, leave her to us, Mr Marx.
+Dr Shaw: Well, first of all, it’s not for you to say. Unless you have a degree in clinical medicine secreted about your person. Do you? I thought not. Linda is a scientific resource. She’s a specimen we must study. We don’t get her kind any more. It’s true we can’t rejuvenate her, but I, for one, I’m very glad to have this opportunity to see an example of senility in a human being. Thank you so much for calling me in. Now, please, leave her to us, Mr Marx.
 
 **Monologue by Helmholtz:**
 
