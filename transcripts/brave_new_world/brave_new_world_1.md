@@ -198,7 +198,7 @@ crawling about in their insolence...
 
 *[The crowd groaning]*
 
-The Director: And we’ve all been relieved of the horror of growing up in a home with a... *[speaking deliberately in a low voice]* ... family.
+The Director: And we’ve all been relieved of the horror of growing up in a home with a... [SPEAKING DELIVERATELY IN A LOW VOICE] ... family.
 
 *[The crowd laughing]*
 
@@ -262,7 +262,7 @@ Lenina: I’ve been in a funny mood lately.
 Bernard: Have you? I thought you were seeing Henry tonight.
 Lenina: And George Edsel was in the lift, too.
 Bernard: Why does that matter?
-Lenina: I couldn’t fancy someone with such big ears. *[laughing]* Sorry, I’m just teasing you. You mentioned you wanted me to come to New Mexico. Did you mean it?
+Lenina: I couldn’t fancy someone with such big ears. [LAUGHING] Sorry, I’m just teasing you. You mentioned you wanted me to come to New Mexico. Did you mean it?
 Bernard: Yes, of course. But look, I wouldn’t want to put Henry’s nose out of joint.
 Lenina: He’s not bothered.
 Bernard: Yes, he said the same to me.
@@ -356,29 +356,35 @@ Bernard: I got a dressing down from the director of the hatchery yesterday. Well
 Helmholtz: Has she got a brain?
 Bernard: Yes, actually. I’m quite optimistic about her.
 
-*[Flashback]The Director: The New Mexico reservation, I see. Hmm. I went there once. Must have been your age. So, 25 years ago, then. Don’t look so worried.*
+*[Flashback]*
+*The Director: The New Mexico reservation, I see. Hmm. I went there once. Must have been your age. So, 25 years ago, then. Don’t look so worried.*
 
 Bernard: And for a while he went rambling on, got lost in his own memories of trekking in the reservations.
 
-*[Flashback]The Director: I had the same idea. I got a permit for New Mexico, took a girl to look at the savages. She was a beta minus. Yellow hair, particularly pneumatic. We peered at the feral savages and rode about on horses. And then she got lost up some revolting mountain.*
+*[Flashback]*
+*The Director: I had the same idea. I got a permit for New Mexico, took a girl to look at the savages. She was a beta minus. Yellow hair, particularly pneumatic. We peered at the feral savages and rode about on horses. And then she got lost up some revolting mountain.*
 
 Helmholtz: What did he mean, lost?
 Bernard: He certainly let something slip there. Something he didn’t intend to.
 
-*[Flashback]The Director: I went to sleep and she must have gone for a walk. When I woke up, she wasn’t there. And there was a huge thunderstorm. I searched and I shouted. She must have fallen into a gully or been eaten by a mountain lion. I dream about it sometimes.*
+*[Flashback]*
+*The Director: I went to sleep and she must have gone for a walk. When I woke up, she wasn’t there. And there was a huge thunderstorm. I searched and I shouted. She must have fallen into a gully or been eaten by a mountain lion. I dream about it sometimes.*
 
 Helmholtz: Fancy that.
 Bernard: And then he seemed to come to. Woke up, sort of thing. Realised what he’d said.
 
-*[Flashback]The Director: Don’t get the wrong idea. There was nothing wrong about our relationship. Nothing emotional or drawn out.*
+*[Flashback]*
+*The Director: Don’t get the wrong idea. There was nothing wrong about our relationship. Nothing emotional or drawn out.*
 
 Bernard: And that’s when he made a pathetic attempt to turn the tables by telling me off.
 
-*[Flashback]The Director: I think I ought to take this opportunity, Mr. Marx, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.*
+*[Flashback]*
+*The Director: I think I ought to take this opportunity, Mr. Marx, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.*
 
 Helmholtz: So, he lost his marbles. Your director has an emotional side, then.
 
-*[Flashback]The Director: If I hear any more about you behaving strangely, undermining the code that forbid monogamy and free thinking, I will transfer you to the hatchery sub-centre in Iceland.*
+*[Flashback]*
+*The Director: If I hear any more about you behaving strangely, undermining the code that forbid monogamy and free thinking, I will transfer you to the hatchery sub-centre in Iceland.*
 
 Bernard: Oh, yes. He thought he’d given me a dressing down. But I banged the door behind me as I went.
 Helmholtz: And I imagine you swaggered a bit and whistled as you walked away down the corridor.
