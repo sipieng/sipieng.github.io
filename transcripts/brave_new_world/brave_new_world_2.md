@@ -216,7 +216,7 @@ Keats: Certainly not.
 Bernard: Ah, they’re coming back from a trip. Where have these pupils been, Miss Keats?
 Keats: Slough crematorium. Every pupil here spends two mornings a week in a hospital for the dying. They get chocolate ice cream if they see a death. They learn it’s good that old people die to make way for the young.
 John: When do you start them on Soma?
-Keats: It’s one of those insoluble conundrums. Most youngsters are taking small doses of Soma in the afternoons at nursery. But we all know Soma has a negative effect on brain development. Of course, that doesn’t matter as a general rule. But our boys and girls are special. We hold off on soma until physical development has done most of the work by itself. Around the age of 14 years. Now, if you’ll follow me, please.
+Keats: It’s one of those insoluble conundrums. Most youngsters are taking small doses of Soma in the afternoons at nursery. But we all know Soma has a negative effect on brain development. Of course, that doesn’t matter as a general rule. But our boys and girls are special. We hold off on Soma until physical development has done most of the work by itself. Around the age of 14 years. Now, if you’ll follow me, please.
 
 *[At Lenina’s residence]*
 
