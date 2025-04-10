@@ -56,7 +56,7 @@ Lenina: Henry Foster.
 Fanny: Why are you still going out with him?
 Lenina: It’s only been four months.
 Fanny: Four months is a lifetime. Surely you’re bored at sex with one man.
-Lenina: Well, no, actually. I’m not bored. I find it… comfortable. Comforting.
+Lenina: Well, no, actually. I’m not bored. I find it... comfortable. Comforting.
 Fanny: The director would be very upset. He and I did it last week.
 Lenina: Oh, yes? How was it?
 Fanny: Very dignified. Vigorous, mind you.
@@ -69,7 +69,7 @@ Fanny: But dignified. That’s the best word.
 > 
 
 Lenina: To be honest, I haven’t been feeling very promiscuous lately. There are times when I’d just rather not be doing it.
-Fanny: But you’ve got to make the effort. Even if you don’t want to. After all, everyone…
+Fanny: But you’ve got to make the effort. Even if you don’t want to. After all, everyone...
 Lenina: Belongs to everyone else. I have thought about it. Although I do find Henry a bit tedious, just having any old sex with any old man seems a bit pointless. Better the lover you know sort of thing.
 Fanny: Careful who you say that to. You won’t exactly make yourself popular.
 
@@ -135,11 +135,7 @@ The Director: Please gather around, I don’t like shouting. We give some embryo
 > Such a smooth voice. It makes the extremity of what he does somehow acceptable. It’s the same voice which only has to ask politely, and any of the young women he’s training will gladly hop into bed with him. Eugenics was, in your time, a dirty word, something the Nazis did. Now, it’s a respectable trade. You may ask, what does the hatchery hatch? The answer is human beings.
 > 
 
-The Director: We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries.
-
-*[The crowd laughing ]*
-
-The Director: Let’s move on up to the next floor.
+The Director: We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries. [CROWD LAUGHING] Let’s move on up to the next floor.
 
 **Monologue by Helmholtz:**
 
@@ -162,7 +158,7 @@ The Director: I can see from the sign this is where we condition the Alpha Plus 
 > But it doesn’t work in every case. There isn’t even the old pretense of democracy any more. If you resist, you risk either being exiled to Iceland or banished to live with feral savages on reserves in America’s far-flung places. The real world cloaks itself in a global system of ruthless nannying. Happiness and contentment are in force with the threat of physical violence. The state arranges us according to a biologically determined caste system. Sex is now a compulsory recreation. And the idea that children might be born to a human mother is just appallingly embarrassing. I hate this world. But I’m impotent before its massive, pillow-like ministry.
 > 
 
-*[Female echoing]: Everyone belongs to everyone else. Everyone belongs to everyone else…*
+*[FEMALE VOICES ECHOING]: Everyone belongs to everyone else. Everyone belongs to everyone else...*
 
 The Director: Apple, JP Morgan, Ford Motor Corporation, Walmart and Samsung. These great companies are now universally recognised as among the central figures in the creation of a stable social structure founded on commercial priorities of production and consumption.
 Girl: Director, I...
@@ -174,15 +170,7 @@ The Director: No more questions, I’m afraid. We’re on the clock now. 150 yea
 > 
 
 The Director: We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women’s previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby
-crawling about in their insolence...
-
-*[The crowd groaning]*
-
-The Director: And we’ve all been relieved of the horror of growing up in a home with a... [SPEAKING DELIVERATELY IN A LOW VOICE] ... family.
-
-*[The crowd laughing]*
-
-The Director: I imagine it was terrifying.
+crawling about in their insolence... [CROWD GROANING] And we’ve all been relieved of the horror of growing up in a home with a... [SPEAKING DELIVERATELY IN A LOW VOICE] FAMILY. [CROWD LAUGHING] I imagine it was terrifying.
 
 **Monologue by Helmholtz:**
 
@@ -259,8 +247,7 @@ Bernard: Well, let’s do something together, then.
 Lenina: No, I have to go. Henry gets cross if I keep him waiting.
 Bernard: I thought he wasn’t bothered.
 Lenina: He just doesn’t like lateness. Says it’s rude. Well, let me know about the dates in good time, won’t you, Bernard?
-
-*[Lenina leaves]*
+[LENINA LEAVES]
 
 **Monologue by Helmholtz:**
 
@@ -270,7 +257,7 @@ Lenina: He just doesn’t like lateness. Says it’s rude. Well, let me know abo
 *[In the helicopter]*
 
 Henry: Four minutes late, Lenina.
-Lenina: I’m sorry, Henry. I got held up chatting to your little friend, Bernard Marks.
+Lenina: I’m sorry, Henry. I got held up chatting to your little friend, Bernard Marx.
 Henry: Not really my friend. I mean, he’s all right and so on, but don’t run away with the impression we’re close.
 Lenina: Okay. But where are we going?
 Henry: Hold on. There’s the Red Bullet coming in from New York. It’s late, too. Those Atlantic services are always late. I thought we’d do a different route this time. Out over Notting Hill, Wilsdon, Ealing, the Hounslow-Feely studios. Then follow the Great West Road to Brentford, onto Stoke Poges for a round of obstacle golf.
@@ -280,13 +267,12 @@ Lenina: I bet you’ve never met one. Anyway, what’s being a vegetarian got to
 Henry: Oh, history, art, ecology, veggie, it’s all the same. Being awkward for the sake of it.
 Lenina: Oh, keep your hair on. I only said I wasn’t keen on obstacle golf.
 Henry: Don’t tell me to keep my hair on. We have a social responsibility to play things like obstacle golf. Otherwise the inventors and the manufacturers would be out of business. Anyway, what kind of idiots would be entertained by simply hitting a ball and wandering after it?
+[ENGINE REVS]
 
-*[ENGINE REVS]*
-
-*[OUTSIDE THE HANGAR]*
+*[Outside the hangar]*
 
 Bernard: I asked my cocktail to be out of the hangar and ready by seven o’clock. What’s going on?
-Heliport Man: Sorry, Mr. Marx, it’s these Bokanovskys. Much worse than Epsilon’s. I have to take what’s quoted. Seven identicals. Small, black and hideous. As thick as two short planks. You tell them something and they forget before the words are out of your mouth.
+Heliport Man: Sorry, Mr Marx, it’s these Bokanovskys. Much worse than Epsilon’s. I have to take what’s quoted. Seven identicals. Small, black and hideous. As thick as two short planks. You tell them something and they forget before the words are out of your mouth.
 
 **Monologue by Helmholtz:**
 
@@ -297,7 +283,7 @@ Heliport Man: Ah, of course, sir. I don’t mean you’re like that. You’re an
 Bernard: A short one.
 Heliport Man: Are you going anywhere nice?
 Bernard: Nice? Are you saying you have to file a flight plan, which I don’t believe you do.
-Heliport Man: Well, actually, I do, Mr. Marx.
+Heliport Man: Well, actually, I do, Mr Marx.
 Bernard: Then write down I’m going to Propaganda House on Fleet Street.
 Heliport Man: Ah. Whom shall you be seeing there?
 Bernard: My friend Helmholtz Watson. He’s an alpha plus and he lectures in the Department of Writing at the College of Emotional Engineering.
@@ -336,34 +322,34 @@ Bernard: I got a dressing down from the director of the hatchery yesterday. Well
 Helmholtz: Has she got a brain?
 Bernard: Yes, actually. I’m quite optimistic about her.
 
-*[Flashback]*
+*[FLASHBACK]*
 *The Director: The New Mexico reservation, I see. Hmm. I went there once. Must have been your age. So, 25 years ago, then. Don’t look so worried.*
 
 Bernard: And for a while he went rambling on, got lost in his own memories of trekking in the reservations.
 
-*[Flashback]*
+*[FLASHBACK]*
 *The Director: I had the same idea. I got a permit for New Mexico, took a girl to look at the savages. She was a beta minus. Yellow hair, particularly pneumatic. We peered at the feral savages and rode about on horses. And then she got lost up some revolting mountain.*
 
 Helmholtz: What did he mean, lost?
 Bernard: He certainly let something slip there. Something he didn’t intend to.
 
-*[Flashback]*
+*[FLASHBACK]*
 *The Director: I went to sleep and she must have gone for a walk. When I woke up, she wasn’t there. And there was a huge thunderstorm. I searched and I shouted. She must have fallen into a gully or been eaten by a mountain lion. I dream about it sometimes.*
 
 Helmholtz: Fancy that.
 Bernard: And then he seemed to come to. Woke up, sort of thing. Realised what he’d said.
 
-*[Flashback]*
+*[FLASHBACK]*
 *The Director: Don’t get the wrong idea. There was nothing wrong about our relationship. Nothing emotional or drawn out.*
 
 Bernard: And that’s when he made a pathetic attempt to turn the tables by telling me off.
 
-*[Flashback]*
-*The Director: I think I ought to take this opportunity, Mr. Marx, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.*
+*[FLASHBACK]*
+*The Director: I think I ought to take this opportunity, Mr Marx, to say I am not at all pleased with what I hear of your behaviour away from work. I have the good name of the hatchery centre to think of. High-caste staff must be above suspicion.*
 
 Helmholtz: So, he lost his marbles. Your director has an emotional side, then.
 
-*[Flashback]*
+*[FLASHBACK]*
 *The Director: If I hear any more about you behaving strangely, undermining the code that forbid monogamy and free thinking, I will transfer you to the hatchery sub-centre in Iceland.*
 
 Bernard: Oh, yes. He thought he’d given me a dressing down. But I banged the door behind me as I went.
@@ -403,9 +389,7 @@ Helmholtz: I wasn’t suggesting a double date.
 Girl2: We were two of us, one of you.
 Girl1: But if you’d rather go out with your friend, well, it’s disappointing, but it’s your lookout, I’m afraid. See you around.
 Helmholtz: Thank you, I suppose. Goodbye, then.
-
-*[Girls leave]*
-
+[GIRLS LEAVE]
 Helmholtz: These young women. They’re too awful for words.
 Bernard: It’s Lenina Crowne.
 Helmholtz: What?
@@ -463,7 +447,7 @@ Lenina: Bernard, there’s no need. We’ll be together by ourselves all night.
 Bernard: I mean somewhere majestic.
 Lenina: You really are completely off the scale, Bernard. Bonkers! But I like it. Do you want some Soma?
 Bernard: Absolutely not. I want to be wide awake with you, Lenina. Drinking in the sight and sound and smell of you.
-Lenina: I should run a mile. There’s something about you, Mr. Marx. Hold on. All that water, where are we?
+Lenina: I should run a mile. There’s something about you, Mr Marx. Hold on. All that water, where are we?
 Bernard: Heading out over the Thames estuary.
 Lenina: You mean we’re over the sea? Where are we going?
 Bernard: The North Sea. Look.
@@ -497,9 +481,7 @@ Bernard: [SIGHS] All right, then. We’ll go back.
 
 Bernard: I know what’s supposed to happen now. I’ll put some music on. Something smooth and romantic. And then you’ll take hold of that diagonal zipper and slowly draw it down across your body. Then step out of your jumpsuit and walk to the bathroom, passing close enough that I can smell your scent.
 Lenina: Certainly.
-
-*[Lenina unzipping her clothes]*
-
+[LENINA UNZIPPING HER CLOTHES]
 Bernard: I am trying to behave as one ought to.
 Lenina: Pardon?
 Bernard: You look lovely. Pneumatic.
@@ -533,7 +515,7 @@ Lenina: I think I can manage.
 Bernard: You mustn’t come to the reservation unless you really want to.
 Lenina: I’ve made up my mind, I think.
 Bernard: Very well, then.
-The Warden: All righty. So, ladies and gentlemen… Lady and gentle man. The Malpais reservation covers 560,000 square kilometres and is divided into four distinct sub-reservations. Each is surrounded by a high-tension wire fence.
+The Warden: All righty. So, ladies and gentlemen... Lady and gentle man. The Malpais reservation covers 560,000 square kilometres and is divided into four distinct sub-reservations. Each is surrounded by a high-tension wire fence.
 Bernard: Damn.
 Lenina: What’s the matter?
 Bernard: I had to telephone Helmholtz-Watson. I just remembered.
@@ -541,7 +523,7 @@ The Warden: The reservation is supplied with current by the Grand Canyon hydroel
 Bernard: Could we hurry up? I need to make a call.
 The Warden: Upwards of 5,000 kilometres of fencing run around each sub-reservation, carrying a current of 60,000 volts.
 Lenina: Really? How fascinating.
-Bernard: Yes, I’m…
+Bernard: Yes, I’m...
 The Warden: Touching the fence will result in instantaneous death. There is, as you will have gathered, no escape from a savage reservation.
 Bernard: I ought to make that call.
 The Warden: Perhaps I should say there is no escape for those born on the reservation. And remember, my dear young lady, in the reservation children are born.
@@ -553,7 +535,7 @@ Lenina: How fascinating.
 Bernard: My phone is ringing.
 The Warden: I can’t hear it.
 Bernard: It’s on vibrate. I’m just going to nip at you two to carry on.
-The Warden: Uh-huh. So…
+The Warden: Uh-huh. So...
 Helmholtz: Hello, Bernard. I thought you were in America.
 Bernard: I am, but I needed to call you. You said the other day you were going to dig around to find out where I really stand with the director of the London Hatcheries.
 Helmholtz: And I did. I was going to leave it until you got back, but I didn’t want to spoil your holiday.
@@ -628,16 +610,16 @@ Lenina: Oh, you must be kidding.
 
 Lenina: Smoke, burnt fat, sweat and a bucket of poo. You really know how to give a girl a good time. You should broadcast on the Holiday Channel.
 Bernard: I think this cave passes through the rock, and there, out there, there’s another terrace. Can you see? That’s where the drums have been taken. Can you feel the mood, the excitement?
-Lenina: Oh, there’s… there’s something nasty going on. Why am I not surprised? There’s blood.
+Lenina: Oh, there’s... there’s something nasty going on. Why am I not surprised? There’s blood.
 Bernard: They’re scourging him.
 Lenina: What?
 Bernard: I brought you here because I genuinely thought you’d be interested. Why don’t you give your brain a chance?
-Lenina: What the…?
+Lenina: What the...?
 Bernard: Just look at what’s going on. They’re whacking and scratching him in time with the drums. He’s a sacrifice. It’s a bloodletting.
 Lenina: I am not going out there. It’s a classic scapegoat situation.
-Bernard: One person is symbolically sacrificed to wipe away the sins of the community. It’s the… you know, the Jesus thing.
+Bernard: One person is symbolically sacrificed to wipe away the sins of the community. It’s the... you know, the Jesus thing.
 Lenina: Why are you talking like that? It’s disgusting.
-Bernard: Look at the way the boy’s welcoming it. Look at him smiling so proudly. He clearly doesn’t want to run away. It’s an honour. To… to perhaps make the crops grow, to perhaps show them he’s a man. Oh, it’s fascinating.
+Bernard: Look at the way the boy’s welcoming it. Look at him smiling so proudly. He clearly doesn’t want to run away. It’s an honour. To... to perhaps make the crops grow, to perhaps show them he’s a man. Oh, it’s fascinating.
 
 Linda: My son would have been a much better choice.
 John: The multitudinous seas incarnadine.
@@ -647,7 +629,7 @@ Lenina: Well, you look like us, not them.
 John: And the Indians hate me because I’m fair. Linda is my mother. Don’t look at her like that, Cerdos.
 Bernard: How did you get here?
 Linda: I came from London a long time ago. [COUGHS] Before he was born with the bastardo who was his father.
-John: She doesn’t like talking about it. My mother…
+John: She doesn’t like talking about it. My mother...
 Lenina: Oh, do you have to use that word?
 John: But that’s what she is, perra orgullosa.
 Bernard: No, please, don’t take offence. Please, please, carry on.
@@ -665,7 +647,7 @@ Bernard: He told me himself.
 Lenina: He wouldn’t have told you if he thought there was a chance you’d run into her.
 Bernard: Unless he was convinced she’s dead. Maybe he tried to kill her. Maybe he thought it succeeded.
 Linda: He thought we died. Both of us. Him inside me. Si. Muerto.
-John: Otherwise he would not have had the courage to leave. My mother doesn’t talk about it because… ¿Le duele el corazón? It hurts her heart. She tries not to care about what Tomas did to her. But I see the sorrow in her face every day when the mezcal wears off. He must have been a bad man. Un hombre no natural. To run away and leave her alone. To fly away and leave me as well. There will be a judgement on him one day.
+John: Otherwise he would not have had the courage to leave. My mother doesn’t talk about it because... ¿Le duele el corazón? It hurts her heart. She tries not to care about what Tomas did to her. But I see the sorrow in her face every day when the mezcal wears off. He must have been a bad man. Un hombre no natural. To run away and leave her alone. To fly away and leave me as well. There will be a judgement on him one day.
 Lenina: Come on, Bernard. The director of hatcheries wouldn’t have partnered.
 Bernard: Slept with.
 John: Covered.
@@ -722,6 +704,6 @@ Mustapha: You only get one crack at speaking to the controller in Whitehall. I h
 Bernard: I have discovered an Englishwoman and her son living in squalor among the Indians of the Malpais reservation in New Mexico.
 Mustapha: It has been explained to me.
 Bernard: I have listened to their story and I believe the director of hatcheries is deliberately disposed of this woman, possibly attempted to kill her, in order to avoid a scandal.
-Mustapha: I want the woman and the boy recovered to civilisation. I shall within the next 15 minutes send the necessary orders to the warden of the reservation. I would like you to proceed to the warden’s office. I expect you to accompany them back to London. And, Mr. Marks…
+Mustapha: I want the woman and the boy recovered to civilisation. I shall within the next 15 minutes send the necessary orders to the warden of the reservation. I would like you to proceed to the warden’s office. I expect you to accompany them back to London. And, Mr Marx...
 Bernard: Yes?
 Mustapha: I also expect absolute discretion in all matters pertaining to this affair. You will report directly to me and no-one else. You will be given the number for my private line and I expect to hear from you every day. Good morning.
