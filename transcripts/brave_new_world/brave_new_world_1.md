@@ -135,7 +135,7 @@ The Director: Please gather around, I don't like shouting. We give some embryos 
 > Such a smooth voice. It makes the extremity of what he does somehow acceptable. It's the same voice which only has to ask politely, and any of the young women he's training will gladly hop into bed with him. Eugenics was, in your time, a dirty word, something the Nazis did. Now, it's a respectable trade. You may ask, what does the hatchery hatch? The answer is human beings.
 > 
 
-The Director: We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries. [CROWD LAUGHING] Let's move on up to the next floor.
+The Director: We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries. [CROWD LAUGHS] Let's move on up to the next floor.
 
 **Monologue by Helmholtz:**
 
@@ -169,7 +169,7 @@ The Director: No more questions, I'm afraid. We're on the clock now. 150 years a
 > The only relief from torment comes in the few seconds after I've woken up in the morning. That's the pause between the dull ache of knowing something is wrong and the full-blown realisation of the truth - that the world is intellectually dead.
 > 
 
-The Director: We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women's previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby crawling about in their insolence… [CROWD GROANING] And we've all been relieved of the horror of growing up in a home with a… [SPEAKING DELIBERATELY IN A LOW VOICE] FAMILY. [CROWD LAUGHING] I imagine it was terrifying.
+The Director: We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women's previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby crawling about in their insolence… [CROWD GROANS] And we've all been relieved of the horror of growing up in a home with a… [SPEAKING DELIBERATELY IN A LOW VOICE] FAMILY. [CROWD LAUGHS] I imagine it was terrifying.
 
 **Monologue by Helmholtz:**
 
@@ -229,7 +229,7 @@ Lenina: I've been in a funny mood lately.
 Bernard: Have you? I thought you were seeing Henry tonight.
 Lenina: And George Edsel was in the lift, too.
 Bernard: Why does that matter?
-Lenina: I couldn't fancy someone with such big ears. [LAUGHING] Sorry, I'm just teasing you. You mentioned you wanted me to come to New Mexico. Did you mean it?
+Lenina: I couldn't fancy someone with such big ears. [LAUGHS] Sorry, I'm just teasing you. You mentioned you wanted me to come to New Mexico. Did you mean it?
 Bernard: Yes, of course. But look, I wouldn't want to put Henry's nose out of joint.
 Lenina: He's not bothered.
 Bernard: Yes, he said the same to me.
@@ -474,7 +474,7 @@ Bernard: [SIGHS] All right, then. We'll go back.
 
 Bernard: I know what's supposed to happen now. I'll put some music on. Something smooth and romantic. And then you'll take hold of that diagonal zipper and slowly draw it down across your body. Then step out of your jumpsuit and walk to the bathroom, passing close enough that I can smell your scent.
 Lenina: Certainly.
-[LENINA UNZIPPING HER CLOTHES]
+[LENINA UNZIPS HER CLOTHES]
 Bernard: I am trying to behave as one ought to.
 Lenina: Pardon?
 Bernard: You look lovely. Pneumatic.
