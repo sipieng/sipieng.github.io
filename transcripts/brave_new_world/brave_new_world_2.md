@@ -11,7 +11,7 @@ The Director: Now here’s a comforting thought. The hands of all our 4,000 elec
 > You are listening to the voice of the Director of the London Hatcheries as he addresses laboratory operatives in training. My name is Holmholtz Watson and I am speaking to you from the year 2116. You are all dead. Western civilization has won wars that left it morally bankrupt. Children are no longer born, they are grown in glass vessels. Their development interrupted so they’ll fit into a ruthless caste system. Sex is everywhere, is for recreation not procreation, and sits alongside obstacle golf as one of the essentials of a contented, emotionally retarded existence. Women are judged by their beauty and pneumatic performance in bed, their faces covered in orange colorant and eyebrows painted on. Fate continues throwing up those of us whose unfinished minds put us at odds with society. My friend Bernard Marx discovered that the Director of the London Bracket’s Human Hatcheries, who you just heard, tried to murder his lover and her illegal unborn child in New Mexico 20 years ago. Bernard has brought mother and grown-up son back to London. The boy, John, is now a noble, upright, clear-eyed savage. Bernard plans to use John as a weapon against the Director, and so prevent himself from being banished for his unconventional thinking.
 > 
 
-The Director: Efficiency, that is what provides the great certainty which guides our lives and makes us happy. We are, above all things, efficient in this hive of industry filled with the buzz of work. Everyone is busy, everything is in ordered motion. Under the microscopes, their long tails furiously lashing, spermatozoa are burrowing headfirst into eggs. Fertilized eggs are expanding, dividing, budding and breaking into whole populations of identical human beings.From the social predestination room, the escalators rumble down into our basement, where the eggs stew in blood surrogate and hormones. The clocks are right, everyone has a place, and everyone stays at their allotted station in life.
+The Director: Efficiency, that is what provides the great certainty which guides our lives and makes us happy. We are, above all things, efficient in this hive of industry filled with the buzz of work. Everyone is busy, everything is in ordered motion. Under the microscopes, their long tails furiously lashing, spermatozoa are burrowing headfirst into eggs. Fertilized eggs are expanding, dividing, budding and breaking into whole populations of identical human beings. From the social predestination room, the escalators rumble down into our basement, where the eggs stew in blood surrogate and hormones. The clocks are right, everyone has a place, and everyone stays at their allotted station in life.
 Bernard: Good morning, Director.
 The Director: Good morning, Mr Marx.
 Bernard: Good morning, everyone. You sent a message for me to meet you here, Director?
@@ -28,22 +28,22 @@ The Director: Oh, get off! Get off me!
 Linda: But I’m Linda. I’m Linda. You made me have a baby.
 The Director: Get away from me! I’ve never seen you before!
 Linda: Wasn’t my fault, Thomas. I always did my drill, didn’t I? Didn’t I?
-The Director: Get...
+The Director: Get…
 Linda: Didn’t I, you scum? I don’t know how you managed to get me pregnant, but you did.
 The Director: Stand back.
-Linda: It has been awful. But our son has been a great comfort to me all the same. John? John?
+Linda: It has been awful. But our son has been a great comfort to me all the same. John! John!
 John: You are my father. [CROWD LAUGHS] My father?
 The Director: I don’t know what you’re playing at, Mr Marx. I have no idea who these people are. This is not my son. I do not have a son. This is some plot you’ve cooked up to save your skin. Isn’t it, Mr Marx?
 
 **Monologue by Helmholtz:**
 
-> Bernard’s plan worked perfectly. He had humiliated the director of the London hatcheries and saved his own bacon in the process. But this wasn’t the only opportunity Bernard spotted. John the Savage was a ticket to a new future for the diminutive Bernard. He could become the young man’s keeper, agent, manager. Having already used the scandal of Linda’s pregnancy and attempted murder to make contact with Mustafa Mond, the resident world controller of Western Europe, he now had the ear of the most powerful man in England. What couldn’t he achieve if he set his mind to it? But Linda was a complication. Taken out of the dry New Mexican climate, she quickly deteriorated.
+> Bernard’s plan worked perfectly. He had humiliated the Director of the London Hatcheries and saved his own bacon in the process. But this wasn’t the only opportunity Bernard spotted. John the Savage was a ticket to a new future for the diminutive Bernard. He could become the young man’s keeper, agent, manager. Having already used the scandal of Linda’s pregnancy and attempted murder to make contact with Mustafa Mond, the resident world controller of Western Europe, he now had the ear of the most powerful man in England. What couldn’t he achieve if he set his mind to it? But Linda was a complication. Taken out of the dry New Mexican climate, she quickly deteriorated.
 > 
 
 *[In the hospital]*
 
-Dr Shaw: We’re giving her Soma instead of Mezcal. She’s taking as much as 20 grams a day.
-Bernard: What’s going to happen to her, Dr. Shaw?
+Dr Shaw: We’re giving her Soma instead of mezcal. She’s taking as much as 20 grams a day.
+Bernard: What’s going to happen to her, Dr Shaw?
 Dr Shaw: Well, that dosage will finish her off in a month or two. One day the respiratory centre will be paralysed. No more breathing. Finished. And a good thing, too. If we could rejuvenate her, it would be different, but she’s too far gone.
 Bernard: But, Doctor, why are you giving her Soma if it’s shortening her life?
 Dr Shaw: She has no serious occupation, Mr Marx. No contribution to make. So, which is better? Keeping her sober and miserable, or giving her a few weeks of dreamscape holiday?
@@ -52,19 +52,19 @@ Dr Shaw: Well, first of all, it’s not for you to say. Unless you have a degree
 
 **Monologue by Helmholtz:**
 
-> Bernard’s companion, Lenina Crowne, was still reeling from her trip to New Mexico and its vision of a different society that prized fidelity, and in which babies were born from their mother’s womb. She was confused. Her particular intelligence soaked up new possibilities while it went to war with her conditioning.
+> Bernard’s companion, Lenina Crowne, was still reeling from her trip to New Mexico and its vision of a different society that prized fidelity, and in which babies were born from their mother’s wombs. She was confused. Her particular intelligence soaked up new possibilities while it went to war with her conditioning.
 > 
 
 *[At Lenina’s residence]*
 
 Fanny: Bernard says I can meet your Savage next Wednesday. I assume that’s okay?
 Lenina: Why wouldn’t it be? Can you pass me that serum?
-Fanny: Well, you’ve been a bit touchy. I weren’t your friend. I’d say possessive.
+Fanny: Well, you’ve been a bit touchy. I weren’t your friend, I’d say possessive.
 Lenina: Why would I be possessive about John?
 Fanny: I had to have sex with Bernard in order to fix up the meeting with the Savage.
 Lenina: Well, I’m glad, Fanny. Maybe now you’ll admit you were wrong about Bernard.
 Fanny: I suppose so. Once he actually had me, I realized he’s all right. He’s quite a girl-getter, isn’t he?
-Lenina: Well, he didn’t used to be. In fact, that’s why I liked him. But everybody wants to meet him now. Bernard’s got invitations from the director of predestination, three assistant fertilizer generals, professors at the College of Emotional Engineering, the dean of Westminster Community Choir, and the list goes on and on.
+Lenina: Well, he didn’t used to be. In fact, that’s why I liked him. But everybody wants to meet him now. Bernard’s got invitations from the Director of Predestination, three assistant fertilizer generals, professors at the College of Emotional Engineering, the Dean of Westminster Community Choir, and the list goes on and on.
 Fanny: But what exactly does he do?
 Lenina: Bernard?
 Fanny: John the Savage.
@@ -72,7 +72,7 @@ Lenina: Well, he doesn’t have sex with people for a start.
 Fanny: What? Why on earth not?
 Lenina: Perhaps that’s why everyone is so drawn to him. He just won’t do it, refuses, saving himself or something.
 Fanny: I mean, what does he do at these sessions, performances?
-Lenina: John gives a sort of improvised lecture. He reads poetry, recites Shakespeare, spouts some unintelligible philosophy about abstinence and monks who once lived in caves. I mean, none of it adds up, but the audience like it. At one moment, they’re won over by his innocence, and the next they’re laughing at his crudity.
+Lenina: John gives a sort of improvised lecture. He reads poetry, recites Shakespeare, spouts some unintelligible philosophy about abstinence and monks who once lived in caves. None of it adds up, but the audience like it. At one moment, they’re won over by his innocence, and the next they’re laughing at his crudity.
 Fanny: Lenina, you like him, don’t you?
 Lenina: John?
 Fanny: Of course, John.
@@ -105,11 +105,9 @@ Helmholtz: You’re rid of the Director of the London Hatcheries.
 Bernard: Phew, eh?
 Helmholtz: Success has gone to your head.
 Bernard: That’s unkind.
-Helmholtz: Look what’s happened to you, Bernard. The system is sucking you in.
-You like having all the girls you want, and you’re not watching your back any more, which is a mistake.
+Helmholtz: Look what’s happened to you, Bernard. The system is sucking you in. You like having all the girls you want, and you’re not watching your back any more, which is a mistake.
 Bernard: What?
-Helmholtz: Fundamentally, John the Savage stands for everything society hates,
-but everyone is fascinated by his novelty. He’s sexy, but won’t have sex. But what’s certain is one day, quite suddenly, that’s all going to change. The world order requires John’s novelty should wear off, and when that happens, you’ll be left up the veritable creek without a paddle.
+Helmholtz: Fundamentally, John the Savage stands for everything society hates, but everyone is fascinated by his novelty. He’s sexy, but won’t have sex. But what’s certain is one day, quite suddenly, that’s all going to change. The world order requires John’s novelty should wear off, and when that happens, you’ll be left up the veritable creek without a paddle.
 Bernard: Why shouldn’t I just enjoy it?
 Helmholtz: Well, I suppose, if I’m truthful. I just feel deeply sorry at the way you’re suddenly reconciled with a world which up until now you’ve found revolting.
 Bernard: Wrong again. I’m no friend of the world order.
@@ -148,10 +146,10 @@ John: You see, you can’t help yourself, can you?
 
 **Monologue by Helmholtz:**
 
-> Compared to Mustapha Mond’s status, power and aura of danger, Bernard Marx is an ant. Why did Mond answer the telephone to Bernard when he called from New Mexico with news of the director of Hatchery’s crime? Mond must have spotted something he’d want to keep close, to hold tight. And he maintained regular contact with Bernard through these weeks and months.
+> Compared to Mustapha Mond’s status, power and aura of danger, Bernard Marx is an ant. Why did Mond answer the telephone to Bernard when he called from New Mexico with news of the director of hatchery’s crime? Mond must have spotted something he’d want to keep close, to hold tight. And he maintained regular contact with Bernard through these weeks and months.
 > 
 
-*[On the phone]*
+*[In Mustapha's office]*
 
 Bernard: You see, sir, the Savage shows surprisingly little astonishment at, or awe of, civilised inventions. This is partly due, no doubt, to the fact he has heard them talked about disparagingly by the woman Linda, his mother.
 Mustapha: I wish you hadn’t felt you needed to use that word.
@@ -161,7 +159,7 @@ Bernard: I don’t think he’s an idiot. He says he finds the infantile, civili
 Mustapha: I’m not sure I understand you.
 Bernard: I was trying to point out that…
 Mustapha: You seem to be under the misapprehension. We are engaged in some sort of debate, you and I.
-Bernard: What? I thought...
+Bernard: What? I… I thought…
 Mustapha: That we agree, all subjects, including the hard-won happiness of the civilised peoples of the earth, the close-order organisation of humanity by intelligence, talent and usefulness, the abandonment of emotion as a factor in relationships, that all these achievements are somehow open to scrutiny.
 Bernard: I am very sorry if I have caused offence.
 Mustapha: Not at all, Mr Marx. You’re not important enough to cause offence. There is no offence here. There is only what will prevail and what won’t. Have I made myself plain?
@@ -174,11 +172,11 @@ Guide: Welcome to the hatchery, Mr Savage.
 John: That’s not my name.
 Guide: I’m sorry? Not Mr John Savage, then?
 John: It is a name others have applied without asking my opinion. Please, simply call me John.
-Guide: Each process in the hatchery is carried out as far as possible by a single group of what we call twins. We use the word not because they come in pairs, but to represent their identical genetic make-up. The official title is a Bokanovsky group, named after the scientific pioneer who invented the process of their fertilisation. You will see 83 black Bokanovskys with broad, short skulls, practically noseless. Then deltas, taking care of cold pressing. 56 spindle chuckers, working on machines manipulated by 57 aquiline-featured, ginger-haired gammas. In the assembling rooms, the dynamos are being put together by two sets of gamma-plus dwarfs.
+Guide: Each process in the factory is carried out as far as possible by a single group of what we call twins. We use the word not because they come in pairs, but to represent their identical genetic make-up. The official title is a Bokanovsky group, named after the scientific pioneer who invented the process of their fertilisation. You will see 83 black Bokanovskys with broad, short skulls, practically noseless. Then deltas, taking care of cold pressing. 56 spindle chuckers, working on machines manipulated by 57 aquiline-featured, ginger-haired gammas. In the assembling rooms, the dynamos are being put together by two sets of gamma-plus dwarfs.
 John: Oh, brave new world.
 Guide: Pardon, Mr Savage?
 John: Oh, brave new world that has such people in it.
-Guide: John, Mr.. I assure you, Mr Savage, we hardly have any trouble with our workers. We tend to find...
+Guide: John, Mr… I assure you, Mr Savage, we hardly have any trouble with our workers. We tend to find…
 John: I’ve heard enough.
 Guide: Where are you going? I have the courtesy tour all set up and the refreshments.
 John: Please, where’s the nearest restroom? I’m going to be sick.
@@ -192,7 +190,7 @@ Bernard: Voice message to Mustafa Mond. Personal voice account. Security level t
 > Our society shares something very profound with those that have gone before. It is always necessary to educate a small slice of society to a much higher level than the rest. We need logical, trained, but creative minds at the helm. This carries a risk. I, and to a degree Bernard as well, we’re examples of what can go wrong. Train a mind to be inventive in a crisis and you risk that a minority will go rogue. That minority will be solitary, weep for the human condition and travel in a mist of melancholia.
 > 
 
-*[Somewhere unknown]*
+*[In Eton Upper School]*
 
 Keats: Good afternoon, Mr Savage, Mr Marx.
 Bernard: Good afternoon, Miss Keats.
@@ -213,7 +211,7 @@ Keats: Reservations are in locations characterized by unfavorable climatic or ge
 John: Where the conditions are cruel. Do your students read Shakespeare?
 Keats: Certainly not.
 Bernard: Ah, they’re coming back from a trip. Where have these pupils been, Miss Keats?
-Keats: Slough crematorium. Every pupil here spends two mornings a week in a hospital for the dying. They get chocolate ice cream if they see a death. They learn it’s good that old people die to make way for the young.
+Keats: Slough Crematorium. Every pupil here spends two mornings a week in a hospital for the dying. They get chocolate ice cream if they see a death. They learn it’s good that old people die to make way for the young.
 John: When do you start them on Soma?
 Keats: It’s one of those insoluble conundrums. Most youngsters are taking small doses of Soma in the afternoons at nursery. But we all know Soma has a negative effect on brain development. Of course, that doesn’t matter as a general rule. But our boys and girls are special. We hold off on Soma until physical development has done most of the work by itself. Around the age of 14 years. Now, if you’ll follow me, please.
 
@@ -227,10 +225,10 @@ Fanny: What’s he like?
 Lenina: In truth, far too thoughtful. It’s quite disconcerting.
 Fanny: No, what’s he like in bed?
 Lenina: I wouldn’t know, Fanny.
-Fanny: You’re joking. Surely you don’t mean that you...
+Fanny: You’re joking. Surely you don’t mean that you…
 Lenina: Look, it’s wonderful soaking up the attention that comes from being with Bernard and John Savage, but there hasn’t been anything physical between John and I. The first thing everyone wants to know is what’s it like to make love to a savage. And I have to say, I don’t know.
 Fanny: Frankly, that’s a bit of a shock.
-Lenina: Fanny, he’s terribly good looking and everything, but... Well, I...
+Lenina: Fanny, he’s terribly good looking and everything, but… Well, I…
 Fanny: Say it.
 Lenina: I’m going to take a risk and confide in you.
 Fanny: Go ahead.
@@ -263,7 +261,7 @@ John: Well, that woman. She was trying to get away from all those bad men. Then 
 Lenina: Yes, but she enjoyed it.
 John: Not to begin with.
 Lenina: But she realised how good it is that all those men wanted her.
-John: But the girl acting...
+John: But the girl acting…
 Lenina: Most people would say she’s lucky.
 John: Is that what you really think?
 Lenina: I don’t understand.
@@ -276,7 +274,7 @@ Lenina: I don’t know what you mean. Why do you go out of your way to spoil thi
 John: No, I don’t. It’s just that everything is around the wrong way. The world has turned backwards on itself. There’s no substance to anything. Everything is made to wither the instant someone buys it. And so you have to buy more of whatever it is. And permanence, ideas, they’ve become dirty words when they should be virtues.
 Lenina: Look, John. You’re terribly good looking. Do you want to take my clothes off or shall I do it for you? You’d rather I do it myself, would you? Do please say something.
 John: Please don’t take your clothes off, Lenina.
-Lenina: But John...
+Lenina: But John…
 John: I have an important speaking engagement tomorrow. At least Bernard says it’s important. I’m exhausted. I have to get some sleep. Take a couple of grams of Soma and we’ll just go to bed. I’ll lie next to you with a sheet between us. That’s all I want.
 
 **Monologue by Helmholtz:**
@@ -284,7 +282,7 @@ John: I have an important speaking engagement tomorrow. At least Bernard says it
 > I always thought it would be the likes of Mustapha Mond who’d end John’s celebrity and Bernard’s by default. I never thought John would reach breaking point first. That it would be his idealism, if you can call it that, his sense of right and wrong, what matters and what doesn’t, that would kill the golden goose.
 > 
 
-*[At Bernard's residence]*
+*[At Bernard’s residence]*
 
 Bernard: You can’t do this, John. There’s a huge crowd waiting for you.
 John: They’re wasting their time.
@@ -311,7 +309,7 @@ Bernard: Yes, indeed I have, Miss Keats.
 Keats: You and I have a physical understanding. Half the people here attended my school and everyone here deserves respect. And if I may say so, Mr Marx, to be feared.
 Bernard: As I said, Miss Keats, Mr Savage and I are very well aware of the status of this evening’s guests. I’m afraid I have to wrap things up now. Good night. Sorry. Sorry. Sorry.
 
-*[At Lenina's residence]*
+*[At Lenina’s residence]*
 
 [DOOR SLAMS]
 Lenina: Bernard, what’s happened?
@@ -329,7 +327,7 @@ Well, lots of women have gone with you who wouldn’t otherwise have done. John 
 Bernard: What?
 Fanny: I know someone who knows someone who was working in the embryo store at the time you were grown. She said it’s absolutely true about alcohol getting into your renal feed by mistake. You’re not even a real alpha, are you?
 
-*[At Bernard's residence]*
+*[At Bernard’s residence]*
 
 Bernard: So, John, you found your way back. I can smell it.
 John: What can you smell?
@@ -381,9 +379,9 @@ Fanny: Take as much Soma as you need to forget.
 Lenina: But every time I surface from it, I shall like him all over again.
 Fanny: I’m disgusted with myself for saying it and please don’t repeat it to anyone else. But I think perhaps you have to take him and make him yours. Just yours. Find out what that’s actually like.
 Lenina: Are you all right?
-Fanny: No, not at all. I think what you’re doing is stupid. But I understand it. I shouldn’t, but I do. I feel... I used to be contented. I’m going home now to soak in a bath with 100 milligrams of Soma and try to forget we’ve had this conversation.
+Fanny: No, not at all. I think what you’re doing is stupid. But I understand it. I shouldn’t, but I do. I feel… I used to be contented. I’m going home now to soak in a bath with 100 milligrams of Soma and try to forget we’ve had this conversation.
 
-*[At John's residence]*
+*[At John’s residence]*
 
 Lenina: You don’t seem very pleased to see me, John.
 John: Don’t I? Actually, I’m delighted. I’m sorry if I don’t look it. I’m falling in love with you. But it isn’t working like it should. It’s making me a bit sad. I don’t know why. It’s mad, but I’m frightened of having you because that means sooner or later I’ll lose you.
@@ -400,7 +398,7 @@ John: When you say opinion, you mean being difficult and spiky. We should be tog
 Lenina: I don’t understand that.
 John: I love you more than anything else in the world.
 Lenina: [KISSES JOHN] So, this is finally happening, is it? Help me with my zip.
-John: But, Lenina...
+John: But, Lenina…
 Lenina: Don’t worry, I’ll do it myself.
 [LENINA UNZIPPING]
 Lenina: Look, John. Look at my body. I’m generally considered not bad. What’s the matter, John?
@@ -427,8 +425,8 @@ John: Here. Impudent strumpet. These aren’t clothes. They are devices to take 
 Lenina: You can’t hit me. No one is allowed to hit me. What’s the matter with you? If you don’t want me, you could have just said so. You don’t have to throw me about the place.
 [PHONE RINGING]
 Lenina: Aren’t you going to answer?
-John: Hello... Yes, I am... Yes, Mr Savage speaking... But is it serious?
-Is she really bad? Where has she been taken? I’ll come at once... Three Park Lane. I’m coming. [PUT DOWN THE PHONE] Linda has had some kind of attack. Apparently, she’s unconscious. They’ve taken her to an address at Three Park Lane.
+John: Hello… Yes, I am… Yes, Mr Savage speaking… But is it serious?
+Is she really bad? Where has she been taken? I’ll come at once… Three Park Lane. I’m coming. [PUT DOWN THE PHONE] Linda has had some kind of attack. Apparently, she’s unconscious. They’ve taken her to an address at Three Park Lane.
 Lenina: That’s the Park Lane Hospital for the dying.
 
 *[In the hospital]*
@@ -455,19 +453,19 @@ Linda: Is that you? I know what you want. [COUGHS]
 John: Mother.
 Linda: I know what you want, naughty man. Are you going to be kind and give me something in return? You give me Mescal and I’ll be kind to you.
 John: Linda, it’s me, John, your son.
-Linda: [COUGHS] My son? No. Everyone belongs to everyone else. Where’s my lovely young Indian? Have you chased him away? Where’s my Mescal? [COUGHS]
+Linda: [COUGHS] My son? No. Everyone belongs to everyone else. Where’s my lovely young Indian? Have you chased him away? Where’s my Mescal? [COUGHS]
 John: What’s wrong, Linda? Sister! Quickly! Nurse! Quickly, I think I’ve killed her.
 Doctor: There are 30 children waiting to come in. They’re looking forward to seeing her die. Now you’ve spoiled it. They need to watch and laugh and get used to it. How can you be so selfish?
 John: How many goodly creatures are there here? How beauteous mankind is. Oh, brave new world.
 Doctor: No, no! Back into the corridor! No one said come in! This is fun. And like all good fun, it needs to be properly organized. And Mr Savage, oh yeah, I know who you are. And I’m not in the least little bit impressed, I’ll tell you that for nothing. Will you please just get out, now!
 
-*[At Bernard's residence]*
+*[At Bernard’s residence]*
 
 Helmholtz: You really have no idea where he’s gone?
 Bernard: I know he was here with Lenina, but I don’t know where either of them went. There’s a towel with blood on it in the bathroom.
 Helmholtz: We need to find him.
 [PHONE RINGING]
-Bernard: Ah, hello? Speaking... Are you sure it’s him?
+Bernard: Ah, hello? Speaking… Are you sure it’s him?
 Helmholtz: What’s going on?
 Bernard: And he did what? Please tell the police to be kind. He doesn’t understand much. It’s not aggression. Well, it is, sort of. Just keep him there for his own protection. I’m coming.
 Helmholtz: What’s happened?
@@ -483,7 +481,7 @@ Helmholtz: Good luck to him, I say.
 Bernard: John! Excuse me. Please move. John, come down.
 John: You’ve been numbed into a flat world of riddling sexual pleasure.
 Bernard: Excuse me. Thank you. Sorry.
-John: Wantonness, and regret...
+John: Wantonness, and regret…
 Bernard: I’ve closed the breaking point. They’ll kill him. Now, just pull him down off that wall and stamp him to death.
 Helmholtz: Out of my way. Move! Hello, John. I’m Helmholtz. I want to be free.
 Bernard: What?
@@ -508,7 +506,7 @@ Police: [THROUGH MEGAPHONE] My friends! Friends! Please, calm down. Everyone has
 > The police didn’t do exactly what they said they would. The public were taken away for re-indoctrination. The three of us were transferred to an hotel where we were watched while we showered and dressed in clothes provided. Those dreadful rayon clothes with zippers that are so depressingly uniform. We were then transferred by luxury vehicle to the office of Mustapha Mond, 500 feet above the streets of Westminster.
 > 
 
-*[In Mustapha's office]*
+*[In Mustapha’s office]*
 
 Mustapha: So you don’t much like civilisation, Mr Savage?
 John: Savage is not my name.
@@ -524,7 +522,7 @@ and sometimes voices.
 John: You’ve read it too? I thought nobody knew that book in England.
 Mustapha: It’s prohibited to all but the select few. The children you met at Eton Upper School.
 John: Miss Keats said they didn’t teach it.
-Mustapha: She lied. The ideas. The way of seeing it encourages... It’s very dangerous. Only for the trusted few. That was always the case with art before we became properly civilised. Oh, 100 years ago some people pretended it was for the hurt but they still kept it mostly to themselves. Anyway, no one’s officially allowed it. It’s prohibited by law. But as I make the law, I can speak it out loud. You, on the other hand, do not make the law. And so can’t...
+Mustapha: She lied. The ideas. The way of seeing it encourages… It’s very dangerous. Only for the trusted few. That was always the case with art before we became properly civilised. Oh, 100 years ago some people pretended it was for the hurt but they still kept it mostly to themselves. Anyway, no one’s officially allowed it. It’s prohibited by law. But as I make the law, I can speak it out loud. You, on the other hand, do not make the law. And so can’t…
 Helmholtz: But why prohibit it?
 Mustapha: Mr Watson, have you forgotten your teacher training? Your rules of intellectual exclusion? You are an employee of an academic institution
 and within that world, if you want to remain employed it is required that you do as you are told while maintaining the facade of free thinking. But free thinking must not actually intrude, must it? That’s the iron truth behind the rayon fist.
@@ -560,12 +558,13 @@ Mustapha: Because you are too dangerous, even for Iceland. We have fenced off an
 
 **Monologue by Helmholtz:**
 
-> Once we were aboard the plane for Iceland, I took the opportunity to check my messages. I listened to a long, rambling speech from Bernard’s girlfriend. She sounded... broken.
+> Once we were aboard the plane for Iceland, I took the opportunity to check my messages. I listened to a long, rambling speech from Bernard’s girlfriend. She sounded… broken.
 > 
 
 **Recording from Lenina:**
 
-> I’m sorry I missed you, Mr. Watson. Bernard thinks a lot of you. I hoped you might be able to help me. You see, I don’t know how I’m supposed to make any sense of this. Believe me, I really don’t understand.
+> I’m sorry I missed you, Mr. Watson. Bernard thinks a lot of you. I hoped you might be able to help me. You see, I don’t know how I’m supposed to make any sense of this. Believe me, I really don’t understand.
+> 
 > 
 > Beyond which zip-up boots to wear, or which of the men at the Soma fountain to go home with, I haven’t had to make a serious decision about any aspect of my life. I haven’t wanted to. Now this man comes along, turns me down, sends me into a spin. It was comfortable being wanted. Please make things normal again. I want not to want.
 > 
@@ -575,11 +574,13 @@ Mustapha: Because you are too dangerous, even for Iceland. We have fenced off an
 > 
 > And I know he’s right, but he has stripped it all away. Oh, showed me how useless I am. And put nothing in its place. I am empty now. Lost, sad, and I can’t stand it.
 > 
-> I ache for him, for myself, for everything. A lost soul, and even that word makes sense because I know it should exist, but for me it doesn’t. I can’t stand this. How can I be expected to? There’s no one who can...
+> I ache for him, for myself, for everything. A lost soul, and even that word makes sense because I know it should exist, but for me it doesn’t. I can’t stand this. How can I be expected to? There’s no one who can…
+> 
 
 **Monologue by Helmholtz:**
 
 > So we managed to ruin her along with ourselves. An uncomplicated young woman became complex under the influence of a trio of men who asked questions which had no answers. Unfortunately, John’s personal reservation was not preserved in anonymity. Its chance discovery by a lorry driver and his son prompted a flurry of publicity and an invasion of suburban helicopterists.
+> 
 > 
 > During the national holiday week, they descended on his bunker in swarms, always demanding the spectacle of his self-flagellation. “The whip! The whip!” they cried, and he obliged. Until, one day, he was discovered in the stairwell of his dark concrete abode. A headgear of gorse wound about his matted locks, a flow of dried blood staining his side where he’d clipped the sharp banister while dropping. Mr Savage turned very slowly at the end of a fifteen-foot rope, his martyrdom complete, his neck broken, his coitus achieved. His feet, like two unhurried compass needles, turning towards the right and after a few seconds unhurriedly turning back to the left.
 > 
@@ -588,3 +589,4 @@ Mustapha: Because you are too dangerous, even for Iceland. We have fenced off an
 > Goodbye, Lenina Crowne.
 > 
 > Goodbye, history.
+>
