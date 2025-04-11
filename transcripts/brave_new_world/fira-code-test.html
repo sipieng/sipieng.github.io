@@ -6,9 +6,19 @@
     <title>Fira Code 连字效果测试</title>
     <link href="https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css" rel="stylesheet">
     <style>
+        @font-face {
+            font-family: 'Fira Code';
+            src: url('https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/woff2/FiraCode-Regular.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
         body {
             font-family: 'Fira Code', monospace;
             font-feature-settings: "liga" 1, "calt" 1;
+            -webkit-font-feature-settings: "liga" 1, "calt" 1;
+            -moz-font-feature-settings: "liga" 1, "calt" 1;
+            -ms-font-feature-settings: "liga" 1, "calt" 1;
             max-width: 800px;
             margin: 0 auto;
             padding: 2rem;
@@ -26,6 +36,11 @@
             padding: 1rem;
             border-radius: 4px;
             overflow-x: auto;
+            font-family: 'Fira Code', monospace;
+            font-feature-settings: "liga" 1, "calt" 1;
+            -webkit-font-feature-settings: "liga" 1, "calt" 1;
+            -moz-font-feature-settings: "liga" 1, "calt" 1;
+            -ms-font-feature-settings: "liga" 1, "calt" 1;
         }
         h1, h2 {
             color: #333;
@@ -38,8 +53,11 @@
         .with-ligatures, .without-ligatures {
             flex: 1;
         }
-        .without-ligatures {
+        .without-ligatures pre {
             font-feature-settings: "liga" 0, "calt" 0;
+            -webkit-font-feature-settings: "liga" 0, "calt" 0;
+            -moz-font-feature-settings: "liga" 0, "calt" 0;
+            -ms-font-feature-settings: "liga" 0, "calt" 0;
         }
     </style>
 </head>
