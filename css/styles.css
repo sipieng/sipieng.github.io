@@ -76,7 +76,7 @@ main {
 }
 /* Reset markdown styles */
 .prose {
-    font-family: 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'JetBrains Mono', 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
 }
 .prose h1, .prose h2, .prose h3, .prose h4 {
     font-family: 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
