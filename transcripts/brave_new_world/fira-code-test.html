@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fira Code 连字效果测试</title>
+    <link href="https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Fira Code', monospace;
+            font-feature-settings: "liga" 1, "calt" 1;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+        .test-section {
+            margin: 2rem 0;
+            padding: 1rem;
+            background: #f5f5f5;
+            border-radius: 8px;
+        }
+        pre {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .comparison {
+            display: flex;
+            gap: 2rem;
+            margin: 1rem 0;
+        }
+        .with-ligatures, .without-ligatures {
+            flex: 1;
+        }
+        .without-ligatures {
+            font-feature-settings: "liga" 0, "calt" 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Fira Code 连字效果测试</h1>
+    
+    <div class="test-section">
+        <h2>1. 箭头和比较运算符</h2>
+        <div class="comparison">
+            <div class="with-ligatures">
+                <h3>启用连字</h3>
+                <pre>
+=> 箭头
+-> 箭头
+<- 箭头
+>= 大于等于
+<= 小于等于
+                </pre>
+            </div>
+            <div class="without-ligatures">
+                <h3>禁用连字</h3>
+                <pre>
+=> 箭头
+-> 箭头
+<- 箭头
+>= 大于等于
+<= 小于等于
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>2. 等号和不等号</h2>
+        <div class="comparison">
+            <div class="with-ligatures">
+                <h3>启用连字</h3>
+                <pre>
+== 等于
+!= 不等于
+=== 严格等于
+!== 严格不等于
+                </pre>
+            </div>
+            <div class="without-ligatures">
+                <h3>禁用连字</h3>
+                <pre>
+== 等于
+!= 不等于
+=== 严格等于
+!== 严格不等于
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>3. 其他常见编程符号</h2>
+        <div class="comparison">
+            <div class="with-ligatures">
+                <h3>启用连字</h3>
+                <pre>
+&& 逻辑与
+|| 逻辑或
+++ 自增
+-- 自减
+:: 作用域解析
+                </pre>
+            </div>
+            <div class="without-ligatures">
+                <h3>禁用连字</h3>
+                <pre>
+&& 逻辑与
+|| 逻辑或
+++ 自增
+-- 自减
+:: 作用域解析
+                </pre>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
