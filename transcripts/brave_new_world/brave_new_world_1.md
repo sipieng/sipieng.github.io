@@ -1,6 +1,6 @@
 ## EPISODE 1
 
-*Brave New World by Aldous Huxley, dramatised for radio by Jonathan Holloway.*
+Brave New World by Aldous Huxley, dramatised for radio by Jonathan Holloway.
 
 **AT LENINA'S RESIDENCE**
 
@@ -11,7 +11,7 @@
 **LENINA:** I think I'm getting hairier.
 **FANNY:** Use my removal cream.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > We are in a small flat occupied by two young women, student workers who at the end of a normal day are getting themselves spruced up for the evening ahead. Listen to their happy voices. You would never guess what they do for a living, how they earn their bread, or how they expect to spend their leisure.
 > 
@@ -27,7 +27,7 @@
 **FANNY:** Dr Wells says I should have a three-month pregnancy substitute.
 **LENINA:** You're only 19.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Let me introduce myself. My name is Helmholtz Watson. I've decided to write an account of what I now see as an irretrievably corrupted humanity. There might be a very slim chance people will return to a healthier way, and maybe that's why it's worth recording this. That's what I tell myself. I don't hold out much hope, but it is a way of perhaps preserving my own sanity just a little longer. Writing gives a reason not just to curl up with an overdose of the current neurotoxin of choice - Soma.
 > 
@@ -44,7 +44,7 @@
 **LENINA:** Not nice.
 **FANNY:** Doesn't bear thinking about.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > All the signs were there, but people didn't want to acknowledge them. Greed bent the post-enlightenment West out of shape. A very few people owned the wealth, and they declared war on the intelligence of the populations of the developed world. America elected an amoral, aggressive gangster to the most powerful job anywhere. He let loose the dogs who turned civilisation into a global cult of numbskull consumerism which would believe any rubbish as long as it justified breakneck consumption of sugar, drugs, and no-strings sex.
 > 
@@ -63,7 +63,7 @@
 **LENINA:** Oh, good.
 **FANNY:** But dignified. That's the best word.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Although it's an everyday thing for us, I imagine you'll be confused. You see, for us now, promiscuity is the rule, not the exception. And there has been a deliberate process of blurring the line which used to separate childhood and sex. Sex is a proven commercial proposition. Childhood doesn't come anywhere near it in terms of profit.
 > 
@@ -73,7 +73,7 @@
 **LENINA:** Belongs to everyone else. I have thought about it. Although I do find Henry a bit tedious, just having any old sex with any old man seems a bit pointless. Better the lover you know sort of thing.
 **FANNY:** Careful who you say that to. You won't exactly make yourself popular.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Of course, you started all this. Relationships require effort. And that kind of stamina got lost in your quick-fix world, where electronic devices enabled everyone to scan their immediate surroundings for the opportunity of a spot of spontaneous, blameless carnality.
 > 
@@ -82,14 +82,14 @@
 **FANNY:** You're not serious.
 **LENINA:** Why not? He's an alpha plus. He's asked me if I want to go on holiday with him to New Mexico. I've always wanted to see the reservations.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I could go on about how your time got scared of global warming and disguised a land grab as a war between freedom and theocracy and how you pasted over the cracks with aggressive sentimentality. But I won't.
 > 
 
 **LENINA:** His face doesn't really fit. People say Bernard actually chooses to spend time on his own.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I'm fond of Bernard. He's bright and sees through the gruesome gaiety of this world. He's the closest thing to a friend that I have. But sadly, I don't think he's got much strength of character.
 > 
@@ -103,7 +103,7 @@
 **LENINA:** You know what, Fanny? You've helped me make up my mind.
 **FANNY:** Well, I'm stumped, but I suppose it's better than sticking with Henry. That really could get you into trouble.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I was an unthinking, career-orientated fellow once, an escalator squash champion who'd had 640 girls in four years. Then the veil fell from my eyes, the niggling sense of wrongness took over. And now I'm a secret dissident who wishes he wasn't but can't help it. There's no mystery left in our brave new world. No chase, no alluring electrical charges skittering over the surface and tremulous, fractured conversations, human to human. No, it's perfunctory and desperately, depressingly, aggressively dull!
 > 
@@ -112,7 +112,7 @@
 **LENINA:** I don't use it much these days. It takes the edge off.
 **FANNY:** Really? I can't imagine having sex without it. I can't imagine anything without it.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > You will by now have realised I'm talking to you from the future. 100 years into the future, as a matter of fact. Yes, and thank you for laying the foundations of the reality I have to live with every day. Yes, thanks a bunch.
 > 
@@ -123,21 +123,21 @@
 **BOY:** Sir, someone said you'd be teaching the electro-aversive therapy module yourself.
 **THE DIRECTOR:** I used to, but not this year.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I am an academic too, but in the College of Emotional Engineering. I do a lot with media and conditioning, and mostly that involves making up stories, or more accurately, fictions, that convince our people they're happy. I know how it all works from the rancid core outwards. Please stay with me as I reveal my world piece by rotten piece. Here is an eminent man giving his students a little tour.
 > 
 
 **THE DIRECTOR:** Please gather around, I don't like shouting. We give some embryos less oxygen. That retards their development. The lower the grade, the less the oxygen. The first organ affected is the brain, after that the skeleton. At 70% of normal oxygen you get dwarfs. At less than 70, eyeless abominations.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Such a smooth voice. It makes the extremity of what he does somehow acceptable. It's the same voice which only has to ask politely, and any of the young women he's training will gladly hop into bed with him. Eugenics was, in your time, a dirty word, something the Nazis did. Now, it's a respectable trade. You may ask, what does the hatchery hatch? The answer is human beings.
 > 
 
 **THE DIRECTOR:** We predestine and condition. We decant our babies as socialised human beings, as alphas or epsilons, as future sewage workers or future directors of hatcheries. [CROWD LAUGHS] Let's move on up to the next floor.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > How many goodly creatures are there here. How beauteous mankind is. A brave new world that has such people in it.
 > 
@@ -146,14 +146,14 @@
 **GIRL:** They thrive on heat.
 **THE DIRECTOR:** And that, in a nutshell, is the secret of happiness. Liking what you've got to do.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Training teachers like me is high risk. They have to be educated to do their job, but they mustn't be educated enough that they start to question how things are done. The tendency towards doubt must be neutralised. If not, the result is self-loathing, anti-social behaviour and ultimately the penal system.
 > 
 
 **THE DIRECTOR:** I can see from the sign this is where we condition the Alpha Plus intellectuals. We need them smart, but thinking along pretty narrow pathways. They must above all else be useful. So we show the Alpha toddlers paintings from the past. The names of novelists in big letters and other artefacts from dead history. While they're taking all that in, we hit them with huge volumes of industrial sound and give them electric shocks through the carpet. They dance and cry like puppets. We do it repeatedly. For them, books and paintings and words become associated with pain. So they grow up safe from unhelpful ideas and ambitions, hating those useless old things all their lives. Hating what the old order called enquiry.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > But it doesn't work in every case. There isn't even the old pretense of democracy any more. If you resist, you risk either being exiled to Iceland or banished to live with feral savages on reserves in America's far-flung places. The real world cloaks itself in a global system of ruthless nannying. Happiness and contentment are in force with the threat of physical violence. The state arranges us according to a biologically determined caste system. Sex is now a compulsory recreation. And the idea that children might be born to a human mother is just appallingly embarrassing. I hate this world. But I'm impotent before its massive, pillow-like ministry.
 > 
@@ -166,14 +166,14 @@
 **GIRL:** Director, I…
 **THE DIRECTOR:** No more questions, I'm afraid. We're on the clock now. 150 years after Ford's first Model T went on sale, the principle of sleep teaching was discovered. We play children's lessons quietly into their ears, night after night, from small communication devices. Elementary class consciousness and elementary sex form the bedrock of teaching the under-8s, elementary dislike of other castes and an elementary desire to have sex with as many partners as time and opportunity will allow. Sexualising of the child while also making sure there's no impulse to reproduce. Those are the great victories of our time.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > The only relief from torment comes in the few seconds after I've woken up in the morning. That's the pause between the dull ache of knowing something is wrong and the full-blown realisation of the truth - that the world is intellectually dead.
 > 
 
-**THE DIRECTOR:** We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women's previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby crawling about in their insolence… [CROWD GROANS] And we've all been relieved of the horror of growing up in a home with a… [SPEAKING DELIBERATELY IN A LOW VOICE] FAMILY. [CROWD LAUGHS] I imagine it was terrifying.
+**THE DIRECTOR:** We thought sleep teaching could be used to make intellectuals, but we found it more useful as a way to inculcate the absolutes that determine rather than caress the mind. Ford was right. History is bunk. Thebes and Babylon, Knossos and Mycenae, Odysseus, Job, Jupiter and Jesus, Athens, Rome and Jerusalem, the cathedrals, King Lear and the thoughts of Pascal, Passion, Requiem and Symphony, all bunk and now all gone. We are free, released, and that includes women's previous enslavement to pregnancy. Oh yes, women no longer have to suffer the horror of having a live baby crawling about in their insolence… [CROWD GROANS] And we've all been relieved of the horror of growing up in a home with a… [SPEAKS DELIBERATELY IN A LOW VOICE] FAMILY. [CROWD LAUGHS] I imagine it was terrifying.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > The public mind is cauterised by reverse morality. Friendship, love, simplicity, they're all drowned by enforced promiscuity, sensual and intellectual, self-love, materialism, fear of ageing, fear of wisdom.
 > 
@@ -250,7 +250,7 @@
 **LENINA:** He just doesn't like lateness. Says it's rude. Well, let me know about the dates in good time, won't you, Bernard?
 [LENINA LEAVES]
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > My era takes no account of the price the planet pays for consumption. A small helicopter carves the heart out of the earth to make and run it. I don't own one. Many do. Titanium gouged from the Far Eastern landscape. Aviation fuel sucked from seabeds laid waste. Atmospheric warming, raising sea levels so whole island communities just vanish.
 > 
@@ -275,7 +275,7 @@
 **BERNARD:** I asked my cocktail to be out of the hangar and ready by seven o'clock. What's going on?
 **HELIPORT MAN:** Sorry, Mr Marx, it's these Bokanovskys. Much worse than Epsilon's. I have to take what's quoted. Seven identicals. Small, black and hideous. As thick as two short planks. You tell them something and they forget before the words are out of your mouth.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > In your time, you very nearly achieved a situation where skin colour didn't matter. But the wars and the migrations came, enemies were dehumanised through racial stereotypes, and the hatcheries shrunk brains accordingly.
 > 
@@ -290,7 +290,7 @@
 **BERNARD:** My friend Helmholtz Watson. He's an alpha plus and he lectures in the Department of Writing at the College of Emotional Engineering.
 **HELIPORT MAN:** Helm… Holtz?
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > It used to be only Americans who suffered from the poor spelling of semi-literate officials, meeting them at Ellis Island and scrawling approximations of their names. Now the whole world has to put up with the gaffes of petty low-caste officialdom.
 > 
@@ -479,7 +479,7 @@ Toe the line. Keep your head down. The academia's now a byword for brown-nosing 
 **LENINA:** Please don't be angry, but I'm not really coping. Can we go home now?
 **BERNARD:** [SIGHS] All right, then. We'll go back.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I've always had a bad feeling about Bernard. He's quite frail. Tends to jump at things without considering the consequences. I worry that he misreads me. I've got used to keeping a part of me sacred. The part that knows this world is a pale shadow of what it should be. And that they did things better in the past. I've learned not to take hold of the rope with which I might be permitted to hang myself. Bernard is an idealist. And an idealist is just one notch away from a martyr. Anyway, Bernard returned to London and took Lenina to his apartment. He was in a strange mood. Hysterical. Chugging down Soma like it was sweeties.
 > 
@@ -505,7 +505,7 @@ Toe the line. Keep your head down. The academia's now a byword for brown-nosing 
 **LENINA:** We're taught romance is degenerate. All the same, Bernard, I do like you. You have nice hands. I just wish you weren't so odd. Now, come on. I'll take the lead, if you like.
 **BERNARD:** I'm in your hands.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > Bernard kept his word. A week later, he and Lenina rocketed across the Atlantic Ocean and were soon exploring a huge, utterly tasteless room in a New Mexico mid-range casino hotel, all mustard-coloured plastic and brown Hessian walls.
 > 
@@ -599,7 +599,7 @@ Toe the line. Keep your head down. The academia's now a byword for brown-nosing 
 **BERNARD:** They're feeding their babies from their breasts. It looks like a wonderfully intimate relationship, doesn't it? I think we miss out on not having mothers. And perhaps you'll miss out as well by not being a mother, Lenina.
 **LENINA:** Yuck. Please, Bernard. I'd rather you didn't swear like that. You know, the M word.
 
-**MONOLOGUE BY HELMHOLTZ:**
+**HELMHOLTZ (V.O.)**
 
 > I confess I was jealous when I heard the details of their trip. I've not been to the reservations. I've not seen the savages first hand. It's a regret. I would love to have been exposed to that decrepitude, the smells, the way other lives can be led. Bernard has his fascination with science, but I would really have liked to have watched Lenina's face, watched those layers of crudeness being peeled back.
 > 
