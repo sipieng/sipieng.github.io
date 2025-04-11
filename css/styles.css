@@ -71,15 +71,18 @@ main {
     font-weight: 700;
     color: #1a365d;
     margin: 0;
-    font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "liga" 1, "calt" 1;
     flex: 1;
 }
 /* Reset markdown styles */
 .prose {
-    font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "liga" 1, "calt" 1;
 }
 .prose h1, .prose h2, .prose h3, .prose h4 {
-    font-family: 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Fira Code', 'Source Serif Pro', Georgia, 'Times New Roman', Times, serif;
+    font-feature-settings: "liga" 1, "calt" 1;
     color: #1a365d;
 }
 /* Mobile menu button */
